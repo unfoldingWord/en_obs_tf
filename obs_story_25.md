@@ -51,49 +51,49 @@ Jesus endured all manner of temptation without ever sinning.
 
 ##### 25-01
 
-![](..\assets\images\image306.jpeg)
+![](.\assets\images\image306.jpeg)
 
 Immediately after Jesus was baptized, the Holy Spirit led him out into the wilderness. Jesus was there for 40 days and 40 nights. During that time he fasted, and Satan came to Jesus and tempted him to sin.
 
 ##### 25-02
 
-![](..\assets\images\image307.jpeg)
+![](.\assets\images\image307.jpeg)
 
 First, Satan said to Jesus, “If you are the Son of God, turn these rocks into bread so you can eat!”
 
 ##### 25-03
 
-![](..\assets\images\image308.jpeg)
+![](.\assets\images\image308.jpeg)
 
 But Jesus said to Satan, “It is written in God’s word, ‘People do not only need bread in order to live, but they need everything that God tells them!’”
 
 ##### 25-04
 
-![](..\assets\images\image309.jpeg)
+![](.\assets\images\image309.jpeg)
 
 Then Satan took Jesus to the highest point on the Temple. He said to him, “If you are the Son of God, jump off to the ground, because it is written, ‘God will command his angels to carry you so your foot does not hit a stone.’”
 
 ##### 25-05
 
-![](..\assets\images\image310.jpeg)
+![](.\assets\images\image310.jpeg)
 
 But Jesus did not do what Satan asked him to do. Instead, he said, “God tells everyone, ‘Do not test the Lord your God.’”
 
 ##### 25-06
 
-![](..\assets\images\image311.jpeg)
+![](.\assets\images\image311.jpeg)
 
 Then Satan showed Jesus all the kingdoms of the world. He showed him how powerful they were, and how wealthy they were. He said to Jesus, “I will give you all this if you bow down and worship me.”
 
 ##### 25-07
 
-![](..\assets\images\image312.jpeg)
+![](.\assets\images\image312.jpeg)
 
 Jesus replied, “Get away from me, Satan! In God’s word he commands his people, ‘Worship only the Lord your God. Honor only him as God.’”
 
 ##### 25-08
 
-![](..\assets\images\image313.jpeg)
+![](.\assets\images\image313.jpeg)
 
 Jesus did not give in to Satan’s temptations, so Satan left him. Then angels came and took care of Jesus.
 

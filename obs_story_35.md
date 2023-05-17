@@ -56,79 +56,79 @@ He proclaimed to people the nature of real faith, God’s kingdom, and the how f
 
 ##### 35-01
 
-![](..\assets\images\image406.jpeg)
+![](.\assets\images\image406.jpeg)
 
 One day, Jesus was teaching many people who had gathered to hear him. These people were tax collectors and also other people who did not try to obey the Law of Moses.
 
 ##### 35-02
 
-![](..\assets\images\image407.jpeg)
+![](.\assets\images\image407.jpeg)
 
 Some religious leaders saw Jesus talking to these people as friends. So they began to tell each other that he was doing wrong. Jesus heard them talk, so he told them this story.
 
 ##### 35-03
 
-![](..\assets\images\image408.jpeg)
+![](.\assets\images\image408.jpeg)
 
 “There was a man who had two sons. The younger son told his father, ‘Father, I want my inheritance now!’ So the father divided his property between his two sons.”
 
 ##### 35-04
 
-![](..\assets\images\image409.jpeg)
+![](.\assets\images\image409.jpeg)
 
 “Soon the younger son gathered all that he had and went far away and wasted his money in sinful living.”
 
 ##### 35-05
 
-![](..\assets\images\image410.jpeg)
+![](.\assets\images\image410.jpeg)
 
 “After that, a severe famine occurred in the land where the younger son was, and he had no money to buy food. So he took the only job he could find, feeding pigs. He was so miserable and hungry that he wanted to eat the pigs’ food.”
 
 ##### 35-06
 
-![](..\assets\images\image411.jpeg)
+![](.\assets\images\image411.jpeg)
 
 “Finally, the younger son said to himself, ‘What am I doing? All my father’s servants have plenty to eat, and yet here I am starving. I will go back to my father and ask to be one of his servants.’”
 
 ##### 35-07
 
-![](..\assets\images\image412.jpeg)
+![](.\assets\images\image412.jpeg)
 
 “So the younger son started back towards his father’s home. When he was still far away, his father saw him and felt compassion for him. He ran to his son and hugged him and kissed him.”
 
 ##### 35-08
 
-![](..\assets\images\image413.jpeg)
+![](.\assets\images\image413.jpeg)
 
 “The son said, ‘Father, I have sinned against God and against you. I am not worthy to be your son.’”
 
 ##### 35-09
 
-![](..\assets\images\image414.jpeg)
+![](.\assets\images\image414.jpeg)
 
 “But his father told one of his servants, ‘Go quickly and bring the best clothes and put them on my son! Put a ring on his finger and put sandals on his feet. Then kill the best calf so we can have a feast and celebrate, because my son was dead, but now he is alive! He was lost, but now we have found him!’”
 
 ##### 35-10
 
-![](..\assets\images\image415.jpeg)
+![](.\assets\images\image415.jpeg)
 
 “So the people began to celebrate. Before long, the older son came home from working in the field. He heard the music and dancing and wondered what was happening.”
 
 ##### 35-11
 
-![](..\assets\images\image416.jpeg)
+![](.\assets\images\image416.jpeg)
 
 “When the older son found out that they were celebrating because his brother had come home, he was very angry and would not go into the house. His father came out and begged him to come and celebrate with them, but he refused.”
 
 ##### 35-12
 
-![](..\assets\images\image417.jpeg)
+![](.\assets\images\image417.jpeg)
 
 “The older son said to his father, ‘All these years I have worked faithfully for you! I never disobeyed you, and still you did not give me even one small goat so I could celebrate with my friends. But this son of yours has wasted your money doing sinful things. When he came home, you killed the best calf to celebrate!’”
 
 ##### 35-13
 
-![](..\assets\images\image418.jpeg)
+![](.\assets\images\image418.jpeg)
 
 “The father answered, ‘My son, you are always with me, and everything I have is yours. But it is right for us to celebrate because your brother was dead, but now is alive. He was lost, but now we have found him!’”
 

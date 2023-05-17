@@ -44,85 +44,85 @@ God formed Israel into a kingdom. He made a covenant with King David and promise
 
 ##### 17-01
 
-![](..\assets\images\image207.jpeg)
+![](.\assets\images\image207.jpeg)
 
 Saul was the first king of Israel. He was tall and handsome, just like the people wanted. Saul was a good king for the first few years that he ruled over Israel. But then he became a wicked man who did not obey God, so God chose a different man who would one day be king in his place.
 
 ##### 17-02
 
-![](..\assets\images\image208.jpeg)
+![](.\assets\images\image208.jpeg)
 
 God chose a young Israelite named David and began to prepare him to one day become king after Saul. David was a shepherd from the town of Bethlehem. At different times, David killed both a lion and a bear that attacked his father’s sheep while David was watching them. David was a humble and righteous man. He trusted and obeyed God.
 
 ##### 17-03
 
-![](..\assets\images\image209.jpeg)
+![](.\assets\images\image209.jpeg)
 
 When David was still a young man, he fought against a giant named Goliath. Goliath was a very good soldier. He was very strong and about three meters tall! But God helped David kill Goliath and save Israel. After that, David won many victories over Israel’s enemies. David became a great soldier, and he led Israel’s army in many battles. The people praised him very much.
 
 ##### 17-04
 
-![](..\assets\images\image210.jpeg)
+![](.\assets\images\image210.jpeg)
 
 The people loved David so much that King Saul became jealous of him. Finally Saul wanted to kill him, so David ran away into the wilderness to hide from him and his soldiers. One day when Saul and his soldiers were looking for him, Saul went into a cave. It was the same cave that David was hiding in, but Saul did not see him. David went up very close behind Saul and cut off a piece of his clothing. Later, after Saul left the cave, David shouted to him to look at the cloth he was holding. In this way, Saul knew that David refused to kill him to become king.
 
 ##### 17-05
 
-![](..\assets\images\image211.jpeg)
+![](.\assets\images\image211.jpeg)
 
 Some time later, Saul died in battle, and David became king of Israel. He was a good king, and the people loved him. God blessed David and made him successful. David fought many battles, and God helped him defeat Israel’s enemies. David conquered the city of Jerusalem and made it his capital city, where he lived and ruled. David was king for 40 years. During this time, Israel became powerful and wealthy.
 
 ##### 17-06
 
-![](..\assets\images\image212.jpeg)
+![](.\assets\images\image212.jpeg)
 
 David wanted to build a temple where all the Israelites could worship God and offer him sacrifices. For about 400 years, the people had been worshiping God and offering sacrifices to him at the Tent of Meeting that Moses had made.
 
 ##### 17-07
 
-![](..\assets\images\image213.jpeg)
+![](.\assets\images\image213.jpeg)
 
 But there was a prophet named Nathan. God sent him to tell David this: “You have fought in many wars, so you will not build this Temple for me. Your son will build it. But still, I will greatly bless you. One of your descendants will rule as king over my people forever!” The only descendant of David who could rule forever was the Messiah. The Messiah was God’s Chosen One who would save the people of the world from their sin.
 
 ##### 17-08
 
-![](..\assets\images\image214.jpeg)
+![](.\assets\images\image214.jpeg)
 
 When David heard Nathan’s message, he thanked God and praised him. God was honoring him and giving him many blessings. Of course, David did not know when God would do these things. We know now that the Israelites would have to wait a long time before the Messiah came, almost 1,000 years.
 
 ##### 17-09
 
-![](..\assets\images\image215.jpeg)
+![](.\assets\images\image215.jpeg)
 
 David ruled his people justly for many years. He obeyed God faithfully, and God blessed him. However, in his later years, he sinned greatly against God.
 
 ##### 17-10
 
-![](..\assets\images\image216.jpeg)
+![](.\assets\images\image216.jpeg)
 
 One day, David looked out from his palace and saw a beautiful woman bathing. He did not know her, but he found out that her name was Bathsheba.
 
 ##### 17-11
 
-![](..\assets\images\image217.jpeg)
+![](.\assets\images\image217.jpeg)
 
 Instead of looking away, David sent someone to bring her to him. He slept with her and sent her back home. A short time later, Bathsheba sent a message to David saying that she was pregnant.
 
 ##### 17-12
 
-![](..\assets\images\image218.jpeg)
+![](.\assets\images\image218.jpeg)
 
 Bathsheba’s husband was a man named Uriah. He was one of David’s best soldiers. He was away fighting in a war at this time. David called Uriah back from the battle and told him to go be with his wife. But Uriah refused to go home while the rest of the soldiers were in battle. So David sent Uriah back to the battle and told the general to place him where the enemy was strongest so that he would be killed. This is what happened: Uriah died in battle.
 
 ##### 17-13
 
-![](..\assets\images\image219.jpeg)
+![](.\assets\images\image219.jpeg)
 
 After Uriah died in the war, David married Bathsheba. Later, she gave birth to David’s son. God was very angry about what David had done, so he sent the prophet Nathan to tell David how evil his sin was. David repented of his sin and God forgave him. For the rest of his life, David followed and obeyed God, even in difficult times.
 
 ##### 17-14
 
-![](..\assets\images\image220.jpeg)
+![](.\assets\images\image220.jpeg)
 
 But David’s baby boy died. This is how God punished David. Also, until David died, some members of his own family rebelled against him, and David lost much power. But God was faithful and still did what he had promised David he would do for him, even though David had disobeyed him. Later, David and Bathsheba had another son, and they named him Solomon.
 

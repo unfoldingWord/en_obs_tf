@@ -45,79 +45,79 @@ Many of Israel’s kings were evil and the kingdom of Israel divided into two ki
 
 ##### 18-01
 
-![](..\assets\images\image221.jpeg)
+![](.\assets\images\image221.jpeg)
 
 King David ruled for 40 years. Then he died, and his son Solomon began to rule over Israel. God spoke to Solomon and asked him what he wanted most that God should do for him. Solomon asked that God would make him very wise. This pleased God, so he made Solomon the wisest man in the world. Solomon learned many things and was a very wise ruler. God also made him very wealthy.
 
 ##### 18-02
 
-![](..\assets\images\image222.jpeg)
+![](.\assets\images\image222.jpeg)
 
 In Jerusalem, Solomon built the Temple for which his father, David, had planned and gathered materials. People now worshiped God and offered sacrifices to him at the Temple instead of at the Tent of Meeting. God came and was present in the Temple, and he lived there with his people.
 
 ##### 18-03
 
-![](..\assets\images\image223.jpeg)
+![](.\assets\images\image223.jpeg)
 
 But Solomon loved women from other countries. He disobeyed God by marrying many women, almost 1,000 of them! Many of these women came from foreign countries and brought their gods with them and continued to worship them. When Solomon was old, he also worshiped their gods.
 
 ##### 18-04
 
-![](..\assets\images\image224.jpeg)
+![](.\assets\images\image224.jpeg)
 
 God was angry with Solomon because of this. He said that he would punish him by dividing the nation of Israel into two kingdoms. He would do this after Solomon died.
 
 ##### 18-05
 
-![](..\assets\images\image225.jpeg)
+![](.\assets\images\image225.jpeg)
 
 After Solomon died, his son Rehoboam became king. All the people of the nation of Israel came together to accept him as their king. They complained to Rehoboam that Solomon had made them do a lot of hard work and pay a lot of taxes. They asked Rehoboam to make them work less.
 
 ##### 18-06
 
-![](..\assets\images\image226.jpeg)
+![](.\assets\images\image226.jpeg)
 
 But Rehoboam answered them in a very foolish way. He said, “You say that my father, Solomon, made you work hard. But I will make you work harder than he did, and I will make you suffer worse than he did.”
 
 ##### 18-07
 
-![](..\assets\images\image227.jpeg)
+![](.\assets\images\image227.jpeg)
 
 When the people heard him say this, most of them rebelled against him. Ten tribes left him; only two tribes remained with him. These two tribes called themselves the kingdom of Judah.
 
 ##### 18-08
 
-![](..\assets\images\image228.jpeg)
+![](.\assets\images\image228.jpeg)
 
 The other ten tribes made a man named Jeroboam to be their king. These tribes were in the northern part of the land. They called themselves the kingdom of Israel.
 
 ##### 18-09
 
-![](..\assets\images\image229.jpeg)
+![](.\assets\images\image229.jpeg)
 
 Jeroboam rebelled against God and caused the people to sin. He built two idols for his people to worship. They no longer went to Jerusalem in the kingdom of Judah to worship God at the Temple.
 
 ##### 18-10
 
-![](..\assets\images\image230.jpeg)
+![](.\assets\images\image230.jpeg)
 
 The kingdoms of Judah and Israel became enemies and often fought against each other.
 
 ##### 18-11
 
-![](..\assets\images\image231.jpeg)
+![](.\assets\images\image231.jpeg)
 
 In the new kingdom of Israel, all the kings were evil. Many of these kings were killed by other Israelites who wanted to become king in their place.
 
 ##### 18-12
 
-![](..\assets\images\image232.jpeg)
+![](.\assets\images\image232.jpeg)
 
 All of the kings and most of the people of the kingdom of Israel worshiped idols. When they did this, they often slept with prostitutes and sometimes even sacrificed children to the idols.
 
 ##### 18-13
 
-![](..\assets\images\image233.jpeg)
+![](.\assets\images\image233.jpeg)
 
 The kings of Judah were descendants of David. Some of these kings were good men who ruled justly and worshiped God. But most of Judah’s kings were evil. They ruled badly, and they worshiped idols. Some of these kings even sacrificed their children to false gods. Most of the people of Judah also rebelled against God and worshiped other gods.
 
