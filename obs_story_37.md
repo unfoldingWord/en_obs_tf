@@ -58,67 +58,67 @@ and raised a dead man to life
 
 ##### 37-01
 
-![](\en_obs_tf\assets\images\image426.jpeg)
+![](..\assets\images\image426.jpeg)
 
 There was a man named Lazarus. He had two sisters named Mary and Martha. They were all close friends of Jesus. One day someone told Jesus that Lazarus was very sick. When Jesus heard this, he said, “This sickness will not end with Lazarus dying. Instead, it will cause people to honor God.”
 
 ##### 37-02
 
-![](\en_obs_tf\assets\images\image427.jpeg)
+![](..\assets\images\image427.jpeg)
 
 Jesus loved his friends, but he waited where he was for two days. After those two days he said to his disciples, “Let’s go back to Judea.” “But Teacher,” the disciples answered, “just a short time ago the people there wanted to kill you!” Jesus said, “Our friend Lazarus has fallen asleep, and I must wake him.”
 
 ##### 37-03
 
-![](\en_obs_tf\assets\images\image428.jpeg)
+![](..\assets\images\image428.jpeg)
 
 Jesus’ disciples replied, “Master, if Lazarus is sleeping, then he will get better.” Then Jesus told them plainly, “Lazarus is dead. I am glad that I was not there, so that you may believe in me.”
 
 ##### 37-04
 
-![](\en_obs_tf\assets\images\image429.jpeg)
+![](..\assets\images\image429.jpeg)
 
 When Jesus arrived at Lazarus’ hometown, Lazarus had already been dead for four days. Martha went out to meet Jesus and said, “Master, if only you had been here, my brother would not have died. But I believe God will give you whatever you ask from him.”
 
 ##### 37-05
 
-![](\en_obs_tf\assets\images\image430.jpeg)
+![](..\assets\images\image430.jpeg)
 
 Jesus replied, “I am the Resurrection and the Life. Whoever believes in me will live, even though he dies. Everyone who believes in me will never die. Do you believe this?” Martha answered, “Yes, Master! I believe you are the Messiah, the Son of God.”
 
 ##### 37-06
 
-![](\en_obs_tf\assets\images\image431.jpeg)
+![](..\assets\images\image431.jpeg)
 
 Then Mary arrived. She fell at the feet of Jesus and said, “Master, if only you had been here, my brother would not have died.” Jesus asked them, “Where have you put Lazarus?” They told him, “In the tomb. Come and see.” Then Jesus wept.
 
 ##### 37-07
 
-![](\en_obs_tf\assets\images\image432.jpeg)
+![](..\assets\images\image432.jpeg)
 
 The tomb was a cave with a stone rolled in front of its opening. When Jesus arrived at the tomb, he told them, “Roll the stone away.” But Martha said, “He has been dead for four days. There will be a bad smell.”
 
 ##### 37-08
 
-![](\en_obs_tf\assets\images\image433.jpeg)
+![](..\assets\images\image433.jpeg)
 
 Jesus answered, “Did I not tell you that you would see God’s power if you believe in me?” So they rolled the stone away.
 
 ##### 37-09
 
-![](\en_obs_tf\assets\images\image434.jpeg)
+![](..\assets\images\image434.jpeg)
 
 Then Jesus looked up to heaven and said, “Father, thank you for hearing me. I know you always listen to me, but I say this in order to help all these people standing here, so that they will believe you sent me.” Then Jesus shouted, “Lazarus, come out!”
 
 ##### 37-10
 
-![](\en_obs_tf\assets\images\image435.jpeg)
+![](..\assets\images\image435.jpeg)
 
 So Lazarus came out! He was still wrapped in grave clothes. Jesus told them, “Help him take off those grave clothes and release him!” Many of the Jews believed in Jesus because of this miracle.
 
 ##### 37-11
 
-![](\en_obs_tf\assets\images\image436.jpeg)
+![](..\assets\images\image436.jpeg)
 
 But the religious leaders of the Jews envied Jesus, so they gathered together to plan how they could kill Jesus and Lazarus.
 

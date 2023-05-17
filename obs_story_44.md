@@ -63,55 +63,55 @@ Jesus’ disciples, like Peter and John, performed miracles and preached the goo
 
 ##### 44-01
 
-![](\en_obs_tf\assets\images\image505.jpeg)
+![](..\assets\images\image505.jpeg)
 
 One day Peter and John went to the Temple. A crippled man was sitting at the gate, begging for money.
 
 ##### 44-02
 
-![](\en_obs_tf\assets\images\image506.jpeg)
+![](..\assets\images\image506.jpeg)
 
 Peter looked at the lame man and said, “I do not have any money to give you. But I will give you what I do have. In the name of Jesus, get up and walk!”
 
 ##### 44-03
 
-![](\en_obs_tf\assets\images\image507.jpeg)
+![](..\assets\images\image507.jpeg)
 
 Immediately, God healed the lame man. He began to walk and jump around, and to praise God. The people in the courtyard of the Temple were amazed.
 
 ##### 44-04
 
-![](\en_obs_tf\assets\images\image508.jpeg)
+![](..\assets\images\image508.jpeg)
 
 A crowd of people quickly came to see the man who was healed. Peter said to them, “This man is well, but do not be amazed at this. We did not heal him with our own power,or because we honor God. Rather, it is Jesus who healed this man with his power, because we believe in Jesus.”
 
 ##### 44-05
 
-![](\en_obs_tf\assets\images\image509.jpeg)
+![](..\assets\images\image509.jpeg)
 
 “You are the ones who told the Roman governor to kill Jesus. You killed the one who gives life to everybody. But God raised him from the dead. You did not understand what you were doing, but when you did those things, what the prophets said came true. They said that the Messiah would suffer and die. God made it happen in this way. So now, repent and turn to God, so that he will wash away your sins.”
 
 ##### 44-06
 
-![](\en_obs_tf\assets\images\image510.jpeg)
+![](..\assets\images\image510.jpeg)
 
 When the leaders of the Temple heard Peter and John, they were very upset. So they arrested them and put them into prison. But many people believed what Peter said. The number of men who believed in Jesus grew to about 5,000.
 
 ##### 44-07
 
-![](\en_obs_tf\assets\images\image511.jpeg)
+![](..\assets\images\image511.jpeg)
 
 The next day the Jewish leaders brought Peter and John to the high priest and the other religious leaders. They also brought the man who had been crippled. They asked Peter and John, “By what power did you heal this crippled man?”
 
 ##### 44-08
 
-![](\en_obs_tf\assets\images\image512.jpeg)
+![](..\assets\images\image512.jpeg)
 
 Peter answered them, “This man standing before you has been healed by the power of Jesus the Messiah. You crucified Jesus, but God raised him to life again! You rejected him, but there is no other way to be saved except through the power of Jesus!”
 
 ##### 44-09
 
-![](\en_obs_tf\assets\images\image513.jpeg)
+![](..\assets\images\image513.jpeg)
 
 The leaders were shocked that Peter and John spoke so boldly. They saw that these men were ordinary men who were uneducated. But then they remembered that these men had been with Jesus. So they said to them, “We will punish you very much if you give any more messages to the people about this man Jesus.” After saying many things like this, they let Peter and John go.
 
