@@ -1,3 +1,9 @@
+---
+title: Open Bible Stories
+subtitle: The Birth of John
+layout: obs_story
+---
+
 ## Introduction
 
 ### Key Idea
@@ -41,45 +47,45 @@ After many years, the prophet John was born. He would prepare people for the com
 
 ### Open Bible Story: The Birth of John
 
-######### 22-01
+##### 22-01
 
-![](\images\image280.jpeg)
+![](\en_obs_tf\images\image280.jpeg)
 
 In the past, God had spoken to his prophets so they could speak to his people. Then came 400 years of silence in which he did not speak to men. Then God sent an angel to a priest named Zechariah. Zechariah and his wife, Elizabeth, honored God. They were very old, and she had never born any children.
 
-######### 22-02
+##### 22-02
 
-![](\images\image281.jpeg)
+![](\en_obs_tf\images\image281.jpeg)
 
 The angel said to Zechariah, “Your wife will have a son. You will name him John. God will fill him with the Holy Spirit, and John will get the people ready to accept the Messiah!” Zechariah responded, “My wife and I are too old to have children! How can I know you are telling me the truth?”
 
-######### 22-03
+##### 22-03
 
-![](\images\image282.jpeg)
+![](\en_obs_tf\images\image282.jpeg)
 
 The angel responded to Zechariah, “I was sent by God to bring you this good news. Because you did not believe me, you will not be able to speak until the child is born.” Immediately, Zechariah was unable to speak. Then the angel left Zechariah. After this, Zechariah returned home and his wife became pregnant.
 
-######### 22-04
+##### 22-04
 
-![](\images\image283.jpeg)
+![](\en_obs_tf\images\image283.jpeg)
 
 When Elizabeth was six months pregnant, the same angel suddenly appeared to Elizabeth’s relative, whose name was Mary. She was a virgin and was engaged to be married to a man named Joseph. The angel said, “You will become pregnant and give birth to a son. You are to name him Jesus. He will be the Son of the Most High God and will rule forever.”
 
-######### 22-05
+##### 22-05
 
-![](\images\image284.jpeg)
+![](\en_obs_tf\images\image284.jpeg)
 
 Mary replied, “How can this be, since I am a virgin?” The angel explained, “The Holy Spirit will come to you, and the power of God will come to you. So the baby will be holy, and he will be the Son of God.” Mary believed what the angel said.
 
-######### 22-06
+##### 22-06
 
-![](\images\image285.jpeg)
+![](\en_obs_tf\images\image285.jpeg)
 
 Soon after this happened, Mary went and visited Elizabeth. As soon as Mary greeted her, Elizabeth’s baby jumped inside her. The women rejoiced together about what God had done for them. After Mary visited Elizabeth for three months, Mary returned home.
 
-######### 22-07
+##### 22-07
 
-![](\images\image286.jpeg)
+![](\en_obs_tf\images\image286.jpeg)
 
 After this, Elizabeth gave birth to her baby boy. Zechariah and Elizabeth named the baby John, as the angel had commanded. Then God made Zechariah able to speak again. Zechariah said, “Praise God, because he has remembered to help his people! You, my son, will be the prophet of the Most High God. You will tell the people how they can receive forgiveness for their sins!”
 

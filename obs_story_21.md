@@ -1,3 +1,9 @@
+---
+title: Open Bible Stories
+subtitle: God Promises the Messiah
+layout: obs_story
+---
+
 ## Introduction
 
 ### Key Idea
@@ -40,91 +46,91 @@ Throughout the Old Testament, God promised to send his Messiah to deliver his pe
 
 ### Open Bible Story: God Promises the Messiah
 
-######### 21-01
+##### 21-01
 
-![](\images\image265.jpeg)
+![](\en_obs_tf\images\image265.jpeg)
 
 Even when God created the world, he knew that he would send the Messiah at some time far later. He promised Adam and Eve that he would do this. He said that a descendant of Eve would be born who would crush the snake’s head. Of course, Satan appeared as a snake in order to deceive Eve. God meant that the Messiah would defeat Satan completely.
 
-######### 21-02
+##### 21-02
 
-![](\images\image266.jpeg)
+![](\en_obs_tf\images\image266.jpeg)
 
 God promised Abraham that through him all people groups of the world would receive a blessing. God would fulfill this promise by sending the Messiah at some later time. The Messiah would save people from their sin out of every people group in the world.
 
-######### 21-03
+##### 21-03
 
-![](\images\image267.jpeg)
+![](\en_obs_tf\images\image267.jpeg)
 
 God promised Moses that in the future he would send another prophet like Moses. This prophet would be the Messiah. In this way, God promised again that he would send the Messiah.
 
-######### 21-04
+##### 21-04
 
-![](\images\image268.jpeg)
+![](\en_obs_tf\images\image268.jpeg)
 
 God promised King David that one of his own descendants would be the Messiah. He would be king and rule over God’s people forever.
 
-######### 21-05
+##### 21-05
 
-![](\images\image269.jpeg)
+![](\en_obs_tf\images\image269.jpeg)
 
 God spoke to the prophet Jeremiah and told him that he would make a New Covenant one day. The New Covenant would not be like the old covenant God made with Israel at Sinai. When he would make his New Covenant with people, he would make them to know him personally. Each person would love him and want to obey his laws. God said this would be like writing his law on their hearts. They would be his people, and God would forgive their sins. It is the Messiah who would make the New Covenant with them.
 
-######### 21-06
+##### 21-06
 
-![](\images\image270.jpeg)
+![](\en_obs_tf\images\image270.jpeg)
 
 God’s prophets also said that the Messiah would be a prophet, a priest, and a king. A prophet is a person who hears the words of God and then proclaims God’s messages to the people. The Messiah that God promised to send would be the perfect prophet. That is, the Messiah would hear God’s messages perfectly, he would understand them perfectly, and he would teach them to people perfectly.
 
-######### 21-07
+##### 21-07
 
-![](\images\image271.jpeg)
+![](\en_obs_tf\images\image271.jpeg)
 
 Israelite priests kept on making sacrifices to God for the people. These sacrifices were in place of God punishing the people for their sins. Priests also prayed to God for the people. However, the Messiah would be the perfect high priest who would offer himself as a perfect sacrifice to God. That is, he would never sin, and when he would give himself to be the sacrifice, no other sacrifice for sin would ever be necessary.
 
-######### 21-08
+##### 21-08
 
-![](\images\image272.jpeg)
+![](\en_obs_tf\images\image272.jpeg)
 
 Kings and chiefs rule over groups of people, and sometimes they make mistakes. King David ruled over only the Israelites. But the Messiah, a descendant of David’s, will rule over the whole world, and he will rule forever. Also, he will always rule justly and make the right decisions.
 
-######### 21-09
+##### 21-09
 
-![](\images\image273.jpeg)
+![](\en_obs_tf\images\image273.jpeg)
 
 God’s prophets said many other things about the Messiah. For example, Malachi said that another prophet would come before the Messiah came. That prophet would be very important. Also, the prophet Isaiah wrote that the Messiah would be born of a virgin. And the prophet Micah said that the Messiah would be born in the town of Bethlehem.
 
-######### 21-10
+##### 21-10
 
-![](\images\image274.jpeg)
+![](\en_obs_tf\images\image274.jpeg)
 
 The prophet Isaiah said the Messiah would live in the region of Galilee. The Messiah would comfort people who were very sad. He would also set prisoners free. The Messiah would also heal sick people and those who could not hear, see, speak, or walk.
 
-######### 21-11
+##### 21-11
 
-![](\images\image275.jpeg)
+![](\en_obs_tf\images\image275.jpeg)
 
 The prophet Isaiah also said that people would hate the Messiah and refuse to accept him. Other prophets said that a friend of the Messiah would turn against him. The prophet Zechariah said that this friend would receive 30 silver coins from other people for doing this. Also, some prophets said that people would kill the Messiah, and that they would gamble for his clothes.
 
-######### 21-12
+##### 21-12
 
-![](\images\image276.jpeg)
+![](\en_obs_tf\images\image276.jpeg)
 
 The prophets also told about how the Messiah would die. Isaiah prophesied that people would spit on, mock, and beat the Messiah. They would pierce him, and he would die in great suffering and agony, even though he had not done anything wrong.
 
-######### 21-13
+##### 21-13
 
-![](\images\image277.jpeg)
+![](\en_obs_tf\images\image277.jpeg)
 
 The prophets also said that the Messiah would not sin. He would be perfect. But he would die because God would punish him for other people’s sins. When he died, people would be able to have peace with God. This is why, in God’s plan, the Messiah had to die.
 
-![](\images\image278.jpeg)
+![](\en_obs_tf\images\image278.jpeg)
 
 The prophets also said that God would raise the Messiah from the dead. This shows that Jesus’ death and resurrection was all God’s plan to make the New Covenant, so he could save people who had sinned against him.
 
-######### 21-14
+##### 21-14
 
-![](\images\image279.jpeg)
+![](\en_obs_tf\images\image279.jpeg)
 
 God revealed to the prophets many things about the Messiah, but the Messiah did not come during the time of any of those prophets. More than 400 years after the last of these prophecies was given, at exactly the right time, God sent the Messiah into the world.
 

@@ -1,3 +1,9 @@
+---
+title: Open Bible Stories
+subtitle: Jesus Is Betrayed
+layout: obs_story
+---
+
 ## Introduction
 
 ### Key Idea
@@ -50,93 +56,93 @@ Jesus was betrayed by one of his disciples
 
 ### Open Bible Story: Jesus Is Betrayed
 
-######### 38-01
+##### 38-01
 
-![](\images\image437.jpeg)
+![](\en_obs_tf\images\image437.jpeg)
 
 Every year, the Jews celebrated the Passover. This was a celebration of how God had saved their ancestors from slavery in Egypt many centuries earlier. About three years after Jesus first began preaching and teaching publicly, Jesus told his disciples that he wanted to celebrate this Passover with them in Jerusalem, and that he would be killed there.
 
-######### 38-02
+##### 38-02
 
-![](\images\image438.jpeg)
+![](\en_obs_tf\images\image438.jpeg)
 
 One of Jesus’ disciples was a man named Judas. Judas was in charge of the apostles’ moneybag, but he often stole money out of the bag. After Jesus and the disciples arrived in Jerusalem, Judas went to the Jewish leaders. He offered to betray Jesus by identifying him to the authorities in exchange for money. He knew that the Jewish leaders did not accept that Jesus was the Messiah. He knew that they wanted to kill him.
 
-######### 38-03
+##### 38-03
 
-![](\images\image439.jpeg)
+![](\en_obs_tf\images\image439.jpeg)
 
 The Jewish leaders, led by the high priest, paid Judas 30 silver coins to betray Jesus by handing him over to them. This happened just as the prophets said it would. Judas agreed, took the money, and went away. He began looking for an opportunity to help them arrest Jesus.
 
-######### 38-04
+##### 38-04
 
-![](\images\image440.jpeg)
+![](\en_obs_tf\images\image440.jpeg)
 
 In Jerusalem, Jesus celebrated the Passover with his disciples. During the Passover meal, Jesus took some bread and broke it. He said, “Take and eat this. This is my body, which I will give for you. Do this to remember me.” In this way, Jesus said that he would die for them, that he would sacrifice his body for them.
 
-######### 38-05
+##### 38-05
 
-![](\images\image441.jpeg)
+![](\en_obs_tf\images\image441.jpeg)
 
 Then Jesus picked up a cup of wine and said, “Drink this. It is my blood of the New Covenant that I will pour out so that God will forgive your sins. Do what I am doing now, to remember me every time you drink it.”
 
-######### 38-06
+##### 38-06
 
-![](\images\image442.jpeg)
+![](\en_obs_tf\images\image442.jpeg)
 
 Then Jesus said to the disciples, “One of you will betray me.” The disciples were shocked, and asked who would do such a thing. Jesus said, “The person to whom I give this piece of bread is the betrayer.” Then he gave the bread to Judas.
 
-######### 38-07
+##### 38-07
 
-![](\images\image443.jpeg)
+![](\en_obs_tf\images\image443.jpeg)
 
 After Judas took the bread, Satan entered into him. Judas left and went to help the Jewish leaders arrest Jesus. It was nighttime.
 
-######### 38-08
+##### 38-08
 
-![](\images\image444.jpeg)
+![](\en_obs_tf\images\image444.jpeg)
 
 After the meal, Jesus and his disciples walked to the Mount of Olives. Jesus said, “You will all abandon me tonight. It is written, ‘I will strike the shepherd and all the sheep will be scattered.’”
 
-######### 38-09
+##### 38-09
 
-![](\images\image445.jpeg)
+![](\en_obs_tf\images\image445.jpeg)
 
 Peter replied, “Even if all the others abandon you, I will not!” Then Jesus said to Peter, “Satan wants to have all of you, but I have prayed for you, Peter, that your faith will not fail. Even so, tonight, before the rooster crows, you will deny three times that you even know me.”
 
-######### 38-10
+##### 38-10
 
-![](\images\image446.jpeg)
+![](\en_obs_tf\images\image446.jpeg)
 
 Peter then said to Jesus, “Even if I must die, I will never deny you!” All the other disciples said the same thing.
 
-######### 38-11
+##### 38-11
 
-![](\images\image447.jpeg)
+![](\en_obs_tf\images\image447.jpeg)
 
 Then Jesus went with his disciples to a place called Gethsemane. Jesus told his disciples to pray that they would not enter into temptation. Then Jesus went to pray by himself.
 
-######### 38-12
+##### 38-12
 
-![](\images\image448.jpeg)
+![](\en_obs_tf\images\image448.jpeg)
 
 Jesus prayed three times, “My Father, if it is possible, please let me not have to drink this cup of suffering. But if there is no other way for people’s sins to be forgiven, then let your will be done.” Jesus was very troubled and his sweat was like drops of blood. God sent an angel to strengthen him.
 
-######### 38-13
+##### 38-13
 
-![](\images\image449.jpeg)
+![](\en_obs_tf\images\image449.jpeg)
 
 After each time of prayer, Jesus came back to his disciples, but they were asleep. When he returned the third time, Jesus said, “Wake up! My betrayer is here.”
 
-######### 38-14
+##### 38-14
 
-![](\images\image450.jpeg)
+![](\en_obs_tf\images\image450.jpeg)
 
 Judas came with the Jewish leaders, soldiers, and a large crowd. They were carrying swords and clubs. Judas came to Jesus and said, “Greetings, Teacher,” and kissed him. He did this to show the Jewish leaders the man to arrest. Then Jesus said, “Judas, are you betraying me with a kiss?”
 
-######### 38-15
+##### 38-15
 
-![](\images\image451.jpeg)
+![](\en_obs_tf\images\image451.jpeg)
 
 As the soldiers were seizing Jesus, Peter pulled out his sword and cut off the ear of a servant of the high priest. But Jesus said, “Put the sword away! I could ask the Father for an army of angels to defend me, but I must obey my Father.” Jesus healed the man’s ear. Then all the disciples ran away.
 

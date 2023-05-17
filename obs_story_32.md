@@ -1,3 +1,9 @@
+---
+title: Open Bible Stories
+subtitle: Jesus Heals a Demon-Possessed Man and a Sick Woman
+layout: obs_story
+---
+
 ## Introduction
 
 ### Key Idea
@@ -46,99 +52,99 @@ He performed many miracles: he fed a crowd of five thousand, he walked on water,
 
 ### Open Bible Story: Jesus Heals a Demon-Possessed Man and a Sick Woman
 
-######### 32-01
+##### 32-01
 
-![](\images\image371.jpeg)
+![](\en_obs_tf\images\image371.jpeg)
 
 Jesus and his disciples went in their boat to the region where the Gerasene people lived. They reached land and got out of their boat.
 
-######### 32-02
+##### 32-02
 
-![](\images\image372.jpeg)
+![](\en_obs_tf\images\image372.jpeg)
 
 Now there was a man there who was demon possessed.
 
-######### 32-03
+##### 32-03
 
-![](\images\image373.jpeg)
+![](\en_obs_tf\images\image373.jpeg)
 
 This man was so strong that nobody could control him. Sometimes people even fastened his arms and legs with chains, but he kept breaking them.
 
-######### 32-04
+##### 32-04
 
-![](\images\image374.jpeg)
+![](\en_obs_tf\images\image374.jpeg)
 
 The man lived among the tombs in the area. This man would scream all day and all night. He did not wear clothes, and he often cut himself with stones.
 
-######### 32-05
+##### 32-05
 
-![](\images\image375.jpeg)
+![](\en_obs_tf\images\image375.jpeg)
 
 This man ran up to Jesus and knelt down in front of him. Then Jesus spoke to the demon in the man and said, “Come out of this man!”
 
-######### 32-06
+##### 32-06
 
-![](\images\image376.jpeg)
+![](\en_obs_tf\images\image376.jpeg)
 
 The demon cried out in a loud voice, “What do you want with me, Jesus, Son of the Most High God? Please do not torture me!” Then Jesus asked the demon, “What is your name?” He replied, “My name is Legion, because we are many.”
 
-######### 32-07
+##### 32-07
 
-![](\images\image377.jpeg)
+![](\en_obs_tf\images\image377.jpeg)
 
 The demons begged Jesus, “Please do not send us out of this region!” There was a herd of pigs feeding on a nearby hill. So the demons begged Jesus, “Please send us into the pigs instead!” Jesus said, “Alright, go into them!”
 
-######### 32-08
+##### 32-08
 
-![](\images\image378.jpeg)
+![](\en_obs_tf\images\image378.jpeg)
 
 So the demons came out of the man and entered the pigs. The pigs ran down a steep bank into the lake and drowned. There were about 2,000 pigs in the herd.
 
-######### 32-09
+##### 32-09
 
-![](\images\image379.jpeg)
+![](\en_obs_tf\images\image379.jpeg)
 
 There were people taking care of those pigs. When they saw what happened, they ran into the town. There they told everyone what Jesus had done. The people from the town came and saw the man who used to have the demons. He was sitting calmly, wearing clothes, and acting like a normal person.
 
-######### 32-10
+##### 32-10
 
-![](\images\image380.jpeg)
+![](\en_obs_tf\images\image380.jpeg)
 
 The people were very afraid and asked Jesus to leave. So Jesus got into the boat. The man who used to have the demons begged to go along with Jesus.
 
-######### 32-11
+##### 32-11
 
-![](\images\image381.jpeg)
+![](\en_obs_tf\images\image381.jpeg)
 
 But Jesus said to him, “No. I want you to go home and tell everyone what God has done for you. Tell them how he has had mercy on you.”
 
-######### 32-12
+##### 32-12
 
-![](\images\image382.jpeg)
+![](\en_obs_tf\images\image382.jpeg)
 
 So the man went away and told everyone about what Jesus had done for him. Everyone who heard his story was amazed.
 
-######### 32-13
+##### 32-13
 
-![](\images\image383.jpeg)
+![](\en_obs_tf\images\image383.jpeg)
 
 Jesus returned to the other side of the lake. After he arrived there, a large crowd gathered around him and pressed in on him. In the crowd was a woman who had suffered from a bleeding problem for 12 years. She had paid all of her money to doctors so they would heal her, but she only got worse.
 
-######### 32-14
+##### 32-14
 
-![](\images\image384.jpeg)
+![](\en_obs_tf\images\image384.jpeg)
 
 She had heard that Jesus had healed many sick people and thought, “I’m sure that if I can just touch Jesus’ clothes, then I will be healed too!” So she came up behind Jesus and touched his clothes. As soon as she touched them, the bleeding stopped!
 
-######### 32-15
+##### 32-15
 
-![](\images\image385.jpeg)
+![](\en_obs_tf\images\image385.jpeg)
 
 Immediately, Jesus realized that power had gone out from him. So he turned around and asked, “Who touched me?” The disciples replied, “There are many people crowding around you and bumping into you. Why did you ask, ‘Who touched me?’”
 
-######### 32-16
+##### 32-16
 
-![](\images\image386.jpeg)
+![](\en_obs_tf\images\image386.jpeg)
 
 The woman fell on her knees before Jesus, shaking and very afraid. Then she told him what she had done, and that she had been healed. Jesus said to her, “Your faith has healed you. Go in peace.”
 

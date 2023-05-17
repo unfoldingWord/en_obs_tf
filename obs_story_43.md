@@ -1,3 +1,9 @@
+---
+title: Open Bible Stories
+subtitle: The Church Begins
+layout: obs_story
+---
+
 ## Introduction
 
 ### Key Idea
@@ -54,81 +60,81 @@ The Holy Spirit empowered Jesus’ followers and formed them into his church
 
 ### Open Bible Story: The Church Begins
 
-######### 43-01
+##### 43-01
 
-![](\images\image492.jpeg)
+![](\en_obs_tf\images\image492.jpeg)
 
 After Jesus returned to heaven, the disciples stayed in Jerusalem as Jesus had commanded them to do. The believers there constantly gathered together to pray.
 
-######### 43-02
+##### 43-02
 
-![](\images\image493.jpeg)
+![](\en_obs_tf\images\image493.jpeg)
 
 Every year, 50 days after the Passover, the Jews celebrated an important day called Pentecost. Pentecost was a time when the Jews celebrated the wheat harvest. Jews came from all over the world to Jerusalem to celebrate Pentecost together. This year the time for Pentecost came about a week after Jesus had gone back to heaven.
 
-######### 43-03
+##### 43-03
 
-![](\images\image494.jpeg)
+![](\en_obs_tf\images\image494.jpeg)
 
 While the believers were all together, suddenly the house where they had gathered was filled with a sound like a strong wind. Then something that looked like flames of fire appeared over the heads of all the believers. They were all filled with the Holy Spirit and they praised God in other languages. They did not know these languages, but these were languages that the Holy Spirit enabled them to speak.
 
-######### 43-04
+##### 43-04
 
-![](\images\image495.jpeg)
+![](\en_obs_tf\images\image495.jpeg)
 
 When the people in Jerusalem heard this noise, they came together in a crowd to see what was happening. They heard the believers proclaiming the great things God had done. They were astonished because they could understand even though they were from many different countries and spoke many different languages. The disciples were from Israel and spoke Aramaic, Hebrew, or Greek, but the people were each hearing what God had done in their own native language.
 
-######### 43-05
+##### 43-05
 
-![](\images\image496.jpeg)
+![](\en_obs_tf\images\image496.jpeg)
 
 Some of these people said that the disciples were drunk. But Peter stood up and said to them, “Listen to me! These people are not drunk! Instead, what you see is what the prophet Joel said would happen: God said, ‘In the last days, I will pour out my Spirit.’”
 
-######### 43-06
+##### 43-06
 
-![](\images\image497.jpeg)
+![](\en_obs_tf\images\image497.jpeg)
 
 “Men of Israel, Jesus was a man who did many wonderful things to show who he was. He did many amazing things by God’s power. You know this because you saw these things. But you crucified him!”
 
-######### 43-07
+##### 43-07
 
-![](\images\image498.jpeg)
+![](\en_obs_tf\images\image498.jpeg)
 
 “Jesus died, but God raised him from the dead. This made come true what a prophet wrote: ‘You will not let your Holy One rot in the grave.’ We are witnesses that God raised Jesus to life again.”
 
-######### 43-08
+##### 43-08
 
-![](\images\image499.jpeg)
+![](\en_obs_tf\images\image499.jpeg)
 
 “God the Father has now honored Jesus by making him sit at his right hand. And Jesus has sent the Holy Spirit to us just as he promised he would do. The Holy Spirit is causing the things that you are now seeing and hearing.”
 
-######### 43-09
+##### 43-09
 
-![](\images\image500.jpeg)
+![](\en_obs_tf\images\image500.jpeg)
 
 “You crucified this man, Jesus. But know for certain that God has caused Jesus to become both the Lord of everything and the Messiah!”
 
-######### 43-10
+##### 43-10
 
-![](\images\image501.jpeg)
+![](\en_obs_tf\images\image501.jpeg)
 
 The people listening to Peter were deeply moved by the things that he said. So they asked Peter and the disciples, “Brothers, what should we do?”
 
-######### 43-11
+##### 43-11
 
-![](\images\image502.jpeg)
+![](\en_obs_tf\images\image502.jpeg)
 
 Peter answered them, “All of you need God to forgive your sins. So repent and be baptized every one of you in the name of Jesus Christ. Then God will also give you the Holy Spirit as a gift.”
 
-######### 43-12
+##### 43-12
 
-![](\images\image503.jpeg)
+![](\en_obs_tf\images\image503.jpeg)
 
 About 3,000 people believed what Peter said and became disciples of Jesus. They were baptized and became part of the church at Jerusalem.
 
-######### 43-13
+##### 43-13
 
-![](\images\image504.jpeg)
+![](\en_obs_tf\images\image504.jpeg)
 
 The believers continually listened as the apostles taught them. They often met together and ate together, and they often prayed with each other. They praised God together and they shared everything they had with each other. Everyone in the city thought well of them. Every day, more people became believers.
 
