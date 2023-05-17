@@ -34,91 +34,91 @@ God rescued Joseph, one of Jacob’s sons, and used him to rescue his family.
 
 ##### 08-01
 
-![](\en_obs_tf\images\image82.jpeg)
+![](\en_obs_tf\assets\images\image82.jpeg)
 
 Many years later, when Jacob was an old man, he sent his favorite son, Joseph, to check on his brothers who were taking care of the flocks.
 
 ##### 08-02
 
-![](\en_obs_tf\images\image83.jpeg)
+![](\en_obs_tf\assets\images\image83.jpeg)
 
 Joseph’s brothers hated him because their father loved him most, and because Joseph had dreamed that he would be their ruler. When Joseph came to his brothers, they took him captive and sold him to some slave traders.
 
 ##### 08-03
 
-![](\en_obs_tf\images\image84.jpeg)
+![](\en_obs_tf\assets\images\image84.jpeg)
 
 Before Joseph’s brothers returned home, they tore Joseph’s robe and dipped it in goat’s blood. Then they showed the robe to their father so he would think that a wild animal had killed Joseph. Jacob was very sad.
 
 ##### 08-04
 
-![](\en_obs_tf\images\image85.jpeg)
+![](\en_obs_tf\assets\images\image85.jpeg)
 
 The slave traders took Joseph to Egypt. Egypt was a large, powerful country located along the Nile River. The slave traders sold Joseph as a slave to a wealthy government official. Joseph served his master well, and God blessed Joseph.
 
 ##### 08-05
 
-![](\en_obs_tf\images\image86.jpeg)
+![](\en_obs_tf\assets\images\image86.jpeg)
 
 His master’s wife tried to sleep with Joseph, but Joseph refused to sin against God in this way. She became angry and falsely accused Joseph so that he was arrested and sent to prison. Even in prison, Joseph remained faithful to God, and God blessed him.
 
 ##### 08-06
 
-![](\en_obs_tf\images\image87.jpeg)
+![](\en_obs_tf\assets\images\image87.jpeg)
 
 After two years, Joseph was still in prison even though he was innocent. One night the Pharaoh, which is what the Egyptians called their kings, had two dreams that disturbed him greatly. None of his advisors could tell him the meaning of the dreams.
 
 ##### 08-07
 
-![](\en_obs_tf\images\image88.jpeg)
+![](\en_obs_tf\assets\images\image88.jpeg)
 
 God had given Joseph the ability to interpret dreams, so Pharaoh had Joseph brought to him from the prison. Joseph interpreted the dreams for him and said, “God is going to send seven years of plentiful harvests followed by seven years of famine.”
 
 ##### 08-08
 
-![](\en_obs_tf\images\image89.jpeg)
+![](\en_obs_tf\assets\images\image89.jpeg)
 
 Pharaoh was so impressed with Joseph that he appointed him to be the second most powerful man in all of Egypt!
 
 ##### 08-09
 
-![](\en_obs_tf\images\image90.jpeg)
+![](\en_obs_tf\assets\images\image90.jpeg)
 
 Joseph told the people to store up large amounts of food during the seven years of good harvests. When the seven years of famine came, Joseph sold the food to the people so they would have enough to eat.
 
 ##### 08-10
 
-![](\en_obs_tf\images\image91.jpeg)
+![](\en_obs_tf\assets\images\image91.jpeg)
 
 The famine was severe not only in Egypt, but also in Canaan where Jacob and his family lived.
 
 ##### 08-11
 
-![](\en_obs_tf\images\image92.jpeg)
+![](\en_obs_tf\assets\images\image92.jpeg)
 
 So, Jacob sent his older sons to Egypt to buy food. The brothers did not recognize Joseph when they stood before him to buy food. But Joseph recognized them.
 
 ##### 08-12
 
-![](\en_obs_tf\images\image93.jpeg)
+![](\en_obs_tf\assets\images\image93.jpeg)
 
 After testing his brothers to see if they had changed, Joseph said to them, “I am your brother, Joseph! Do not be afraid. You tried to do evil when you sold me as a slave, but God used the evil for good! Come and live in Egypt so I can provide for you and your families.”
 
 ##### 08-13
 
-![](\en_obs_tf\images\image94.jpeg)
+![](\en_obs_tf\assets\images\image94.jpeg)
 
 When Joseph’s brothers returned home and told their father, Jacob, that Joseph was still alive, he was very happy.
 
 ##### 08-14
 
-![](\en_obs_tf\images\image95.jpeg)
+![](\en_obs_tf\assets\images\image95.jpeg)
 
 Even though Jacob was an old man, he moved to Egypt with all of his family, and they all lived there. Before Jacob died, he blessed each of his sons.
 
 ##### 08-15
 
-![](\en_obs_tf\images\image96.jpeg)
+![](\en_obs_tf\assets\images\image96.jpeg)
 
 The covenant promises that God gave to Abraham were passed on to Isaac, then to Jacob, and then to Jacob’s 12 sons and their families. The descendants of the 12 sons became the 12 tribes of Israel.
 

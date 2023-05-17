@@ -54,49 +54,49 @@ He performed many miracles: he fed a crowd of five thousand, he walked on water
 
 ##### 31-01
 
-![](\en_obs_tf\images\image363.jpeg)
+![](\en_obs_tf\assets\images\image363.jpeg)
 
 After Jesus fed the crowd, he told the disciples to get into a boat. He told them to sail to the other side of the lake while he stayed behind for a little while. So the disciples left, and Jesus sent the crowd to their homes. After that, Jesus went up on a mountainside to pray. He was there all alone, and he prayed until late at night.
 
 ##### 31-02
 
-![](\en_obs_tf\images\image364.jpeg)
+![](\en_obs_tf\assets\images\image364.jpeg)
 
 During this time, the disciples were rowing their boat, but the wind was blowing hard against them. When it was late in the night, they had only reached the middle of the lake.
 
 ##### 31-03
 
-![](\en_obs_tf\images\image365.jpeg)
+![](\en_obs_tf\assets\images\image365.jpeg)
 
 At that time, Jesus finished praying and started to go back to meet his disciples. He walked on top of the water toward their boat.
 
 ##### 31-04
 
-![](\en_obs_tf\images\image366.jpeg)
+![](\en_obs_tf\assets\images\image366.jpeg)
 
 Then the disciples saw him. They were very afraid because they thought he was a ghost. Jesus knew that they were afraid, so he called out to them and said, “Do not be afraid. It is I!”
 
 ##### 31-05
 
-![](\en_obs_tf\images\image367.jpeg)
+![](\en_obs_tf\assets\images\image367.jpeg)
 
 Then Peter said to Jesus, “Master, if it is you, command me to come to you on the water.” Jesus told Peter, “Come!”
 
 ##### 31-06
 
-![](\en_obs_tf\images\image368.jpeg)
+![](\en_obs_tf\assets\images\image368.jpeg)
 
 So, Peter got out of the boat and started walking to Jesus on the surface of the water. But after walking a short distance, he turned his eyes away from Jesus and began to look at the waves and to feel the strong wind.
 
 ##### 31-07
 
-![](\en_obs_tf\images\image369.jpeg)
+![](\en_obs_tf\assets\images\image369.jpeg)
 
 Then Peter became afraid and began to sink in the water. He cried out, “Master, save me!” Right away, Jesus reached out and grabbed him. Then he said to Peter, “You have so little faith! Why did you not trust me to keep you safe?”
 
 ##### 31-08
 
-![](\en_obs_tf\images\image370.jpeg)
+![](\en_obs_tf\assets\images\image370.jpeg)
 
 Then Peter and Jesus got into the boat, and the wind immediately stopped blowing. The water became calm. The disciples were amazed and bowed down to Jesus. They worshiped him and said to him, “Truly, you are the Son of God.”
 

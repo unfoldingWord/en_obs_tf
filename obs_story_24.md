@@ -51,55 +51,55 @@ When John and Jesus grew up, John baptized Jesus as a sign that Jesus was God’
 
 ##### 24-01
 
-![](\en_obs_tf\images\image297.jpeg)
+![](\en_obs_tf\assets\images\image297.jpeg)
 
 John, the son of Zechariah and Elizabeth, grew up and became a prophet. He lived in the wilderness, ate wild honey and locusts, and wore clothes made from camel hair.
 
 ##### 24-02
 
-![](\en_obs_tf\images\image298.jpeg)
+![](\en_obs_tf\assets\images\image298.jpeg)
 
 Many people came out to the wilderness to listen to John. He preached to them, saying, “Repent, for the kingdom of God is near!”
 
 ##### 24-03
 
-![](\en_obs_tf\images\image299.jpeg)
+![](\en_obs_tf\assets\images\image299.jpeg)
 
 When people heard John’s message, many of them repented from their sins, and John baptized them. Many religious leaders also came to see John, but they did not repent or confess their sins.
 
 ##### 24-04
 
-![](\en_obs_tf\images\image300.jpeg)
+![](\en_obs_tf\assets\images\image300.jpeg)
 
 John said to the religious leaders, “You poisonous snakes! Repent and change your behavior. God will cut down every tree that does not bear good fruit, and he will throw them into the fire.” John fulfilled what the prophets had said, “See, I will soon send my messenger ahead of you, who will prepare your way.”
 
 ##### 24-05
 
-![](\en_obs_tf\images\image301.jpeg)
+![](\en_obs_tf\assets\images\image301.jpeg)
 
 Some religious leaders asked John if he was the Messiah. John replied, “I am not the Messiah, but he is coming after me. He is so great that I am not even worthy to untie his sandals.”
 
 ##### 24-06
 
-![](\en_obs_tf\images\image302.jpeg)
+![](\en_obs_tf\assets\images\image302.jpeg)
 
 The next day, Jesus came for John to baptize him. When John saw him, he said, “Look! There is the Lamb of God who will take away the sin of the world.”
 
 ##### 24-07
 
-![](\en_obs_tf\images\image303.jpeg)
+![](\en_obs_tf\assets\images\image303.jpeg)
 
 John said to Jesus, “I am not worthy to baptize you. You should baptize me instead.” But Jesus said, “You should baptize me, because it is the right thing to do.” So John baptized him even though Jesus had never sinned.
 
 ##### 24-08
 
-![](\en_obs_tf\images\image304.jpeg)
+![](\en_obs_tf\assets\images\image304.jpeg)
 
 When Jesus came up out of the water after being baptized, the Spirit of God appeared in the form of a dove and came down and rested on him. At the same time, God spoke from heaven. He said, “This is my Son. I love him, and I am very pleased with him.”
 
 ##### 24-09
 
-![](\en_obs_tf\images\image305.jpeg)
+![](\en_obs_tf\assets\images\image305.jpeg)
 
 God had told John, “The Holy Spirit will come down and stay on someone you baptize. That person is the Son of God.” There is only one God. But when John baptized Jesus, he heard God the Father speak, saw God the Son, who is Jesus, and he saw the Holy Spirit.
 

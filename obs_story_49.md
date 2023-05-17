@@ -66,109 +66,109 @@ Jesus is the promised Messiah and brings in blessings of a New Covenant.
 
 ##### 49-01
 
-![](\en_obs_tf\images\image565.jpeg)
+![](\en_obs_tf\assets\images\image565.jpeg)
 
 An angel told Mary, a young woman, that she would give birth to God’s Son. She was still a virgin, but the Holy Spirit came to her and made her become pregnant. She gave birth to a son and named him Jesus. Therefore, Jesus is both God and human.
 
 ##### 49-02
 
-![](\en_obs_tf\images\image566.jpeg)
+![](\en_obs_tf\assets\images\image566.jpeg)
 
 Jesus did many miracles that show that he is God. He walked on water and stopped storms. He healed many sick people and drove demons out of many others. He raised dead people to life, and he turned five loaves of bread and two small fish into enough food to feed over 5,000 people.
 
 ##### 49-03
 
-![](\en_obs_tf\images\image567.jpeg)
+![](\en_obs_tf\assets\images\image567.jpeg)
 
 Jesus was also a great teacher. Everything he taught, he taught correctly. People should do what he told them to do because he is the Son of God. For example, he taught that you need to love other people the same way you love yourself.
 
 ##### 49-04
 
-![](\en_obs_tf\images\image568.jpeg)
+![](\en_obs_tf\assets\images\image568.jpeg)
 
 He also taught that you need to love God more than you love anything else, including your possessions.
 
 ##### 49-05
 
-![](\en_obs_tf\images\image569.jpeg)
+![](\en_obs_tf\assets\images\image569.jpeg)
 
 Jesus said that it is better to be in God’s kingdom than to have anything else in the world. God must save you from your sins in order for you to enter his kingdom.
 
 ##### 49-06
 
-![](\en_obs_tf\images\image570.jpeg)
+![](\en_obs_tf\assets\images\image570.jpeg)
 
 Jesus said that some people will accept him. God will save these people. However, other people will not accept him. He also said that some people are like good soil. Because they accept the good news about Jesus, God saves them. However, other people are like the hard soil on a path. God’s Word is like seed that falls on the path, but nothing grows there. These people reject the message about Jesus. They refuse to enter into his kingdom.
 
 ##### 49-07
 
-![](\en_obs_tf\images\image571.jpeg)
+![](\en_obs_tf\assets\images\image571.jpeg)
 
 Jesus taught that God loves sinners very much. He wants to forgive them and to make them his children.
 
 ##### 49-08
 
-![](\en_obs_tf\images\image572.jpeg)
+![](\en_obs_tf\assets\images\image572.jpeg)
 
 Jesus also told us that God hates sin. Because Adam and Eve sinned, all of their descendants also sin. Every person in the world sins and is far from God. Everyone is an enemy of God.
 
 ##### 49-09
 
-![](\en_obs_tf\images\image573.jpeg)
+![](\en_obs_tf\assets\images\image573.jpeg)
 
 But God loved everyone in the world in this way: he gave his only Son so that God will not punish those who believe in Jesus. Instead, believers will live with him forever.
 
 ##### 49-10
 
-![](\en_obs_tf\images\image574.jpeg)
+![](\en_obs_tf\assets\images\image574.jpeg)
 
 You deserve to die because you have sinned. It would be right for God to punish you, but Jesus took the punishment for sin in our place. God punished Jesus by killing him on a cross.
 
 ##### 49-11
 
-![](\en_obs_tf\images\image575.jpeg)
+![](\en_obs_tf\assets\images\image575.jpeg)
 
 Jesus never sinned. He accepted the punishment for sin, including the worst possible death. In this way, he was the perfect sacrifice to take away your sins and the sins of every person in the world. Jesus sacrificed himself to God, so God will forgive any sin, even terrible sins, of the people who believe in Jesus.
 
 ##### 49-12
 
-![](\en_obs_tf\images\image576.jpeg)
+![](\en_obs_tf\assets\images\image576.jpeg)
 
 Even if you do many very good things, this will not make God save you. There is nothing you can do on your own to become friends with him. Instead, you should believe that Jesus is the Son of God, that he died on the cross instead of you, and that God raised him to life again. If you believe this, God will forgive you for having sinned.
 
 ##### 49-13
 
-![](\en_obs_tf\images\image577.jpeg)
+![](\en_obs_tf\assets\images\image577.jpeg)
 
 God will save everyone who believes in Jesus and accepts him as their Master. But he will not save those who do not believe in him. It does not matter if you are rich or poor, man or woman, old or young, or where you live. God loves you and wants you to believe in Jesus so he can be a friend to you.
 
 ##### 49-14
 
-![](\en_obs_tf\images\image578.jpeg)
+![](\en_obs_tf\assets\images\image578.jpeg)
 
 Jesus is calling you to believe in him and to be baptized. Do you believe that Jesus is the Messiah, the only Son of God? Do you believe that you are a sinner and that you deserve God’s punishment for your sin? Do you believe that Jesus died on the cross to take away your sins?
 
 ##### 49-15
 
-![](\en_obs_tf\images\image579.jpeg)
+![](\en_obs_tf\assets\images\image579.jpeg)
 
 If you believe in Jesus and confess what he has done for you, you are a follower of Jesus! Satan no longer rules you in his kingdom of darkness. God is now ruling over you in his kingdom of light. God has enabled you to no longer sin as you used to do. He has given you a new, right way of living.
 
 ##### 49-16
 
-![](\en_obs_tf\images\image580.jpeg)
+![](\en_obs_tf\assets\images\image580.jpeg)
 
 If you are a follower of Jesus, God has forgiven your sins because of what Jesus did. Now, God considers you to be a close friend instead of an enemy.
 
 ##### 49-17
 
-![](\en_obs_tf\images\image581.jpeg)
+![](\en_obs_tf\assets\images\image581.jpeg)
 
 If you are a friend of God and a servant of Jesus the Master, you will want to obey what Jesus teaches you. Even though you are a follower of Jesus, Satan will still tempt you to sin. But God always does what he says he will do. He says that if you confess your sins, he will forgive you. He will give you strength to fight against sin.
 
 ##### 49-18
 
-![](\en_obs_tf\images\image582.jpeg)
+![](\en_obs_tf\assets\images\image582.jpeg)
 
 God tells you to pray and to study his word. He also tells you to worship him together with other followers of Jesus. You must also tell other people what he has done for you. If you do all these things, you will become a strong friend of his.
 

@@ -53,55 +53,55 @@ He taught his disciples about the life of compassion, sacrifice, and forgiveness
 
 ##### 29-01
 
-![](\en_obs_tf\images\image345.jpeg)
+![](\en_obs_tf\assets\images\image345.jpeg)
 
 One day, Peter asked Jesus, “Master, how many times should I forgive my brother when he sins against me? Up to seven times?” Jesus said, “Not seven times, but 70 times seven!” By this, Jesus meant that we should always forgive. Then Jesus told this story.
 
 ##### 29-02
 
-![](\en_obs_tf\images\image346.jpeg)
+![](\en_obs_tf\assets\images\image346.jpeg)
 
 Jesus said, “The kingdom of God is like a king who wanted to settle accounts with his servants. One of his servants owed a huge debt worth 200,000 years’ wages.”
 
 ##### 29-03
 
-![](\en_obs_tf\images\image347.jpeg)
+![](\en_obs_tf\assets\images\image347.jpeg)
 
 “But the servant could not pay his debt, so the king said, ‘Sell this man and his family as slaves to pay his debt.’”
 
 ##### 29-04
 
-![](\en_obs_tf\images\image348.jpeg)
+![](\en_obs_tf\assets\images\image348.jpeg)
 
 “The servant fell on his knees before the king and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ The king felt pity for the servant, so he canceled all of his debt and let him go.”
 
 ##### 29-05
 
-![](\en_obs_tf\images\image349.jpeg)
+![](\en_obs_tf\assets\images\image349.jpeg)
 
 “But when the servant went out from the king, he found a fellow servant who owed him a debt worth four months’ wages. The servant grabbed his fellow servant and said, ‘Pay me the money that you owe me!’”
 
 ##### 29-06
 
-![](\en_obs_tf\images\image350.jpeg)
+![](\en_obs_tf\assets\images\image350.jpeg)
 
 “The fellow servant fell on his knees and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ But instead, the servant threw his fellow servant into prison until he could pay the debt.”
 
 ##### 29-07
 
-![](\en_obs_tf\images\image351.jpeg)
+![](\en_obs_tf\assets\images\image351.jpeg)
 
 “Some other servants saw what had happened and were greatly disturbed. They went to the king and told him everything.”
 
 ##### 29-08
 
-![](\en_obs_tf\images\image352.jpeg)
+![](\en_obs_tf\assets\images\image352.jpeg)
 
 “The king called the servant and said, ‘You wicked servant! I forgave your debt because you begged me. You should have done the same.’ The king was so angry that he threw the wicked servant into prison until he could pay back all of his debt.”
 
 ##### 29-09
 
-![](\en_obs_tf\images\image353.jpeg)
+![](\en_obs_tf\assets\images\image353.jpeg)
 
 Then Jesus said, “This is what my heavenly Father will do to every one of you if you do not forgive your brother from your heart.”
 
