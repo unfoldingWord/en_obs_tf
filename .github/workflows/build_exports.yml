@@ -38,11 +38,13 @@ jobs:
           pandoc -v
       - name: Fetch Markdown Files
         run: |
-          sudo git clone https://git.door43.org/unfoldingWord/en_obs_tf.git .
+          sudo git clone https://git.door43.org/unfoldingWord/en_obs_tf.git ./obs
           ls
       - name: Convert To Pdf
         run: |
           pandoc -v
-          pandoc --defaults ./exportScripts/defaults/export.docx.yaml --lua-filter=./exportScripts/lua-filters/obs.filter.docx.lua --reference-doc=./exportScripts/reference-docs/obs_style_template.docx obs_story_1.md -o obs_story_1.docx
+          pandoc --defaults .obs/exportScripts/defaults/export.docx.yaml --lua-filter=.obs/exportScripts/lua-filters/obs.filter.docx.lua --reference-doc=.obs/exportScripts/reference-docs/obs_style_template.docx obs_story_1.md -o obs_story_1.docx
+          ls
+          cd obs
           ls
 
