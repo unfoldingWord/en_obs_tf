@@ -12,6 +12,7 @@ on:
     branches: ["main"]
     paths-ignore:
       - 'exports/**'
+      - '.github/workflows/build_exports.yml'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
