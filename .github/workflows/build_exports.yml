@@ -34,7 +34,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          token: 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
+          token: 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
       - name: Install pandoc
         run: |
           wget https://github.com/jgm/pandoc/releases/download/3.1.2/pandoc-3.1.2-1-amd64.deb
