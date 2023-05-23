@@ -52,10 +52,10 @@ jobs:
 
       - name: Commit and Push Exports
         run: |
-          cp ./obs_source/*.docx ./exports/
+          cp ./obs_source/*.docx ./exports/docx
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          cd exports
+          cd exports/docx
           git add .
           git commit -m "Automated commit by GitHub Actions"
           git push
