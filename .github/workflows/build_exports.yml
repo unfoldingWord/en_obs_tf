@@ -45,6 +45,3 @@ jobs:
           pandoc -v
           pandoc --defaults ./obs/exportScripts/defaults/export.docx.yaml --lua-filter=./obs/exportScripts/lua-filters/obs.filter.docx.lua --reference-doc=./obs/exportScripts/reference-docs/obs_style_template.docx ./obs/obs_story_1.md -o obs_story_1.docx
           ls
-          cd obs
-          ls
-
