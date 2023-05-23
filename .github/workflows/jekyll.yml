@@ -7,6 +7,10 @@
 name: Deploy Jekyll site to Pages
 
 on:
+  # Runs on an event fired by a Door43 webhook
+  repository_dispatch:
+    types: [build-obs-tf-web]
+    
   # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
