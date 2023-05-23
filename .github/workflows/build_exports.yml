@@ -47,7 +47,7 @@ jobs:
         run: |
           for file in ./obs_source/*.md; do
             echo "Processing $file"
-            sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.docx.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.docx.lua --reference-doc=./obs_source/exportScripts/reference-docs/obs_style_template.docx "$file" -o "./obs_source/${file%.md}.docx"
+            sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.docx.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.docx.lua --reference-doc=./obs_source/exportScripts/reference-docs/obs_style_template.docx "$file" -o "${file%.md}.docx"
           done
 
       - name: Commit and Push Exports
