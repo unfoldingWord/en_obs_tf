@@ -31,6 +31,8 @@ jobs:
   preprocess-markdown:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
       - name: Install pandoc
         run: |
           wget https://github.com/jgm/pandoc/releases/download/3.1.2/pandoc-3.1.2-1-amd64.deb
@@ -38,10 +40,14 @@ jobs:
           pandoc -v
       - name: Fetch Markdown Files
         run: |
-          sudo git clone https://git.door43.org/unfoldingWord/en_obs_tf.git ./obs
+          sudo git clone https://git.door43.org/unfoldingWord/en_obs_tf.git ./obs_source
           ls
-      - name: Convert To Pdf
+      - name: Convert To Docx
         run: |
           pandoc -v
-          pandoc --defaults ./obs/exportScripts/defaults/export.docx.yaml --lua-filter=./obs/exportScripts/lua-filters/obs.filter.docx.lua --reference-doc=./obs/exportScripts/reference-docs/obs_style_template.docx ./obs/obs_story_1.md -o obs_story_1.docx
-          ls
+          pandoc --defaults ./obs_source/exportScripts/defaults/export.docx.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.docx.lua --reference-doc=./obs/exportScripts/reference-docs/obs_style_template.docx ./obs_source/obs_story_1.md -o ./obs_source/obs_story_1.docx
+          ls ./obs_source/*.docx
+      - name: Commit and Push Exports
+        run: |
+          cp ./obs_source/*.docx ./exports/
+          ls ./exports/
