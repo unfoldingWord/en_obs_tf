@@ -45,9 +45,9 @@ jobs:
       - name: Convert To Docx
         run: |
           pandoc -v
-          sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.docx.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.docx.lua --reference-doc=./obs_source/exportScripts/reference-docs/obs_style_template.docx ./obs_source/obs_story_1.md -o ./obs_source/obs_story_1.docx
+          sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.docx.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.docx.lua --reference-doc=./obs_source/exportScripts/reference-docs/obs_style_template.docx ./obs_source/obs_story_1.md -o obs_story_1.docx
           ls ./obs_source/*.docx
       - name: Commit and Push Exports
         run: |
-          cp ./obs_source/*.docx ./exports/
+          cp ./*.docx ./exports/
           ls ./exports/
