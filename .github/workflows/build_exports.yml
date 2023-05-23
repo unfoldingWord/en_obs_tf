@@ -43,11 +43,13 @@ jobs:
       - name: Fetch Markdown Files
         run: |
           sudo git clone https://git.door43.org/unfoldingWord/en_obs_tf.git ./obs_source
-          ls
       - name: Convert To Docx
         run: |
-          pandoc -v
-          sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.docx.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.docx.lua --reference-doc=./obs_source/exportScripts/reference-docs/obs_style_template.docx ./obs_source/obs_story_1.md -o ./obs_source/obs_story_1.docx
+          for file in ./obs_source/*.md; do
+            echo "Processing $file"
+            sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.docx.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.docx.lua --reference-doc=./obs_source/exportScripts/reference-docs/obs_style_template.docx "$file" -o "./obs_source/${file%.md}.docx"
+          done
+
       - name: Commit and Push Exports
         run: |
           cp ./obs_source/*.docx ./exports/
