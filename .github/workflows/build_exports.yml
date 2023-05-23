@@ -11,12 +11,6 @@ on:
   repository_dispatch:
     types: [build-obs-tf-web]
 
-  # Runs on pushes targeting the default branch
-  push:
-    branches: ["main"]
-    paths-ignore:
-      - 'exports/**'
-
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
