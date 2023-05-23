@@ -33,6 +33,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          token: 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
       - name: Install pandoc
         run: |
           wget https://github.com/jgm/pandoc/releases/download/3.1.2/pandoc-3.1.2-1-amd64.deb
@@ -49,4 +51,9 @@ jobs:
       - name: Commit and Push Exports
         run: |
           cp ./obs_source/*.docx ./exports/
-          ls ./exports/
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          cd exports
+          git add .
+          git commit -m "Automated commit by GitHub Actions"
+          git push
