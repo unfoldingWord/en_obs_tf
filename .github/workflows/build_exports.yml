@@ -31,10 +31,14 @@ jobs:
   preprocess-markdown:
     runs-on: ubuntu-latest
     steps:
+      - name: Install pandoc
+        run: sudo apt-get install -y pandoc
       - name: Fetch Markdown Files
         run: |
           sudo git clone https://git.door43.org/unfoldingWord/en_obs_tf.git .
           ls
-      - name: Install pandoc
-        run: sudo apt-get install -y pandoc
+      - name: Convert To Pdf
+        run: |
+          pandoc --defaults ./exportScripts/defaults/export.docx.yaml --lua-filter=./exportScripts/lua-filters/obs.filter.docx.lua --reference-doc=./exportScripts/reference-docs/obs_style_template.docx obs_story_1.md -o obs_story_1.docx
+          ls
 
