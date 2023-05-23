@@ -31,11 +31,11 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Create word, pdf, and odt exports
-  create-exports:
+  # Build job
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out code
+      - name: Checkout
         uses: actions/checkout@v3
       - name: Install pandoc
         run: sudo apt-get install -y pandoc
@@ -48,14 +48,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install pypandoc
       - name: Export
-        run: python /scripts/create_exports.py
-
-  # Build job
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+        run: |
+          pwd
+          ls
+          python /scripts/create_exports.py
       - name: Setup Ruby
         uses: ruby/setup-ruby@55283cc23133118229fd3f97f9336ee23a179fcf # v1.146.0
         with:
