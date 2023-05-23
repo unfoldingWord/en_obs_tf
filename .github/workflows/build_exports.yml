@@ -32,7 +32,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Install pandoc
-        run: sudo apt-get install -y pandoc=3.1.2
+        run: |
+          wget https://github.com/jgm/pandoc/releases/download/3.1.2/pandoc-3.1.2-1-amd64.deb
+          sudo dpkg -i pandoc-3.1.2-1-amd64.deb
+          pandoc -v
       - name: Fetch Markdown Files
         run: |
           sudo git clone https://git.door43.org/unfoldingWord/en_obs_tf.git .
