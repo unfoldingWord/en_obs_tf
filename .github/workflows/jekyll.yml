@@ -51,7 +51,7 @@ jobs:
         run: |
           pwd
           ls
-          python /scripts/create_exports.py
+          python ./scripts/create_exports.py
       - name: Setup Ruby
         uses: ruby/setup-ruby@55283cc23133118229fd3f97f9336ee23a179fcf # v1.146.0
         with:
