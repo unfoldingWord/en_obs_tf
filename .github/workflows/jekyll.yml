@@ -32,15 +32,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out code
-        uses: actions/checkout@v2
-
-      - name: Setup Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'
+        uses: actions/checkout@v3
 
       - name: Install pandoc
         run: sudo apt-get install -y pandoc
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
       - name: Install Python dependencies
         run: |
@@ -48,7 +48,7 @@ jobs:
           pip install pypandoc
 
       - name: Export
-        run: python convert.py
+        run: python /scripts/create_exports.py
 
   # Build job
   build:
