@@ -67,7 +67,7 @@ jobs:
             sudo sed -i 's/#########/#####/g' $file
             sudo sed -i 's/\\\\images/.\\\\assets\\\\images/g' $file
             echo "extracting metadata to file..."
-            sudo grep -o "---.+---" $file | head -n 1 > "${file%.md}.meta.md"
+            sudo grep "---.+---" $file | head -n 1 > "${file%.md}.meta.md"
           done
 
           for file in ./obs_source/transformed_md/*.md; do
