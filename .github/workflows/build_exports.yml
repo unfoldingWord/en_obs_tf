@@ -67,8 +67,8 @@ jobs:
           done
           sudo cp ./obs_source/transformed_md/*.transformed.md ./obs_tf_web/transformed_md
           cd ./obs_tf_web/transformed_md
-          if [[ 'git status --porcelain' ]]; then
-            sudo git add --all
+          if [[ -n $(git status --porcelain) ]]; then
+            sudo git add -A
             sudo git commit -m "Automated commit by GitHub Actions"
             sudo git push
             echo "Changes committed and pushed successfully!"
