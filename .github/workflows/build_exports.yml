@@ -50,7 +50,7 @@ jobs:
           sudo git clone https://git.door43.org/unfoldingWord/en_obs_tf.git ./obs_source
       - name: Convert To Docx
         run: |
-          yq e -i '.hide-observation-answers = false' ./obs_source/exportScripts/defaults/export.docx.yaml
+          sudo yq e -i '.hide-observation-answers = false' ./obs_source/exportScripts/defaults/export.docx.yaml
 
           for file in ./obs_source/*.md; do
             echo "Processing $file"
