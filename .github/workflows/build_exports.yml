@@ -51,6 +51,12 @@ jobs:
       - name: Convert To Docx
         run: |
           sudo yq e -i '.variables.hide-observation-answers = false' ./obs_source/exportScripts/defaults/export.docx.yaml
+          sudo yq e -i '.variables.hide-discourse-answers = false' ./obs_source/exportScripts/defaults/export.docx.yaml
+          sudo yq e -i '.variables.use-brief-draft-and-checking-sections = false' ./obs_source/exportScripts/defaults/export.docx.yaml
+          sudo yq e -i '.variables.replace-movements_4_5_and_conclusion_with_reference = false' ./obs_source/exportScripts/defaults/export.docx.yaml
+          sudo yq e -i '.variables.show-story-section = true' ./obs_source/exportScripts/defaults/export.docx.yaml
+          sudo yq e -i '.variables.image-base-path = "./obs_source/images"' ./obs_source/exportScripts/defaults/export.docx.yaml
+          sudo yq e -i '.variables.transclusions-directory-path = "./obs_source/transclusions"' ./obs_source/exportScripts/defaults/export.docx.yaml
 
           for file in ./obs_source/*.md; do
             echo "Processing $file"
