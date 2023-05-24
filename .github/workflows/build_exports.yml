@@ -66,6 +66,10 @@ jobs:
             echo "Fixing hashes in $file"
             sudo sed -i 's/#########/#####/g' $file
             sudo sed -i 's/\\\\images/.\\\\assets\\\\images/g' $file
+
+            echo "Creating new meta file"
+            sudo touch "${file%.md}.meta.md"
+            echo "Piping metadata to file..."
             sudo sed -n '/---/,/---/p' $file > "${file%.md}.meta.md"
           done
 
