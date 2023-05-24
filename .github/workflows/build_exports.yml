@@ -73,7 +73,7 @@ jobs:
                 echo "read line: ${line}..."
                 # Copy the line to the front of the output file
                 echo "$line" | cat - "${file%.md}.meta.md" > temp.txt
-                mv temp.txt "${file%.md}.meta.md"
+                sudo mv temp.txt "${file%.md}.meta.md"
                 # Check if the condition is met
                 if [[ "$line" == "## Introduction" ]]; then
                     break
