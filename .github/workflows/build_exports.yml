@@ -79,7 +79,7 @@ jobs:
           git add .
           git commit -m "Automated commit by GitHub Actions"
           git push
-          cd exports/pdf
+          cd ../../exports/pdf
           git add .
           git commit -m "Automated commit by GitHub Actions"
           git push
