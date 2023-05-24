@@ -61,10 +61,13 @@ jobs:
           sudo yq e -i '.variables.transclusions-directory-path = "./obs_source/transclusions"' ./obs_source/exportScripts/defaults/export.md.yaml
           sudo mkdir -p ./obs_source/transformed_md
           sudo cp ./obs_source/*.md ./obs_source/transformed_md
+
           for file in ./obs_source/transformed_md/*.md; do
             echo "Processing $file"
+            sed -i 's/#########/#####/g' $file
             sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.md.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.md.lua "$file" -o "${file%.md}.transformed.md"
           done
+
           sudo cp ./obs_source/transformed_md/*.transformed.md ./obs_tf_web/transformed_md
           cd ./obs_tf_web/transformed_md
           if [[ -n $(git status --porcelain) ]]; then
@@ -73,7 +76,7 @@ jobs:
             sudo git push
             echo "Changes committed and pushed successfully!"
           else
-            echo "No changes to commit."
+            echo "No transform md changes to commit."
           fi
       - name: Generate Exports
         run: |
@@ -126,20 +129,45 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          cd /obs_tf_web/exports/docx
-          git add .
-          git commit -m "Automated commit by GitHub Actions"
-          git push
+
+          ls
+          cd ./obs_tf_web/exports/docx
+          if [[ -n $(git status --porcelain) ]]; then
+            sudo git add -A
+            sudo git commit -m "Automated commit by GitHub Actions"
+            sudo git push
+            echo "Changes committed and pushed successfully!"
+          else
+            echo "No docx changes to commit."
+          fi
+
           cd ../../exports/odt
-          git add .
-          git commit -m "Automated commit by GitHub Actions"
-          git push
+          if [[ -n $(git status --porcelain) ]]; then
+            sudo git add -A
+            sudo git commit -m "Automated commit by GitHub Actions"
+            sudo git push
+            echo "Changes committed and pushed successfully!"
+          else
+            echo "No odt changes to commit."
+          fi
+
           cd ../../exports/pdf
-          git add .
-          git commit -m "Automated commit by GitHub Actions"
-          git push
+          if [[ -n $(git status --porcelain) ]]; then
+            sudo git add -A
+            sudo git commit -m "Automated commit by GitHub Actions"
+            sudo git push
+            echo "Changes committed and pushed successfully!"
+          else
+            echo "No pdf changes to commit."
+          fi
+
           cd ../../exports/epub
-          git add .
-          git commit -m "Automated commit by GitHub Actions"
-          git push
+          if [[ -n $(git status --porcelain) ]]; then
+            sudo git add -A
+            sudo git commit -m "Automated commit by GitHub Actions"
+            sudo git push
+            echo "Changes committed and pushed successfully!"
+          else
+            echo "No epub changes to commit."
+          fi
 
