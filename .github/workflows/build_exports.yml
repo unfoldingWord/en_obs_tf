@@ -35,6 +35,7 @@ jobs:
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.EN_OBS_TF_TOKEN }}
+          path: ./obs_tf_web
       - name: Install yq
         run: |
           sudo add-apt-repository ppa:rmescandon/yq
@@ -52,6 +53,7 @@ jobs:
       - name: Fetch Markdown Files
         run: |
           sudo git clone https://git.door43.org/unfoldingWord/en_obs_tf.git ./obs_source
+          ls
       - name: Transform Markdown for Web and Push
         run: |
           sudo git config --global user.name 'github-actions[bot]'
@@ -63,8 +65,8 @@ jobs:
             echo "Processing $file"
             sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.md.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.md.lua "$file" -o "${file%.md}.transformed.md"
           done
-          sudo cp ./obs_source/transformed_md/*.transformed.md ./transformed_md
-          cd ./transformed_md
+          sudo cp ./obs_source/transformed_md/*.transformed.md ./obs_tf_web/transformed_md
+          cd ./obs_tf_web/transformed_md
           if [[ -n $(git status --porcelain) ]]; then
             sudo git add -A
             sudo git commit -m "Automated commit by GitHub Actions"
@@ -115,16 +117,16 @@ jobs:
             sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.epub.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.epub.lua "$file" -o "${file%.md}.epub"
           done
 
-          sudo cp ./obs_source/*.docx ./exports/docx
-          sudo cp ./obs_source/*.pdf ./exports/pdf
-          sudo cp ./obs_source/*.odt ./exports/odt
-          sudo cp ./obs_source/*.epub ./exports/epub
+          sudo cp ./obs_source/*.docx ./obs_tf_web/exports/docx
+          sudo cp ./obs_source/*.pdf ./obs_tf_web/exports/pdf
+          sudo cp ./obs_source/*.odt ./obs_tf_web/exports/odt
+          sudo cp ./obs_source/*.epub ./obs_tf_web/exports/epub
 
       - name: Push Exports
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          cd exports/docx
+          cd /obs_tf_web/exports/docx
           git add .
           git commit -m "Automated commit by GitHub Actions"
           git push
