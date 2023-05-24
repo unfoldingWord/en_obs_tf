@@ -54,8 +54,6 @@ jobs:
           sudo git clone https://git.door43.org/unfoldingWord/en_obs_tf.git ./obs_source
       - name: Generate Exports
         run: |
-          sudo yq e -i '.variables.transclusions-directory-path = "./obs_source/transclusions"' ./obs_source/exportScripts/defaults/export.md.yaml
-
           sudo yq e -i '.variables.hide-observation-answers = false' ./obs_source/exportScripts/defaults/export.docx.yaml
           sudo yq e -i '.variables.hide-discourse-answers = false' ./obs_source/exportScripts/defaults/export.docx.yaml
           sudo yq e -i '.variables.use-brief-draft-and-checking-sections = false' ./obs_source/exportScripts/defaults/export.docx.yaml
@@ -82,19 +80,28 @@ jobs:
 
           for file in ./obs_source/*.md; do
             echo "Processing $file"
-            sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.md.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.md.lua "$file" -o "${file%.md}.md"
             sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.docx.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.docx.lua --reference-doc=./obs_source/exportScripts/reference-docs/obs_style_template.docx "$file" -o "${file%.md}.docx"
             sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.odt.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.odt.lua --reference-doc=./obs_source/exportScripts/reference-docs/obs_style_template.odt "$file" -o "${file%.md}.odt"
             sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.pdf.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.pdf.lua "$file" -o "${file%.md}.pdf"
           done
 
-      - name: Commit and Push Exports
+      - name: Transform Markdown for Web
+        run: |
+          sudo mkdir -p ./obs_source/transformed_md
+          sudo yq e -i '.variables.transclusions-directory-path = "./obs_source/transclusions"' ./obs_source/exportScripts/defaults/export.md.yaml
+          for file in ./obs_source/*.md; do
+            echo "Processing $file"
+            sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.md.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.md.lua "$file" -o "./transformed_md/${file%.md}.md"
+          done
+
+      - name: Push Exports and Transformed Markdown Files
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           cp ./obs_source/*.docx ./exports/docx
           cp ./obs_source/*.pdf ./exports/pdf
           cp ./obs_source/*.odt ./exports/odt
+          cp ./obs_source/transformed_md/*.md ./exports/md
           cd exports/docx
           git add .
           git commit -m "Automated commit by GitHub Actions"
