@@ -68,6 +68,8 @@ jobs:
             sudo sed -i 's/\\\\images/.\\\\assets\\\\images/g' $file
             echo "extracting metadata to file..."
             while IFS= read -r line || [[ -n "$line" ]]; do
+                echo "reading line from ${file}..."
+                echo "read line: ${line}..."
                 # Copy the line to the front of the output file
                 echo "$line" | cat - "${file%.md}.meta.md" > temp.txt
                 mv temp.txt "${file%.md}.meta.md"
