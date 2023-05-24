@@ -11,7 +11,7 @@ The story of creation teaches us that God is the sovereign creator of all things
 ### Metanarrative Summary
 
 The eternal God created all things in six days.
-He made a good and perfect world.
+He made a good and very perfect world.
 He made humans in his image to fill the earth and rule over creation.
 
 <!-- page break -->
