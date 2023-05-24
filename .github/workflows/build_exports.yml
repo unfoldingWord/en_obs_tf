@@ -48,7 +48,7 @@ jobs:
       - name: Fetch Markdown Files
         run: |
           sudo git clone https://git.door43.org/unfoldingWord/en_obs_tf.git ./obs_source
-      - name: Convert To Docx
+      - name: Generate Exports
         run: |
           sudo yq e -i '.variables.hide-observation-answers = false' ./obs_source/exportScripts/defaults/export.docx.yaml
           sudo yq e -i '.variables.hide-discourse-answers = false' ./obs_source/exportScripts/defaults/export.docx.yaml
@@ -61,6 +61,8 @@ jobs:
           for file in ./obs_source/*.md; do
             echo "Processing $file"
             sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.docx.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.docx.lua --reference-doc=./obs_source/exportScripts/reference-docs/obs_style_template.docx "$file" -o "${file%.md}.docx"
+
+            sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.pdf.yaml "$file" -o "${file%.md}.pdf"
           done
 
       - name: Commit and Push Exports
@@ -69,6 +71,12 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           cd exports/docx
+          git add .
+          git commit -m "Automated commit by GitHub Actions"
+          git push
+
+          cp ./obs_source/*.pdf ./exports/pdf
+          cd exports/pdf
           git add .
           git commit -m "Automated commit by GitHub Actions"
           git push
