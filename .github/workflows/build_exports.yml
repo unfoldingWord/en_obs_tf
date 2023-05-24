@@ -67,13 +67,13 @@ jobs:
             sudo sed -i 's/#########/#####/g' $file
             sudo sed -i 's/\\\\images/.\\\\assets\\\\images/g' $file
             echo "extracting metadata to file..."
+            sudo touch "${file%.md}.meta.md"
             while IFS= read -r line || [[ -n "$line" ]]; do
                 echo "reading line from ${file}..."
                 echo "read line: ${line}..."
                 # Copy the line to the front of the output file
                 echo "$line" | cat - "${file%.md}.meta.md" > temp.txt
                 mv temp.txt "${file%.md}.meta.md"
-
                 # Check if the condition is met
                 if [[ "$line" == "## Introduction" ]]; then
                     break
