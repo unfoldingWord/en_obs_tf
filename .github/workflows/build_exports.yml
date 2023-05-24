@@ -65,9 +65,14 @@ jobs:
           done
           sudo cp ./obs_source/transformed_md/*.transformed.md ./transformed_md
           cd ./transformed_md
-          sudo git add .
-          sudo git commit -m "Automated commit by GitHub Actions"
-          sudo git push
+          if [[ -n $(git status --porcelain) ]]; then
+            sudo git add -A
+            sudo git commit -m "Automated commit by GitHub Actions"
+            sudo git push
+            echo "Changes committed and pushed successfully!"
+          else
+            echo "No changes to commit."
+          fi
       - name: Generate Exports
         run: |
           sudo yq e -i '.variables.hide-observation-answers = false' ./obs_source/exportScripts/defaults/export.docx.yaml
