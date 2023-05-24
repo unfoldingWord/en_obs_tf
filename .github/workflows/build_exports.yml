@@ -65,13 +65,16 @@ jobs:
           for file in ./obs_source/transformed_md/*.md; do
             echo "Fixing hashes in $file"
             sudo sed -i 's/#########/#####/g' $file
-            sudo sed -i 's/\\images/.\\assets\\images/g' $file
+            sudo sed -i 's/\\\\images/.\\\\assets\\\\images/g' $file
+            sudo sed -n '/---/,/---/p' $file > ./obs_source/transformed_md/${file%.md}.meta.md
           done
 
           for file in ./obs_source/transformed_md/*.md; do
             echo "Processing $file"
             sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.md.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.md.lua "$file" -o "${file%.md}.transformed.md"
           done
+
+          ls
 
           sudo cp ./obs_source/transformed_md/*.transformed.md ./obs_tf_web/transformed_md
           cd ./obs_tf_web/transformed_md
