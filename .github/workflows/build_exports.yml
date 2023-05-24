@@ -54,9 +54,9 @@ jobs:
           sudo git clone https://git.door43.org/unfoldingWord/en_obs_tf.git ./obs_source
       - name: Transform Markdown for Web
         run: |
+          sudo yq e -i '.variables.transclusions-directory-path = "./obs_source/transclusions"' ./obs_source/exportScripts/defaults/export.md.yaml
           sudo mkdir -p ./obs_source/transformed_md
           sudo cp ./obs_source/*.md ./obs_source/transformed_md
-          sudo yq e -i '.variables.transclusions-directory-path = "./obs_source/transclusions"' ./obs_source/exportScripts/defaults/export.md.yaml
           for file in ./obs_source/transformed_md/*.md; do
             echo "Processing $file"
             sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.md.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.md.lua "$file" -o "${file%.md}.transformed.md"
