@@ -52,6 +52,15 @@ jobs:
       - name: Fetch Markdown Files
         run: |
           sudo git clone https://git.door43.org/unfoldingWord/en_obs_tf.git ./obs_source
+      - name: Transform Markdown for Web
+        run: |
+          sudo mkdir -p ./obs_source/transformed_md
+          cp ./obs_source/*.md ./obs_source/transformed_md
+          sudo yq e -i '.variables.transclusions-directory-path = "./obs_source/transclusions"' ./obs_source/exportScripts/defaults/export.md.yaml
+          for file in ./obs_source/transformed_md/*.md; do
+            echo "Processing $file"
+            sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.md.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.md.lua "$file" -o "./exports/md/${file%.md}.md"
+          done
       - name: Generate Exports
         run: |
           sudo yq e -i '.variables.hide-observation-answers = false' ./obs_source/exportScripts/defaults/export.docx.yaml
@@ -85,15 +94,6 @@ jobs:
             sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.pdf.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.pdf.lua "$file" -o "${file%.md}.pdf"
           done
 
-      - name: Transform Markdown for Web
-        run: |
-          sudo mkdir -p ./obs_source/transformed_md
-          sudo yq e -i '.variables.transclusions-directory-path = "./obs_source/transclusions"' ./obs_source/exportScripts/defaults/export.md.yaml
-          for file in ./obs_source/*.md; do
-            echo "Processing $file"
-            sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.md.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.md.lua "$file" -o "./transformed_md/${file%.md}.md"
-          done
-
       - name: Push Exports and Transformed Markdown Files
         run: |
           git config --global user.name 'github-actions[bot]'
@@ -101,7 +101,6 @@ jobs:
           cp ./obs_source/*.docx ./exports/docx
           cp ./obs_source/*.pdf ./exports/pdf
           cp ./obs_source/*.odt ./exports/odt
-          cp ./obs_source/transformed_md/*.md ./exports/md
           cd exports/docx
           git add .
           git commit -m "Automated commit by GitHub Actions"
