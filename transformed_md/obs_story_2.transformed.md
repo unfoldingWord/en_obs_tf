@@ -371,7 +371,21 @@ Answer the following theology questions as a community. Discuss what truths this
 2.  What are consequences/effects of sin? What takes place after Adam and Eve disobeyed God that teaches us about the negative results of sin?
 3.  How is God able to deal with sin? What did God do in this story that showed his intention to deal with sin?
 
-\##./obs_source/transclusions\_2_drafting.md NOT FOUND!!
+### Translation Draft
+
+Work as a translation team to draft each panel of this story. Pay attention to any specific translation issues that are challenging or significant.
+
+#### Make Translation Draft
+
+Make a draft for each section of this story.
+
+#### Discuss and Revise
+
+After drafting the story, discuss any translation issues that you think need special explanation.
+
+#### Drafting Summary Reflection
+
+Summarize any noteworthy translation decisions and the rationale/reasoning behind these translation decisions. In the final movement of this class, you will use these observations to give an account (i.e., chronicle/narrate) of how your translation improved through the checking process.
 
 <!-- page break -->
 
@@ -387,16 +401,139 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 2.  What lies do you believe that cause you to disobey God?
 3.  How have you experienced the negative consequences of sin in your own life?
 
-\##./obs_source/transclusions\_3_checking.md NOT FOUND!!
+### Team Check
+
+*The following activity will help you check the clarity, accuracy, and naturalness of your draft. Read the passage aloud and discuss the checking questions with other members of your translation community. You might need to reread portions (or the whole) of the biblical passage multiple times as you answer each of these questions. Record answers to these questions below.*
+
+#### Team Checking Questions
+
+*Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
+
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
+3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
+6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
+
+#### Record Feedback
+
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+
+#### Discuss and Revise
+
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+
+#### Checking Summary Reflection
+
+*Summarize any noteworthy translation decisions (things you corrected or affirmed in your draft) and the rationale/reasoning behind these translation decisions. In the final movement of this class, you will use these observations to give an account (i.e., chronicle/narrate) of how your translation improved through the checking process.*
 
 <!-- page break -->
 
-\##./obs_source/transclusions\_4.md NOT FOUND!!
+## Ministry Practice: Serving the Church with the Story
+
+Now that you have a draft of this story, consider how this story can encourage other believers in their faith. After ministering this story to others, you will also perform a community check of your translation draft.
+
+### Church Ministry
+
+Reflect on how this story can edify and mature the Christian community. Design a way to minister this story to your church community.
+
+**Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
+
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+
+**Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
+
+### Church Community Check
+
+After teaching or ministering this story to the church, check the translation quality with the church community. Record any feedback from your checking experience.
+
+#### Create Checking Questions
+
+You can use **Translation Questions** to check you draft. Each **Translation Question** explains the meaning of a specific part of the story and asks you to consider how you would translate that part of the story in your own language. Change each **Translation Question** into a **Checking Question** by asking the following questions. The first question asks you to identity how each specific phrase was translated in your language. The second question asks people in the church to determine if your translation of the phrase expresses the meaning clearly, accurately, and naturally. Look at the following examples to see how to change **Translation Questions** into **Checking Questions**:
+
+#### Translation Question Example 1
+
+**to proclaim the good news about Jesus** Paul and Silas traveled to Philippi for the purpose of preaching the gospel. The gospel is the good news that Jesus saves people from their sins if they will believe in Jesus. How would you express **to proclaim the good news about Jesus** to mean to tell other people the message about how Jesus can save people from their sins?
+
+#### Translation Question Example 2
+
+**a merchant** Paul and Silas met a woman named Lydia at the place by the river. She owned a business and sold items to make money. How would you express **a merchant** to mean a business owner who sells items for a profit?
+
+#### Translation Question Example 3
+
+**so Paul and Silas baptized them** The jailer and his whole family followed Paul’s instructions. They believed in Jesus. The result of this was Paul and Silas baptized them. How would you express **so Paul and Silas baptized them** to mean the result of the jailer and his family believing in Jesus that Paul and Silas baptized all of them?
+
+You can change these into **Checking Questions** like this:
+
+#### Checking Question Example 1
+
+**to proclaim the good news about Jesus** How did you translate **to proclaim the good news about Jesus**? Does it mean to tell other people the message about how Jesus can save people from their sins?
+
+#### Checking Question Example 2
+
+**a merchant** How did you translate **a merchant**? Does it mean a business owner who sells items for a profit?
+
+#### Checking Question Example 3
+
+**so Paul and Silas baptized them** How did you translate **so Paul and Silas baptized them**? Does it mean the result of the jailer and his family believing in Jesus that Paul and Silas baptized all of them?
+
+#### Record Feedback
+
+*Discuss the **Checking Questions** with your church community, and record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+
+#### Discuss and Revise
+
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+
+#### Checking Summary Reflection
+
+*Summarize any noteworthy translation decisions (things you corrected or affirmed in your draft) and the rationale/reasoning behind these translation decisions. In the final movement of this class, you will use these observations to give an account (i.e., chronicle/narrate) of how your translation improved through the checking process.*
 
 <!-- page break -->
 
-\##./obs_source/transclusions\_5.md NOT FOUND!!
+## Missional Outreach: Sharing the Truth of the Story
+
+*After sharing this story with others, check the translation quality with the wider language community. Record any feedback from your checking experience.*
+
+### Mission Engagement
+
+*Consider how you will witness this story to unbelievers. Design a way to share this story and engage them in what it teaches about Christianity and the gospel.*
+
+**Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
+
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+
+**Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
+
+### Sociolinguistic Check
+
+After sharing this story with the language community, check your translation draft with the surrounding community. Record your observations.
+
+#### Checking Approach
+
+After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
+
+**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive for any portions of the passage that are unclear, unnatural, or inaccurate.
+
+**Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
+
+**Discussion Group:** Develop key questions to ask about the passage (both formational and translational). Read the passage and have a group discussion about the passage, paying attention to issues that need to be addressed, edited, and revised.
+
+#### Record Feedback
+
+*After sharing your draft with language community, discuss the **Observations Questions**, and record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+
+#### Discuss and Revise
+
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+
+#### Checking Summary Reflection
+
+*Summarize any noteworthy translation decisions (things you corrected or affirmed in your draft) and the rationale/reasoning behind these translation decisions. In the final movement of this class, you will use these observations to give an account (i.e., chronicle/narrate) of how your translation improved through the checking process.*
 
 <!-- page break -->
 
-\##./obs_source/transclusions.md NOT FOUND!!
+## Conclusion
+
+As a translation community, take time to reflect on all that was learned in studying, drafting, and checking this story. Celebrate all that God has taught you as a community. Then, submit your revised draft and checking summaries to network leaders for further review.
