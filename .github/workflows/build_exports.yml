@@ -62,6 +62,14 @@ jobs:
           sudo yq e -i '.variables.image-base-path = "./obs_source/images"' ./obs_source/exportScripts/defaults/export.docx.yaml
           sudo yq e -i '.variables.transclusions-directory-path = "./obs_source/transclusions"' ./obs_source/exportScripts/defaults/export.docx.yaml
 
+          sudo yq e -i '.variables.hide-observation-answers = false' ./obs_source/exportScripts/defaults/export.odt.yaml
+          sudo yq e -i '.variables.hide-discourse-answers = false' ./obs_source/exportScripts/defaults/export.odt.yaml
+          sudo yq e -i '.variables.use-brief-draft-and-checking-sections = false' ./obs_source/exportScripts/defaults/export.odt.yaml
+          sudo yq e -i '.variables.replace-movements_4_5_and_conclusion_with_reference = false' ./obs_source/exportScripts/defaults/export.odt.yaml
+          sudo yq e -i '.variables.show-story-section = true' ./obs_source/exportScripts/defaults/export.odt.yaml
+          sudo yq e -i '.variables.image-base-path = "./obs_source/images"' ./obs_source/exportScripts/defaults/export.odt.yaml
+          sudo yq e -i '.variables.transclusions-directory-path = "./obs_source/transclusions"' ./obs_source/exportScripts/defaults/export.odt.yaml
+
           sudo yq e -i '.variables.hide-observation-answers = false' ./obs_source/exportScripts/defaults/export.pdf.yaml
           sudo yq e -i '.variables.hide-discourse-answers = false' ./obs_source/exportScripts/defaults/export.pdf.yaml
           sudo yq e -i '.variables.use-brief-draft-and-checking-sections = false' ./obs_source/exportScripts/defaults/export.pdf.yaml
@@ -73,7 +81,7 @@ jobs:
           for file in ./obs_source/*.md; do
             echo "Processing $file"
             sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.docx.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.docx.lua --reference-doc=./obs_source/exportScripts/reference-docs/obs_style_template.docx "$file" -o "${file%.md}.docx"
-
+            sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.odt.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.odt.lua --reference-doc=./obs_source/exportScripts/reference-docs/obs_style_template.odt "$file" -o "${file%.md}.odt"
             sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.pdf.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.pdf.lua "$file" -o "${file%.md}.pdf"
           done
 
@@ -83,7 +91,12 @@ jobs:
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           cp ./obs_source/*.docx ./exports/docx
           cp ./obs_source/*.pdf ./exports/pdf
+          cp ./obs_source/*.odt ./exports/odt
           cd exports/docx
+          git add .
+          git commit -m "Automated commit by GitHub Actions"
+          git push
+          cd ../../exports/odt
           git add .
           git commit -m "Automated commit by GitHub Actions"
           git push
