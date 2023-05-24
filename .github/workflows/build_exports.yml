@@ -54,6 +54,8 @@ jobs:
           sudo git clone https://git.door43.org/unfoldingWord/en_obs_tf.git ./obs_source
       - name: Generate Exports
         run: |
+          sudo yq e -i '.variables.transclusions-directory-path = "./obs_source/transclusions"' ./obs_source/exportScripts/defaults/export.md.yaml
+
           sudo yq e -i '.variables.hide-observation-answers = false' ./obs_source/exportScripts/defaults/export.docx.yaml
           sudo yq e -i '.variables.hide-discourse-answers = false' ./obs_source/exportScripts/defaults/export.docx.yaml
           sudo yq e -i '.variables.use-brief-draft-and-checking-sections = false' ./obs_source/exportScripts/defaults/export.docx.yaml
@@ -80,6 +82,7 @@ jobs:
 
           for file in ./obs_source/*.md; do
             echo "Processing $file"
+            sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.md.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.md.lua "$file" -o "${file%.md}.md"
             sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.docx.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.docx.lua --reference-doc=./obs_source/exportScripts/reference-docs/obs_style_template.docx "$file" -o "${file%.md}.docx"
             sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.odt.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.odt.lua --reference-doc=./obs_source/exportScripts/reference-docs/obs_style_template.odt "$file" -o "${file%.md}.odt"
             sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.pdf.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.pdf.lua "$file" -o "${file%.md}.pdf"
@@ -104,3 +107,8 @@ jobs:
           git add .
           git commit -m "Automated commit by GitHub Actions"
           git push
+          cd ../../exports/md
+          git add .
+          git commit -m "Automated commit by GitHub Actions"
+          git push
+
