@@ -74,7 +74,7 @@ jobs:
             echo "Processing $file"
             sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.docx.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.docx.lua --reference-doc=./obs_source/exportScripts/reference-docs/obs_style_template.docx "$file" -o "${file%.md}.docx"
 
-            sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.pdf.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.docx.pdf "$file" -o "${file%.md}.pdf"
+            sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.pdf.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.pdf.lua "$file" -o "${file%.md}.pdf"
           done
 
       - name: Commit and Push Exports
