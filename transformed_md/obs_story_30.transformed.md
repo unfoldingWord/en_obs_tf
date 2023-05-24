@@ -47,55 +47,55 @@ He performed many miracles: he fed a crowd of five thousand
 
 ### Open Bible Story: Jesus Feeds Thousands of People
 
-######### 30-01
+##### 30-01
 
 ![](\images\image354.jpeg)
 
 Jesus sent his apostles to preach and to teach people in many different villages. When they returned to where Jesus was, they told him what they had done. Then Jesus invited them to go with him to a quiet place across the lake to rest for a while. So, they got into a boat and went to the other side of the lake.
 
-######### 30-02
+##### 30-02
 
 ![](\images\image355.jpeg)
 
 But there were many people who saw Jesus and the disciples leave in the boat. These people ran along the shore of the lake to get to the other side ahead of them. So when Jesus and the disciples arrived, a large group of people was already there, waiting for them.
 
-######### 30-03
+##### 30-03
 
 ![](\images\image356.jpeg)
 
 The crowd had over 5,000 men in it, not counting the women and children. Jesus felt great compassion towards the people. To Jesus, these people were like sheep without a shepherd. So he taught them and healed the people among them who were sick.
 
-######### 30-04
+##### 30-04
 
 ![](\images\image357.jpeg)
 
 Late in the day, the disciples told Jesus, “It is late and there are no towns nearby. Send the people away so they can go get something to eat.”
 
-######### 30-05
+##### 30-05
 
 ![](\images\image358.jpeg)
 
 But Jesus said to the disciples, “You give them something to eat!” They responded, “How can we do that? We only have five loaves of bread and two small fish.”
 
-######### 30-06
+##### 30-06
 
 ![](\images\image359.jpeg)
 
 Jesus told his disciples to tell the people in the crowd to sit down on the grass in groups of 50 people each.
 
-######### 30-07
+##### 30-07
 
 ![](\images\image360.jpeg)
 
 Then Jesus took the five loaves of bread and the two fish, looked up to heaven, and thanked God for the food.
 
-######### 30-08
+##### 30-08
 
 ![](\images\image361.jpeg)
 
 Then Jesus broke the bread and the fish into pieces. He gave the pieces to his disciples to give to the people. The disciples kept passing out the food, and it never ran out! All the people ate and were satisfied.
 
-######### 30-09
+##### 30-09
 
 ![](\images\image362.jpeg)
 

@@ -56,79 +56,79 @@ New leaders like Stephen and Philip served the church and preached about Jesus
 
 ### Open Bible Story: Stephen and Philip
 
-######### 45-01
+##### 45-01
 
 ![](\images\image514.jpeg)
 
 One of the leaders among the first followers of Jesus was a man named Stephen. Everyone respected him. The Holy Spirit gave him much power and wisdom. Stephen did many miracles. Many people believed him when he taught them to trust in Jesus.
 
-######### 45-02
+##### 45-02
 
 ![](\images\image515.jpeg)
 
 One day when Stephen was teaching about Jesus, some Jews who did not believe in Jesus came and began to argue with him. They became very angry, so they went to the religious leaders and told lies about him. They said, “We heard Stephen speak evil things about Moses and God!” So the religious leaders arrested Stephen and brought him to the high priest and the other leaders of the Jews. More false witnesses came and lied to them about Stephen.
 
-######### 45-03
+##### 45-03
 
 ![](\images\image516.jpeg)
 
 The high priest asked Stephen, “Are these men telling the truth about you?” Stephen began to say many things in order to answer the high priest. He said that God had done many wonderful things for the people of Israel,from the time when Abraham lived to the time of Jesus. But the people had always disobeyed God. Stephen said, “You people are stubborn and rebellious against God. You always reject the Holy Spirit, just as our ancestors always rejected God and always killed his prophets. But you did something worse than they did! You killed the Messiah!”
 
-######### 45-04
+##### 45-04
 
 ![](\images\image517.jpeg)
 
 When the religious leaders heard this, they were so angry that they covered their ears and yelled loudly. They dragged Stephen out of the city and threw stones at him in order to kill him.
 
-######### 45-05
+##### 45-05
 
 ![](\images\image518.jpeg)
 
 As Stephen was dying, he cried out, “Jesus, receive my spirit.” He fell to his knees and cried out again, “Master, do not hold this sin against them.” Then he died.
 
-######### 45-06
+##### 45-06
 
 ![](\images\image519.jpeg)
 
 That day many people in Jerusalem started persecuting the followers of Jesus, so the believers fled to other places. But in spite of this, they preached about Jesus everywhere they went.
 
-######### 45-07
+##### 45-07
 
 ![](\images\image520.jpeg)
 
 There was a believer in Jesus named Philip. He fled from Jerusalem, as did most other believers. He went to the region of Samaria where he preached to people about Jesus. Many people believed him and were saved. One day, an angel came from God to Philip and told him to go into the wilderness, and to walk down a certain road. Philip went there. As he was walking on the road, he saw a man riding in his chariot. This man was an important official from the land of Ethiopia. The Holy Spirit told Philip to go and talk with this man.
 
-######### 45-08
+##### 45-08
 
 ![](\images\image521.jpeg)
 
 So Philip went to the chariot. He heard the Ethiopian reading God’s word. He was reading what the prophet Isaiah had written. The man read, “They led him like a lamb to be killed, and as a lamb is silent, he did not say a word. They treated him unfairly and did not respect him. They took his life away from him.”
 
-######### 45-09
+##### 45-09
 
 ![](\images\image522.jpeg)
 
 Philip asked the Ethiopian, “Do you understand what you are reading?” The Ethiopian replied, “No. I cannot understand it unless someone explains it to me. Please come and sit next to me. Was Isaiah writing about himself or someone else?”
 
-######### 45-10
+##### 45-10
 
 ![](\images\image523.jpeg)
 
 Philip got into the chariot and sat down. Then he told the Ethiopian man that Isaiah had written about Jesus. Philip also spoke about many other parts of God’s word. In this way, he told the man the good news about Jesus.
 
-######### 45-11
+##### 45-11
 
 ![](\images\image524.jpeg)
 
 As Philip and the Ethiopian traveled, they came to some water. The Ethiopian said, “Look! There is some water! May I be baptized?” And he told the driver to stop the chariot.
 
-######### 45-12
+##### 45-12
 
 ![](\images\image525.jpeg)
 
 So they went down into the water, and Philip baptized the Ethiopian. After they came up out of the water, the Holy Spirit suddenly carried Philip away to another place. There Philip continued to tell people about Jesus.
 
-######### 45-13
+##### 45-13
 
 ![](\images\image526.jpeg)
 

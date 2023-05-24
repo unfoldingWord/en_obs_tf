@@ -24,43 +24,43 @@ God gave Isaac a wife and she bore twins, Jacob and Esau.
 
 ### Open Bible Story: God Provides for Isaac
 
-######### 06-01
+##### 06-01
 
 ![](\images\image65.jpeg)
 
 When Abraham was very old, his son Isaac had grown to be a man. So Abraham sent one of his servants back to the land where his relatives lived to bring back a wife for his son, Isaac.
 
-######### 06-02
+##### 06-02
 
 ![](\images\image66.jpeg)
 
 After a very long journey to the land where Abraham’s relatives lived, God led the servant to Rebekah. She was the granddaughter of Abraham’s brother.
 
-######### 06-03
+##### 06-03
 
 ![](\images\image67.jpeg)
 
 Rebekah agreed to leave her family and go back with the servant to Isaac’s home. Isaac married her as soon as she arrived.
 
-######### 06-04
+##### 06-04
 
 ![](\images\image68.jpeg)
 
 After a long time, Abraham died. God then blessed Abraham’s son Isaac because of the covenant he had made with Abraham. One of God’s promises in that covenant was that Abraham would have countless descendants. But Isaac’s wife, Rebekah, could not have children.
 
-######### 06-05
+##### 06-05
 
 ![](\images\image69.jpeg)
 
 Isaac prayed for Rebekah, and God allowed her to get pregnant with twins. The two babies struggled with each other while they were still in Rebekah’s womb, so Rebekah asked God what was happening.
 
-######### 06-06
+##### 06-06
 
 ![](\images\image70.jpeg)
 
 God told Rebekah, “You will give birth to two sons. Their descendants will become two different nations. They will struggle with each other. But the nation coming from your older son will have to obey the nation coming from your younger son.”
 
-######### 06-07
+##### 06-07
 
 ![](\images\image71.jpeg)
 

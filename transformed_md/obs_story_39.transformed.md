@@ -50,73 +50,73 @@ Jesus was betrayed by one of his disciples and put on trial before a Roman gover
 
 ### Open Bible Story: Jesus Is Put on Trial
 
-######### 39-01
+##### 39-01
 
 ![](\images\image452.jpeg)
 
 It was now the middle of the night. The soldiers led Jesus to the house of the high priest because he wanted to question Jesus. Peter was following far behind them. When the soldiers took Jesus into the house, Peter stayed outside and warmed himself by a fire.
 
-######### 39-02
+##### 39-02
 
 ![](\images\image453.jpeg)
 
 Inside the house, the Jewish leaders put Jesus on trial. They brought many false witnesses who lied about him. However, their statements did not agree with each other, so the Jewish leaders could not prove he was guilty of anything. Jesus did not say anything.
 
-######### 39-03
+##### 39-03
 
 ![](\images\image454.jpeg)
 
 Finally, the high priest looked directly at Jesus and said, “Tell us, are you the Messiah, the Son of the living God?”
 
-######### 39-04
+##### 39-04
 
 ![](\images\image455.jpeg)
 
 Jesus said, “I am, and you will see me seated with God and coming from heaven.” The high priest tore his clothes because he was angry at what Jesus said. He shouted to the other leaders, “We do not need any more witnesses to tell us what this man has done! You yourselves have heard him say that he is the Son of God. What is your decision about him?”
 
-######### 39-05
+##### 39-05
 
 ![](\images\image456.jpeg)
 
 The Jewish leaders all answered the high priest, “He deserves to die!” Then they blindfolded Jesus, spit on him, hit him, and mocked him.
 
-######### 39-06
+##### 39-06
 
 ![](\images\image457.jpeg)
 
 As for Peter, he was waiting outside the house. A servant girl saw him. She said to him, “You also were with Jesus!” Peter denied it. Later, another girl said the same thing, and Peter denied it again. Finally, some people said, “We know that you were with Jesus because you both are from Galilee.”
 
-######### 39-07
+##### 39-07
 
 ![](\images\image458.jpeg)
 
 Then Peter said, “May God curse me if I know this man!” Immediately after Peter swore like this, a rooster crowed. Jesus turned around and looked at Peter.
 
-######### 39-08
+##### 39-08
 
 ![](\images\image459.jpeg)
 
 Peter went away and cried bitterly. At the same time, Judas, the one who had betrayed Jesus, saw that the Jewish leaders had condemned Jesus to die. Judas became full of sorrow and went away and killed himself.
 
-######### 39-09
+##### 39-09
 
 ![](\images\image460.jpeg)
 
 Now Pilate was the governor of Judea. He worked for Rome. The Jewish leaders brought Jesus to him. They wanted Pilate to condemn Jesus and kill him. Pilate asked Jesus, “Are you the king of the Jews?”
 
-######### 39-10
+##### 39-10
 
 ![](\images\image461.jpeg)
 
 Jesus answered, “You have said the truth. But my kingdom is not here on earth. If it were, my servants would fight for me. I have come to earth to tell the truth about God. Everyone who loves the truth listens to me.” Pilate asked, “What is truth?”
 
-######### 39-11
+##### 39-11
 
 ![](\images\image462.jpeg)
 
 After speaking with Jesus, Pilate went out to the crowd and said, “I cannot find any reason that this man deserves to die.” But the Jewish leaders and the crowd shouted, “Crucify him!” Pilate replied, “He is not guilty of doing anything wrong.” But they shouted even louder. Then Pilate said a third time, “He is not guilty!”
 
-######### 39-12
+##### 39-12
 
 ![](\images\image463.jpeg)
 

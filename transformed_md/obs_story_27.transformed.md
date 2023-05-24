@@ -45,67 +45,67 @@ He taught his disciples about the life of compassion
 
 ### Open Bible Story: The Story of the Good Samaritan
 
-######### 27-01
+##### 27-01
 
 ![](\images\image324.jpeg)
 
 One day, an expert in the Jewish law came to Jesus. He wanted to show everyone that Jesus was teaching wrongly. So he said, “Teacher, what must I do to inherit eternal life?” Jesus answered, “What is written in God’s law?”
 
-######### 27-02
+##### 27-02
 
 ![](\images\image325.jpeg)
 
 The man said, “It says, ‘Love the Lord your God with all your heart, soul, strength, and mind. And love your neighbor as yourself.’” Jesus answered, “You are correct! If you do this, you will have eternal life.”
 
-######### 27-03
+##### 27-03
 
 ![](\images\image326.jpeg)
 
 But the law expert wanted to show the people that his way of living was correct. So he asked Jesus, “Well then, who is my neighbor?”
 
-######### 27-04
+##### 27-04
 
 ![](\images\image327.jpeg)
 
 Jesus answered the law expert by telling a story. “There was a Jewish man who was traveling along the road from Jerusalem to Jericho.”
 
-######### 27-05
+##### 27-05
 
 ![](\images\image328.jpeg)
 
 “But some robbers saw him and attacked him. They took everything he had and beat him until he was almost dead. Then they went away.”
 
-######### 27-06
+##### 27-06
 
 ![](\images\image329.jpeg)
 
 “Soon after that, a Jewish priest happened to walk down that same road. This priest saw that man lying in the road. When he saw him, he moved to the other side of the road and kept on going. He completely ignored that man.”
 
-######### 27-07
+##### 27-07
 
 ![](\images\image330.jpeg)
 
 “Not long after that, a Levite came down the road. (Levites were a tribe of Jews who helped the priests at the Temple.) The Levite also crossed over to the other side of the road. He also ignored that man.”
 
-######### 27-08
+##### 27-08
 
 ![](\images\image331.jpeg)
 
 “The next person to walk down that road was a man from Samaria. (Samaritans and Jews hated each other.) The Samaritan saw the man in the road. He saw he was Jewish, but he still had very strong compassion for him. So he went to him and bandaged his wounds.”
 
-######### 27-09
+##### 27-09
 
 ![](\images\image332.jpeg)
 
 “Then the Samaritan lifted the man onto his own donkey. He took him to an inn by the road. There he continued to take care of him.”
 
-######### 27-10
+##### 27-10
 
 ![](\images\image333.jpeg)
 
 “The next day, the Samaritan needed to continue his journey. He gave some money to the person in charge of the inn. He said to him, ‘Take care of this man. If you spend any more money than this, I will repay those expenses when I return.’”
 
-######### 27-11
+##### 27-11
 
 ![](\images\image334.jpeg)
 

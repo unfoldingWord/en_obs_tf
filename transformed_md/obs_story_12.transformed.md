@@ -30,85 +30,85 @@ Then, God delivered the Israelites by bringing them out of Egypt and crossing th
 
 ### Open Bible Story: The Exodus
 
-######### 12-01
+##### 12-01
 
 ![](\images\image132.jpeg)
 
 The Israelites were very happy to leave Egypt. They were no longer slaves, and they were going to the Promised Land! The Egyptians gave the Israelites whatever they asked for, even gold and silver and other valuable things. Some people from other nations believed in God and went along with the Israelites as they left Egypt.
 
-######### 12-02
+##### 12-02
 
 ![](\images\image133.jpeg)
 
 A tall pillar of cloud went ahead of them during the day. It became a tall pillar of fire at night. God, who was in the pillar of cloud and the pillar of fire, was always with them and guided them as they traveled. All they had to do was follow him.
 
-######### 12-03
+##### 12-03
 
 ![](\images\image134.jpeg)
 
 After a short time, Pharaoh and his people changed their minds. They wanted to make the Israelites their slaves again. So they chased after the Israelites. It was God who made them change their minds. He did this because he wanted everyone to know that he, Yahweh, is more powerful than Pharaoh and all the gods of the Egyptians.
 
-######### 12-04
+##### 12-04
 
 ![](\images\image135.jpeg)
 
 When the Israelites saw the Egyptian army coming, they realized they were trapped between Pharaoh’s army and the Red Sea. They were very afraid and cried out, “Why did we leave Egypt? We are going to die!”
 
-######### 12-05
+##### 12-05
 
 ![](\images\image136.jpeg)
 
 Moses told the Israelites, “Stop being afraid! God will fight for you today and save you.” Then God told Moses, “Tell the people to move toward the Red Sea.”
 
-######### 12-06
+##### 12-06
 
 ![](\images\image137.jpeg)
 
 Then the pillar of cloud moved between the Israelites and the Egyptians and became a pillar of fire at night. The Egyptians were not able to come near the Israelites all night.
 
-######### 12-07
+##### 12-07
 
 ![](\images\image138.jpeg)
 
 God told Moses to raise his hand over the sea. Then God caused the wind to push the water in the sea to the left and the right, so that there was a path through the sea.
 
-######### 12-08
+##### 12-08
 
 ![](\images\image139.jpeg)
 
 The Israelites marched through the sea on dry ground with a wall of water on either side of them.
 
-######### 12-09
+##### 12-09
 
 ![](\images\image140.jpeg)
 
 Then the Egyptians saw that the Israelites were escaping. The Egyptians started chasing after them again.
 
-######### 12-10
+##### 12-10
 
 ![](\images\image141.jpeg)
 
 So they followed the Israelites onto the path through the sea, but God caused the Egyptians to panic and caused their chariots to get stuck. They shouted, “Run away! God is fighting for the Israelites!”
 
-######### 12-11
+##### 12-11
 
 ![](\images\image142.jpeg)
 
 The Israelites all arrived at the other side of the sea. Then God told Moses to stretch out his hand again over the water. When Moses did that, the water fell on the Egyptian army and returned to its normal place. The whole Egyptian army drowned.
 
-######### 12-12
+##### 12-12
 
 ![](\images\image143.jpeg)
 
 When the Israelites saw that the Egyptians were dead, they trusted in God. They believed that Moses was a prophet of God.
 
-######### 12-13
+##### 12-13
 
 ![](\images\image144.jpeg)
 
 The Israelites also rejoiced very much because God had saved them from dying and from being slaves. Now they were free to worship God and obey him. The Israelites sang many songs to celebrate their new freedom and to praise God because he saved them from the Egyptian army.
 
-######### 12-14
+##### 12-14
 
 ![](\images\image145.jpeg)
 
