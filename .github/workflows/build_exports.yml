@@ -35,6 +35,11 @@ jobs:
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.EN_OBS_TF_TOKEN }}
+      - name: Install yq
+        run: |
+          sudo add-apt-repository ppa:rmescandon/yq
+          sudo apt update
+          sudo apt install yq -y
       - name: Install pandoc
         run: |
           wget https://github.com/jgm/pandoc/releases/download/3.1.2/pandoc-3.1.2-1-amd64.deb
@@ -45,6 +50,13 @@ jobs:
           sudo git clone https://git.door43.org/unfoldingWord/en_obs_tf.git ./obs_source
       - name: Convert To Docx
         run: |
+          yq w -i ./obs_source/exportScripts/defaults/export.docx.yaml hide-observation-answers false
+          yq w -i ./obs_source/exportScripts/defaults/export.docx.yaml hide-discourse-answers false
+          yq w -i ./obs_source/exportScripts/defaults/export.docx.yaml use-brief-draft-and-checking-sections false
+          yq w -i ./obs_source/exportScripts/defaults/export.docx.yaml replace-movements_4_5_and_conclusion_with_reference false
+          yq w -i ./obs_source/exportScripts/defaults/export.docx.yaml show-story-section true
+          yq w -i ./obs_source/exportScripts/defaults/export.docx.yaml image-base-path ./obs_source/images
+          yq w -i ./obs_source/exportScripts/defaults/export.docx.yaml transclusions-directory-path ./obs_source/transclusions
           for file in ./obs_source/*.md; do
             echo "Processing $file"
             sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.docx.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.docx.lua --reference-doc=./obs_source/exportScripts/reference-docs/obs_style_template.docx "$file" -o "${file%.md}.docx"
