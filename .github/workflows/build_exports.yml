@@ -52,7 +52,7 @@ jobs:
       - name: Fetch Markdown Files
         run: |
           sudo git clone https://git.door43.org/unfoldingWord/en_obs_tf.git ./obs_source
-      - name: Transform Markdown for Web
+      - name: Transform Markdown for Web and Push
         run: |
           sudo yq e -i '.variables.transclusions-directory-path = "./obs_source/transclusions"' ./obs_source/exportScripts/defaults/export.md.yaml
           sudo mkdir -p ./obs_source/transformed_md
@@ -62,6 +62,10 @@ jobs:
             sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.md.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.md.lua "$file" -o "${file%.md}.transformed.md"
           done
           sudo cp ./obs_source/transformed_md/*.transformed.md ./transformed_md
+          cd ./obs_source/transformed_md
+          git add .
+          git commit -m "Automated commit by GitHub Actions"
+          git push
       - name: Generate Exports
         run: |
           sudo yq e -i '.variables.hide-observation-answers = false' ./obs_source/exportScripts/defaults/export.docx.yaml
@@ -109,7 +113,7 @@ jobs:
           sudo cp ./obs_source/*.odt ./exports/odt
           sudo cp ./obs_source/*.epub ./exports/epub
 
-      - name: Push Exports and Transformed Markdown Files
+      - name: Push Exports
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -126,10 +130,6 @@ jobs:
           git commit -m "Automated commit by GitHub Actions"
           git push
           cd ../../exports/epub
-          git add .
-          git commit -m "Automated commit by GitHub Actions"
-          git push
-          cd ../../transformed_md
           git add .
           git commit -m "Automated commit by GitHub Actions"
           git push
