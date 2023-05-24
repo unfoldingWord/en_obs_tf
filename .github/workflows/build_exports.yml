@@ -72,8 +72,6 @@ jobs:
                 if [[ "$line" == "## Introduction" ]]; then
                     break
                 fi
-                echo "reading line from ${file}..."
-                echo "read line: ${line}..."
                 # Copy the line to the front of the output file
                 echo "$line" | cat - "${file%.md}.meta" > temp.txt
                 sudo mv temp.txt "${file%.md}.meta"
@@ -81,14 +79,15 @@ jobs:
           done
 
           for file in ./obs_source/transformed_md/*.md; do
-            echo "Processing $file"
+            echo "Transforming $file..."
             sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.md.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.md.lua "$file" -o "${file%.md}.transformed.md"
           done
 
           ls
 
           for file in ./obs_source/transformed_md/*.transformed.md; do
-            echo "Processing $file"
+            echo "Finalizing $file..."
+            sudo touch ${file%.md}.final.md
             sudo cat ${file%.md}.meta $file > ${file%.md}.final.md
           done 
 
