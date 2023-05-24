@@ -3678,9 +3678,21 @@ title: Home
 }
 }
 .burger-box {
-  width: 60px !important;
+  width: 50px !important;
   height: 25px !important;
 }
+
+// Logo Side Divider Line //
+
+@right-logo-divider: 1px solid #000;
+@right-logo-spacing: 30px;
+
+@left-logo-divider: 0px solid #000;
+@left-logo-spacing: 0px;
+
+body:not(.header--menu-open) .header-title-text a, body:not(.header--menu-open) .header-title-logo img { border-right: @right-logo-divider; border-left: @left-logo-divider; padding-right: @right-logo-spacing; padding-left: @left-logo-spacing; }
+
+// Logo Side Divider Line //
 
                                         </style>
 
