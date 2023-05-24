@@ -64,7 +64,7 @@ jobs:
             sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.md.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.md.lua "$file" -o "${file%.md}.transformed.md"
           done
           sudo cp ./obs_source/transformed_md/*.transformed.md ./transformed_md
-          cd ./obs_source/transformed_md
+          cd ./transformed_md
           sudo git add .
           sudo git commit -m "Automated commit by GitHub Actions"
           sudo git push
