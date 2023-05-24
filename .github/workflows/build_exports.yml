@@ -88,7 +88,7 @@ jobs:
           for file in ./obs_source/transformed_md/*.transformed.md; do
             echo "Finalizing $file..."
             sudo touch ${file%.md}.final.md
-            sudo cat ${file%.md}.meta $file > ${file%.md}.final.md
+            sudo cat "${file%.md}.meta" "$file" > "${file%.md}.final.md"
           done 
 
           sudo cp ./obs_source/transformed_md/*.final.md ./obs_tf_web/transformed_md
