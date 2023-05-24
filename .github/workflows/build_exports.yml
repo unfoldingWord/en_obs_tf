@@ -76,6 +76,11 @@ jobs:
 
           ls
 
+          for file in ./obs_source/transformed_md/*.transformed.md; do
+            echo "Processing $file"
+            sudo cat ${file%.md}.meta.md $file > ${file%.md}.final.md
+          done 
+
           sudo cp ./obs_source/transformed_md/*.transformed.md ./obs_tf_web/transformed_md
           cd ./obs_tf_web/transformed_md
           if [[ -n $(git status --porcelain) ]]; then
