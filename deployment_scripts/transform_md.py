@@ -5,19 +5,20 @@ import os
 def build_yaml_map(source_dir):
     yaml_map = {}
     if os.path.isdir(source_dir):
-        for filename in os.listdir(source_dir):
-            if filename.endswith(".md"):
-                file_path = os.path.join(source_dir, filename)
-                with open(file_path, "r") as file:
-                    yaml_dash_line_count = 0
-                    for line in file:
-                        if yaml_dash_line_count == 2:
-                            break
-                        if '---' in line:
-                            yaml_dash_line_count = yaml_dash_line_count + 1
-                        if filename not in yaml_map:
-                            yaml_map[filename] = []
-                        yaml_map[filename].append(line)
+        for root, dirs, files in os.walk(source_dir):
+            for filename in files:
+                if filename.endswith(".md"):
+                    file_path = os.path.join(root, filename)
+                    with open(file_path, "r") as file:
+                        yaml_dash_line_count = 0
+                        for line in file:
+                            if yaml_dash_line_count == 2:
+                                break
+                            if '---' in line:
+                                yaml_dash_line_count = yaml_dash_line_count + 1
+                            if filename not in yaml_map:
+                                yaml_map[filename] = []
+                            yaml_map[filename].append(line)
     return yaml_map
 
 
@@ -28,6 +29,7 @@ def transform_markdown(source_dir, transform_dir):
             if filename.endswith(".md"):
                 file_path = os.path.join(transform_dir, filename)
                 if filename in yaml_map:
+                    print(f'restoring yaml header to {filename}...')
                     lines = yaml_map[filename]
                     with open(file_path, "r+") as file:
                         content = file.read()
