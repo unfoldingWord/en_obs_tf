@@ -63,6 +63,7 @@ jobs:
           sudo mkdir -p ./transformed_md
           sudo git config --global user.name 'github-actions[bot]'
           sudo git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          sudo cp ./obs_source/transclusions ./obs_source
           sudo yq e -i '.variables.transclusions-directory-path = "./obs_source/transclusions"' ./obs_source/exportScripts/defaults/export.md.yaml
 
           for file in ./obs_source/*.md; do
