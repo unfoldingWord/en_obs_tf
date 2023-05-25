@@ -18,7 +18,6 @@ def build_yaml_map(source_dir):
                             if yaml_dash_line_count == 2:
                                 yaml_map[filename].append("layout: obs_story\n")
                         if filename not in yaml_map:
-                            print(f'adding {filename} to yaml map...')
                             yaml_map[filename] = []
                         yaml_map[filename].append(line)
     return yaml_map
@@ -31,7 +30,6 @@ def transform_markdown(source_dir, transform_dir):
             if filename.endswith(".md"):
                 file_path = os.path.join(transform_dir, filename)
                 if filename in yaml_map:
-                    print(f'fixing yaml for file {filename}...')
                     lines = yaml_map[filename]
                     with open(file_path, "r+") as file:
                         content = file.read()

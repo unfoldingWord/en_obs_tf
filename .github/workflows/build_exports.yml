@@ -67,12 +67,16 @@ jobs:
           for file in ./obs_source/*.md; do
             echo "Transforming from md to md for $file..."
             file_name=$(basename "$file")
-            echo "Extracted base file name $file_name."
-            echo "Preparing to write to: ./obs_tf_web/transformed_md/${file_name}.md"
             sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.md.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.md.lua "$file" -o "./obs_tf_web/transformed_md/${file_name}"
           done
 
           sudo python ./obs_tf_web/deployment_scripts/transform_md.py ./obs_source ./obs_tf_web/transformed_md
+
+          for file in ./obs_tf_web/transformed_md/*.md; do
+            echo "Fixing hashes and image paths in $file..."
+            sudo sed -i 's/#########/#####/g' $file
+            sudo sed -i 's/\\\\images/.\\\\assets\\\\images/g' $file
+          done
 
           cd ./obs_tf_web/transformed_md
           if [[ -n $(git status --porcelain) ]]; then
