@@ -4,8 +4,14 @@
     <meta charset="utf-8">
     <title>{{ page.subtitle }}</title>
   </head>
-  
+
   <body>
-    {{ content }}
-    </body>
+      <bold>Downloads: </bold>
+      <a href="./exports/docx/obs_story_{{page.story_num}}.docx" download="obs_story_{{page.story_num}}.docx">obs_story_{{page.story_num}}.docx</a>
+      <a href="./exports/epub/obs_story_{{page.story_num}}.epub" download="obs_story_{{page.story_num}}.epub">obs_story_{{page.story_num}}.epub</a>
+      <a href="./exports/odt/obs_story_{{page.story_num}}.odt" download="obs_story_{{page.story_num}}.odt">obs_story_{{page.story_num}}.odt</a>
+      <a href="./exports/pdf/obs_story_{{page.story_num}}.pdf" download="obs_story_{{page.story_num}}.pdf">obs_story_{{page.story_num}}.pdf</a>
+      {{ content }}
+  </body>
+
 </html>
