@@ -123,6 +123,8 @@ When the seventh day came, God had finished all the work that he had been doing.
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-3#Community Study: The Practice of Worship—Praising God as a Community.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.
