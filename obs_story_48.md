@@ -151,6 +151,8 @@ David was a king of Israel, but Jesus is the king of the entire universe! He wil
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-13#Community Study: Remembering Together—Taking Time to Review God’s Work.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

@@ -131,6 +131,8 @@ Moses made new stone tablets for the Ten Commandments to replace the ones that h
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-5#Community Study: The Last Days—Guarding Against Cultural Values.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

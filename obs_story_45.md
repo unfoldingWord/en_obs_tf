@@ -143,6 +143,8 @@ The Ethiopian continued traveling toward his home. He was happy that he now knew
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-12#Community Study: Christlike Community—Clothing Ourselves with Christ’s Character.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

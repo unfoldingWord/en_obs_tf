@@ -108,6 +108,8 @@ Then Jesus said, “This is what my heavenly Father will do to every one of you 
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-9#Community Study: Loving as Jesus Loved—Showing Genuine Care for One Another.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

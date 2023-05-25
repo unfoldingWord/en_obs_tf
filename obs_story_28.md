@@ -114,6 +114,8 @@ Jesus answered, “Everyone who has left houses, brothers, sisters, father, moth
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-9#Community Study: Only One Master—Renouncing Things That Compromise Our Devotion.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

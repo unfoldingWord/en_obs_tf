@@ -61,7 +61,7 @@ As a group, read the following verse again. Take time as a group to put this ver
 ### Pray to God (3-5 minutes)
 Break up into groups of 2-3 people. Have each person pray a prayer of praise to God.
 
-## Community Study: The Practice of Community: Fellowshipping with God's People
+## Community Study: The Practice of Community—Fellowshipping with God's People
 
 - **Key Idea**: enjoying relationships with God's people
 - **Key Passage**: Hebrews 10:23-25
@@ -91,7 +91,7 @@ Spend time praying as a church community. Ask God to help your community/team be
 ### Sing God's Praise (5 minutes)
 Choose 1–2 songs to sing that praise God and encourage one another to be faithful to God.
 
-## Community Study: The Practice of Confession: Acknowledging Our Sin
+## Community Study: The Practice of Confession—Acknowledging Our Sin
 
 - **Key Idea**: admitting our sin before God and others
 - **Key Passage**: James 5:16
@@ -129,7 +129,7 @@ Divide your community into groups of 2–3 individuals. Spend time praying for G
 ### Sing to God (5 minutes)
 Remember how God has forgiven you of your sin. Sing a song that celebrates God's grace and mercy.
 
-## Community Study: The Practice of Prayer: Speaking with God
+## Community Study: The Practice of Prayer—Speaking with God
 
 - **Key Idea**: asking God to act on our behalf
 - **Key Passage**: 1 Peter 5:6-11
@@ -162,7 +162,7 @@ Identify several needs of your community that are the cause of anxiety. Pray to 
 ### Sing God's Praise (3–5 minutes)
 Sing a song that expresses trust in God to fulfill his promises.
 
-## Community Study: The Practice of Accountability: Bearing Each Other's Burdens
+## Community Study: The Practice of Accountability—Bearing Each Other's Burdens
 
 - **Key Idea**: supporting each other in the work
 - **Key Passage**: Galatians 6:1-5
@@ -262,7 +262,7 @@ As a group, read the following verse again. Take time as a group to put this ver
 
 Break up into groups of 2-3 people. Have each person pray a prayer of praise to God.
 
-## Community Study: The Practice of Community: Fellowshipping with God’s People
+## Community Study: The Practice of Community—Fellowshipping with God’s People
 
 - **Key Idea**: enjoying relationships with God’s people
 - **Key Passage**: Hebrews 10:23-25
@@ -297,7 +297,7 @@ Spend time praying as a church community. Ask God to help your community/team be
 
 Choose 1–2 songs to sing that praise God and encourage one another to be faithful to God.
 
-## Community Study: The Practice of Confession: Acknowledging Our Sin
+## Community Study: The Practice of Confession—Acknowledging Our Sin
 
 - **Key Idea**: admitting our sin before God and others
 - **Key Passage**: James 5:16
@@ -342,7 +342,7 @@ Divide your community into groups of 2–3 individuals. Spend time praying for G
 
 Remember how God has forgiven you of your sin. Sing a song that celebrates God’s grace and mercy.
 
-## Community Study: The Practice of Prayer: Speaking with God
+## Community Study: The Practice of Prayer—Speaking with God
 
 - **Key Idea**: asking God to act on our behalf
 - **Key Passage**: 1 Peter 5:6-11
@@ -381,7 +381,7 @@ Identify several needs of your community that are the cause of anxiety. Pray to 
 
 Sing a song that expresses trust in God to fulfill his promises.
 
-## Community Study: The Practice of Accountability: Bearing Each Other’s Burdens
+## Community Study: The Practice of Accountability—Bearing Each Other’s Burdens
 
 - **Key Idea**: supporting each other in the work
 - **Key Passage**: Galatians 6:1-5

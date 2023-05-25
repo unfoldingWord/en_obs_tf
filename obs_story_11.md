@@ -86,6 +86,8 @@ That same night, Pharaoh called for Moses and Aaron and said, “Take the Israel
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-5#Community Study: A Godly Community—Thinking about the Right Things.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

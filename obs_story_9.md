@@ -127,6 +127,8 @@ Moses was afraid and did not want to go to Pharaoh because he thought he could n
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-5#Community Study: Two Ways—Understanding the Difference between the Flesh and the Spirit.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

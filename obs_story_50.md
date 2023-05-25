@@ -170,6 +170,8 @@ Jesus and his people will live on the new earth, and he will reign forever over 
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-13#Community Study: Corporate Praise—Telling God of His Greatness.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

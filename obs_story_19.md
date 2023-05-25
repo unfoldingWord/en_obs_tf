@@ -154,6 +154,8 @@ The prophets continued to speak for God even though the people hated them. They 
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-7#Community Study: All of You—Enjoying Brotherly Unity.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

@@ -120,6 +120,8 @@ Then Jesus asked the law expert, “What do you think? Which one of the three me
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-9#Community Study: Taking Up Our Cross—Following Jesus in Self-Denial.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

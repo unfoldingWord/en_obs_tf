@@ -94,6 +94,8 @@ But Esau no longer wanted to harm Jacob. Instead, he was very happy to see him a
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-4#Community Study: No Divisions Among You—Guarding the Community against Disunity.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

@@ -35,7 +35,7 @@ In this passage, Jesus commands us to pray. As a community, spend time praying t
 ### Song to God (2-4 minutes)
 Take time as a community to sing praises to God for his work of salvation and the privilege of joining God in his work/mission.
 
-### Community Study: Invitation to God's Purpose: Understanding God's Mission
+## Community Study: Invitation to God's Purpose—Understanding God's Mission
 
 - **Key Idea**: understanding that God has sent us into the world
 - **Key Passage**: John 17:15-19
@@ -69,7 +69,7 @@ As disciples, you are sent into the world to tell others about God. Think about 
 ### Pray to God (5 minutes)
 Pray together as a large group. Seek God's help that your community will become one-minded and aligned about the work God has for you. Also, ask for God's grace and strength to accomplish this work.
 
-### Community Study: Sphere of Ministry: Describing Our Ministry Context
+## Community Study: Sphere of Ministry—Describing Our Ministry Context
 
 - **Key Idea**: clarifying the details of our ministry
 - **Key Passage**: Psalm 67:1-3
@@ -94,7 +94,7 @@ It is important that our plans for God's work are the same as God's own plans. G
 ### Pray to God (5–10 minutes)
 After discussing specific ministry challenges and opportunities among these people, take time to pray as a team. Pray that God would resolve the ministry challenges, open doors for the gospel among these people, and clarify your team's understanding of how God wants to minister among these people.
 
-### Community Study: God's People: Placing the Church at the Center of Our Strategy
+## Community Study: God's People—Placing the Church at the Center of Our Strategy
 
 - **Key Idea**: grasping the importance of the church
 - **Key Passage**: Ephesians 3:20-21
@@ -125,7 +125,7 @@ Try to imagine how God might be glorified by having the church be a central part
 ### Pray to God (5 minutes)
 After discussing the importance of the church in God's work, take time to pray about the challenges and fears in having the church play a central role in the work/ministry ahead.
 
-### Community Study: Reasons We Serve: Evaluating Our Motivations for Ministry
+## Community Study: Reasons We Serve—Evaluating Our Motivations for Ministry
 
 - **Key Idea**: having the right reasons to serve God
 - **Key Passage**: Colossians 3:23
@@ -156,7 +156,7 @@ Take some time to think about your own motivations for serving God in this minis
 ### Pray for Help (5 minutes)
 As a group, pray for God to fill your whole community with the right motivations for ministry. Kneeling in prayer can help us recognize our deep need for God's help. Encourage members of the community to kneel on the ground as they pray to God.
 
-### Community Study: Confidence in the Work: God Completes His Purposes
+## Community Study: Confidence in the Work—God Completes His Purposes
 
 - **Key Idea**: trusting God to finish his work
 - **Key Passage**: Psalm 90:16-17
@@ -182,9 +182,7 @@ As a community, discuss how you can trust God to complete his work
 ### Pray the Psalm (5 minutes)
 God invites us to be a part of his work in the world. We can have confidence that God will complete his work and purposes in the world. We should align our work with God's work. As a community, take turns to pray the words of the following passage, asking God to grant success and fruit in the work of ministry.
 
-> Let your servants see your work, and let our children see your majesty. May the favor of the Lord our God be ours; prosper the work of our hands; indeed, prosper the work of our hands. Psalm 90:16-17
-
-# Unit 1: One-Minded: Developing Common Purpose as a Community
+> Let your servants see your work, and let our children see your majesty. May the favor of the Lord our God be ours; prosper the work of our hands; indeed, prosper the work of our hands. Psalm 90:16-17# Unit 1: One-Minded: Developing Common Purpose as a Community
 
 It is important for your community to be one-minded about its purpose. Shared purpose unites people together in a common work. This series of studies helps you *think about your community relationships in the context of God’s mission*.
 
@@ -227,7 +225,7 @@ In this passage, Jesus commands us to pray. As a community, spend time praying t
 
 Take time as a community to sing praises to God for his work of salvation and the privilege of joining God in his work/mission.
 
-### Community Study: Invitation to God’s Purpose: Understanding God’s Mission
+## Community Study: Invitation to God’s Purpose—Understanding God’s Mission
 
 - **Key Idea**: understanding that God has sent us into the world
 - **Key Passage**: John 17:15-19
@@ -267,7 +265,7 @@ As disciples, you are sent into the world to tell others about God. Think about 
 
 Pray together as a large group. Seek God’s help that your community will become one-minded and aligned about the work God has for you. Also, ask for God’s grace and strength to accomplish this work.
 
-### Community Study: Sphere of Ministry: Describing Our Ministry Context
+## Community Study: Sphere of Ministry—Describing Our Ministry Context
 
 - **Key Idea**: clarifying the details of our ministry
 - **Key Passage**: Psalm 67:1-3
@@ -296,7 +294,7 @@ It is important that our plans for God’s work are the same as God’s own plan
 
 After discussing specific ministry challenges and opportunities among these people, take time to pray as a team. Pray that God would resolve the ministry challenges, open doors for the gospel among these people, and clarify your team’s understanding of how God wants to minister among these people.
 
-### Community Study: God’s People: Placing the Church at the Center of Our Strategy
+## Community Study: God’s People—Placing the Church at the Center of Our Strategy
 
 - **Key Idea**: grasping the importance of the church
 - **Key Passage**: Ephesians 3:20-21
@@ -332,7 +330,7 @@ Try to imagine how God might be glorified by having the church be a central part
 
 After discussing the importance of the church in God’s work, take time to pray about the challenges and fears in having the church play a central role in the work/ministry ahead.
 
-### Community Study: Reasons We Serve: Evaluating Our Motivations for Ministry
+## Community Study: Reasons We Serve—Evaluating Our Motivations for Ministry
 
 - **Key Idea**: having the right reasons to serve God
 - **Key Passage**: Colossians 3:23
@@ -368,7 +366,7 @@ Take some time to think about your own motivations for serving God in this minis
 
 As a group, pray for God to fill your whole community with the right motivations for ministry. Kneeling in prayer can help us recognize our deep need for God’s help. Encourage members of the community to kneel on the ground as they pray to God.
 
-### Community Study: Confidence in the Work: God Completes His Purposes
+## Community Study: Confidence in the Work—God Completes His Purposes
 
 - **Key Idea**: trusting God to finish his work
 - **Key Passage**: Psalm 90:16-17

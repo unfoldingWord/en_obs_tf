@@ -121,6 +121,8 @@ When Joshua was an old man, he called all the people of Israel together. Then Jo
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-6#Community Study: Spiritual Battle—Taking Every Thought Captive.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

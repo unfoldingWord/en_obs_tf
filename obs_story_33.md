@@ -111,6 +111,8 @@ This story confused the disciples. So Jesus explained, “The seed is the word o
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-10#Community Study: Good and Faithful Servants—Bearing Fruit as God’s Stewards.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

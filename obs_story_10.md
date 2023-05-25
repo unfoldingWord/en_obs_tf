@@ -110,6 +110,8 @@ Even after these nine plagues, Pharaoh still refused to let the Israelites go fr
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-5#Community Study: Things Which Are Not Proper—Recognizing the Community Damage of Sin.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

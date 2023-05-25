@@ -131,6 +131,8 @@ Then God told Moses to go to the top of a mountain so he could see the Promised 
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-5#Community Study: Godly Wisdom—Living by the Wisdom from Above.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

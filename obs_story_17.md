@@ -129,6 +129,8 @@ But David’s baby boy died. This is how God punished David. Also, until David d
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-6#Community Study: Taught in Jesus—Putting on the New Self.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

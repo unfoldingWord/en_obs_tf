@@ -137,6 +137,8 @@ God revealed to the prophets many things about the Messiah, but the Messiah did 
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-7#Community Study: An Important Practice—Forgiving One Another.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

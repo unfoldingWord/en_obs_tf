@@ -141,6 +141,8 @@ The believers continually listened as the apostles taught them. They often met t
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-12#Community Study: One Community—Allowing Our Unity to Be a Witness to the World.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

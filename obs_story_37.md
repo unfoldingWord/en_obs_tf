@@ -124,6 +124,8 @@ But the religious leaders of the Jews envied Jesus, so they gathered together to
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-10#Community Study: Unless the Lord—Working God’s Power.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

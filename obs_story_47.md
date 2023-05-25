@@ -150,6 +150,8 @@ Paul and other leaders of the believers traveled to many cities. They preached a
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-12#Community Study: Seasoned Community—Open Doors for Gospel Work.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

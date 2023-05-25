@@ -152,6 +152,8 @@ Finally, the people asked God for a king like all the other nations had. They wa
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-6#Community Study: Personal Transformation—Renewing Your Mind.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.
@@ -184,7 +186,6 @@ After being oppressed for many years, the Israelites would reprint and ask God t
 
 #### 16-03
 
-Ho
 How did God respond when the Israelites cried out for help?  
 Each time the Israelite repented, God would rescue his people by sending them a deliverer.
 

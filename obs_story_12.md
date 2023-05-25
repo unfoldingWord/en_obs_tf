@@ -123,6 +123,8 @@ God commanded the Israelites to celebrate a festival every year in order to reme
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-5#Community Study: Bearing Godly Fruit—Making Progress in the Faith.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

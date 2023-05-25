@@ -100,6 +100,8 @@ Jesus did not give in to Satan’s temptations, so Satan left him. Then angels c
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-8#Community Study: We Are Strong When Weak—Doing Ministry in God’s Strength.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

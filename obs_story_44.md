@@ -118,6 +118,8 @@ The leaders were shocked that Peter and John spoke so boldly. They saw that thes
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-12#Community Study: Loving Community—Treating Others Like God Treats Them.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

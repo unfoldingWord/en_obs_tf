@@ -128,6 +128,8 @@ Jesus said to his disciples, “God has given me the right to rule over everyone
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-11#Community Study: Deep Commitment—Building Loyalty in Personal Relationships.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

@@ -135,6 +135,8 @@ Some religious leaders saw Jesus talking to these people as friends. So they beg
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-10#Community Study: Choosing the Best—Enjoying Jesus as We Serve.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

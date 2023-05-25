@@ -117,6 +117,8 @@ Then Jesus said, “I tell you, God heard the tax collector’s prayer, and decl
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-10#Community Study: Approved Servants—Aiming to Please God Most of All.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

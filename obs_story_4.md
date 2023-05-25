@@ -84,6 +84,8 @@ Then God made a covenant with Abram. Normally, a covenant is an agreement betwee
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-4#Community Study: One Body, Many Members—Enjoying God’s Design of Christian Community.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

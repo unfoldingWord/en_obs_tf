@@ -151,6 +151,8 @@ The woman fell on her knees before Jesus, shaking and very afraid. Then she told
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-9#Community Study: Armed for Battle—Equipping Ourselves for Spiritual Warfare.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

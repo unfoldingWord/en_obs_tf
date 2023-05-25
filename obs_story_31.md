@@ -103,6 +103,8 @@ Then Peter and Jesus got into the boat, and the wind immediately stopped blowing
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-9#Community Study: We Rejoice—Finding Joy in Suffering.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

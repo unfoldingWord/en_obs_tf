@@ -111,6 +111,8 @@ When these men saw Jesus with his mother, they bowed down and worshiped him. The
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-8#Community Study: Servant of All—Viewing Our Leadership as Service.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

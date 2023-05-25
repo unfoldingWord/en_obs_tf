@@ -149,6 +149,8 @@ As the soldiers were seizing Jesus, Peter pulled out his sword and cut off the e
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-11#Community Study: Godly Relationships—Vital Foundations for Personal Relationships.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

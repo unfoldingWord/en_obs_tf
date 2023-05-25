@@ -106,6 +106,8 @@ God had told John, “The Holy Spirit will come down and stay on someone you bap
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-8#Community Study: Entrusted by God—Doing Ministry in a Trustworthy Way.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.

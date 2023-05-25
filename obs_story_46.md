@@ -126,6 +126,8 @@ One day, the followers of Jesus at Antioch were fasting and praying. The Holy Sp
 
 <!-- page break -->
 
+\##./obs_source/transclusions//obs-devotionals-unit-12#Community Study: Mission Community—Embracing God’s Purpose.md NOT FOUND!!
+
 ## Biblical Interpretation: Observing the Details of the Story
 
 After reading the crafted biblical story, answer the following questions to familiarize yourself with the details of the story.
