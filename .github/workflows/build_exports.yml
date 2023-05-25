@@ -60,6 +60,7 @@ jobs:
           ls
       - name: Transform Markdown for Web and Push
         run: |
+          sudo mkdir -p ./transformed_md
           sudo git config --global user.name 'github-actions[bot]'
           sudo git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           sudo yq e -i '.variables.transclusions-directory-path = "./obs_source/transclusions"' ./obs_source/exportScripts/defaults/export.md.yaml
@@ -67,18 +68,19 @@ jobs:
           for file in ./obs_source/*.md; do
             echo "Transforming from md to md for $file..."
             file_name=$(basename "$file")
-            sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.md.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.md.lua "$file" -o "./obs_tf_web/transformed_md/${file_name}"
+            sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.md.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.md.lua "$file" -o "./transformed_md/${file_name}"
           done
 
-          sudo python ./obs_tf_web/deployment_scripts/transform_md.py ./obs_source ./obs_tf_web/transformed_md
+          sudo python ./obs_tf_web/deployment_scripts/transform_md.py ./obs_source ./transformed_md
 
-          for file in ./obs_tf_web/transformed_md/*.md; do
+          for file in ./transformed_md/*.md; do
             echo "Fixing hashes and image paths in $file..."
             sudo sed -i 's/#########/#####/g' $file
             sudo sed -i 's/\\images/.\\assets\\images/g' $file
           done
 
-          cd ./obs_tf_web/transformed_md
+          sudo cp ./transformed_md/*.md ./obs_tf_web
+          cd ./obs_tf_web
           if [[ -n $(git status --porcelain) ]]; then
             sudo git add -A
             sudo git commit -m "Automated commit by GitHub Actions"
