@@ -75,7 +75,7 @@ jobs:
           for file in ./obs_tf_web/transformed_md/*.md; do
             echo "Fixing hashes and image paths in $file..."
             sudo sed -i 's/#########/#####/g' $file
-            sudo sed -i 's/\\\\images/.\\\\assets\\\\images/g' $file
+            sudo sed -i 's/\\images/.\\assets\\images/g' $file
           done
 
           cd ./obs_tf_web/transformed_md
