@@ -1,3 +1,8 @@
+---
+title: Open Bible Stories
+subtitle: The Creation
+layout: obs_story
+---
 ## Introduction
 
 ### Key Idea
