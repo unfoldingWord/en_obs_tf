@@ -63,10 +63,15 @@ jobs:
           sudo mkdir -p ./transformed_md
           sudo git config --global user.name 'github-actions[bot]'
           sudo git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          sudo cp ./obs_source/transclusions ./obs_source
           sudo yq e -i '.variables.transclusions-directory-path = "./obs_source/transclusions"' ./obs_source/exportScripts/defaults/export.md.yaml
 
           for file in ./obs_source/*.md; do
+            echo "Transforming from md to md for $file..."
+            file_name=$(basename "$file")
+            sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.md.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.md.lua "$file" -o "./transformed_md/${file_name}"
+          done
+
+          for file in ./obs_source/transclusions/*.md; do
             echo "Transforming from md to md for $file..."
             file_name=$(basename "$file")
             sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.md.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.md.lua "$file" -o "./transformed_md/${file_name}"
