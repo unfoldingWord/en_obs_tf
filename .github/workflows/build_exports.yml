@@ -69,7 +69,7 @@ jobs:
             file_name=$(basename "$file")
             echo "Extracted base file name $file_name."
             echo "Preparing to write to: ./obs_tf_web/transformed_md/${file_name}.md"
-            sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.md.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.md.lua "$file" -o "./obs_tf_web/transformed_md/${file_name}.md"
+            sudo pandoc --defaults ./obs_source/exportScripts/defaults/export.md.yaml --lua-filter=./obs_source/exportScripts/lua-filters/obs.filter.md.lua "$file" -o "./obs_tf_web/transformed_md/${file_name}"
           done
 
           sudo python ./obs_tf_web/deployment_scripts/transform_md.py ./obs_source ./obs_tf_web/transformed_md

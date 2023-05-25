@@ -15,6 +15,8 @@ def build_yaml_map(source_dir):
                             break
                         if '---' in line:
                             yaml_dash_line_count = yaml_dash_line_count + 1
+                            if yaml_dash_line_count == 2:
+                                yaml_map[filename].append("layout: obs_story\n")
                         if filename not in yaml_map:
                             print(f'adding {filename} to yaml map...')
                             yaml_map[filename] = []
