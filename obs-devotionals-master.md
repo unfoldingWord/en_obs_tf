@@ -2,8 +2,8 @@
 
 - [ ] Orientation 2 sessions on God's Word reframe devotions and main session/M-T Brief
 - [ ] Evaluate Gaps in Community Formation at Unit and Study Level
-- [ ] Discern overlay with OBS
-- [ ] Edit for Unit level categories, content, grammar/copyediting 
+- [x] Discern overlay with OBS
+- [x] Edit for Unit level categories, content, grammar/copyediting 
 - [ ] Look for repeated content
 
 
@@ -3221,8 +3221,8 @@ Sing a song that encourages your community to continue to serve the Lord with fu
 
 - [ ] Orientation 2 sessions on God’s Word reframe devotions and main session/M-T Brief
 - [ ] Evaluate Gaps in Community Formation at Unit and Study Level
-- [ ] Discern overlay with OBS
-- [ ] Edit for Unit level categories, content, grammar/copyediting
+- [x] Discern overlay with OBS
+- [x] Edit for Unit level categories, content, grammar/copyediting
 - [ ] Look for repeated content
 
 # Community Formation for Christian Work: Devotions for Cultivating Christian Community
