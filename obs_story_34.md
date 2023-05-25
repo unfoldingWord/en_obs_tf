@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: Jesus Teaches Other Stories
 layout: obs_story
+story_num: 34
 ---
 ## Introduction
 

@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: The Promised Land
 layout: obs_story
+story_num: 15
 ---
 ## Introduction
 

@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: God's Covenant with Abraham
 layout: obs_story
+story_num: 4
 ---
 ## Introduction
 

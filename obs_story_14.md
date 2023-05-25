@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: Wandering in the Wilderness
 layout: obs_story
+story_num: 14
 ---
 ## Introduction
 

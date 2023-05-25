@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: The Birth of John
 layout: obs_story
+story_num: 22
 ---
 ## Introduction
 

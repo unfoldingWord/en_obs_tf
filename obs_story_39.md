@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: Jesus Is Put on Trial
 layout: obs_story
+story_num: 39
 ---
 ## Introduction
 

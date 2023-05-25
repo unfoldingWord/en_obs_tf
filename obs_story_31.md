@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: Jesus Walks on Water
 layout: obs_story
+story_num: 31
 ---
 ## Introduction
 

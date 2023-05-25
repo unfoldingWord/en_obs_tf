@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: Sin Enters the World
 layout: obs_story
+story_num: 2
 ---
 ## Introduction
 

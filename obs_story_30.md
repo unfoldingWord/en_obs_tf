@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: Jesus Feeds Thousands of People
 layout: obs_story
+story_num: 30
 ---
 ## Introduction
 

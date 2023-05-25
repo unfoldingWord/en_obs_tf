@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: God Blesses Jacob
 layout: obs_story
+story_num: 7
 ---
 ## Introduction
 

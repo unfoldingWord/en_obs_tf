@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: The Prophets
 layout: obs_story
+story_num: 19
 ---
 ## Introduction
 

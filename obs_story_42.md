@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: Jesus Returns to Heaven
 layout: obs_story
+story_num: 42
 ---
 ## Introduction
 

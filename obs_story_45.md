@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: Stephen and Philip
 layout: obs_story
+story_num: 45
 ---
 ## Introduction
 

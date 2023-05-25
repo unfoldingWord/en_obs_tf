@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: Jesus Raises Lazarus from the Dead
 layout: obs_story
+story_num: 37
 ---
 ## Introduction
 

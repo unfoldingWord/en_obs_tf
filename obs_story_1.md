@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: The Creation
 layout: obs_story
+story_num: 1
 ---
 ## Introduction
 

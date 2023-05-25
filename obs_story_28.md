@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: The Rich Young Ruler
 layout: obs_story
+story_num: 28
 ---
 ## Introduction
 

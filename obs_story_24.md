@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: John Baptizes Jesus
 layout: obs_story
+story_num: 24
 ---
 ## Introduction
 

@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: Satan Tempts Jesus
 layout: obs_story
+story_num: 25
 ---
 ## Introduction
 

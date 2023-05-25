@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: The Ten Plagues
 layout: obs_story
+story_num: 10
 ---
 ## Introduction
 

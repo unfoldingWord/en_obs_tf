@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: The Deliverers
 layout: obs_story
+story_num: 16
 ---
 ## Introduction
 

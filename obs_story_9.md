@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: God Calls Moses
 layout: obs_story
+story_num: 9
 ---
 ## Introduction
 

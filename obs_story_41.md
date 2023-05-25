@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: God Raises Jesus from the Dead
 layout: obs_story
+story_num: 41
 ---
 ## Introduction
 

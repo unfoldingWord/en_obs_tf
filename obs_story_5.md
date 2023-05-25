@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: The Son of Promise
 layout: obs_story
+story_num: 5
 ---
 ## Introduction
 

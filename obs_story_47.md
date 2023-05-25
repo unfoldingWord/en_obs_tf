@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: Paul and Silas in Philippi
 layout: obs_story
+story_num: 47
 ---
 ## Introduction
 

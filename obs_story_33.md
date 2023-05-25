@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: The Story of the Farmer
 layout: obs_story
+story_num: 33
 ---
 ## Introduction
 

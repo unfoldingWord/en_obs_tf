@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: God Saves Joseph and His Family
 layout: obs_story
+story_num: 8
 ---
 ## Introduction
 

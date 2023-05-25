@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: Peter and John Heal a Beggar
 layout: obs_story
+story_num: 44
 ---
 ## Introduction
 

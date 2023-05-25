@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: The Divided Kingdom
 layout: obs_story
+story_num: 18
 ---
 ## Introduction
 

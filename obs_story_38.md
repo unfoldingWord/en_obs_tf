@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: Jesus Is Betrayed
 layout: obs_story
+story_num: 38
 ---
 ## Introduction
 

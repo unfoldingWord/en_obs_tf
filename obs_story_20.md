@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: The Exile and Return
 layout: obs_story
+story_num: 20
 ---
 ## Introduction
 

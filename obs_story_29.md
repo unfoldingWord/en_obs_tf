@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: The Story of the Unmerciful Servant
 layout: obs_story
+story_num: 29
 ---
 ## Introduction
 

@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: Jesus Heals a Demon-Possessed Man and a Sick Woman
 layout: obs_story
+story_num: 32
 ---
 ## Introduction
 

@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: God's Covenant with David
 layout: obs_story
+story_num: 17
 ---
 ## Introduction
 

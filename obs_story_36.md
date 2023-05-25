@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: The Transfiguration
 layout: obs_story
+story_num: 36
 ---
 ## Introduction
 

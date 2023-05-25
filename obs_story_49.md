@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: God's New Covenant
 layout: obs_story
+story_num: 49
 ---
 ## Introduction
 

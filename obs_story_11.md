@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: The Passover
 layout: obs_story
+story_num: 11
 ---
 ## Introduction
 

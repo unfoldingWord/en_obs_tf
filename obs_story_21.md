@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: God Promises the Messiah
 layout: obs_story
+story_num: 21
 ---
 ## Introduction
 

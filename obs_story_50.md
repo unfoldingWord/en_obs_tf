@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: Jesus Returns
 layout: obs_story
+story_num: 50
 ---
 ## Introduction
 

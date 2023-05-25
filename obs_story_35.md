@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: The Story of the Compassionate Father
 layout: obs_story
+story_num: 35
 ---
 ## Introduction
 

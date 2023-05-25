@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: The Birth of Jesus
 layout: obs_story
+story_num: 23
 ---
 ## Introduction
 

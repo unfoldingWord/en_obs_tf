@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: Jesus Starts His Ministry
 layout: obs_story
+story_num: 26
 ---
 ## Introduction
 

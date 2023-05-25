@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: Saul Becomes a Follower of Jesus
 layout: obs_story
+story_num: 46
 ---
 ## Introduction
 

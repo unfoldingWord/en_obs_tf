@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: Jesus Is Crucified
 layout: obs_story
+story_num: 40
 ---
 ## Introduction
 

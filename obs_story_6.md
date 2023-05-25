@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: God Provides for Isaac
 layout: obs_story
+story_num: 6
 ---
 ## Introduction
 

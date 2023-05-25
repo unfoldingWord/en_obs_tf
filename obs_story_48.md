@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: Jesus Is the Promised Messiah
 layout: obs_story
+story_num: 48
 ---
 ## Introduction
 

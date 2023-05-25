@@ -2,6 +2,7 @@
 title: Open Bible Stories
 subtitle: The Church Begins
 layout: obs_story
+story_num: 43
 ---
 ## Introduction
 
