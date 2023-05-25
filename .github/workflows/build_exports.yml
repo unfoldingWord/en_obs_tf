@@ -64,7 +64,7 @@ jobs:
           sudo git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           sudo yq e -i '.variables.transclusions-directory-path = "./obs_source/transclusions"' ./obs_source/exportScripts/defaults/export.md.yaml
 
-          python ./deployment_scripts/transform_md.py ./obs_source ./obs_tf_web/transformed_md
+          sudo python ./obs_tf_web/deployment_scripts/transform_md.py ./obs_source ./obs_tf_web/transformed_md
 
           cd ./obs_tf_web/transformed_md
           if [[ -n $(git status --porcelain) ]]; then
