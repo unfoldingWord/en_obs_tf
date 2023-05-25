@@ -93,7 +93,49 @@ After this, Elizabeth gave birth to her baby boy. Zechariah and Elizabeth named 
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-8#Community Study: Last of All—Understanding True Greatness.md NOT FOUND!!
+## Community Study: Last of All—Understanding True Greatness
+
+- **Key Idea**: laying the foundation of all ministry
+- **Key Passage**: Mark 9:31-35
+- **Main Session**: OBS 22 (The Birth of John)
+
+### Sing a Song (3–5 minutes)
+
+Choose a song to sing to praise God and encourage one another.
+
+### Memorize Creedal Verse (3-5 minutes)
+
+Divide your community into groups of 2-3 people. In your groups, have a different person read the verse out loud while the others listen and try to say it while it is read. Have each person in the group take turns reading out loud. Then, after a few minutes, take turns reciting this passage as a group.
+
+> See, I am about to send my messenger, and he will prepare the way before me. Malachi 3:1
+
+OR
+
+> “I say to you, among those born of women none is greater than John. Yet the one who is least in the kingdom of God is greater than he is.” Luke 7:28
+
+### Read the Passage (1-2 minutes)
+
+Disciples of Jesus treat should have different values than those who do not follow Jesus. Many people put themselves first and seek to be great. God wants his people to be servants of others and practice humility. Read the following Bible story together as a community.
+
+> 31 \[Jesus\] was teaching his disciples. He said to them, “The Son of Man will be delivered into the hands of men, and they will put him to death. When he has been put to death, after three days he will rise again.” 32 But they did not understand this statement, and they were afraid to ask him. 33 Then they came to Capernaum. After he entered the house he asked them, “What were you discussing on the way?” 34 But they were silent. For they had been arguing with one with another on the way about who was the greatest. 35 Sitting down, he called the twelve together and he said to them, “If anyone wants to be first, he must be last of all and servant of all.” Mark 9:31-35
+
+### Discuss the Passage (10-15 minutes)
+
+The above story will help your community have a godly way of being leaders in the church. As a community, use the following questions to discuss the teaching of the biblical story.
+
+1.  In this story, what were Jesus’ disciples arguing about?
+2.  What did Jesus tell them about what it means to be really great?
+3.  How can a personal desire for greatness upset and divide a community/team?
+4.  What would it look like for you to serve the other members of your team and your church community?
+
+### Prayer of Service (5 minutes)
+
+Have each member of the community get on their knees. Take turns praying for God to help each of you follow Jesus’ teaching (i.e., to not have wrong desires for greatness and to become servants to others). Use the short prayers below to help you start your prayers.
+
+> God, forgive us for the wrong desire to…
+> God, help us to serve others by…
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

@@ -100,7 +100,58 @@ Jesus and the three disciples went back down the mountain. Then Jesus said to th
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-10#Community Study: Paying Attention—Maintaining Focus on God’s Calling.md NOT FOUND!!
+## Community Study: Paying Attention—Maintaining Focus on God’s Calling
+
+- **Key Idea**: removing distractions from God’s work
+- **Key Passage**: Hebrews 12:1–3
+- **Main Session**: OBS 36 (The Transfiguration)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> 14 The Word became flesh and lived among us. We have seen his glory, glory as of the one and only who came from the Father, full of grace and truth. John 1:14
+
+OR
+
+> 31 Therefore, whether you eat or drink, or whatever you do, do all to the glory of God 1 Corinthians 10:31
+
+### Identify Distractions (5–10 minutes)
+
+We all face distractions that can take our attention away from God’s work. Identify distractions that cause you to lose focus on God’s work. As a community, discuss these distractions together.
+
+> I can easily get distracted from God’s work for these reasons…
+
+### Read the Passage (3–5 minutes)
+
+Jesus is the perfect example of remaining focused to accomplish God’s work. He even endured great suffering to accomplish the work of salvation. As a community, read the following Bible passage together to understand how Jesus teaches us to remain focused on God’s work.
+
+> 1 Therefore, since we are surrounded by such a large cloud of witnesses, let us lay aside every weight and easily entangling sin. Let us patiently run the race that is placed before us. 2 Let us pay attention to Jesus, the founder and perfecter of the faith. For the joy that was placed before him, he endured the cross, despised its shame, and sat down at the right hand of the throne of God. 3 So think about him, the one who has endured such opposition from sinners against himself, so that you do not become weary in your hearts and give up. Hebrews 12:1–3
+
+### Discuss the Passage (10-15 minutes)
+
+God wants us to remove distractions and remain focused on his work. This passage highlights Jesus’ perfect example of doing this. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  How did Jesus remain focused to accomplish God’s work? How is this an example to us?
+2.  How does this passage call us to stay focused on God’s work?
+3.  What hardships can we expect to face as we focus on God’s work?
+4.  How can your community encourage one another to remain faithful and focused on God’s work? How can your community build rhythms to make sure you encourage each other on a regular basis?
+
+### Encouraging One Another (5 minutes)
+
+Take a moment to encourage another person in your community. Specifically, encourage them to remain focused on God’s work like Jesus.
+
+> I want to encourage you to…
+
+### Pray to God (5 minutes)
+
+After encouraging one another, pray for each other that God will supply the encouragement, joy, and focus needed to continue the work together.
+
+### Sing a Song (3–5 minutes)
+
+Choose a song to sing that helps your community celebrate Jesus’ faithful and focused work. Sing this song together as a community.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

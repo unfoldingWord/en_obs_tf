@@ -76,7 +76,48 @@ When Rebekah’s babies were born, the older son came out red and hairy, and the
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-4#Community Study: The Bond of Peace—Maintaining the Unity of the Community.md NOT FOUND!!
+## Community Study: The Bond of Peace—Maintaining the Unity of the Community
+
+- **Key Idea**: preserving the unity that God has established
+- **Key Passage**: Ephesians 4:1-6
+- **Main Session**: OBS 6 (God Provides for Isaac)
+
+### Sing to God (3–5 minutes)
+
+Sing a song together that praises God and encourages the community.
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> But I took your father \[Abraham\] from beyond the Euphrates and led him into the land of Canaan and gave him many descendants through his son Isaac. Then to Isaac I gave Jacob and Esau. Joshua 24:3-4
+
+### Read the Passage (5 minutes)
+
+God wants Christians to be unified as a community. The Holy Spirit unites Christians together to act as one people. God wants each person to maintain the unity of God’s people. This unity reflects God himself: one God who eternally exists as three persons—God the Father, God the Son, and God the Holy Spirit. In order to understand God’s design of Christian community, read the passage below.
+
+> 4:1 I, therefore, as the prisoner for the Lord, urge you to walk worthily of the calling by which you were called. 2 I urge you to live with great humility and gentleness and patience, putting up with one another in love. 3 Do your best to keep the unity of the Spirit in the bond of peace. 4 There is one body and one Spirit, just as also you were called in one certain hope of your calling. 5 And there is one Lord, one faith, one baptism, 6 and one God and Father of all, who is over all and through all and in all. Ephesians 4:1-6
+
+### Discuss the Idea (10–15 minutes)
+
+God says that the unity of Christians is really important. But it is not always easy to be unified with a diverse group of Christians. Use the following questions to explore what it means to be a part of a unified Christian community.
+
+1.  What does it mean to be one body that is made up of diverse/unique members? Why does God say that the unity of his people is so important?
+2.  What are the challenges of being unified as a Christian community?
+3.  How does this passage tell us to guard/protect the unity of God’s people?
+4.  How can you encourage and maintain unity among members/people in your community?
+
+### Name One Attitude (5 minutes)
+
+Reflect on the instructions given in the passage above. Name one characteristic or attitude that you want to develop (i.e., humility, gentleness, patience, putting up with one another, etc.). Think about how the community might grow in unity if you practiced that kind of life.
+
+> If I developed the attitude of \[choose one attitude\], then I would help the community look more like this…
+
+### Pray to God (5 minutes)
+
+After sharing the specific attitude you want to develop, divide your community into groups of 2–3 people. As you pray for each other, ask God to help each person in your group develop the attitude they identified. Also, pray for the overall unity of your community.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

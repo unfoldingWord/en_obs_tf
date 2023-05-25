@@ -104,7 +104,54 @@ Then Peter and Jesus got into the boat, and the wind immediately stopped blowing
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-9#Community Study: We Rejoice—Finding Joy in Suffering.md NOT FOUND!!
+## Community Study: We Rejoice—Finding Joy in Suffering
+
+- **Key Idea**: experiencing great joy in the midst of painful suffering
+- **Key Passage**: Romans 5:1-5
+- **Main Session**: OBS 31 (Jesus Walks on Water)
+
+### Pray to God (5 minutes)
+
+Divide the community into groups of 2–3 people. Have each member identify a challenge in their life that they are currently facing. Spend a short time praying for God’s comfort and peace in each of these personal situations.
+
+### Sing a Song (3–5 minutes)
+
+Choose a song to sing to praise God and encourage one another.
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> The men marveled and said, “What sort of man is this, that even the winds and the sea obey him?” Matthew 8:27
+
+OR
+
+> May the God and Father of our Lord Jesus Christ be praised. He is the Father of mercies and the God of all comfort. God comforts us in all our affliction, so that we can comfort those who are in any affliction. 1 Corinthians 1:3-4
+
+### Read the Passage (3–5 minutes)
+
+God provides comfort for his people in the midst of suffering and hardship. As a community, read the following Bible passage together to understand what it means to be committed to Jesus and his work.
+
+> 1 Since we are justified by faith, we have peace with God through our Lord Jesus Christ. 2 Through him we also have our access by faith into this grace in which we stand, and we rejoice in the certain hope of the glory of God. 3 Not only this, but we also rejoice in our sufferings. We know that suffering produces endurance. 4 Endurance produces character, and character produces certain hope, 5 and that hope does not disappoint because the love of God has been poured into our hearts through the Holy Spirit who was given to us. Romans 5:1-5
+
+### Discuss the Passage (10-15 minutes)
+
+Our commitment to God does not depend on our strength. God comforts and strengthens his people in the midst of suffering. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  How has Jesus made it possible for humans to have a restored relationship with God?
+2.  How does this passage tell believers to respond as they go through suffering and hardship?
+3.  Why can/should believers rejoice while they go through suffering and trials?
+4.  How can your community develop habits and practices that will encourage each other in the midst of suffering and persecution?
+
+### Share Your Thoughts
+
+Read the passage below. Then, think about what it means to endure suffering and hardship. Share your thoughts with the community.
+
+> 2 Consider it all joy, my brothers, when you experience various troubles. 3 You know that the testing of your faith produces endurance. 4 Let endurance complete its work, so that you may become fully developed and complete, not lacking anything. James 1:2-4
+
+> If we endure suffering in a way that pleases God, it would look like this…
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

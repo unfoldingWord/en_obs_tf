@@ -112,7 +112,58 @@ This story confused the disciples. So Jesus explained, “The seed is the word o
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-10#Community Study: Good and Faithful Servants—Bearing Fruit as God’s Stewards.md NOT FOUND!!
+## Community Study: Good and Faithful Servants—Bearing Fruit as God’s Stewards
+
+- **Key Idea**: approaching God’s work as God’s servants
+- **Key Passage**: Matthew 25:14-30
+- **Main Session**: OBS 33 (The Story of the Farmer)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> 5 I am the vine, you are the branches. He who remains in me and I in him, he bears much fruit, for without me you can do nothing. John 15:5
+
+OR
+
+> 10 We have been praying that you will walk worthily of the Lord in pleasing ways. We have been praying that you will bear fruit in every good deed and that you will grow in the knowledge of God. Colossians 1:10
+
+### Discuss Together (5–10 minutes)
+
+God wants his people to live fruitful and productive lives. Discuss together what characteristics describe a fruitful life and a fruitful community.
+
+> Some of the characteristics of a fruitful life and a fruitful community are…
+
+### Read the Passage (3–5 minutes)
+
+Only God can cause a life and a community to be fruitful. Nevertheless, Christians are responsible for being faithful with what God has entrusted to them. As a community, read the following Bible passage together to understand what it means to be faithful stewards in God’s service.
+
+> 14 For it is like when a man was about to go into another country. He called his own servants and gave over to them his wealth. 15 To one of them he gave five talents, to another he gave two, and to yet another he gave one talent. Each one received an amount according to his own ability, and that man went on his journey. 16 The one who received the five talents went at once and invested them and made another five talents. 17 Likewise the one who had received two talents made another two. 18 But the servant who had received one talent went away, dug a hole in the ground, and hid his master’s money. 19 Now after a long time the master of those servants came back and settled accounts with them. 20 The servant who had received the five talents came and brought another five talents. He said, ‘Master, you gave me five talents. See, I have made five talents more.’ 21 His master said to him, ‘Well done, good and faithful servant! You have been faithful over a few things. I will put you in charge over many things. Enter into the joy of your master.’ 22 The servant who had received two talents came and said, ‘Master, you gave me two talents. See, I have made two more talents.’ 23 His master said to him, ‘Well done, good and faithful servant! You have been faithful over a few things. I will put you in charge over many things. Enter into the joy of your master.’ 24 Then the servant who had received one talent came and said, ‘Master, I know that you are a strict man. You reap where you did not sow, and you harvest where you did not scatter. 25 I was afraid, so I went away and hid your talent in the ground. See, you have here what belongs to you.’ 26 But his master answered and said to him, ‘You wicked and lazy servant, you knew that I reap where I have not sowed and harvest where I have not scattered. 27 Therefore you should have given my money to the bankers, and at my coming I would have received back my own with interest. 28 Therefore take away the talent from him and give it to the servant who has ten talents. 29 For to everyone who possesses, more will be given—even more abundantly. But from anyone who does not possess anything, even what he does have will be taken away. 30 Throw the worthless servant into the outer darkness, where there will be weeping and grinding of teeth.’ Matthew 25:14-30
+
+### Discuss the Passage (10-15 minutes)
+
+We are servants of God’s work. Our responsibility is to be faithful to what God tells us to do. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  How does this passage describe faithful service? What made the good servants faithful in this passage?
+2.  What causes people to be unfaithful? How does this passage warn against unfaithful service?
+3.  What are the obstacles that make it hard to serve God as faithful stewards?
+4.  How can your community grow in its faithfulness to God? How can your community trust God to bring growth and fruit in your work?
+
+### Identify a Challenge (5 minutes)
+
+Reflect on the discussion above. Imagine what it would be for your community to be fruitful. Express this vision below.
+
+> To be fruitful as a community means…
+
+### Pray to God (5 minutes)
+
+Pray that God would help your community to be fruitful and faithful. Pray together as a large group and then pray for each other in groups of 2-3 people.
+
+### Sing a Song (3–5 minutes)
+
+Think of a song that calls you to faithful service. Sing this song as a community.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

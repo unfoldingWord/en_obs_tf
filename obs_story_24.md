@@ -107,7 +107,58 @@ God had told John, “The Holy Spirit will come down and stay on someone you bap
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-8#Community Study: Entrusted by God—Doing Ministry in a Trustworthy Way.md NOT FOUND!!
+## Community Study: Entrusted by God—Doing Ministry in a Trustworthy Way
+
+- **Key Idea**: developing a right self-understanding as a minister
+- **Key Passage**: 1 Corinthians 4:1-7
+- **Main Session**: OBS 24 (John Baptizes Jesus)
+
+### Sing a Song (3–5 minutes)
+
+Choose a song to sing to praise God and encourage one another.
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> John baptized with the baptism of repentance. He told the people that they should believe in the one who would come after him, that is, in Jesus. Acts 19:4
+
+OR
+
+> I have both seen and testified that this is the Son of God. John 1:34
+
+### Think Together (5 minutes)
+
+As a community, discuss how leaders in various spheres of life think about themselves. Try to explore the way leaders understand their position, power, and influence, in good and bad ways.
+
+> Many leaders in my culture think like this about themselves…
+
+### Read the Passage (3–5 minutes)
+
+Leaders should view themselves as servants of Jesus and stewards of God’s truth. As a community, read the following Bible passage together to understand a godly approach to leadership, power, and authority.
+
+> 4:1 This is how a person should regard us, as servants of Christ and stewards of the hidden truths of God. 2 Now what is required of stewards is that they are found to be trustworthy. 3 But for me it is a very small thing that I should be judged by you or by any human court. For I do not even judge myself. 4 I am not aware of any charge being made against me, but that does not mean I am innocent. It is the Lord who judges me. 5 Therefore do not pronounce judgment about anything before the time, before the Lord comes. He will bring to light the hidden things of darkness and reveal the purposes of the heart. Then each one will receive his praise from God. 6 Now, brothers, I applied these principles to myself and Apollos for your sakes, so that from us you might learn the meaning of the saying, “Do not go beyond what is written.” This is so that none of you may be puffed up in favor of one against the other. 1 Corinthians 4:1-7
+
+### Discuss the Passage (10-15 minutes)
+
+The way Christian leaders understand themselves and their work impacts the way they go about their leadership/ministry. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  In this passage, how are Christian leaders supposed to understand themselves and their role in God’s work?
+2.  Why is this understanding helpful and important to go about leadership/ministry in a godly way?
+3.  What other ways do leaders view themselves and their work that are not godly and against this passage? How are these ways of thinking similar to and different from the way this passage teaches us to think about ourselves?
+4.  How can the leaders in your community/network develop this mindset/way of approaching Christian leadership/ministry?
+
+### Describe Godly Leaders (5 minutes)
+
+Divide members of your community into groups of 2–3 people. Based on the discussion above, have each group describe how the church/community would be stronger and healthier if leaders viewed themselves the way this passage instructs them to view themselves.
+
+> If we viewed ourselves like servants and stewards, the church would become stronger in these ways…
+
+### Pray to God (5 minutes)
+
+Pray as a whole community that God would help you to approach your leadership/ministry in this way.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

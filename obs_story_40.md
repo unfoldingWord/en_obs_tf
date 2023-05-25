@@ -115,7 +115,64 @@ Then two Jewish leaders named Joseph and Nicodemus came and asked Pilate for Jes
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-11#Community Study: Genuine Trust—Cultivating Security in Personal Relationships.md NOT FOUND!!
+## Community Study: Genuine Trust—Cultivating Security in Personal Relationships
+
+- **Key Idea**: establishing a community where people can be open and honest
+- **Key Passage**: Psalm 28:7-9
+- **Main Session**: OBS 40 (Jesus Is Crucified)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> 18 Christ also suffered once for sins. He who is righteous suffered for us, who were unrighteous, so that he would bring us to God. 1 Peter 3:18
+
+OR
+
+> 24 He himself carried our sins in his body to the tree, so that we would have no more part in sin, and so that we would live for righteousness. By his bruises you have been healed. 1 Peter 2:24
+
+### Think about Trust (5–10 minutes)
+
+God wants people to trust Jesus. Jesus experienced much suffering and painfully died on the cross. God saves people when they trust in Jesus. Describe what you think it means to trust in Jesus.
+
+> To trust in Jesus means…
+
+> I can trust Jesus because…
+
+### Read the Passage (3–5 minutes)
+
+God is completely trustworthy. We learn to trust others as we grow in our trust in God. Read the passage below to learn about what God says about trust and protection.
+
+> 7 Yahweh is my strength and my shield; my heart trusts in him, and I am helped. Therefore my heart greatly rejoices, and I will praise him with singing. 8 Yahweh is the strength of his people, and he is the saving refuge of his anointed one. 9 Save your people and bless your inheritance. Be their shepherd and carry them forever. Psalm 28:7-9
+
+### Discuss the Passage (10-15 minutes)
+
+God provides protection and safety for his people. God’s people are the community of believers who trust in God. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  How does this passage instruct us to trust in God? What are the benefits and blessings of trusting in God?
+2.  How does this passage describe God’s protection of his people? What metaphors (figures of speech) are used to describe the way God keeps his people safe?
+3.  How does our trust in God help us be able to trust other people? What are some challenges that make it hard to trust one another?
+4.  Why is it important for your community to develop a deep trust in God and healthy trust in one another?
+
+### Describe Trust in God (5 minutes)
+
+Think about what it means to trust other people. Discuss what it would look like if your community was a community that trusted one another.
+
+> If our community was a community of trust, it would be like this…
+
+### Pray to God (5 minutes)
+
+Pray that God would help your community be a community of trust. After each person prays, have the whole group pray the Scripture passage together.
+
+> Gracious God, make our community a community of trust…
+
+> Pray Together: Those who trust in Yahweh are like Mount Zion, unshakable, forever enduring. Psalm 125:1
+
+### Sing a Song (3–5 minutes)
+
+Choose a song that celebrates God’s faithfulness. Sing this song together as a community.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

@@ -144,7 +144,60 @@ The Ethiopian continued traveling toward his home. He was happy that he now knew
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-12#Community Study: Christlike Community—Clothing Ourselves with Christ’s Character.md NOT FOUND!!
+## Community Study: Christlike Community—Clothing Ourselves with Christ’s Character
+
+- **Key Idea**: exemplifying the character of Christ in our relationship with each other
+- **Key Passage**: Colossians 3:12-17
+- **Main Session**: OBS 45 (Stephen and Philip)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> 15 He disarmed the powers and authorities and made a public spectacle of them, by being victorious over them by the cross. Colossians 2:15
+
+OR
+
+> 13 He has rescued us from the dominion of darkness and transferred us to the kingdom of his beloved Son. 14 In his Son we have redemption, the forgiveness of sins. Colossians 1:13-14
+
+### Reflect on God’s Power (5–10 minutes)
+
+God is powerful enough to change people and communities. The powers of darkness are not more powerful than God. God has full authority and power over Satan and his evil forces. Discuss together how you experienced God’s power in your own life.
+
+> I have experienced God’s power over evil in these ways…
+
+### Read the Passage (3–5 minutes)
+
+Jesus rules over all. He rules over the forces of darkness. And, Jesus rules over the hearts of his people. When Jesus reigns supreme, his people begin to look like Christ. Read the passage below to learn about the characteristics of believers when Christ rules.
+
+> 12 Therefore, as God’s chosen ones, holy and beloved, put on a heart of mercy, kindness, humility, gentleness, and patience. 13 Bear with one another. Be gracious to each other. If someone has a complaint against someone else, forgive in the same way that the Lord has forgiven you. 14 Above all these things, have love, which is the bond of perfection. 15 Let the peace of Christ rule in your hearts. It was for this peace that you were called in one body. And be thankful. 16 Let the word of Christ live in you richly. With all wisdom teach and admonish one another with psalms and hymns and spiritual songs. Sing with thankfulness in your hearts to God. 17 Whatever you do, in word or in deed, do all in the name of the Lord Jesus. Give thanks to God the Father through him. Colossians 3:12-17
+
+### Discuss the Passage (10-15 minutes)
+
+Christians embody the characteristics of Christ. These characteristics become true of our personal lives and community as we allow Jesus to rule and reign. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  What key characteristics should mark Christians? How are these characteristics exemplified in Christ?
+2.  What is the opposite of these characteristics? What negative characteristics do we need to renounce/remove if we want to live like Christ?
+3.  What are the instructions in this passage? How does this passage teach us to develop these characteristics in our lives and community?
+4.  What concrete actions and practices can your community take so that these characteristics are true of your community?
+
+### Celebrate the Present (5 minutes)
+
+Think about the change that God has powerfully brought into your life. Take time as a community to celebrate this change and name the specific characteristics listed in this passage. Use the following short prompts to help guide your time of testimony.
+
+> In the past I/we were like this…
+
+> Now, God’s power has changed us so that we are like this…
+
+### Pray to God (5 minutes)
+
+Pray as a whole community that God would help your community be more like the description in this passage. Use the passage above to guide your prayer.
+
+### Sing a Song (3–5 minutes)
+
+Identify a song that celebrates the character of Christ. Sing this song joyfully together.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

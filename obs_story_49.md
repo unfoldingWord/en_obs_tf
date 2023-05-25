@@ -176,7 +176,64 @@ God tells you to pray and to study his word. He also tells you to worship him to
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-13#Community Study: Community Thanksgiving—Expressing Gratitude to God.md NOT FOUND!!
+## Community Study: Community Thanksgiving—Expressing Gratitude to God
+
+- **Key Idea**: giving thanks to God for his great work
+- **Key Passage**: 2 Thessalonians 1:3-4
+- **Main Session**: OBS 49 (God’s New Covenant)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> 6 But now Christ has received a much better ministry, just as he is also the mediator of a better covenant, which is based on better promises. Hebrews 8:6
+
+OR
+
+> 9:1 I will give thanks to Yahweh with my whole heart; I will tell about all your marvelous deeds. Psalm 9:1
+
+### Remember Your Community Growth (5 minutes)
+
+Think about the ways your community has grown in the faith and experienced God’s goodness. Share these as a community.
+
+> These are some of the ways our community has grown and become strong in the faith…
+
+> These are some of the wonderful deeds God has done among us…
+
+### Read the Passage (3–5 minutes)
+
+Christian community becomes strong as it expresses thanksgiving to God. When God’s people are grateful, it makes the whole group of believers stronger. Read the passage below to learn about the important practice of thanksgiving.
+
+> 3 We should always give thanks to God for you, brothers. For this is appropriate, because your faith is growing more and more, and the love each of you has for one another increases. 4 So we ourselves speak proudly about you among the churches of God. We talk about your patience and faith in all your persecutions. We talk about the afflictions that you endure. 2 Thessalonians 1:3-4
+
+### Discuss the Passage (10-15 minutes)
+
+There are many reasons to be thankful. God is a good God who sustains his people and uses hardship to grow them in their faith. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  How does Paul express thanksgiving in this passage? What does it mean to give thanks to God for other people?
+2.  How can believers be thankful through hardship? How does this passage teach about this?
+3.  What negative things might happen to your community if you do not practice thanksgiving?
+4.  How can your community develop a healthy practice of thanksgiving and gratitude?
+
+### Express Gratitude (5 minutes)
+
+Think about the past months together as a community. Identify the hardships you endured, the people you appreciate, and reasons to be thankful to God. Share these together as a community.
+
+> When I think about the past months together, these are some of the hardships we endured…
+
+> When I think about the past months together, these are some of the people I am grateful for…
+
+> When I think about the past months together, these are some reasons I am thankful to God…
+
+### Pray to God (5 minutes)
+
+As a whole community, use the sentences in the above activity to guide you in prayer. Offer these prayers aloud as a community.
+
+### Sing a Song (3–5 minutes)
+
+Sing a song of thanksgiving to God. Praise him for his goodness to you and your community. Allow this song to encourage your community to endure hardship well.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

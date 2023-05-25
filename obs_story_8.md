@@ -126,7 +126,55 @@ The covenant promises that God gave to Abraham were passed on to Isaac, then to 
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-4#Community Study: Importance of Love—Making Love Central to Christian Relationships.md NOT FOUND!!
+## Community Study: Importance of Love—Making Love Central to Christian Relationships
+
+- **Key Idea**: treating one another with love
+- **Key Passage**: 1 Corinthians 13:1-8
+- **Main Session**: OBS 8 (God Saves Joseph and His Family)
+
+### Sing to God (3–5 minutes)
+
+Choose a song to sing to praise God and encourage one another.
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> Because the patriarchs were jealous of Joseph, they sold him into Egypt; but God was with him and rescued him from all his troubles. He gave Joseph favor and wisdom in the presence of Pharaoh, king of Egypt, who had made him governor over Egypt and over all his household. Acts 7:9-10
+
+### Think Together (5 minutes)
+
+One of the most important ways we can relate to one another is to love one another. We can only love one another if we have received God’s love in our own lives. Think together as a community for common ways (both right and wrong) that people, in general, think about love.
+
+> Many people think that love is…
+
+### Read the Passage (5 minutes)
+
+God tells us to love one another. Loving others is not an easy thing to do, but it is an important way to relate to each other. When Christians love each other, their work together and life together honors God. In order to understand God’s design of Christian community, read the passage below.
+
+> 13:1 Suppose that I speak with the tongues of men and of angels. But if I do not have love, I have become a noisy gong or a clanging cymbal. 2 Suppose that I have the gift of prophecy and understand all hidden truths and knowledge, and that I have all faith so as to remove mountains. But if I do not have love, I am nothing. 3 Suppose that I give all I own to feed the poor, and that I give my body to be burned. But if I do not have love, I gain nothing. 4 Love is patient and kind. Love does not envy or boast. It is not arrogant 5 or rude. It is not self-serving. It is not easily angered, nor does it keep a count of wrongs. 6 It does not rejoice in unrighteousness. Instead, it rejoices in the truth. 7 Love bears all things, believes all things, hopes all things, and endures all things. 8 Love never ends. 1 Corinthians 13:1-8
+
+### Discuss the Idea (10–15 minutes)
+
+Christian community is maintained by Christians loving one another. Use the following questions to explore what it means to be a part of a loving Christian community.
+
+1.  Why is love such an important way for Christians to relate to one another?
+2.  How does this passage help us understand what it means to love?
+3.  How is this description of love different from the ways other people (who are not believers) treat each other?
+4.  Why is it hard to love other Christians the way this passage tells us to?
+5.  How can your community grow in showing one another love?
+
+### Pick One Description (5 minutes)
+
+Reflect on the passage and discussion above. Identify one of the descriptions of love that most surprised you or that most challenged you. Explain why you found this description of love so surprising.
+
+> I was most surprised/challenged to learn that love is \[fill in one description from 1 Corinthians 13:1-8\] because…
+
+### Pray to God (5 minutes)
+
+Pray as a whole community that God would help each of you develop in love for one another. Also, thank God for the great love he has shown to people.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

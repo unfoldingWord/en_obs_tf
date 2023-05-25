@@ -111,7 +111,52 @@ After that, the disciples collected the food that had not been eaten. It was eno
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-9#Community Study: Do Not Be Surprised—Expecting and Enduring Suffering as a Christian.md NOT FOUND!!
+## Community Study: Do Not Be Surprised—Expecting and Enduring Suffering as a Christian
+
+- **Key Idea**: enduring suffering with Jesus’ peace and provision
+- **Key Passage**: 1 Peter 4:12-19
+- **Main Session**: OBS 30 (Jesus Feeds Thousands of People)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> 19 My God will meet all your needs according to his riches in glory in Christ Jesus. Philippians 4:19
+
+OR
+
+> I have spoken these things to you so that you will have peace in me. In the world you have troubles, but have courage, I have conquered the world. John 16:33
+
+### Read the Passage (3–5 minutes)
+
+Disciples of Jesus should expect suffering, hardship, and persecution. As a community, read the following Bible passage together to understand what it means to be committed to Jesus and his work.
+
+> 12 Beloved, do not regard as strange the testing in the fire that has happened to you, as if something strange were happening to you. 13 Instead, however much you experience the sufferings of Christ, rejoice, so that you may also rejoice and be glad at the revealing of his glory. 14 If you are insulted for Christ’s name, you are blessed, because the Spirit of glory and the Spirit of God is resting on you. 15 But let none of you suffer as a murderer, a thief, an evildoer, or a meddler. 16 But if anyone suffers as a Christian, let him not be ashamed; instead, let him glorify God with that name. 17 For it is time for judgment to begin with the household of God. If it begins with us, what will be the outcome for those who do not obey God’s gospel? 18 And “If it is difficult for the righteous to be saved, what will become of the ungodly and the sinner?” 19 Therefore let those who suffer because of God’s will entrust their souls to the faithful Creator in well-doing. 1 Peter 4:12-19
+
+### Discuss the Passage (10-15 minutes)
+
+Believers should not be surprised when they experience suffering. Unbelievers will oppose those who are committed to God and his work. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  What does this passage tell us to do when we experience suffering and persecution?
+2.  What suffering or persecution have you experienced because of your faith in Jesus?
+3.  How can your community prepare itself to endure suffering as you commit to God and his work?
+
+### Remember God’s Provision (5 minutes)
+
+Remember the ways that God has provided for you. Think about how God’s past provision can give you confidence as you face suffering and persecution. Use the following sentence to express your ideas.
+
+> God provided for me in this way…
+> This gives me the confidence to face suffering and persecution because…
+
+### Pray to God (5 minutes)
+
+Pray that God would make your community prepared for suffering and persecution. If anyone is facing suffering and persecution at the present time, have the community pray for those specific needs.
+
+### Sing a Song (3–5 minutes)
+
+Choose a song to sing to praise God and encourage one another.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

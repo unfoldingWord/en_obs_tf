@@ -38,8 +38,8 @@ Choose 1–2 songs that give thanks to God. Sing them together as a community.
 - **Key Passage**: Revelation 4:11
 - **Main Session**: OBS 1 (Creation)
 
- ### Recite the Creedal Verse (3-5 minutes)
- The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+### Recite the Creedal Verse (3-5 minutes)
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
 
 > "The everlasting God, Yahweh, the Creator of the ends of the earth, does not get tired or weary; there is no limit to his understanding." Isaiah 40:28
 
@@ -236,7 +236,8 @@ Choose 1–2 songs that give thanks to God. Sing them together as a community.
 - **Key Passage**: Revelation 4:11
 - **Main Session**: OBS 1 (Creation)
 
-\### Recite the Creedal Verse (3-5 minutes)
+### Recite the Creedal Verse (3-5 minutes)
+
 The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
 
 > “The everlasting God, Yahweh, the Creator of the ends of the earth, does not get tired or weary; there is no limit to his understanding.” Isaiah 40:28

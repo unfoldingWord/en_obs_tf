@@ -109,7 +109,52 @@ Then Jesus said, “This is what my heavenly Father will do to every one of you 
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-9#Community Study: Loving as Jesus Loved—Showing Genuine Care for One Another.md NOT FOUND!!
+## Community Study: Loving as Jesus Loved—Showing Genuine Care for One Another
+
+- **Key Idea**: showing love to one another
+- **Key Passage**: John 15:12-17
+- **Main Session**: OBS 29 (The Story of the Unmerciful Servant)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> 32 Be kind to each other, tenderhearted, forgiving one another, just as God in Christ forgave you. Ephesians 4:32
+
+OR
+
+> 14 For if you forgive people their trespasses, your heavenly Father will also forgive you. 15 But if you do not forgive their trespasses, neither will your Father forgive your trespasses. Matthew 6:14-15
+
+### Sing a Song (3–5 minutes)
+
+Choose a song to sing to praise God and encourage one another.
+
+### Read the Passage (3–5 minutes)
+
+Commitment to God involves our commitment to other believers. As a community, read the following Bible passage together to understand what it means to be committed to Jesus and his work.
+
+> 12 This is my commandment, that you love one another as I have loved you. 13 No one has greater love than this—that he lay down his life for his friends. 14 You are my friends if you do the things that I command you. 15 No longer do I call you servants, for the servant does not know what his master is doing. I have called you friends, for everything that I heard from my Father, I have made known to you. 16 You did not choose me, but I chose you and appointed you so that you would go and bear fruit, and that your fruit should remain. This is so that whatever you ask of the Father in my name, he will give it to you. 17 These things I command you, so that you love one another. John 15:12-17
+
+### Discuss the Passage (10-15 minutes)
+
+Christians can only love one another by first receiving God’s love for them. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  How does Jesus command his followers to relate to other believers?
+2.  What makes these instructions difficult? Why is it important for Christians to follow these instructions?
+3.  How does God’s love for us make it possible for us to love others?
+4.  How can your community obey Jesus’ teaching in this passage?
+
+### Share Your Thoughts (5 minutes)
+
+Think about how you can personally apply this passage to your life. Use the following sentence to help you clarify your thinking. Share you ideas with the rest of the community.
+
+> Because God has love me, I can love others in this way…
+
+### Pray to God (5 minutes)
+
+Pray that God would help your community be committed to God by being committed to one another. Ask God to protect your community from disunity and division in your relationships.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

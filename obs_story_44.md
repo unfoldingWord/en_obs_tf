@@ -119,7 +119,60 @@ The leaders were shocked that Peter and John spoke so boldly. They saw that thes
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-12#Community Study: Loving Community—Treating Others Like God Treats Them.md NOT FOUND!!
+## Community Study: Loving Community—Treating Others Like God Treats Them
+
+- **Key Idea**: acting toward each other with loving
+- **Key Passage**: Ephesians 4:25-5:2
+- **Main Session**: OBS 44 (Peter and John Heal a Beggar)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> 2 I give praise to Yahweh with all my life, and I remember all of his good deeds. 3 He forgives all your sins; he heals all your diseases. Psalm 103:2-3
+
+OR
+
+> 24 He himself carried our sins in his body to the tree, so that we would have no more part in sin, and so that we would live for righteousness. By his bruises you have been healed. 1 Peter 2:24
+
+### Name Key Behaviors (5–10 minutes)
+
+Think about how a loving community acts toward one another. Discuss together the specific actions that help a community love one another.
+
+> A community of believers that loves one another acts in this way…
+
+### Read the Passage (3–5 minutes)
+
+The church is a community of love. When people believe in Jesus, they are changed in their relationships with one another. Read the passage below to learn about what God teaches believers to relate to each other.
+
+> 4:25 Therefore, get rid of lies, and let each one of you speak truth with his neighbor, because we are members of one another. 26 Be angry and do not sin. Do not let the sun go down on your anger. 27 Do not give an opportunity to the devil. 28 The one who had been stealing must steal no longer. He must labor, doing useful work with his hands, so that he may have something to share with those who are in need. 29 Do not let any filthy talk come out of your mouth. Use only words that are helpful for building others up, according to their needs, that your words would be helpful to those who hear you. 30 And do not grieve the Holy Spirit of God, for it is by him that you were sealed for the day of redemption. 31 Put away all bitterness, rage, anger, quarreling, and insults, along with every kind of evil. 32 Be kind to each other, tenderhearted, forgiving one another, just as God in Christ forgave you. 5:1 Therefore be imitators of God, as dearly loved children. 2 And walk in love, as also Christ loved us and gave himself up for us, a fragrant offering and sacrifice to God. Ephesians 4:25-5:2
+
+### Discuss the Passage (10-15 minutes)
+
+The gospel transforms the way we treat each other. As believers, we need to learn new ways of doing relationships. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  What are the key instructions of this passage? How does this passage teach believers to treat each other?
+2.  How are these instructions different than the way unbelievers treat people?
+3.  Which of these instructions do you find most difficult? Why do you find this most difficult?
+4.  How can your community demonstrate love toward each other in these ways? What concrete rhythms and practices can you do to help cultivate love in your team/community?
+
+### Write Down a Name (5 minutes)
+
+Spend time in personal prayer. Ask God to reveal the name of one person in your community/team that he wants you to talk to. This can be a person he wants you to forgive, to encourage, or to appreciate. Write down the name of this person and what God wants you to say to them.
+
+> One person God wants me to speak to today is…
+
+> This is what God wants me to say to this person…
+
+### Pray to God (5 minutes)
+
+Pray as a whole community. Have members of your community pray the specific instructions of the passage. Ask God to help your community apply these instructions.
+
+### Sing a Song (3–5 minutes)
+
+Identify a song that expresses God’s love for his people and the love between God’s people. Sing this song together as a community.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

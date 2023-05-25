@@ -132,7 +132,64 @@ Pilate became afraid that the crowd would begin to riot, so he agreed to have hi
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-11#Community Study: Healthy Vulnerability—Naming Fears That Harm Personal Relationships.md NOT FOUND!!
+## Community Study: Healthy Vulnerability—Naming Fears That Harm Personal Relationships
+
+- **Key Idea**: identifying fears that cripple ministry and harm community
+- **Key Passage**: Proverbs 29:25
+- **Main Session**: OBS 39 (Jesus Is Put on Trial)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> See, we are going up to Jerusalem, and the Son of Man will be delivered to the chief priests and scribes. They will condemn him to death 19 and will deliver him to the Gentiles for them to mock, to flog, and to crucify him. But on the third day he will be raised up. Matthew 20:18-19
+
+OR
+
+> 22 He committed no sin, neither was any deceit found in his mouth. 23 When he was reviled, he did not revile back. When he suffered, he did not threaten back, but he gave himself to the one who judges justly. 1 Peter 2:22-23
+
+### Reflect on Your Fears (5–10 minutes)
+
+Jesus came to save people from sin. People falsely accused, mocked, and rejected Jesus. Many times, we can fear what other people think about us or what they might say about us. This fear can prevent us from having healthy relationships. Take a moment to privately reflect on some of your own fears about what other people might think or might say about you.
+
+> I am afraid that people might think (or say) this about me…
+
+> This fear causes me to feel and act in the following ways…
+
+### Read the Passage (3–5 minutes)
+
+Our personal fears and anxieties (i.e., our insecurities) can make it hard to trust other people. God wants us to find security and safety in him. Unfortunately, many people try to find security in other people and other things. Read the passage below to learn about what God says about fear and insecurity.
+
+> 25 The fear of man makes a snare, but the one who trusts in Yahweh will be protected. Proverbs 29:25
+
+### Discuss the Passage (10-15 minutes)
+
+When we fear what others think and say about us, we can feel anxious and insecure. God wants us to find safety and security in him. When we find our security in God, we are able to build healthy relationships of trust and vulnerability. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  What does this passage teach about fearing people? How is the fear of people a snare (trap)?
+2.  What are some fears, anxieties, and insecurities people experience? How can these fears be like a prison for us?
+3.  What does this passage teach about trusting God? How can trusting God help us overcome our fears and insecurities?
+4.  Why is it important for your community to resolve personal fears and insecurities?
+
+### Describe Trust in God (5 minutes)
+
+Think about what it means to trust God. Reflect on what it means for God to protect you. Complete the following sentence to express how your feelings, thoughts, and actions would change if you trusted God to protect you.
+
+> Because God protects me, I do not need to be afraid of…
+
+### Pray to God (5 minutes)
+
+Pray that God would remove fears and insecurities in your community. Have each member of your community say a brief prayer that God would provide protection and safety from fear and insecurity. After each person prays, have the whole group pray the Scripture passage together.
+
+> Gracious God, help me to no longer be afraid of…
+
+> Pray Together: I sought Yahweh and he answered me, and he gave me victory over all my fears. Psalm 34:4
+
+### Sing a Song (3–5 minutes)
+
+Choose a song that expresses trust in God for protection and safety. Sing this song together as a community.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

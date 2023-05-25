@@ -125,7 +125,60 @@ But the religious leaders of the Jews envied Jesus, so they gathered together to
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-10#Community Study: Unless the Lord—Working God’s Power.md NOT FOUND!!
+## Community Study: Unless the Lord—Working God’s Power
+
+- **Key Idea**: relying on God to make our work fruitful
+- **Key Passage**: Psalm 127:1-2
+- **Main Session**: OBS 37 (Jesus Raises Lazarus from the Dead)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> 21 For as the Father raises the dead and gives them life, so also the Son gives life to whomever he wishes. John 5:21
+
+OR
+
+> 39 See now that I, even I, am God, and that there is no god besides me; I kill, and I make alive; I wound, and I heal, and there is no one who can save you from my might. Deuteronomy 32:39
+
+### Acknowledging Our Need for God’s Power (5–10 minutes)
+
+God is powerful enough to raise people from the dead. This same God empowers us to go about his work. As a community, reflect on your need for God’s power in your community and work.
+
+> We need God’s power to help us in these ways…
+
+### Read the Passage (3–5 minutes)
+
+God wants you to serve him in God’s strength. Only God can energize us to serve him. As a community, read the following Bible passage together to understand the important truth that God is behind all of the work and success in our lives and ministries.
+
+> 1 Unless Yahweh builds the house, they work uselessly, those who build it. Unless Yahweh guards the city, the watchman stands guard uselessly. 2 It is useless for you to rise up early, to come home late, or to eat the bread of hard work, for Yahweh provides for his beloved as they sleep. Psalm 127:1-2
+
+### Discuss the Passage (10-15 minutes)
+
+God calls us to serve him with devotion and commitment. Nevertheless, God is the only source of strength and success in our lives. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  How does this passage describe our work for God? How can the image of building a house and watching over a city relate to the work of ministry?
+2.  How does this passage describe work that is not done in God’s strength?
+3.  How does this passage teach us to go about God’s work with healthy and godly rhythms of work and rest?
+4.  How can your community remain focused on God’s work and apply the principles of this passage to have a healthy approach to your work?
+
+### Enjoying God’s Power (5 minutes)
+
+Reflect on the above discussion. Consider how God’s strength and power can energize your work.
+
+> I know God is very powerful because of these things…
+
+> Because God is powerful, I can serve him in this way…
+
+### Pray to God (5 minutes)
+
+Pray that God will help your community to work in God’s strength. Pray as a large group, asking God to give you the strength and power to continue his work.
+
+### Sing a Song (3–5 minutes)
+
+Sing a song as a community that celebrates God’s strength, power, and might. Specifically, sing a song that celebrates God’s work of resurrection.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

@@ -122,7 +122,69 @@ When Joshua was an old man, he called all the people of Israel together. Then Jo
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-6#Community Study: Spiritual Battle—Taking Every Thought Captive.md NOT FOUND!!
+## Community Study: Spiritual Battle—Taking Every Thought Captive
+
+- **Key Idea**: engaging the spiritual battle in the mind
+- **Key Passage**: 2 Corinthians 10:3-5
+- **Main Session**: OBS 15 (The Promised Land)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> 44 Then Yahweh gave them rest on every side, just as he had sworn to their ancestors. Not one of their enemies could defeat them. Yahweh gave all their enemies into their hand. 45 Not one thing among all the good promises that Yahweh had spoken to the house of Israel failed to come true. All of them came to be. Joshua 21:44
+
+OR
+
+> 3 Call to mind the word that Moses the servant of Yahweh, commanded you when he said, ‘Yahweh your God is giving you rest, and he is giving you this land.’ Joshua 1:13
+
+### Think Together (5 minutes)
+
+God promised to give the Israelites a land where they would live in rest and peace. God caused the Israelites to defeat their enemies so they could live in this land of rest. Think about what a life of peace and rest would look like.
+
+> Rest and peace that comes from God would mean…
+
+### Read the Passage (5 minutes)
+
+One way that God wants to give us rest and peace is by causing us to have good and true thoughts. Our thoughts and beliefs affect the way we live our lives. Read the passage below to understand the battle that takes place in our minds.
+
+> 3 For even though we walk in the flesh, we do not wage war according to the flesh. 4 For the weapons we fight with are not fleshly. Instead, they have divine power to destroy strongholds. They bring to nothing misleading arguments. 5 We also destroy every high thing that rises up against the knowledge of God. We take every thought captive into obedience to Christ. 2 Corinthians 10:3-5
+
+### Discuss the Idea (10–15 minutes)
+
+The thoughts in our mind can be like a spiritual battle. God wants us to believe true and good things. Satan wants us to believe lies. We experience transformation in our lives as we start thinking the way that God wants us to think. After reading the passage above, use the following questions to help your community discuss biblical teaching on personal life transformation.
+
+1.  How does this passage describe the spiritual battle that Christians face?
+2.  What does God tell us to do to gain victory in this battle?
+3.  How have you seen your thoughts (either true thoughts or bad thoughts) affect the way you live your life?
+4.  Why is it important for your community to understand the spiritual battle that takes place in the mind?
+
+### Compare Thoughts (10 minutes)
+
+Think about how our thoughts affect the way we live our lives. Make a list of false ways of thinking that lead to bad ways of living. Then, identify the true way of thinking that would help you start to live in a way that pleases God.
+
+False Thought
+
+False Behavior
+
+True Thought
+
+### Pray to God (5 minutes)
+
+Pray for each member of your community that God would help them gain victory in the world of their thoughts. Divide into groups of 2–3 and use the specific language of the above passage to pray over each member.
+
+> God, help \[name of person\] to “not wage war according to the flesh”
+> God, help \[name of person\] to know “the weapons we fight with are not fleshly”
+> God, help \[name of person\] to know “they have divine power to destroy strongholds”
+> God, help \[name of person\] to “bring to nothing misleading arguments”
+> God, help \[name of person\] to “destroy every high thing that rises up against the knowledge of God”
+> God, help \[name of person\] to “take every thought captive into obedience to Christ”
+
+### Sing a Song (3–5 minutes)
+
+Choose a song that celebrates God’s victory over the enemy. Sing this song as praise to God and encouragement of one another.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

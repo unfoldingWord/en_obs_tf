@@ -142,7 +142,60 @@ The believers continually listened as the apostles taught them. They often met t
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-12#Community Study: One Community—Allowing Our Unity to Be a Witness to the World.md NOT FOUND!!
+## Community Study: One Community—Allowing Our Unity to Be a Witness to the World
+
+- **Key Idea**: celebrating the unity of Christian community
+- **Key Passage**: John 17:20-26
+- **Main Session**: OBS 43 (The Church Begins)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> 19 So then, now you Gentiles are no longer strangers and foreigners. Instead you are fellow citizens with the saints and members of God’s household. 20 You have been built on the foundation of the apostles and prophets, and Christ Jesus himself was the cornerstone. Ephesians 2:19-20
+
+OR
+
+> 8 Finally, all of you, be likeminded, compassionate, loving as brothers, tenderhearted, and humble. 1 Peter 3:8
+
+### Think about Unity and Disunity (5–10 minutes)
+
+Think about a time when you saw a group of people unified. Think of a time when you experienced a group of people divided. Describe these experiences.
+
+> When I saw a group of people unified together, it looked like this…
+
+> When I experienced a group of people divided, it looked like this…
+
+### Read the Passage (3–5 minutes)
+
+Jesus prayed that the church would function in unity as one community of faith. The unity of the church is one of its greatest testimonies to the wider world. Read the passage below to learn about what God teaches about the unity of believers.
+
+> 20 I pray not only for these, but also for those who will believe in me through their word 21 so that they will all be one, just as you, Father, are in me, and I am in you. May they also be in us so that the world will believe that you have sent me. 22 The glory that you gave me, I have given to them, so that they will be one, just as we are one: 23 I in them, and you in me—that they may be brought to complete unity, so that the world will know that you sent me, and that you have loved them just as you loved me. 24 Father, I want those you have given me to be with me where I am, and to see my glory, the glory you gave me because you loved me before the creation of the world. 25 Righteous Father, the world did not know you, but I know you; and these know that you sent me. 26 I made your name known to them, and I will make it known so that the love with which you have loved me will be in them, and I will be in them. John 17:20-26
+
+### Discuss the Passage (10-15 minutes)
+
+Working together as Christians can be difficult. It is important to remember the importance of functioning as a unified community of faith. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  What does Jesus pray for believers in this passage?
+2.  What does it mean for believers to be unified? What does it look like for believers to function as one?
+3.  What are the challenges that make it hard for believers to function as one? What kinds of things cause division in a community?
+4.  How can the unity of your community/team be a witness to the world?
+
+### Witness God’s Character (5 minutes)
+
+Jesus says that the unity of the church represents the unity of God the Father and God the Son. After exploring this passage, talk about what characteristics of God your community can witness as you are unified.
+
+> If we are a unified community, we can bear witness/represent these characteristics of God…
+
+### Pray to God (5 minutes)
+
+Pray that God would help your community be unified and one with each other. Use John 17:20-26 a guide for your prayer. Encourage different members of your community to pray parts of Jesus’ prayer out loud.
+
+### Sing a Song (3–5 minutes)
+
+Choose a song that expresses the unity of God’s people. Sing this song together as a community.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

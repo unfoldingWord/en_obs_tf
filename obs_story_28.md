@@ -115,7 +115,60 @@ Jesus answered, “Everyone who has left houses, brothers, sisters, father, moth
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-9#Community Study: Only One Master—Renouncing Things That Compromise Our Devotion.md NOT FOUND!!
+## Community Study: Only One Master—Renouncing Things That Compromise Our Devotion
+
+- **Key Idea**: removing obstacles to commitment
+- **Key Passage**: Matthew 6:19-24
+- **Main Session**: OBS 28 (The Rich Young Ruler)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> 13 No servant can serve two masters, for either he will hate the one and love the other, or else he will be devoted to one and despise the other. You cannot serve God and wealth.” Luke 16:13
+
+OR
+
+> “If anyone wants to come after me, he must deny himself and take up his cross daily and follow me. 24 Whoever would save his life will lose it, but whoever loses his life for my sake will save it. Luke 9:23-24
+
+### Think Together (5 minutes)
+
+Think about what it means to be committed to God as a servant is committed to a master. Describe how this would help explain what commitment to Jesus looks like.
+
+> Christians are committed to God like a servant is committed to a master. This means…
+
+### Read the Passage (3–5 minutes)
+
+Christians can only be fully committed to one master. As a community, read the following Bible passage together to understand what it means to be committed to Jesus and his work.
+
+> 19 Do not store up for yourselves treasures on the earth, where moth and rust destroy, and where thieves break in and steal. 20 Instead, store up for yourselves treasures in heaven, where neither moth nor rust destroys, and where thieves do not break in and steal. 21 For where your treasure is, there will your heart be also. 22 The eye is the lamp of the body. Therefore, if your eye is good, the whole body is filled with light. 23 But if your eye is bad, your whole body is full of darkness. Therefore, if the light that is in you is actually darkness, how great is that darkness! 24 No one can serve two masters, for either he will hate the one and love the other, or else he will be devoted to one and despise the other. You cannot serve God and wealth. Matthew 6:19-24
+
+### Discuss the Passage (10-15 minutes)
+
+Jesus tells his disciples to be fully committed to God. When Christians are fully committed to God, they live for things that last forever. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  How can we tell what we are really committed to?
+2.  What kinds of things threaten our commitment to God? What things do you/people treasure that can take their commitment away from God?
+3.  How does this passage help us understand what it means to be fully committed to God and his work?
+4.  How can your community grow in its undivided commitment to God?
+
+### Evaluate Your Own Heart (5 minutes)
+
+Think about what things you treasure in your heart. Identify those things that you treasure that will compete for your devotion to God.
+
+### Pray to God (5 minutes)
+
+Divide the community into groups of 2–3 people. Pray for other members of your group, using portions of the above passage. You can use the following examples to help guide your time of prayer.
+
+> God, guide \[name of person\] to store up for themselves treasures in heaven.
+> God, strengthen \[name of person\] to treasure things that last forever.
+> God, help \[name of person\] to not serve money but to serve you alone.
+
+### Sing a Song (3–5 minutes)
+
+Choose a song to sing to praise God and encourage one another.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

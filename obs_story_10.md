@@ -111,7 +111,48 @@ Even after these nine plagues, Pharaoh still refused to let the Israelites go fr
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-5#Community Study: Things Which Are Not Proper—Recognizing the Community Damage of Sin.md NOT FOUND!!
+## Community Study: Things Which Are Not Proper—Recognizing the Community Damage of Sin
+
+- **Key Idea**: acknowledging the negative impact of sin
+- **Key Passage**: Romans 1:28-32
+- **Main Session**: OBS 10 (The Ten Plagues)
+
+### Sing to God (3–5 minutes)
+
+Choose a song to sing to praise God and encourage one another.
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> The God of this people Israel chose our fathers and made the people numerous when they stayed in the land of Egypt, and with an uplifted arm he led them out of it. Acts 13:17
+
+### Read the Passage (5 minutes)
+
+When people reject God, they live in a way that dishonors God and harms others. Christians need to guard themselves against ungodly attitudes, behaviors, and desires. In order to understand the danger of such ungodliness, read the passage below.
+
+> 28 Because they did not approve of having God in their awareness, he gave them up to a depraved mind, for them to do those things that are not proper. 29 They have been filled with all unrighteousness, wickedness, covetousness, and malice. They are full of envy, murder, strife, deceit, and evil intentions. They are gossips, 30 slanderers, haters of God, insolent, arrogant, boastful, inventing ways of doing evil; they are disobedient to parents. 31 They are senseless, faithless, heartless, and unmerciful. 32 They understand the regulations of God, that those who practice such things are deserving of death. But not only do they do these things, they also approve of others who do them. Romans 1:28-32
+
+### Discuss the Idea (10–15 minutes)
+
+Christians should guard themselves against ways of life that are wrong and evil. Use the following questions to discuss the destructive effects of sin in the Christian community.
+
+1.  What are sinful effects that result when people reject God?
+2.  How do such sinful ways dishonor God and harm others?
+3.  Even though Christians have been set free from sin, how might these sinful ways still damage and disrupt the Christian community?
+4.  How can your community guard itself against these sinful ways?
+
+### Pick One from the List (5 minutes)
+
+Thinking about the list of sinful ways, pick one specific sin that you feel could disrupt your community life. Think out loud of the consequences that would result if this sinful way made inroads into your community.
+
+> If the sin of \[choose one from the passage above\] was present in our community, then the results would be…
+
+### Pray to God (5 minutes)
+
+Divide the community into groups of 2–3. Pray that God would guard you as individuals and as a community against the effects of these sinful ways.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

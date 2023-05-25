@@ -153,7 +153,60 @@ Finally, the people asked God for a king like all the other nations had. They wa
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-6#Community Study: Personal Transformation—Renewing Your Mind.md NOT FOUND!!
+## Community Study: Personal Transformation—Renewing Your Mind
+
+- **Key Idea**: aligning our thoughts with the truth as a means of growth
+- **Key Passage**: Romans 12:1-2
+- **Main Session**: OBS 16 (The Deliverers)
+
+### Sing a Song (3–5 minutes)
+
+Choose a song that praises God for his victory over sin. Sing this song to celebrate the victory that Jesus has given believers.
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> And after destroying seven nations in the land of Canaan, he gave them their land as an inheritance. All this took about 450 years. And after that he gave them judges until Samuel the prophet. Acts 13:19-20
+
+OR
+
+> 4 For everyone who is born from God overcomes the world. And this is the victory that has overcome the world, even our faith 1 John 5:4
+
+### Think About Your Culture (5 minutes)
+
+It is difficult to be a follower of Jesus. Many pressures from the world try to cause us to live against Jesus’ teachings. Think about how the values and beliefs of your culture try to cause you to live in a way that does not please God.
+
+> The world (culture) wants us to think and act like this…
+
+> But God wants us to us to think and act like…
+
+### Read the Passage (5 minutes)
+
+By God’s power, Christians can experience victory over sin. When Christians experience this victory, they start to live their lives in a way that pleases God. Read the passage below to understand how God causes our lives to change in a way that pleases him.
+
+> 1 I urge you therefore, brothers, by the mercies of God, to present your bodies a living sacrifice, holy, acceptable to God. This is your reasonable service. 2 Do not be conformed to this world, but be transformed by the renewal of your mind. Do this to know what is the good, acceptable, and perfect will of God. Romans 12:1-2
+
+### Discuss the Idea (10–15 minutes)
+
+God commands Christians to stop living like unbelievers in the world. God wants believers to live in a way that pleases God. After reading the passage above, use the following questions to help your community discuss biblical teaching on personal life transformation.
+
+1.  What commands does God give in this passage? How does God instruct us to live?
+2.  How does this passage explain the way Christians experience transformation and change in their lives? How does the world/culture try to shape people into its own ways?
+3.  How have you experienced God’s change in your own life? In what areas of your life does God want to give you victory?
+4.  Why is it important for your community to practice these principles of personal transformation?
+
+### Share Your Story (10 minutes)
+
+Because of Jesus, God gives his people victory. Think about the ways God has caused you to overcome significant challenges and hardships. Share ways that you have experienced God’s victory in your own life.
+
+> Because of Jesus, God has given (is giving me) me victory over…
+
+### Pray to God (5 minutes)
+
+Pray for your community not to be conformed to the world. Ask that God would allow members of your community to experience real change and transformation in their personal lives.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

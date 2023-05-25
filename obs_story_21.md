@@ -138,7 +138,52 @@ God revealed to the prophets many things about the Messiah, but the Messiah did 
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-7#Community Study: An Important Practice—Forgiving One Another.md NOT FOUND!!
+## Community Study: An Important Practice—Forgiving One Another
+
+- **Key Idea**: emphasizing the importance of forgiveness
+- **Key Passage**: Matthew 18:21-35
+- **Main Session**: OBS 21 (God Promises the Messiah)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> “He of whom Moses wrote in the law, and the prophets, we have found him: Jesus son of Joseph, from Nazareth.” John 1:45
+
+OR
+
+> 43 It is to him \[Jesus\] that all the prophets bear witness, so that everyone who believes in him shall receive forgiveness of sins through his name.” Acts 10:43
+
+### Read the Passage (5 minutes)
+
+Even after we are saved, we will sin against others, and others will sin against us. God tells us to forgive others as he has forgiven us. In order to grow together as a united and one-minded community, read the passage below.
+
+> 21 Then Peter came and said to Jesus, “Lord, how often will my brother sin against me and I forgive him? Until seven times?” 22 Jesus said to him, “I do not tell you seven times, but until seventy times seven. 23 Therefore the kingdom of heaven is similar to a certain king who wanted to settle accounts with his servants. 24 As he began the settling, one servant was brought to him who owed him ten thousand talents. 25 But since he had not the means to repay, his master commanded him to be sold, together with his wife and children and everything that he had, and payment to be made. 26 So the servant fell down, bowed down before him, and said, ‘Master, have patience with me, and I will pay you everything.’ 27 So the master of that servant, since he was moved with compassion, released him and forgave him the debt. 28 But that servant went out and found one of his fellow servants, who owed him one hundred denarii. He grasped him, took him by the throat, and said, ‘Pay me what you owe.’ 29 But his fellow servant fell down and implored him, saying, ‘Have patience with me, and I will repay you.’ 30 But the first servant refused. Instead, he went and threw him into prison until he should pay him what he owed. 31 When his fellow servants saw what had happened, they were very upset. They came and told their master everything that had happened. 32 Then that servant’s master called him, and said to him, ‘You wicked servant, I forgave you all that debt because you implored me. 33 Should you not have had mercy on your fellow servant, even as I had mercy on you?’ 34 His master was angry and handed him over to the torturers until he would pay all that was owed. 35 So also my heavenly Father will do to you, if you do not forgive your brother from your heart.” Matthew 18:21-35
+
+### Discuss the Idea (10–15 minutes)
+
+Forgiveness is a core teaching of the Christian faith. When people believe in Jesus, God forgives their sins. Then, Christians show forgiveness to others. After reading the passage above, use the following questions to help your community discuss what it means to practice Christian community in a godly way.
+
+1.  What does this passage teach us about the practice of forgiveness?
+2.  What does it mean to forgive someone? Why is it hard to forgive other people?
+3.  What happens to a group of people when they do not practice forgiveness?
+4.  How can you encourage members of your community to practice forgiveness as you work/serve together?
+
+### Personal Reflection (5–10 minutes)
+
+Read the verse below. Reflect on whether you have any unresolved issues with others. That is, identify if there is someone you need to forgive but you have not yet done so. Pray that God would remove the bitterness and unforgiveness from your heart.
+
+> Be careful so that no one lacks God’s grace, and that no root of bitterness grows up to cause trouble, so that many do not become polluted by it. Hebrews 12:14
+
+### Reflect Privately in Prayer (5 minutes)
+
+Pray that God would reveal to you any person that you need to forgive. Ask God to give you clarity and strength to forgive that person of the sin they have committed against you.
+
+### Sing a Song (3–5 minutes)
+
+Choose a song to sing to praise God and encourage one another.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

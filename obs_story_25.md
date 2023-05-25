@@ -101,7 +101,53 @@ Jesus did not give in to Satan’s temptations, so Satan left him. Then angels c
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-8#Community Study: We Are Strong When Weak—Doing Ministry in God’s Strength.md NOT FOUND!!
+## Community Study: We Are Strong When Weak—Doing Ministry in God’s Strength
+
+- **Key Idea**: relying on God’s power as a source of ministry strength
+- **Key Passage**: 2 Corinthians 12:1-10
+- **Main Session**: OBS 25 (Satan Tempts Jesus)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> For we do not have a high priest who cannot feel sympathy for our weaknesses. Instead, we have someone who has in all ways been tempted as we are, except that he is without sin. Hebrews 4:15
+
+OR
+
+> For because he himself has suffered when tempted, he is able to help those who are being tempted. Hebrews 2:18
+
+### Sing a Song (3–5 minutes)
+
+Choose a song to sing to praise God and encourage one another.
+
+### Read the Passage (3–5 minutes)
+
+No Christian can lead/minister in their own strength and power. Christian leaders go about their work by God’s strength. As a community, read the following Bible passage together to understand the godly approach to leadership, power, and authority.
+
+> 1 I must boast, but nothing is gained by it. But I will go on to visions and revelations from the Lord. 2 I know a man in Christ who fourteen years ago who—whether in the body or out of the body, I do not know, God knows—was caught up into the third heaven. 3 And I know that this man—whether in the body, or out of the body, I do not know, God knows— 4 was caught up into paradise and heard things too sacred for anyone to say. 5 On behalf of such a person I will boast. But on behalf of myself I will not boast, except about my weaknesses. 6 If I should choose to boast, I will not be a fool, because I would be speaking the truth. But I will keep from boasting, so that no one will think more of me than what he sees in me or hears from me. 7 To keep me from boasting because of the surpassing greatness of the revelations, a thorn in the flesh was given to me, a messenger from Satan to afflict me—so I would not become overly proud. 8 Three times I begged the Lord about this, for him to take it away from me. 9 But he said to me, “My grace is enough for you, for power is made perfect in weakness.” So I would much rather boast about my weakness, so that the power of Christ might reside on me. 10 Therefore I am content for Christ’s sake in weaknesses, in insults, in troubles, in persecutions and distressing situations. For whenever I am weak, then I am strong. 2 Corinthians 12:1-10
+
+### Discuss the Passage (10-15 minutes)
+
+God wants all Christians to depend upon his grace and power. In particular, this is what God wants for leaders in his church. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  In this passage, how does Paul understand his weakness and limitations? What does Paul think about his weaknesses and limitations?
+2.  What does it mean for leaders/Christians to minister in weakness so that God can show his power through them?
+3.  What kinds of things do many leaders boast about?
+4.  How can you approach leadership/ministry in a way that relies on God’s power and grace?
+
+### Name Personal Weakness (5 minutes)
+
+After discussing this passage, have a time of personal reflection in which each member identifies an area of weakness in their life and ministry. Then, have each person think about how God’s power can be shown through your weakness.
+
+### Pray to God (5 minutes)
+
+Have each person identify the area of weakness and pray the following prayer to God.
+
+> Good God, I acknowledge that I am weak in this way…
+> Thank you that your grace is sufficient for me and your power is made perfect in weakness, for whenever I am weak, then I am strong.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

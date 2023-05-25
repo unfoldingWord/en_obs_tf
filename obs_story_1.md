@@ -124,7 +124,40 @@ When the seventh day came, God had finished all the work that he had been doing.
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-3#Community Study: The Practice of Worship—Praising God as a Community.md NOT FOUND!!
+## Community Study: The Practice of Worship—Praising God as a Community
+
+- **Key Idea**: declaring God’s greatness and glory
+- **Key Passage**: Revelation 4:11
+- **Main Session**: OBS 1 (Creation)
+
+### Recite the Creedal Verse (3-5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> “The everlasting God, Yahweh, the Creator of the ends of the earth, does not get tired or weary; there is no limit to his understanding.” Isaiah 40:28
+
+### Explore the Idea (10-15 minutes)
+
+Read the passage below. Discuss the following questions as a community.
+
+> “Worthy are you, our Lord and our God, to receive glory and honor and power, for you created all things, and by your will they existed and were created.” Revelation 4:11
+
+1.  What does this passage teach us about God as the Creator of all things?
+2.  What are some things about God that make you want to praise him?
+3.  How has God done powerful things in your own life?
+4.  What are the different ways that we can praise God?
+
+### Write a Song (5-10 minutes)
+
+As a group, read the following verse again. Take time as a group to put this verse to a chant, tune, beat, or melody. Use this song to praise God as a community.
+
+> “Worthy are you, our Lord and our God, to receive glory and honor and power, for you created all things, and by your will they existed and were created.” Revelation 4:11
+
+### Pray to God (3-5 minutes)
+
+Break up into groups of 2-3 people. Have each person pray a prayer of praise to God.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

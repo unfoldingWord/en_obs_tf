@@ -124,7 +124,49 @@ God commanded the Israelites to celebrate a festival every year in order to reme
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-5#Community Study: Bearing Godly Fruit—Making Progress in the Faith.md NOT FOUND!!
+## Community Study: Bearing Godly Fruit—Making Progress in the Faith
+
+- **Key Idea**: growing in godly characteristics
+- **Key Passage**: 2 Peter 1:5-9
+- **Main Session**: OBS 12 (The Exodus)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> It was by faith that they passed through the Sea of Reeds as if over dry land. When the Egyptians tried to do this, they were swallowed up. Hebrews 11:29
+
+### Read the Passage (5 minutes)
+
+God wants us to grow in our faith. As we grow, we develop different character traits that make us mature and godly. These character traits help the whole community to be strong and healthy. In order to learn about growing in godliness, read the passage below.
+
+> 5 For this reason, do your best to add goodness to your faith; and to goodness add knowledge; 6 to knowledge add self-control; to self-control add endurance; to endurance add godliness; 7 to godliness add brotherly affection; and to brotherly affection add love. 8 If these things are in you and grow in you, you will not be barren or unfruitful in the knowledge of our Lord Jesus Christ. 9 But whoever lacks these things is so nearsighted that he is blind, having forgotten he has been cleansed from his past sins. 2 Peter 1:5-9
+
+### Discuss the Idea (10–15 minutes)
+
+As Christians grow in their faith, they will develop the character traits in the passage above. Use the following questions to discuss the godly attributes of mature Christians.
+
+1.  What kinds of characteristics will develop in Christians and churches as they grow in the faith?
+2.  How can Christians grow in these character traits?
+3.  How do these character traits help Christians relate to one another in godly and mature ways?
+4.  Which of these specific areas of these character traits would you want to grow and develop?
+
+### Think about Your Growth (5–10 minutes)
+
+Think about one area/trait in the passage you want to develop. Imagine the impact in your personal life and community if you were to grow in that specific area/trait. See the examples below.
+
+> If I grew in \[self-control\], this is how things would change in my life…
+> If I grew in \[self-control\], this is how I could encourage and strengthen this community…
+
+### Pray to God (5 minutes)
+
+Use the list of character traits above as a guide for prayer. Assign one character trait for different members of the group. Have each of them take turns praying that the whole community would grow in these areas.
+
+### Sing a Song (3–5 minutes)
+
+Choose a song to sing to praise God and encourage one another.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 
