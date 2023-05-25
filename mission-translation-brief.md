@@ -22,8 +22,8 @@ God calls us to serve his **mission**: to participate in God’s purposes in his
 **Key Question**: What is the mission of your network? Who has God called you to reach? *Tell us about your network and the mission God has called you to.*
 
 1.  **Core Mission**: What is the mission of your network? Who has God called you to reach? *Tell us about your network and the mission God has called you to.*
-2.  **Mission Obstacles**: What are urgent needs of the people/community that God is calling you to reach? What obstacles exist to the spread of the gospel among these people(s)? *Tell us about the pressing needs and challenges you face in this work/mission.*
-3.  **Biblical Mission**: How do you understand the biblical mandate of the Great Commission? *Tell us what you believe about the God’s mission in the world.*
+2.  **Mission Obstacles**: What are the urgent needs of the people/community that God is calling you to reach? What obstacles exist to the spread of the gospel among these people(s)? *Tell us about the pressing needs and challenges you face in this work/mission.*
+3.  **Biblical Mission**: How do you understand the biblical mandate of the Great Commission? *Tell us what you believe about God’s mission in the world.*
 4.  **Mission Strategy**: What is your plan/strategy to accomplish the Great Commission work? How do you approach the work of spreading the gospel, establishing healthy churches, and training leaders? How are you fulfilling this work at a local, regional, and global scale? *Tell us about your strategy to do the Great Commission work.*
 5.  **Bible Translation as Mission-Focused**: How should/might the work of Bible Translation rightly relate to the biblical mandate of Great Commission work? *Tell us about your vision to have the work of Bible translation serve the Great Commission.*
 6.  **Partnership and Prayer**: How can we pray for your mission situation? How can we partner with you and support you in your mission work? *Tell us ways we can pray for you and partner with you in your work.*
@@ -33,15 +33,15 @@ God calls us to serve his **mission**: to participate in God’s purposes in his
 - **Key Question**: What is the makeup/structure of your church network? Who are the key leaders in your church network? *Tell us about your church/network/organization and its key leaders.*
 - **Foundational Passages**: Ephesians 3:7-13
 - **Core Projects**:
-  - Project 1: Mission Partners: Identify the churches, networks, and organizations who need to be involved in this work. Identify a plan to unite them together in this common work. Discuss how you will keep the church at the center of your strategy.
+  - Project 1: Mission Partners: Identify the churches, networks, and organizations that need to be involved in this work. Identify a plan to unite them together in this common work. Discuss how you will keep the church at the center of your strategy.
   - Project 2: Key Leaders: Identify key leaders who need to be involved in this work. Reflect on their ministry/church roles and the needed translation functions. Determine how you will use the church leaders to accomplish specific translation functions.
 
-God calls us to belong to his **church**: to experience loving Christian community. Like the many parts that make up a human body, ***the work of Bible translation requires the many members of the church to function as one body***. In this session, we want to explore how to approach Bible translation in a way that involves the whole church and her leaders.
+God calls us to belong to his **church**: to experience a loving Christian community. Like the many parts that make up a human body, ***the work of Bible translation requires the many members of the church to function as one body***. In this session, we want to explore how to approach Bible translation in a way that involves the whole church and her leaders.
 
 **Key Question**: What is the makeup/structure of your church network? Who are the key leaders in your church network? *Tell us about your church/network/organization and its key leaders.*
 
 1.  **Connected Church**: What is the makeup/structure of your church network? Who are the key leaders in your church network? *Tell us about your church/network/organization and its key leaders.*
-2.  **Church Concerns**: What are urgent needs of the church in your context? What are some personal and ministry obstacles that your leaders face? *Tell us about the pressing needs and challenges you face in church network.*
+2.  **Church Concerns**: What are the urgent needs of the church in your context? What are some personal and ministry obstacles that your leaders face? *Tell us about the pressing needs and challenges you face in the church network.*
 3.  **Biblical Church**: How do you understand what the Bible teaches about the church and her role (and responsibility) in God’s mission? *Tell us what you believe about the identity of the church and the role of the church in God’s mission.*  
 4.  **Church Strategy**: What is your plan/strategy to prioritize the church in your work? How are you establishing the church in neighborhoods, cities, regions, and throughout the world? How are you developing and deploying key leaders (“equipping equippers”) in this work? How are you partnering/networking/connecting with other key churches/groups? *Tell us about your strategy to centralize the church in your work.*
 5.  **Bible Translation as Community-Owned**: How should/might the work of Bible translation serve your church/network? How should/might you involve the whole church in the work of Bible translation? *Tell us how you would envision the work of Bible translation including and impacting the church.*
@@ -74,16 +74,16 @@ God calls us to **mature in our faith**: to grow as Christians in truth and godl
   - Project 1: Translation Needs: Identify the specific translation needs of your community. Name the specific resources the church wants/needs.
   - Project 2: Translation Purpose: Summarize the purpose of your Bible translation. Record a simple overview of the characteristics of your translation and the way you want it to serve your people.
 
-God calls us to rightly use his **Word**: to faithfully study and share his Word to others. Like faithful caretakers of a master’s possessions, ***the work of Bible translation focuses on the accurate interpretation and communication of his Word***. In this session, we want to explore how to approach Bible translation in a way that honors God’s inspired Word.
+God calls us to rightly use his **Word**: to faithfully study and share his Word with others. Like faithful caretakers of a master’s possessions, ***the work of Bible translation focuses on the accurate interpretation and communication of his Word***. In this session, we want to explore how to approach Bible translation in a way that honors God’s inspired Word.
 
 **Key Question**: How are you already engaged in Bible translation? *Tell us about your current work in Bible translation.*
 
 1.  **Current Translation**: How are you already engaged in Bible translation? *Tell us about your current work in Bible translation.*
 2.  **Contextual Needs**: What Bible translation needs do you face? *Tell us about your current Bible translation needs and challenges.*
 3.  **Biblical Translation**: How do you understand what the Bible teaches about itself? How should this understanding of the Bible impact your approach to Bible translation? *Tell us how you understand the nature of the Bible and the impact of that understanding on the work of Bible translation.*
-4.  **Translation Strategy**: What is your plan/strategy to produce quality Bible translations among the people God has called you to reach? How will you ensure that these translations and biblical resources are quality assured (that is, trusted and trustworthy)? What resources are most needed in your language in order to reach all of the people God has called you to reach? What will your approach be to licensing and copyright of your Bible translation(s) and biblical resources? *Tell us about your plans for the work of Bible translation and creation of biblical resources.*
+4.  **Translation Strategy**: What is your plan/strategy to produce quality Bible translations among the people God has called you to reach? How will you ensure that these translations and biblical resources are quality assured (that is, trusted and trustworthy)? What resources are most needed in your language in order to reach all of the people God has called you to reach? What will your approach be to the licensing and copyright of your Bible translation(s) and biblical resources? *Tell us about your plans for the work of Bible translation and the creation of biblical resources.*
 5.  **Bible Translation as Church-Centric** How should/might you translate the Scriptures in a mission-focused, community-owned, and theologically formative way? *Tell us your strategic plan to make Bible translation church-centric.*
-6.  **Partnership and Prayer**: How can we pray for your work of Bible translation? How can we support and help you in your Bible translation efforts? \*Tell us ways we can pray for and partner with you in the work of Bible translation and creation of biblical resources in a way that will mature the church.
+6.  **Partnership and Prayer**: How can we pray for your work of Bible translation? How can we support and help you in your Bible translation efforts? \*Tell us ways we can pray for and partner with you in the work of Bible translation and the creation of biblical resources in a way that will mature the church.
 
 ## Summary of Mission-Translation Brief
 
