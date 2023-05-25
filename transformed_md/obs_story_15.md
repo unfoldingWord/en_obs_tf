@@ -41,79 +41,79 @@ eventually brought his people into the promised land of Canaan.
 
 ##### 15-01
 
-![](\images\image176.jpeg)
+![](.\assets\images\image176.jpeg)
 
 At last it was time for the Israelites to enter Canaan, the Promised Land. In that land was a city called Jericho. It had strong walls around it to protect it. Joshua sent two spies to that city. In that city lived a prostitute named Rahab. She hid these spies, and later she helped them to escape from the city. She did this because she believed God. The spies promised to protect Rahab and her family when the Israelites would destroy Jericho.
 
 ##### 15-02
 
-![](\images\image177.jpeg)
+![](.\assets\images\image177.jpeg)
 
 The Israelites had to cross the Jordan River to enter into the Promised Land. God told Joshua, “Have the priests go first.” When the priests started to step into the Jordan River, the water upstream stopped flowing so the Israelites could cross over to the other side of the river on dry ground.
 
 ##### 15-03
 
-![](\images\image178.jpeg)
+![](.\assets\images\image178.jpeg)
 
 After the people crossed the Jordan River, God told Joshua to get ready to attack the city of Jericho, even though it was very strong. God told the people that their priests and soldiers must march around the city once a day for six days. So the priests and the soldiers did this.
 
 ##### 15-04
 
-![](\images\image179.jpeg)
+![](.\assets\images\image179.jpeg)
 
 God also said that on the seventh day the Israelites must march around the city seven times. Then the priests must blow their trumpets and all the people must shout loudly. So they did this.
 
 ##### 15-05
 
-![](\images\image180.jpeg)
+![](.\assets\images\image180.jpeg)
 
 Then the walls around Jericho fell down! The Israelites destroyed everything in the city, as God had commanded. They only spared Rahab and her family, who became part of the Israelites. When the other people living in Canaan heard that the Israelites had destroyed Jericho, they were terrified that the Israelites would attack them also.
 
 ##### 15-06
 
-![](\images\image181.jpeg)
+![](.\assets\images\image181.jpeg)
 
 God had commanded the Israelites not to make a peace treaty with any of the people groups in Canaan. But one of the Canaanite people groups, called the Gibeonites, lied to Joshua and said they were from a place far from Canaan. They asked Joshua to make a peace treaty with them. Joshua and the other leaders of the Israelites did not ask God what they should do. Instead, they made a peace treaty with the Gibeonites.
 
 ##### 15-07
 
-![](\images\image182.jpeg)
+![](.\assets\images\image182.jpeg)
 
 Three days later, the Israelites found out that the Gibeonites really did live in Canaan. They were angry because the Gibeonites had deceived them. But they kept the peace treaty they had made with them because it was a promise before God. Then, some time later, the kings of another people group in Canaan, the Amorites, heard that the Gibeonites had made a peace treaty with the Israelites, so they combined their armies into one large army and attacked Gibeon. The Gibeonites sent a message to Joshua asking for help.
 
 ##### 15-08
 
-![](\images\image183.jpeg)
+![](.\assets\images\image183.jpeg)
 
 So Joshua gathered the Israelite army. They marched all night to reach the Gibeonites. In the early morning, they surprised the Amorite armies and attacked them.
 
 ##### 15-09
 
-![](\images\image184.jpeg)
+![](.\assets\images\image184.jpeg)
 
 God fought for Israel that day. He caused the Amorites to be confused and he sent large hailstones that killed many of the Amorites.
 
 ##### 15-10
 
-![](\images\image185.jpeg)
+![](.\assets\images\image185.jpeg)
 
 God also caused the sun to stay in one place in the sky so that Israel would have enough time to completely defeat the Amorites. On that day, God won a great victory for Israel.
 
 ##### 15-11
 
-![](\images\image186.jpeg)
+![](.\assets\images\image186.jpeg)
 
 After God defeated those armies, many of the other Canaanite people groups gathered together to attack Israel. Joshua and the Israelites attacked and destroyed them.
 
 ##### 15-12
 
-![](\images\image187.jpeg)
+![](.\assets\images\image187.jpeg)
 
 After these battles, God gave each tribe of Israel its own section of the Promised Land. Then God gave Israel peace along all its borders.
 
 ##### 15-13
 
-![](\images\image188.jpeg)
+![](.\assets\images\image188.jpeg)
 
 When Joshua was an old man, he called all the people of Israel together. Then Joshua reminded the people that they had promised to obey the covenant that God had made with the Israelites at Mount Sinai. The people promised to be faithful to God and obey his laws.
 

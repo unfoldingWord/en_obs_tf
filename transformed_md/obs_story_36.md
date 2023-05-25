@@ -55,43 +55,43 @@ Toward the end of his ministry, Jesus revealed his power and glory to his discip
 
 ##### 36-01
 
-![](\images\image419.jpeg)
+![](.\assets\images\image419.jpeg)
 
 One day, Jesus took three of his disciples, Peter, James, and John, with him. (The disciple named John was not the same person who baptized Jesus.) They went up on a high mountain by themselves to pray.
 
 ##### 36-02
 
-![](\images\image420.jpeg)
+![](.\assets\images\image420.jpeg)
 
 As Jesus was praying, his face became as bright as the sun. His clothes became as white as light, whiter than anyone on earth could make them.
 
 ##### 36-03
 
-![](\images\image421.jpeg)
+![](.\assets\images\image421.jpeg)
 
 Then Moses and the prophet Elijah appeared. These men had lived on the earth hundreds of years before this. They talked with Jesus about his death, because he would soon die in Jerusalem.
 
 ##### 36-04
 
-![](\images\image422.jpeg)
+![](.\assets\images\image422.jpeg)
 
 As Moses and Elijah were talking with Jesus, Peter said to Jesus, “It is good for us to be here. Let us make three shelters, one for you, one for Moses, and one for Elijah.” But Peter did not know what he was saying.
 
 ##### 36-05
 
-![](\images\image423.jpeg)
+![](.\assets\images\image423.jpeg)
 
 As Peter was talking, a bright cloud came down and surrounded them. Then they heard a voice coming from the cloud. It said, “This is my Son whom I love. I am pleased with him. Listen to him.” The three disciples were terrified and fell on the ground.
 
 ##### 36-06
 
-![](\images\image424.jpeg)
+![](.\assets\images\image424.jpeg)
 
 Then Jesus touched them and said, “Do not be afraid. Get up.” When they looked around, the only one still there was Jesus.
 
 ##### 36-07
 
-![](\images\image425.jpeg)
+![](.\assets\images\image425.jpeg)
 
 Jesus and the three disciples went back down the mountain. Then Jesus said to them, “Do not tell anyone yet about what happened here. I will soon die and then come back to life. After that, you may tell people.”
 

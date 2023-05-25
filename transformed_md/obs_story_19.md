@@ -44,109 +44,109 @@ God sent prophets to warn his people of God’s judgment and call them to repent
 
 ##### 19-01
 
-![](\images\image234.jpeg)
+![](.\assets\images\image234.jpeg)
 
 God was always sending prophets to the Israelites. The prophets heard messages from God and then told them to the people.
 
 ##### 19-02
 
-![](\images\image235.jpeg)
+![](.\assets\images\image235.jpeg)
 
 Elijah was a prophet when Ahab was king over the kingdom of Israel. Ahab was an evil man. He tried to make the people worship a false god named Baal. So Elijah told King Ahab that God was going to punish the people. He said to him, “There will be no rain or dew in the kingdom of Israel until I say it will rain again.” This made Ahab so angry that he decided to kill Elijah.
 
 ##### 19-03
 
-![](\images\image236.jpeg)
+![](.\assets\images\image236.jpeg)
 
 So God told Elijah to go into the wilderness to hide from Ahab. Elijah went into the wilderness to a certain stream where God directed him. Every morning and every evening, birds would bring Elijah bread and meat. During this time, Ahab and his army looked for Elijah, but they could not find him.
 
 ##### 19-04
 
-![](\images\image237.jpeg)
+![](.\assets\images\image237.jpeg)
 
 Because there was no rain, after some time the stream dried up. So Elijah went to another country close by. In that country lived a poor widow and her son. They had almost run out of food because there was no harvest. But still, as the woman took care of Elijah, God provided for her and her son. Her jar of flour and her bottle of oil never became empty. They had food during the whole famine. Elijah stayed there for about three years.
 
 ##### 19-05
 
-![](\images\image238.jpeg)
+![](.\assets\images\image238.jpeg)
 
 After three and a half years, God told Elijah that he would make it rain again. He told Elijah to return to the kingdom of Israel and speak with Ahab. So Elijah went to Ahab. When Ahab saw him, he said, “There you are, you troublemaker!” Elijah replied to him, “It is you who are the troublemaker! You have abandoned Yahweh. He is the true God, but you are worshiping Baal. Now you must bring all the people of the kingdom of Israel to Mount Carmel.”
 
 ##### 19-06
 
-![](\images\image239.jpeg)
+![](.\assets\images\image239.jpeg)
 
 So all the people of Israel went to Mount Carmel. The men who said they spoke messages for Baal also came. These were Baal’s prophets. There were 450 of them. Elijah said to the people, “How long will you keep changing your mind? If Yahweh is God, worship him! But if Baal is God, worship him!”
 
 ##### 19-07
 
-![](\images\image240.jpeg)
+![](.\assets\images\image240.jpeg)
 
 Then Elijah said to Baal’s prophets, “Kill a bull, divide the meat into pieces, and put it on an altar for a sacrifice, but do not light the fire. I will do the same later, and I will put the meat on a different altar. Then if God sends fire on the altar, you will know that he is the real God.” So the prophets of Baal prepared a sacrifice but did not light the fire.
 
 ##### 19-08
 
-![](\images\image241.jpeg)
+![](.\assets\images\image241.jpeg)
 
 Then the prophets of Baal prayed to Baal, “Hear us, Baal!” All day long they prayed and shouted and even cut themselves with knives, but Baal did not answer, and he did not send any fire.
 
 ##### 19-09
 
-![](\images\image242.jpeg)
+![](.\assets\images\image242.jpeg)
 
 Baal’s prophets spent almost the whole day praying to Baal. They finally stopped praying. Then Elijah put the meat of another bull on an altar for God. After that, he told the people to pour 12 huge pots of water on top of the sacrifice until the meat, the wood, and even the ground around the altar were completely wet.
 
 ##### 19-10
 
-![](\images\image243.jpeg)
+![](.\assets\images\image243.jpeg)
 
 Then Elijah prayed, “Yahweh, God of Abraham, Isaac, and Jacob, show us today that you are the God of Israel and that I am your servant. Answer me so that these people will know that you are the true God.”
 
 ##### 19-11
 
-![](\images\image244.jpeg)
+![](.\assets\images\image244.jpeg)
 
 Immediately, fire fell from the sky. It burned up the meat, the wood, the rocks, the soil, and even the water that was around the altar. When the people saw this, they prostrated themselves to the ground and said, “Yahweh is God! Yahweh is God!”
 
 ##### 19-12
 
-![](\images\image245.jpeg)
+![](.\assets\images\image245.jpeg)
 
 Then Elijah said, “Do not let any of the prophets of Baal escape!” So the people captured the prophets of Baal and took them away from there and killed them.
 
 ##### 19-13
 
-![](\images\image246.jpeg)
+![](.\assets\images\image246.jpeg)
 
 Then Elijah said to King Ahab, “Return immediately to your home, because the rain is coming.” Soon the sky became black, and a heavy rain began. Yahweh was ending the drought. This also showed that he is the true God.
 
 ##### 19-14
 
-![](\images\image247.jpeg)
+![](.\assets\images\image247.jpeg)
 
 When Elijah finished his work, God chose a man named Elisha to be his prophet. God did many miracles through Elisha. One of the miracles happened to Naaman. He was the commander of an enemy army, but he had a bad skin disease. Naaman heard about Elisha, so he went to Elisha and asked him to heal him. Elisha told Naaman to go the Jordan River and dip himself in the water seven times.
 
 ##### 19-15
 
-![](\images\image248.jpeg)
+![](.\assets\images\image248.jpeg)
 
 Naaman became angry. He refused to do this because it seemed foolish. But later he changed his mind. He went to the Jordan River and dipped himself seven times into the water. When he came up from the water the last time, God healed him.
 
 ##### 19-16
 
-![](\images\image249.jpeg)
+![](.\assets\images\image249.jpeg)
 
 God also sent many other prophets to the people of Israel. They all told the people to stop worshiping idols. Instead, people should act justly with each other and have mercy on each other. The prophets warned the people that they must stop doing evil and obey God instead. If the people did not do this, then God would judge them as guilty, and he would punish them.
 
 ##### 19-17
 
-![](\images\image250.jpeg)
+![](.\assets\images\image250.jpeg)
 
 Most of the time, the people did not obey God. They often mistreated the prophets and sometimes even killed them. Once, they put the prophet Jeremiah into a dry well and left him there to die. He sank down into the mud in the bottom of the well. But then the king had mercy on him and ordered his servants to pull Jeremiah out of the well before he died.
 
 ##### 19-18
 
-![](\images\image251.jpeg)
+![](.\assets\images\image251.jpeg)
 
 The prophets continued to speak for God even though the people hated them. They warned people that God would destroy them if they did not repent. They also reminded people that God promised to send them the Messiah.
 

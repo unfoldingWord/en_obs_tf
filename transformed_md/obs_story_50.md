@@ -66,103 +66,103 @@ At the end of the world, Jesus will return to earth, the dead will come back to 
 
 ##### 50-01
 
-![](\images\image583.jpeg)
+![](.\assets\images\image583.jpeg)
 
 For almost 2,000 years, more and more people around the world have been hearing the good news about Jesus the Messiah. The Church has been growing. Jesus promised he would return at the end of the world. Though he has not yet come back, he will keep his promise.
 
 ##### 50-02
 
-![](\images\image584.jpeg)
+![](.\assets\images\image584.jpeg)
 
 As we wait for Jesus to return, God wants us to live in a way that is holy and that honors him. He also wants us to tell others about his kingdom. When Jesus was living on earth, he said, “My disciples will preach the good news about the kingdom of God to people everywhere in the world, and then the end will come.”
 
 ##### 50-03
 
-![](\images\image585.jpeg)
+![](.\assets\images\image585.jpeg)
 
 Many people groups still have not heard about Jesus. Before he returned to heaven, Jesus told his followers to proclaim the good news to people who have never heard it. He said, “Go and make disciples in all people groups!” and “The fields are ripe for harvest!”
 
 ##### 50-04
 
-![](\images\image586.jpeg)
+![](.\assets\images\image586.jpeg)
 
 Jesus also said, “A man’s servant is not greater than his master. The important people in this world have hated me, and they will also torture you and kill you because of me. In this world you will suffer, but be strong, because I have defeated Satan, the one who rules this world. If you remain faithful to me to the end, then God will save you!”
 
 ##### 50-05
 
-![](\images\image587.jpeg)
+![](.\assets\images\image587.jpeg)
 
 Jesus told his disciples a story to explain what will happen to people when the world ends. He said, “A man planted good seed in his field. While he was sleeping, his enemy came and planted weed seeds among the wheat seeds, and then he went away.”
 
 ##### 50-06
 
-![](\images\image588.jpeg)
+![](.\assets\images\image588.jpeg)
 
 “When the plants sprouted, the servants of the man said, ‘Master, you planted good seed in that field. So why are there weeds in it?’ The man answered, ‘Only my enemies would want to plant them. It is one of my enemies who did this.’”
 
 ##### 50-07
 
-![](\images\image589.jpeg)
+![](.\assets\images\image589.jpeg)
 
 “The servants responded to their master, ‘Should we pull out the weeds?’ The master said, ‘No. If you do that, you will pull out some of the wheat as well. Wait until the harvest. Then gather the weeds into piles so you can burn them. But bring the wheat into my barn.’”
 
 ##### 50-08
 
-![](\images\image590.jpeg)
+![](.\assets\images\image590.jpeg)
 
 The disciples did not understand the meaning of the story, so they asked Jesus to explain it to them. Jesus said, “The man who planted the good seed represents the Messiah. The field represents the world. The good seed represents the people of God’s kingdom.”
 
 ##### 50-09
 
-![](\images\image591.jpeg)
+![](.\assets\images\image591.jpeg)
 
 “The weeds represent the people who belong to the devil, the evil one. The man’s enemy, the one who planted the weeds, represents the devil. The harvest represents the end of the world, and the harvesters represent God’s angels.”
 
 ##### 50-10
 
-![](\images\image592.jpeg)
+![](.\assets\images\image592.jpeg)
 
 “When the world ends, the angels will gather together all the people who belong to the devil. The angels will throw them into a very hot fire. There those people will cry and grind their teeth in terrible suffering. But the people who are righteous, who have followed Jesus, will shine like the sun in the kingdom of God their Father.”
 
 ##### 50-11
 
-![](\images\image593.jpeg)
+![](.\assets\images\image593.jpeg)
 
 Jesus also said that he would return to earth just before the world ends. He will come back the same way that he left. That is, he will have a real body, and he will come on the clouds in the sky. When Jesus returns, every follower of Jesus who has died will rise from the dead and meet him in the sky.
 
 ##### 50-12
 
-![](\images\image594.jpeg)
+![](.\assets\images\image594.jpeg)
 
 Then the followers of Jesus who are still alive will rise up into the sky and join with the other followers of Jesus who rose from the dead. They will all be with Jesus there. After that, Jesus will live with his people. They will have complete peace forever as they live together.
 
 ##### 50-13
 
-![](\images\image595.jpeg)
+![](.\assets\images\image595.jpeg)
 
 Jesus promised to give a crown to everyone who believes in him. They will rule with God over everything forever. They will have perfect peace.
 
 ##### 50-14
 
-![](\images\image596.jpeg)
+![](.\assets\images\image596.jpeg)
 
 But God will judge everyone who does not believe in Jesus. He will throw them into hell. There they will weep and grind their teeth, and they will suffer forever. A fire that never goes out will continually burn them, and worms will never stop eating them.
 
 ##### 50-15
 
-![](\images\image597.jpeg)
+![](.\assets\images\image597.jpeg)
 
 When Jesus returns, he will completely destroy Satan and his kingdom. He will throw Satan into hell. Satan will burn there forever, along with everyone who chose to follow him rather than to obey God.
 
 ##### 50-16
 
-![](\images\image598.jpeg)
+![](.\assets\images\image598.jpeg)
 
 Because Adam and Eve disobeyed God and brought sin into this world, God cursed it and decided to destroy it. But some day God will create a new heaven and a new earth that will be perfect.
 
 ##### 50-17
 
-![](\images\image599.jpeg)
+![](.\assets\images\image599.jpeg)
 
 Jesus and his people will live on the new earth, and he will reign forever over everything. He will wipe away every tear from people’s eyes. No one will suffer or be sad any longer. They will not cry. They will not be sick or die. And there will be nothing evil there. Jesus will rule his kingdom justly and with peace. He will be with his people forever.
 
