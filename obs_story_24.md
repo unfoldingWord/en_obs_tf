@@ -3,7 +3,6 @@ title: Open Bible Stories
 subtitle: John Baptizes Jesus
 layout: obs_story
 ---
-
 ## Introduction
 
 ### Key Idea
@@ -177,7 +176,7 @@ He called him the Lamb of God who will take away the sin of the world.
 
 #### 24-07
 
-\##C:\_obs_tf.md NOT FOUND!!
+\##./obs_source/transclusions//John .md NOT FOUND!!
 
 Why did Jesus say that John should baptize him?  
 He said John should baptize him because it was the right thing to do, even though Jesus never sinned.
@@ -478,6 +477,8 @@ You can change these into **Checking Questions** like this:
 
 *Summarize any noteworthy translation decisions (things you corrected or affirmed in your draft) and the rationale/reasoning behind these translation decisions. In the final movement of this class, you will use these observations to give an account (i.e., chronicle/narrate) of how your translation improved through the checking process.*
 
+<!-- page break -->
+
 ## Missional Outreach: Sharing the Truth of the Story
 
 *After sharing this story with others, check the translation quality with the wider language community. Record any feedback from your checking experience.*
@@ -517,6 +518,8 @@ After witnessing this story to unbelievers, use one of the following methods to 
 #### Checking Summary Reflection
 
 *Summarize any noteworthy translation decisions (things you corrected or affirmed in your draft) and the rationale/reasoning behind these translation decisions. In the final movement of this class, you will use these observations to give an account (i.e., chronicle/narrate) of how your translation improved through the checking process.*
+
+<!-- page break -->
 
 ## Conclusion
 

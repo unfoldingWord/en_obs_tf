@@ -3,7 +3,6 @@ title: Open Bible Stories
 subtitle: The Story of the Good Samaritan
 layout: obs_story
 ---
-
 ## Introduction
 
 ### Key Idea
@@ -475,6 +474,8 @@ You can change these into **Checking Questions** like this:
 
 *Summarize any noteworthy translation decisions (things you corrected or affirmed in your draft) and the rationale/reasoning behind these translation decisions. In the final movement of this class, you will use these observations to give an account (i.e., chronicle/narrate) of how your translation improved through the checking process.*
 
+<!-- page break -->
+
 ## Missional Outreach: Sharing the Truth of the Story
 
 *After sharing this story with others, check the translation quality with the wider language community. Record any feedback from your checking experience.*
@@ -514,6 +515,8 @@ After witnessing this story to unbelievers, use one of the following methods to 
 #### Checking Summary Reflection
 
 *Summarize any noteworthy translation decisions (things you corrected or affirmed in your draft) and the rationale/reasoning behind these translation decisions. In the final movement of this class, you will use these observations to give an account (i.e., chronicle/narrate) of how your translation improved through the checking process.*
+
+<!-- page break -->
 
 ## Conclusion
 
