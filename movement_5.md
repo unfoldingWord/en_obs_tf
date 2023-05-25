@@ -28,8 +28,8 @@ After witnessing this story to unbelievers, use one of the following methods to 
 #### Discuss and Revise
 *After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
 
-#### Checking Summary Reflection
-*Summarize any noteworthy translation decisions (things you corrected or affirmed in your draft) and the rationale/reasoning behind these translation decisions. In the final movement of this class, you will use these observations to give an account (i.e., chronicle/narrate) of how your translation improved through the checking process.*
+#### Record Translation Decisions
+*Update your translation decisions and record and new any noteworthy observations on the quality of your draft.
 ## Missional Outreach: Sharing the Truth of the Story
 
 *After sharing this story with others, check the translation quality with the wider language community. Record any feedback from your checking experience.*
@@ -66,6 +66,6 @@ After witnessing this story to unbelievers, use one of the following methods to 
 
 *After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
 
-#### Checking Summary Reflection
+#### Record Translation Decisions
 
-*Summarize any noteworthy translation decisions (things you corrected or affirmed in your draft) and the rationale/reasoning behind these translation decisions. In the final movement of this class, you will use these observations to give an account (i.e., chronicle/narrate) of how your translation improved through the checking process.*
+\*Update your translation decisions and record and new any noteworthy observations on the quality of your draft.
