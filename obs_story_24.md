@@ -176,7 +176,8 @@ He called him the Lamb of God who will take away the sin of the world.
 
 #### 24-07
 
-\##./obs_source/transclusions//John .md NOT FOUND!!
+How did John initially respond to Jesus wanting to be baptized by John?  
+Initially, John told Jesus that he was not worthy to baptize Jesus and that Jesus should baptize him instead.
 
 Why did Jesus say that John should baptize him?  
 He said John should baptize him because it was the right thing to do, even though Jesus never sinned.
