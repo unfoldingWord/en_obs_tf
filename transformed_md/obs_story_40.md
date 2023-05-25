@@ -56,55 +56,55 @@ Jesus was sentenced to death and crucified on a cross
 
 ### Open Bible Story: Jesus Is Crucified
 
-######### 40-01
+##### 40-01
 
 ![](\images\image464.jpeg)
 
 After the soldiers mocked Jesus, they led him away to crucify him. They made him carry the cross on which he would die.
 
-######### 40-02
+##### 40-02
 
 ![](\images\image465.jpeg)
 
 The soldiers brought Jesus to a place called ‘the Skull’ and nailed his hands and feet to the cross. But Jesus said, “Father, forgive them, because they do not know what they are doing.” They also put a sign on the cross above his head. It said, “King of the Jews.” This is what Pilate had told them to write.
 
-######### 40-03
+##### 40-03
 
 ![](\images\image466.jpeg)
 
 Then the soldiers gambled for Jesus’ clothing. When they did this, they fulfilled a prophecy that said, “They divided my garments among them, and gambled for my clothing.”
 
-######### 40-04
+##### 40-04
 
 ![](\images\image467.jpeg)
 
 There were also two robbers whom the soldiers crucified at the same time, putting them on either side of Jesus. One of the robbers mocked Jesus, but the other said to him, “Do you not fear that God will punish you? We are guilty of doing many bad things, but this man is innocent.” Then he said to Jesus, “Please remember me when you become king in your kingdom.” Jesus answered him, “Today you will be with me in Paradise.”
 
-######### 40-05
+##### 40-05
 
 ![](\images\image468.jpeg)
 
 The Jewish leaders and the other people in the crowd mocked Jesus. They said to him, “If you are the Son of God, come down from the cross and save yourself! Then we will believe you.”
 
-######### 40-06
+##### 40-06
 
 ![](\images\image469.jpeg)
 
 Then the sky over the whole region became completely dark, even though it was the middle of the day. It became dark at noon and stayed dark for three hours.
 
-######### 40-07
+##### 40-07
 
 ![](\images\image470.jpeg)
 
 Then Jesus cried out, “It is finished! Father, I am giving my spirit into your hands.” Then he bowed his head and gave up his spirit. When he died, there was an earthquake. In the Temple, the large curtain that separated the people from the presence of God was torn in two from the top to the bottom.
 
-######### 40-08
+##### 40-08
 
 ![](\images\image471.jpeg)
 
 Through his death, Jesus opened the way for people to come to God. When a soldier guarding Jesus saw everything that had happened, he said, “Certainly, this man was innocent. He was the Son of God.”
 
-######### 40-09
+##### 40-09
 
 ![](\images\image472.jpeg)
 

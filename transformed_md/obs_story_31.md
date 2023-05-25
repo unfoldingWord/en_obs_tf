@@ -51,49 +51,49 @@ He performed many miracles: he fed a crowd of five thousand, he walked on water
 
 ### Open Bible Story: Jesus Walks on Water
 
-######### 31-01
+##### 31-01
 
 ![](\images\image363.jpeg)
 
 After Jesus fed the crowd, he told the disciples to get into a boat. He told them to sail to the other side of the lake while he stayed behind for a little while. So the disciples left, and Jesus sent the crowd to their homes. After that, Jesus went up on a mountainside to pray. He was there all alone, and he prayed until late at night.
 
-######### 31-02
+##### 31-02
 
 ![](\images\image364.jpeg)
 
 During this time, the disciples were rowing their boat, but the wind was blowing hard against them. When it was late in the night, they had only reached the middle of the lake.
 
-######### 31-03
+##### 31-03
 
 ![](\images\image365.jpeg)
 
 At that time, Jesus finished praying and started to go back to meet his disciples. He walked on top of the water toward their boat.
 
-######### 31-04
+##### 31-04
 
 ![](\images\image366.jpeg)
 
 Then the disciples saw him. They were very afraid because they thought he was a ghost. Jesus knew that they were afraid, so he called out to them and said, “Do not be afraid. It is I!”
 
-######### 31-05
+##### 31-05
 
 ![](\images\image367.jpeg)
 
 Then Peter said to Jesus, “Master, if it is you, command me to come to you on the water.” Jesus told Peter, “Come!”
 
-######### 31-06
+##### 31-06
 
 ![](\images\image368.jpeg)
 
 So, Peter got out of the boat and started walking to Jesus on the surface of the water. But after walking a short distance, he turned his eyes away from Jesus and began to look at the waves and to feel the strong wind.
 
-######### 31-07
+##### 31-07
 
 ![](\images\image369.jpeg)
 
 Then Peter became afraid and began to sink in the water. He cried out, “Master, save me!” Right away, Jesus reached out and grabbed him. Then he said to Peter, “You have so little faith! Why did you not trust me to keep you safe?”
 
-######### 31-08
+##### 31-08
 
 ![](\images\image370.jpeg)
 

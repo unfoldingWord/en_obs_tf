@@ -63,85 +63,85 @@ Jesus is the promised Messiah
 
 ### Open Bible Story: Jesus Is the Promised Messiah
 
-######### 48-01
+##### 48-01
 
 ![](\images\image551.jpeg)
 
 When God created the world, everything was perfect. There was no sin. Adam and Eve loved each other, and they loved God. There was no sickness or death. This was the way God wanted the world to be.
 
-######### 48-02
+##### 48-02
 
 ![](\images\image552.jpeg)
 
 Satan spoke to Eve in the garden through the snake because he wanted to deceive her. Then she and Adam sinned against God. Because they sinned, everyone on earth dies.
 
-######### 48-03
+##### 48-03
 
 ![](\images\image553.jpeg)
 
 Because Adam and Eve sinned, something even worse happened. They became enemies of God. As a result, every person since then has sinned. Every person is an enemy of God from birth. There was no peace between people and God. But God wanted to make peace.
 
-######### 48-04
+##### 48-04
 
 ![](\images\image554.jpeg)
 
 God promised that one of Eve’s descendants would crush Satan’s head, and Satan would bite his heel. In other words, Satan would kill the Messiah, but God would raise him to life again. The Messiah would take away Satan’s power forever. Many years later, God showed that the Messiah is Jesus.
 
-######### 48-05
+##### 48-05
 
 ![](\images\image555.jpeg)
 
 God told Noah to build a boat to save his family from the flood he was going to send. This is how God saved the people who believed in him. In the same way, everyone deserves death from God because they have sinned. But God sent Jesus to save everyone who believes in him.
 
-######### 48-06
+##### 48-06
 
 ![](\images\image556.jpeg)
 
 For hundreds of years, priests kept on offering sacrifices to God. This showed people that they committed sin and that they deserved God’s punishment. But those sacrifices could not forgive their sins. Jesus did what the priests could not do. He gave himself to be the only sacrifice that could take away everyone’s sin. He accepted onto himself the punishment that we should have received for our sins. For this reason, Jesus is the Great High Priest.
 
-######### 48-07
+##### 48-07
 
 ![](\images\image557.jpeg)
 
 God had told Abraham, “I will bless all the people groups on the earth through you.” Jesus was a descendant of this Abraham. God blesses all the people groups through Abraham, because God saves from sin everyone who believes in Jesus. When these people believe in Jesus, God considers them to be descendants of Abraham.
 
-######### 48-08
+##### 48-08
 
 ![](\images\image558.jpeg)
 
 God told Abraham to sacrifice his own son, Isaac, to him. But then God gave a ram for the sacrifice instead of Isaac. We all deserve to die for our sins! But God gave Jesus to be a sacrifice to die in our place. That is why we call Jesus the Lamb of God.
 
-######### 48-09
+##### 48-09
 
 ![](\images\image559.jpeg)
 
 When God sent the last plague on Egypt, he told each Israelite family to kill a lamb. The lamb must not have any flaws. Then they had to spread its blood on the tops and sides of their door frames. When God saw the blood, he passed over their houses and did not kill their firstborn sons. When this happened, God called this the Passover.
 
-######### 48-10
+##### 48-10
 
 ![](\images\image560.jpeg)
 
 Jesus is like a Passover Lamb. He never sinned, so there was nothing wrong with him. He was killed at the time of the Passover festival. When anyone believes in Jesus, the blood of Jesus pays for that person’s sin. It is as if God passed over that person, because he does not punish him.
 
-######### 48-11
+##### 48-11
 
 ![](\images\image561.jpeg)
 
 God made a covenant with the Israelites because they were the people he had chosen to belong to himself. But God has now made a New Covenant that is for everyone. If anyone in any people group accepts this New Covenant, he joins God’s people. He does this because he believes in Jesus.
 
-######### 48-12
+##### 48-12
 
 ![](\images\image562.jpeg)
 
 Moses was a prophet who proclaimed the word of God with great power. But Jesus is the greatest prophet of all. He is God, so all the things he did and said were the actions and words of God. That is why the Scriptures call Jesus the Word of God.
 
-######### 48-13
+##### 48-13
 
 ![](\images\image563.jpeg)
 
 God promised King David that one of his descendants would rule as king over God’s people forever. Jesus is the Son of God and the Messiah, so he is the descendant of David who can rule forever.
 
-######### 48-14
+##### 48-14
 
 ![](\images\image564.jpeg)
 

@@ -34,49 +34,49 @@ God sent judged the Egyptians with harsh plagues; in the final judgment, he pass
 
 ### Open Bible Story: The Passover
 
-######### 11-01
+##### 11-01
 
 ![](\images\image124.jpeg)
 
 God sent Moses and Aaron to tell Pharaoh to let the Israelites go. They warned him that if he did not let them go, God would kill all the firstborn males of Egypt’s people and animals. When Pharaoh heard this, he still refused to believe and obey God.
 
-######### 11-02
+##### 11-02
 
 ![](\images\image125.jpeg)
 
 God provided a way to save the firstborn son of anyone who believed in him. Each family had to choose a perfect lamb and kill it.
 
-######### 11-03
+##### 11-03
 
 ![](\images\image126.jpeg)
 
 God told the Israelites to put the blood of this lamb around the door of their houses. They should roast the meat. Then they should quickly eat it, along with unleavened bread. He also told them to be ready to leave Egypt immediately after they ate this meal.
 
-######### 11-04
+##### 11-04
 
 ![](\images\image127.jpeg)
 
 The Israelites did everything just as God had commanded them to do. In the middle of the night, God went throughout Egypt killing every firstborn son.
 
-######### 11-05
+##### 11-05
 
 ![](\images\image128.jpeg)
 
 All the houses of the Israelites had blood around the doors, so God passed over those houses. Everybody inside them was safe. They were saved because of the lamb’s blood.
 
-######### 11-06
+##### 11-06
 
 ![](\images\image129.jpeg)
 
 But the Egyptians did not believe God or obey his commands. So God did not pass over their houses. God killed every one of the Egyptians’ firstborn sons.
 
-######### 11-07
+##### 11-07
 
 ![](\images\image130.jpeg)
 
 Every Egyptian firstborn male died, from the firstborn of the prisoner in jail to the firstborn of Pharaoh. Many people in Egypt were crying and wailing because of their deep sadness.
 
-######### 11-08
+##### 11-08
 
 ![](\images\image131.jpeg)
 

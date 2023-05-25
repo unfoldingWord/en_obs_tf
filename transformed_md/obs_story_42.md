@@ -58,67 +58,67 @@ After meeting with many of his disciples, Jesus went back to heaven.
 
 ### Open Bible Story: Jesus Returns to Heaven
 
-######### 42-01
+##### 42-01
 
 ![](\images\image481.jpeg)
 
 On the day that God raised Jesus from the dead, two of his disciples were going to a nearby town. As they walked, they talked about what had happened to Jesus. They had hoped that he was the Messiah, but then he was killed. Now the women said he was alive again. They did not know what to believe.
 
-######### 42-02
+##### 42-02
 
 ![](\images\image482.jpeg)
 
 Jesus approached them and started walking with them, but they did not recognize him. He asked what they were talking about. They told him about all the things that had happened to Jesus during the previous few days. They thought they were talking to a foreigner who did not know what had happened in Jerusalem.
 
-######### 42-03
+##### 42-03
 
 ![](\images\image483.jpeg)
 
 Then Jesus explained to them what God’s word said about the Messiah. Long ago, prophets had said that evil men would make the Messiah suffer and die. But the prophets also said he would rise again on the third day.
 
-######### 42-04
+##### 42-04
 
 ![](\images\image484.jpeg)
 
 When they arrived at the town where the two men wanted to stay, it was almost evening. They invited Jesus to stay with them, so he went into a house with them. They sat down to eat their evening meal. Jesus picked up a loaf of bread, thanked God for it, and then broke it. Suddenly, they recognized that he was Jesus. But at that moment, he disappeared from their sight.
 
-######### 42-05
+##### 42-05
 
 ![](\images\image485.jpeg)
 
 The two men said to each other, “That was Jesus! That is why we were so excited when he explained God’s word to us!” Immediately they left and went back to Jerusalem. When they arrived, they told the disciples, “Jesus is alive! We have seen him!”
 
-######### 42-06
+##### 42-06
 
 ![](\images\image486.jpeg)
 
 As the disciples were talking, Jesus suddenly appeared in the room with them. He said, “Peace to you!” The disciples thought he was a ghost, but Jesus said, “Why are you afraid? Why do you not think it is really I, Jesus? Look at my hands and feet. Ghosts do not have bodies like I do.” To show that he was not a ghost, he asked for something to eat. They gave him a piece of fish, and he ate it.
 
-######### 42-07
+##### 42-07
 
 ![](\images\image487.jpeg)
 
 Jesus said, “Everything about me that God’s word says will happen, I have told you that it must happen.” Then Jesus made them understand God’s word better. He said, “Long ago, prophets wrote that I, the Messiah, would suffer, die, and then rise from the dead on the third day.”
 
-######### 42-08
+##### 42-08
 
 ![](\images\image488.jpeg)
 
 “The prophets also wrote that my disciples will proclaim God’s message. They will tell everyone to repent. If they repent, God will forgive their sins. My disciples will proclaim this message starting in Jerusalem. Then they will go to all people groups everywhere. You are witnesses of everything I have said and done, and of everything that happened to me.”
 
-######### 42-09
+##### 42-09
 
 ![](\images\image489.jpeg)
 
 During the next 40 days, Jesus appeared to his disciples many times. Once, he even appeared to more than 500 people at the same time! In many ways, he proved to his disciples that he was alive, and he taught them about the kingdom of God.
 
-######### 42-10
+##### 42-10
 
 ![](\images\image490.jpeg)
 
 Jesus said to his disciples, “God has given me the right to rule over everyone in heaven and on earth. So I am telling you now: go and make disciples in all people groups. In order to do this, you must baptize them in the name of the Father, the Son, and the Holy Spirit. You must also teach them to obey everything I have commanded you. Remember, I will always be with you.”
 
-######### 42-11
+##### 42-11
 
 ![](\images\image491.jpeg)
 

@@ -37,91 +37,91 @@ God made a covenant with the Israelites and made them his people.
 
 ### Open Bible Story: God’s Covenant with Israel
 
-######### 13-01
+##### 13-01
 
 ![](\images\image146.jpeg)
 
 After God led the Israelites through the Red Sea, he led them through the wilderness to a mountain called Sinai. This was the same mountain where Moses had seen the burning bush. The people set up their tents at the base of the mountain.
 
-######### 13-02
+##### 13-02
 
 ![](\images\image147.jpeg)
 
 God said to Moses and all the people of Israel, “You must always obey me and keep the covenant I am making with you. If you do this, you will be my prized possession, a kingdom of priests, and a holy nation.”
 
-######### 13-03
+##### 13-03
 
 ![](\images\image148.jpeg)
 
 For three days the people made themselves ready for God to come near to them. Then God came down to the top of Mount Sinai. When he came, there was thunder, lightning, smoke, and sounds of loud trumpets. Then Moses went by himself up the mountain.
 
-######### 13-04
+##### 13-04
 
 ![](\images\image149.jpeg)
 
 Then God made a covenant with the people. He said, “I am Yahweh, your God. It is I who saved you from being slaves in Egypt. Do not worship any other god.”
 
-######### 13-05
+##### 13-05
 
 ![](\images\image150.jpeg)
 
 “Do not make idols and do not worship them, because I, Yahweh, must be your only God. Do not use my name in a disrespectful way. Be sure to keep the Sabbath day holy. In other words, do all your work in six days, for the seventh day is a day for you to rest and to remember me.”
 
-######### 13-06
+##### 13-06
 
 ![](\images\image151.jpeg)
 
 “Honor your father and your mother. Do not murder. Do not commit adultery. Do not steal. Do not lie. Do not desire to have your neighbor’s wife, his house, or anything that belongs to him.”
 
-######### 13-07
+##### 13-07
 
 ![](\images\image152.jpeg)
 
 The people all agreed to obey the laws that God had given them. They agreed to belong to God alone and to worship only him.
 
-######### 13-08
+##### 13-08
 
 ![](\images\image153.jpeg)
 
 God also told the Israelites to make a large tent—the Tent of Meeting. He told them exactly how to make this tent and what things to put in it. He told them to make a large curtain to separate the tent into two rooms. God would come into the room behind the curtain and stay there. Only the high priest was allowed to go into that room where God was.
 
-######### 13-09
+##### 13-09
 
 ![](\images\image154.jpeg)
 
 The people must also make an altar in front of the Tent of Meeting. Anyone who had disobeyed God’s law should bring an animal to that altar. A priest would then kill it and burn it on the altar as a sacrifice to God. God said that the animal’s blood would cover that person’s sin. In this way, God would not see that sin any longer. That person would become “clean” in God’s sight. God chose Moses’ brother, Aaron, and Aaron’s descendants to be his priests.
 
-######### 13-10
+##### 13-10
 
 ![](\images\image155.jpeg)
 
 God wrote these Ten Commandments on two stone tablets and gave them to Moses. God also gave the people many other laws and rules to follow. God promised to bless the people and protect them if they obeyed these laws. But he said he would punish them if they did not obey them.
 
-######### 13-11
+##### 13-11
 
 ![](\images\image156.jpeg)
 
 For many days, Moses remained on top of Mount Sinai. He was talking with God. But the people became tired of waiting for him to return to them. So they brought gold to Aaron and asked him to make an idol that they could worship instead of God. In this way, they sinned terribly against God.
 
-######### 13-12
+##### 13-12
 
 ![](\images\image157.jpeg)
 
 Aaron made a golden idol in the shape of a calf. The people began to wildly worship the idol and make sacrifices to it! God was very angry with them because of their sin. God told Moses he wanted to destroy them. But Moses asked God not to kill them. God listened to his prayer and did not destroy them.
 
-######### 13-13
+##### 13-13
 
 ![](\images\image158.jpeg)
 
 When Moses came down from Mount Sinai, he was carrying the two stone tablets on which God had written the Ten Commandments. When Moses saw the idol, he was so angry that he smashed the tablets.
 
-######### 13-14
+##### 13-14
 
 ![](\images\image159.jpeg)
 
 Then Moses burned the idol and ground it into powder. He threw the powder into a stream and made the people drink the water. God sent a plague on the people and many of them died.
 
-######### 13-15
+##### 13-15
 
 ![](\images\image160.jpeg)
 

@@ -53,79 +53,79 @@ He proclaimed to people the nature of real faith, God’s kingdom, and the how f
 
 ### Open Bible Story: The Story of the Compassionate Father
 
-######### 35-01
+##### 35-01
 
 ![](\images\image406.jpeg)
 
 One day, Jesus was teaching many people who had gathered to hear him. These people were tax collectors and also other people who did not try to obey the Law of Moses.
 
-######### 35-02
+##### 35-02
 
 ![](\images\image407.jpeg)
 
 Some religious leaders saw Jesus talking to these people as friends. So they began to tell each other that he was doing wrong. Jesus heard them talk, so he told them this story.
 
-######### 35-03
+##### 35-03
 
 ![](\images\image408.jpeg)
 
 “There was a man who had two sons. The younger son told his father, ‘Father, I want my inheritance now!’ So the father divided his property between his two sons.”
 
-######### 35-04
+##### 35-04
 
 ![](\images\image409.jpeg)
 
 “Soon the younger son gathered all that he had and went far away and wasted his money in sinful living.”
 
-######### 35-05
+##### 35-05
 
 ![](\images\image410.jpeg)
 
 “After that, a severe famine occurred in the land where the younger son was, and he had no money to buy food. So he took the only job he could find, feeding pigs. He was so miserable and hungry that he wanted to eat the pigs’ food.”
 
-######### 35-06
+##### 35-06
 
 ![](\images\image411.jpeg)
 
 “Finally, the younger son said to himself, ‘What am I doing? All my father’s servants have plenty to eat, and yet here I am starving. I will go back to my father and ask to be one of his servants.’”
 
-######### 35-07
+##### 35-07
 
 ![](\images\image412.jpeg)
 
 “So the younger son started back towards his father’s home. When he was still far away, his father saw him and felt compassion for him. He ran to his son and hugged him and kissed him.”
 
-######### 35-08
+##### 35-08
 
 ![](\images\image413.jpeg)
 
 “The son said, ‘Father, I have sinned against God and against you. I am not worthy to be your son.’”
 
-######### 35-09
+##### 35-09
 
 ![](\images\image414.jpeg)
 
 “But his father told one of his servants, ‘Go quickly and bring the best clothes and put them on my son! Put a ring on his finger and put sandals on his feet. Then kill the best calf so we can have a feast and celebrate, because my son was dead, but now he is alive! He was lost, but now we have found him!’”
 
-######### 35-10
+##### 35-10
 
 ![](\images\image415.jpeg)
 
 “So the people began to celebrate. Before long, the older son came home from working in the field. He heard the music and dancing and wondered what was happening.”
 
-######### 35-11
+##### 35-11
 
 ![](\images\image416.jpeg)
 
 “When the older son found out that they were celebrating because his brother had come home, he was very angry and would not go into the house. His father came out and begged him to come and celebrate with them, but he refused.”
 
-######### 35-12
+##### 35-12
 
 ![](\images\image417.jpeg)
 
 “The older son said to his father, ‘All these years I have worked faithfully for you! I never disobeyed you, and still you did not give me even one small goat so I could celebrate with my friends. But this son of yours has wasted your money doing sinful things. When he came home, you killed the best calf to celebrate!’”
 
-######### 35-13
+##### 35-13
 
 ![](\images\image418.jpeg)
 
