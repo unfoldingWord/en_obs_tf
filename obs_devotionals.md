@@ -16,7 +16,7 @@ God invites us to participate in his work in relationship with one another. Rela
 
 It is important for your community to be one-minded about its purpose. Shared purpose unites people together in a common work. This series of studies helps you *think about your community relationships in the context of God's mission*.
 
-### Community Study 1: Seeing the Crowds: Clarifying Ministry Needs
+### Community Study: Seeing the Crowds: Clarifying Ministry Needs
 
 - **Key Idea**: seeing the needs around us
 - **Key Passage**: Matthew 9:35-38
@@ -49,7 +49,7 @@ In this passage, Jesus commands us to pray. As a community, spend time praying t
 #### Song to God (2-4 minutes)
 Take time as a community to sing praises to God for his work of salvation and the privilege of joining God in his work/mission.
 
-### Community Study 2: Invitation to God's Purpose: Understanding God's Mission
+### Community Study: Invitation to God's Purpose: Understanding God's Mission
 
 - **Key Idea**: understanding that God has sent us into the world
 - **Key Passage**: John 17:15-19
@@ -83,7 +83,7 @@ As disciples, you are sent into the world to tell others about God. Think about 
 #### Pray to God (5 minutes)
 Pray together as a large group. Seek God's help that your community will become one-minded and aligned about the work God has for you. Also, ask for God's grace and strength to accomplish this work.
 
-### Community Study 3: Sphere of Ministry: Describing Our Ministry Context
+### Community Study: Sphere of Ministry: Describing Our Ministry Context
 
 - **Key Idea**: clarifying the details of our ministry
 - **Key Passage**: Psalm 67:1-3
@@ -108,7 +108,7 @@ It is important that our plans for God's work are the same as God's own plans. G
 #### Pray to God (5–10 minutes)
 After discussing specific ministry challenges and opportunities among these people, take time to pray as a team. Pray that God would resolve the ministry challenges, open doors for the gospel among these people, and clarify your team's understanding of how God wants to minister among these people.
 
-### Community Study 4: God's People: Placing the Church at the Center of Our Strategy
+### Community Study: God's People: Placing the Church at the Center of Our Strategy
 
 - **Key Idea**: grasping the importance of the church
 - **Key Passage**: Ephesians 3:20-21
@@ -139,7 +139,7 @@ Try to imagine how God might be glorified by having the church be a central part
 #### Pray to God (5 minutes)
 After discussing the importance of the church in God's work, take time to pray about the challenges and fears in having the church play a central role in the work/ministry ahead.
 
-### Community Study 5: Reasons We Serve: Evaluating Our Motivations for Ministry
+### Community Study: Reasons We Serve: Evaluating Our Motivations for Ministry
 
 - **Key Idea**: having the right reasons to serve God
 - **Key Passage**: Colossians 3:23
@@ -170,7 +170,7 @@ Take some time to think about your own motivations for serving God in this minis
 #### Pray for Help (5 minutes)
 As a group, pray for God to fill your whole community with the right motivations for ministry. Kneeling in prayer can help us recognize our deep need for God's help. Encourage members of the community to kneel on the ground as they pray to God.
 
-### Community Study 6: Confidence in the Work: God Completes His Purposes
+### Community Study: Confidence in the Work: God Completes His Purposes
 
 - **Key Idea**: trusting God to finish his work
 - **Key Passage**: Psalm 90:16-17
@@ -202,7 +202,7 @@ God invites us to be a part of his work in the world. We can have confidence tha
 
 The Bible is a true and faithful guide for all of life. A healthy community establishes itself on God's Word. It is important for your community to understand the character of the Bible. The Bible is an important and reliable resource for your community to function well as a team. This series of studies will help you *understand the nature of God's Word and how this shapes a faithful approach to Bible translation*.
 
-### Community Study 1: God's Extraordinary Word: The Bible Answers Our Deepest Needs
+### Community Study: God's Extraordinary Word: The Bible Answers Our Deepest Needs
 
 - **Key Idea**: experiencing God's word as relevant for all of life
 - **Key Passage**: Psalm 19:7-11
@@ -237,7 +237,7 @@ Remember your earlier description of your feelings about your present life circu
 #### Pray to God (5 minutes)
 Conclude this time together by praying to God. Specifically, use parts of Psalm 19:7-11 to thank God for his Word and to ask him to have his Word lead to a change in your lives.
 
-### Community Study 2: God's Life-Giving Word: The Bible Shows Us Salvation and Grows Us as Christians
+### Community Study: God's Life-Giving Word: The Bible Shows Us Salvation and Grows Us as Christians
 
 - **Key Idea**: trusting God's Word as the source of eternal life
 - **Key Passage**: 1 Peter 1:23-2:3
@@ -410,7 +410,7 @@ Choose a song to sing that praises God and encourages one another.
 
 Strong communities develop godly habits. God teaches us about these foundational habits and why they are important. As Christians work together, these habits will help encourage, strengthen, and equip you to participate in God's mission with joy and unity. This series of studies helps you *learn about foundational habits that make mature communities and disciples*.
 
-### Community Study 1: The Practice of Gratitude: Giving Thanks to God
+### Community Study: The Practice of Gratitude—Giving Thanks to God
 
 - **Key Idea**: thanking God for his goodness
 - **Key Passage**: Ephesians 5:18-21
@@ -440,7 +440,7 @@ Have a time of community prayer in which people express thanks to God. Try to be
 #### Sing to God (5 minutes)
 Choose 1–2 songs that give thanks to God. Sing them together as a community.
 
-### Community Study 2: The Practice of Worship: Praising God as a Community
+### Community Study: The Practice of Worship—Praising God as a Community
 
 - **Key Idea**: declaring God's greatness and glory
 - **Key Passage**: Revelation 4:11
@@ -469,7 +469,7 @@ As a group, read the following verse again. Take time as a group to put this ver
 #### Pray to God (3-5 minutes)
 Break up into groups of 2-3 people. Have each person pray a prayer of praise to God.
 
-### Community Study 3: The Practice of Community: Fellowshipping with God's People
+### Community Study: The Practice of Community: Fellowshipping with God's People
 
 - **Key Idea**: enjoying relationships with God's people
 - **Key Passage**: Hebrews 10:23-25
@@ -499,7 +499,7 @@ Spend time praying as a church community. Ask God to help your community/team be
 #### Sing God's Praise (5 minutes)
 Choose 1–2 songs to sing that praise God and encourage one another to be faithful to God.
 
-### Community Study 4: The Practice of Confession: Acknowledging Our Sin
+### Community Study: The Practice of Confession: Acknowledging Our Sin
 
 - **Key Idea**: admitting our sin before God and others
 - **Key Passage**: James 5:16
@@ -537,7 +537,7 @@ Divide your community into groups of 2–3 individuals. Spend time praying for G
 #### Sing to God (5 minutes)
 Remember how God has forgiven you of your sin. Sing a song that celebrates God's grace and mercy.
 
-### Community Study 5: The Practice of Prayer: Speaking with God
+### Community Study: The Practice of Prayer: Speaking with God
 
 - **Key Idea**: asking God to act on our behalf
 - **Key Passage**: 1 Peter 5:6-11
@@ -570,7 +570,7 @@ Identify several needs of your community that are the cause of anxiety. Pray to 
 #### Sing God's Praise (3–5 minutes)
 Sing a song that expresses trust in God to fulfill his promises.
 
-### Community Study 6: The Practice of Accountability: Bearing Each Other's Burdens
+### Community Study: The Practice of Accountability: Bearing Each Other's Burdens
 
 - **Key Idea**: supporting each other in the work
 - **Key Passage**: Galatians 6:1-5
@@ -604,7 +604,7 @@ Sing a song of trust that expresses dependence upon God.
 
 God forms his followers into a community of faith. No person can create Christian community by human strength. This is something only God can do. Because Christian community is unique, it is important to understand the way God has formed believers together. This series of studies helps you *understand the nature of Christian community and what it means to be a member of this community*.
 
-### Community Study 1: One Body, Many Members: Enjoying God's Design of Christian Community
+### Community Study: One Body, Many Members: Enjoying God's Design of Christian Community
 
 - **Key Idea**: celebrating the unity and diversity of God's people
 - **Key Passage**: 1 Corinthians 12:12-27
@@ -639,7 +639,7 @@ Christians can only enjoy the unity and diversity of Christian community with Go
 #### Sing a Song (3–5 minutes)
 Reflect on what it means to be a Christian community. Sing a song that celebrates God's work in forming God's people together as a unified body.
 
-### Community Study 2: Gifts to Each One: Celebrating Diversity in Christian Community
+### Community Study: Gifts to Each One: Celebrating Diversity in Christian Community
 
 - **Key Idea**: valuing the gifts God has imparted to each other
 - **Key Passage**: Romans 12:3-8
@@ -680,7 +680,7 @@ Divide the community into groups of 2–3 people. Have each person pray an encou
 #### Sing a Song (3–5 minutes)
 Choose a song that is fitting for this session. Sing this song as a community.
 
-### Community Study 3: The Bond of Peace: Maintaining the Unity of the Community
+### Community Study: The Bond of Peace: Maintaining the Unity of the Community
 
 - **Key Idea**: preserving the unity that God has established
 - **Key Passage**: Ephesians 4:1-6
@@ -715,7 +715,7 @@ Reflect on the instructions given in the passage above. Name one characteristic 
 #### Pray to God (5 minutes)
 After sharing the specific attitude you want to develop, divide your community into groups of 2–3 people. As you pray for each other, ask God to help each person in your group develop the attitude they identified. Also, pray for the overall unity of your community.
 
-### Community Study 4: No Divisions Among You: Guarding the Community against Disunity
+### Community Study: No Divisions Among You: Guarding the Community against Disunity
 
 - **Key Idea**: guarding against division and disunity
 - **Key Passage**: 1 Corinthians 1:10-13
@@ -751,7 +751,7 @@ Pray as a whole community. Ask God to help guard your community against division
 #### Sing to God (3–5 minutes)
 Choose a song to sing to praise God and encourage one another.
 
-### Community Study 5: Importance of Love: Making Love Central to Christian Relationships
+### Community Study: Importance of Love: Making Love Central to Christian Relationships
 
 - **Key Idea**: treating one another with love
 - **Key Passage**: 1 Corinthians 13:1-8
@@ -792,7 +792,7 @@ Reflect on the passage and discussion above. Identify one of the descriptions of
 #### Pray to God (5 minutes)
 Pray as a whole community that God would help each of you develop in love for one another. Also, thank God for the great love he has shown to people.
 
-### Community Study 6: Concerning Love of the Brothers: Caring for One Another with Genuine Love
+### Community Study: Concerning Love of the Brothers: Caring for One Another with Genuine Love
 
 - **Key Idea**: tending to the needs of others in our community
 - **Key Passage**: Romans 12:9-16
@@ -835,7 +835,7 @@ Choose a song to sing to praise God and encourage one another.
 
 Christian community thrives as disciples embody the character of Christ. God calls us to remove sinful vices that ruin community. He also calls us to develop godly characteristics that make community strong and enjoyable. Certainly, it is important to practice good habits as a community. But, it is also very important to develop godly character and attitudes. The Christian community will not only be strong by how we treat one another (i.e., what we do) but by the kind of people we are (i.e., who we are). This series of studies helps you *cultivate godly virtues that enable your relationships to thrive as a Christian community*.
 
-### Community Study 1: Two Ways: Understanding the Difference between  the Flesh and the Spirit
+### Community Study: Two Ways: Understanding the Difference between  the Flesh and the Spirit
 
 - **Key Idea**: distinguishing ungodly vices and godly virtues
 - **Key Passage**: Galatians 5:19-26
@@ -877,7 +877,7 @@ Divide the community into groups of 2–3. Use the above passage to pray over ea
 #### Sing to God (3–5 minutes)
 Choose a song to sing to praise God and encourage one another.
 
-### Community Study 2: Things Which Are Not Proper: Recognizing the Community Damage of Sin
+### Community Study: Things Which Are Not Proper: Recognizing the Community Damage of Sin
 
 - **Key Idea**: acknowledging the negative impact of sin
 - **Key Passage**: Romans 1:28-32
@@ -912,7 +912,7 @@ Thinking about the list of sinful ways, pick one specific sin that you feel coul
 #### Pray to God (5 minutes)
 Divide the community into groups of 2–3. Pray that God would guard you as individuals and as a community against the effects of these sinful ways.
 
-### Community Study 3: A Godly Community: Thinking about the Right Things
+### Community Study: A Godly Community: Thinking about the Right Things
 
 - **Key Idea**: focusing our thoughts on things that please God
 - **Key Passage**: Philippians 4:8-9
@@ -950,7 +950,7 @@ Divide your community into groups of 2–3. Give each group one of the character
 #### Pray to God (5 minutes)
 Use the passage above to pray to God. As a community, ask God to help you think about the specific characteristics above.
 
-### Community Study 4: Bearing Godly Fruit: Making Progress in the Faith
+### Community Study: Bearing Godly Fruit: Making Progress in the Faith
 
 - **Key Idea**: growing in godly characteristics
 - **Key Passage**: 2 Peter 1:5-9
@@ -986,7 +986,7 @@ Use the list of character traits above as a guide for prayer. Assign one charact
 #### Sing a Song (3–5 minutes)
 Choose a song to sing to praise God and encourage one another.
 
-### Community Study 5: The Last Days: Guarding Against Cultural Values
+### Community Study: The Last Days: Guarding Against Cultural Values
 
 - **Key Idea**: renouncing worldly ways of living
 - **Key Passage**: 2 Timothy 3:1-5
@@ -1023,7 +1023,7 @@ Pray that God would protect your community from the sins of the surrounding cult
 #### Sing a Song (3–5 minutes)
 Choose a song to sing to praise God and encourage one another.
 
-### Community Study 6: Godly Wisdom: Living by the Wisdom from Above
+### Community Study: Godly Wisdom: Living by the Wisdom from Above
 
 - **Key Idea**: grounding our lives in God's wisdom
 - **Key Passage**: James 3:13-18
@@ -1060,7 +1060,7 @@ Pray that God would help your community to have godly wisdom. Use the passage ab
 
 Christian community will be as strong as each disciple becomes more like Christ in his character and attitude. Personal spiritual formation is important for a community to function well. Each person needs to take responsibility for their growth as a Christian. This series of studies helps you *develop a clear understanding of the principles and processes of spiritual growth in the Christian life*.
 
-### Community Study 1: Spiritual Battle: Taking Every Thought Captive
+### Community Study: Spiritual Battle: Taking Every Thought Captive
 
 - **Key Idea**: engaging the spiritual battle in the mind
 - **Key Passage**: 2 Corinthians 10:3-5
@@ -1115,7 +1115,7 @@ Pray for each member of your community that God would help them gain victory in 
 #### Sing a Song (3–5 minutes)
 Choose a song that celebrates God's victory over the enemy. Sing this song as praise to God and encouragement of one another.
 
-### Community Study 2: Personal Transformation: Renewing Your Mind
+### Community Study: Personal Transformation: Renewing Your Mind
 
 - **Key Idea**: aligning our thoughts with the truth as a means of growth
 - **Key Passage**: Romans 12:1-2
@@ -1161,7 +1161,7 @@ Because of Jesus, God gives his people victory. Think about the ways God has cau
 #### Pray to God (5 minutes)
 Pray for your community not to be conformed to the world. Ask that God would allow members of your community to experience real change and transformation in their personal lives.
 
-### Community Study 3: Taught in Jesus: Putting on the New Self
+### Community Study: Taught in Jesus: Putting on the New Self
 
 - **Key Idea**: understanding the process of Christian formation
 - **Key Passage**: Ephesians 4:17-24
@@ -1206,7 +1206,7 @@ Think about what it looks like to be made new in Jesus. Celebrate the ways that 
 #### Pray to God (5 minutes)
 Pray for members of your community to experience a change in how they live their lives. Ask that God would keep them from living like the world and to continue living in a way that pleases Christ.
 
-### Community Study 4: Put on the New Man: Becoming a Community of Transformed Members
+### Community Study: Put on the New Man: Becoming a Community of Transformed Members
 
 - **Key Idea**: experiencing transformation as a Christian community
 - **Key Passage**: Colossians 3:1-11
@@ -1253,7 +1253,7 @@ Pray for your community to experience God's transformation and change. Use the l
 #### Sing a Song (3–5 minutes)
 Choose a song that praises God for his great work of transformation. Sing this song together and celebrate God's work of change in your lives.
 
-### Community Study 5: As in the Day: Living Godly Lives in a Dark and Sinful World
+### Community Study: As in the Day: Living Godly Lives in a Dark and Sinful World
 
 - **Key Idea**: practicing godliness in a world filled with evil
 - **Key Passage**: Romans 13:11-14
@@ -1297,7 +1297,7 @@ Pray that God would help your community to stop living like the darkness and sta
 #### Sing a Song (3–5 minutes)
 Choose a song that celebrates God's purity and holiness. Sing this song as an encouragement for God's people to live like Jesus lived.
 
-### Community Study 6: Faith Progress: Pressing on Toward the Goal
+### Community Study: Faith Progress: Pressing on Toward the Goal
 
 - **Key Idea**: learning about basic principles of spiritual progress
 - **Key Passage**: Philippians 3:12-16
@@ -1348,7 +1348,7 @@ Choose a song that celebrates God's power and grace to transform lives. Sing thi
 
 Working together as a community is a great gift from God. Even though there are many joys of community life, we can also expect challenges and struggles. Godly communities remain unified through conflict and tension. In fact, if we can resolve conflict in a godly way, it can make our community stronger. This series of studies helps you *maintain the unity of your community through godly principles of conflict resolution*.
 
-### Community Study 1: All of You: Enjoying Brotherly Unity
+### Community Study: All of You: Enjoying Brotherly Unity
 
 - **Key Idea**: honoring the unit of God's people
 - **Key Passage**: 1 Peter 3:8-12
@@ -1387,7 +1387,7 @@ Reflect on the passage and discussion above. Think about what it would be like t
 #### Pray to God (5 minutes)
 Pray that God would make your community like the one described in the passage above. Use the specific details of the passage to pray as a community.
 
-### Community Study 2: Healthy Community Life: Being at Peace with Each Other
+### Community Study: Healthy Community Life: Being at Peace with Each Other
 
 - **Key Idea**: naming the elements of healthy community life
 - **Key Passage**: 1 Thessalonians 5:12-15
@@ -1426,7 +1426,7 @@ Ask God to help your community practice/obey the instructions in the above passa
 #### Sing a Song (3–5 minutes)
 Choose a song to sing to praise God and encourage one another.
 
-### Community Study 3: When Tensions Arise: Understanding Causes of Conflict
+### Community Study: When Tensions Arise: Understanding Causes of Conflict
 
 - **Key Idea**: pinpointing the roots of relationship tension
 - **Key Passage**: James 4:1-2
@@ -1468,7 +1468,7 @@ Divide the community into groups of 2–3 people. Read the verse below. Use the 
 
 > 11 Finally, brothers, rejoice! Work for restoration, be encouraged, agree with one another, live in peace. And the God of love and peace will be with you. 2 Corinthians 13:11
 
-### Community Study 4: An Important Practice: Forgiving One Another
+### Community Study: An Important Practice: Forgiving One Another
 
 - **Key Idea**: emphasizing the importance of forgiveness
 - **Key Passage**: Matthew 18:21-35
@@ -1507,7 +1507,7 @@ Pray that God would reveal to you any person that you need to forgive. Ask God t
 #### Sing a Song (3–5 minutes)
 Choose a song to sing to praise God and encourage one another.
 
-### Community Study 5: If Your Brother Sins: Dealing with Sin in the Community
+### Community Study: If Your Brother Sins: Dealing with Sin in the Community
 
 - **Key Idea**: outlining a process of conflict resolution
 - **Key Passage**: Matthew 18:15-20
@@ -1546,7 +1546,7 @@ Think through the teaching of the above passage and how this teaching can help y
 #### Pray to God (5 minutes)
 Pray as a whole community that God would help you to obey the teaching of this passage and make your community strong and healthy.
 
-### Community Study 6: Putting Others First: Following Jesus' Example of Humility
+### Community Study: Putting Others First: Following Jesus' Example of Humility
 
 - **Key Idea**: embracing humility as a way to relating to others
 - **Key Passage**: Philippians 2:1-5
@@ -1587,7 +1587,7 @@ Choose a song to sing to praise God and encourage one another.
 
 Each culture will understand power and authority in unique ways. The Bible has much to say about this topic. Ultimately, all authority and power comes from God. God cares about how people use their positions of leadership and power. Because we are a community of ministry, we need to have a godly approach to leadership. This series of studies helps you *approach leadership, authority, and power from a godly attitude of service*.
 
-### Community Study 1: Last of All: Understanding True Greatness
+### Community Study: Last of All: Understanding True Greatness
 
 - **Key Idea**: laying the foundation of all ministry
 - **Key Passage**: Mark 9:31-35
@@ -1624,7 +1624,7 @@ Have each member of the community get on their knees. Take turns praying for God
 > God, forgive us for the wrong desire to...
 > God, help us to serve others by...
 
-### Community Study 2: Servant of All: Viewing Our Leadership as Service
+### Community Study: Servant of All: Viewing Our Leadership as Service
 
 - **Key Idea**: viewing oneself as a servant
 - **Key Passage**: Mark 10:35-45
@@ -1661,7 +1661,7 @@ Spend time as a community listing the names of people that God wants you to serv
 #### Pray to God (5 minutes)
 Have each member of your community kneel down in prayer. Have each person pray that God would give him or her a servant heart.
 
-### Community Study 3: A Good Servant: Seeing the Characteristics of Godly Servants
+### Community Study: A Good Servant: Seeing the Characteristics of Godly Servants
 
 - **Key Idea**: describing the core attributes of servants
 - **Key Passage**: 1 Timothy 4:6-16
@@ -1700,7 +1700,7 @@ Identify one area in the passage that you want to focus on in your growth as a l
 #### Sing a Song (3–5 minutes)
 Choose a song to sing to praise God and encourage one another.
 
-### Community Study 4: Entrusted by God: Doing Ministry in a Trustworthy Way
+### Community Study: Entrusted by God: Doing Ministry in a Trustworthy Way
 
 - **Key Idea**: developing a right self-understanding as a minister
 - **Key Passage**: 1 Corinthians 4:1-7
@@ -1744,7 +1744,7 @@ Divide members of your community into groups of 2–3 people. Based on the discu
 #### Pray to God (5 minutes)
 Pray as a whole community that God would help you to approach your leadership/ministry in this way.
 
-### Community Study 5: We Are Strong When Weak: Doing Ministry in God's Strength
+### Community Study: We Are Strong When Weak: Doing Ministry in God's Strength
 
 - **Key Idea**: relying on God's power as a source of ministry strength
 - **Key Passage**: 2 Corinthians 12:1-10
@@ -1784,7 +1784,7 @@ Have each person identify the area of weakness and pray the following prayer to 
 > Good God, I acknowledge that I am weak in this way...
 > Thank you that your grace is sufficient for me and your power is made perfect in weakness, for whenever I am weak, then I am strong.
 
-### Community Study 6: Ministry that Matters: Approaching Leadership with Right Motivations
+### Community Study: Ministry that Matters: Approaching Leadership with Right Motivations
 
 - **Key Idea**: examining our heart attitude to ministry
 - **Key Passage**: 1 Thessalonians 2:1-8
@@ -1829,7 +1829,7 @@ Choose a song to sing to praise God and encourage one another.
 
 It takes commitment to be a member of God's people and to participate in God's work. We should expect hardship to come from within and without the community. Only devotion to God will allow us to remain committed to each other and the ministry. This series of studies helps you *strengthen your commitment to God, God's people, and God's work in the world.
 
-### Community Study 1: Taking Up Our Cross: Following Jesus in Self-Denial
+### Community Study: Taking Up Our Cross: Following Jesus in Self-Denial
 
 - **Key Idea**: demonstrating a full commitment to Jesus
 - **Key Passage**: Matthew 16:24-28
@@ -1874,7 +1874,7 @@ Try to say what it means to be committed to Jesus in your own words. Use the fol
  #### Pray to God (5 minutes)
 After sharing your thoughts about what it means to follow Jesus in full commitment, pray that God would help your community be fully committed to Jesus and his work.
 
-### Community Study 2: Only One Master: Renouncing Things That Compromise Our Devotion
+### Community Study: Only One Master: Renouncing Things That Compromise Our Devotion
 
 - **Key Idea**: removing obstacles to commitment
 - **Key Passage**: Matthew 6:19-24
@@ -1920,7 +1920,7 @@ Divide the community into groups of 2–3 people. Pray for other members of your
 #### Sing a Song (3–5 minutes)
 Choose a song to sing to praise God and encourage one another.
 
-### Community Study 3: Loving as Jesus Loved: Showing Genuine Care for One Another
+### Community Study: Loving as Jesus Loved: Showing Genuine Care for One Another
 
 - **Key Idea**: showing love to one another
 - **Key Passage**: John 15:12-17
@@ -1959,7 +1959,7 @@ Think about how you can personally apply this passage to your life. Use the foll
 #### Pray to God (5 minutes)
 Pray that God would help your community be committed to God by being committed to one another. Ask God to protect your community from disunity and division in your relationships.
 
-### Community Study 4: Do Not Be Surprised: Expecting and Enduring Suffering as a Christian
+### Community Study: Do Not Be Surprised: Expecting and Enduring Suffering as a Christian
 
 - **Key Idea**: enduring suffering with Jesus' peace and provision
 - **Key Passage**: 1 Peter 4:12-19
@@ -1998,7 +1998,7 @@ Pray that God would make your community prepared for suffering and persecution. 
 #### Sing a Song (3–5 minutes)
 Choose a song to sing to praise God and encourage one another.
 
-### Community Study 5: We Rejoice: Finding Joy in Suffering
+### Community Study: We Rejoice: Finding Joy in Suffering
 
 - **Key Idea**: experiencing great joy in the midst of painful suffering
 - **Key Passage**: Romans 5:1-5
@@ -2039,7 +2039,7 @@ Read the passage below. Then, think about what it means to endure suffering and 
 
 > If we endure suffering in a way that pleases God, it would look like this...
 
-### Community Study 6: Armed for Battle: Equipping Ourselves for Spiritual Warfare
+### Community Study: Armed for Battle: Equipping Ourselves for Spiritual Warfare
 
 - **Key Idea**: engaging the Christian life as a spiritual battle
 - **Key Passage**: Ephesians 6:10-20
@@ -2082,7 +2082,7 @@ Pray that God would give your community strength and endurance for the spiritual
 
 God calls us to participate in his work. This work requires sacrifice and commitment. Even though God wants us to work hard for his purposes in the world, he also wants us to enjoy life in peace and rest. Healthy communities learn to balance work and rest as they minister together. This series of studies helps you *develop a godly approach to work and rest.
 
-### Community Study 1: Good and Faithful Servants: Bearing Fruit as God's Stewards
+### Community Study: Good and Faithful Servants: Bearing Fruit as God's Stewards
 
 - **Key Idea**: approaching God's work as God's servants
 - **Key Passage**: Matthew 25:14-30
@@ -2126,7 +2126,7 @@ Pray that God would help your community to be fruitful and faithful. Pray togeth
 #### Sing a Song (3–5 minutes)
 Think of a song that calls you to faithful service. Sing this song as a community.
 
-### Community Study 2: Approved Servants: Aiming to Please God Most of All
+### Community Study: Approved Servants: Aiming to Please God Most of All
 
 - **Key Idea**: seeking for God's approval in all that we do
 - **Key Passage**: 2 Timothy 2:14-26
@@ -2172,7 +2172,7 @@ Reflect on what it means to be an approved workman. Pray for people by name in y
 #### Sing a Song (3–5 minutes)
 Identify a song that celebrates God's faithfulness and Christian ministry responsibility. Sing this song together as a way to express your commitment to God.
 
-### Community Study 3: Choosing the Best: Enjoying Jesus as We Serve
+### Community Study: Choosing the Best: Enjoying Jesus as We Serve
 
 - **Key Idea**: maintaining a vibrant relationship with God
 - **Key Passage**: Luke 10:38-42
@@ -2219,7 +2219,7 @@ Pray that God will help your community to work in a godly way. Identify some of 
 #### Sing a Song (3–5 minutes)
 Sing a song as a community that celebrates God's love and God's rest as motivations for ministry work.
 
-### Community Study 4: Paying Attention: Maintaining Focus on God's Calling
+### Community Study: Paying Attention: Maintaining Focus on God's Calling
 
 - **Key Idea**: removing distractions from God's work
 - **Key Passage**: Hebrews 12:1–3
@@ -2263,7 +2263,7 @@ After encouraging one another, pray for each other that God will supply the enco
 #### Sing a Song (3–5 minutes)
 Choose a song to sing that helps your community celebrate Jesus' faithful and focused work. Sing this song together as a community.
 
-### Community Study 5: Unless the Lord: Working God's Power
+### Community Study: Unless the Lord: Working God's Power
 
 - **Key Idea**: relying on God to make our work fruitful
 - **Key Passage**: Psalm 127:1-2
@@ -2309,7 +2309,7 @@ Pray that God will help your community to work in God's strength. Pray as a larg
 #### Sing a Song (3–5 minutes)
 Sing a song as a community that celebrates God's strength, power, and might. Specifically, sing a song that celebrates God's work of resurrection.
 
-### Community Study 6: Come to Me: Finding Rest in Jesus
+### Community Study: Come to Me: Finding Rest in Jesus
 
 - **Key Idea**: working for God while enjoying his rest
 - **Key Passage**: Matthew 11:25-30
@@ -2357,7 +2357,7 @@ As a community, sing a song that celebrates the rest and comfort in Jesus.
 
 Christian community is not like any other community. Because of what Jesus accomplished on the cross, Christians enjoy a unique way of relating to each other. As Christians, the center of our relationships with each other is Jesus. For a community to be strong, the message of the gospel must always remain at the center of the community. This series of studies helps you *build your community upon the foundations of the gospel*.
 
-### Community Study 1: Godly Relationships: Vital Foundations for Personal Relationships
+### Community Study: Godly Relationships: Vital Foundations for Personal Relationships
 
 - **Key Idea**: understanding the dynamics of godly relationships
 - **Key Passage**: Psalm 37:1-9
@@ -2407,7 +2407,7 @@ Pray that God would remove the kinds of attitudes, thoughts, and actions that wo
 #### Sing a Song (3–5 minutes)
 Think of a song that would celebrate your relationship with God and God's people. Joyfully sing this song together as a community.
 
-### Community Study 2: Healthy Vulnerability: Naming Fears That Harm Personal Relationships
+### Community Study: Healthy Vulnerability: Naming Fears That Harm Personal Relationships
 
 - **Key Idea**: identifying fears that cripple ministry and harm community
 - **Key Passage**: Proverbs 29:25
@@ -2457,7 +2457,7 @@ Pray that God would remove fears and insecurities in your community. Have each m
 #### Sing a Song (3–5 minutes)
 Choose a song that expresses trust in God for protection and safety. Sing this song together as a community.
 
-### Community Study 3: Genuine Trust: Cultivating Security in Personal Relationships
+### Community Study: Genuine Trust: Cultivating Security in Personal Relationships
 
 - **Key Idea**: establishing a community where people can be open and honest
 - **Key Passage**: Psalm 28:7-9
@@ -2507,7 +2507,7 @@ Pray that God would help your community be a community of trust. After each pers
 #### Sing a Song (3–5 minutes)
 Choose a song that celebrates God's faithfulness. Sing this song together as a community.
 
-### Community Study 4: Rich Delight: Experiencing Joy in Personal Relationships
+### Community Study: Rich Delight: Experiencing Joy in Personal Relationships
 
 - **Key Idea**: finding joy in relationships with one another
 - **Key Passage**: Romans 12:15
@@ -2559,7 +2559,7 @@ Pray that God would help your community be a community of joy. After each person
 #### Sing a Song (3–5 minutes)
 Choose a song that rejoices in God. Sing this song together as a community.
 
-### Community Study 5: Deep Commitment: Building Loyalty in Personal Relationships
+### Community Study: Deep Commitment: Building Loyalty in Personal Relationships
 
 - **Key Idea**: entrusting ourselves to each other in love
 - **Key Passage**: John 15:9-14
@@ -2659,7 +2659,7 @@ Choose a song that expresses commitment to God. Sing this song together as a com
 
 When people come to faith in Christ, these believers are formed into a community of believers called the church. When Christians work together, they should understand how they relate to the church. Also, groups of Christians should learn how to relate to each other based on the nature of the church. This series of studies helps you *understand your community in relationship to the life and purpose of the church.*.
 
-### Community Study 1: One Community: Allowing Our Unity to Be a Witness to the World
+### Community Study: One Community: Allowing Our Unity to Be a Witness to the World
 
 - **Key Idea**: celebrating the unity of Christian community
 - **Key Passage**: John 17:20-26
@@ -2705,7 +2705,7 @@ Pray that God would help your community be unified and one with each other. Use 
 #### Sing a Song (3–5 minutes)
 Choose a song that expresses the unity of God's people. Sing this song together as a community.
 
-### Community Study 2: Loving Community: Treating Others Like God Treats Them
+### Community Study: Loving Community: Treating Others Like God Treats Them
 
 - **Key Idea**: acting toward each other with loving
 - **Key Passage**: Ephesians 4:25-5:2
@@ -2751,7 +2751,7 @@ Pray as a whole community. Have members of your community pray the specific inst
 #### Sing a Song (3–5 minutes)
 Identify a song that expresses God's love for his people and the love between God's people. Sing this song together as a community.
 
-###  Community Study 3: Christlike Community: Clothing Ourselves with Christ's Character
+###  Community Study: Christlike Community: Clothing Ourselves with Christ's Character
 
 - **Key Idea**: exemplifying the character of Christ in our relationship with each other
 - **Key Passage**: Colossians 3:12-17
@@ -2797,7 +2797,7 @@ Pray as a whole community that God would help your community be more like the de
 #### Sing a Song (3–5 minutes)
 Identify a song that celebrates the character of Christ. Sing this song joyfully together.
 
-### Community Study 4: Mission Community: Embracing God's Purpose
+### Community Study: Mission Community: Embracing God's Purpose
 
 - **Key Idea**: viewing Christian community as a community of purpose
 - **Key Passage**: 1 Peter 2:9-12
@@ -2845,7 +2845,7 @@ Pray that God will help your community become a community on mission. Ask 2 or 3
 #### Sing a Song (3–5 minutes)
 Choose a song about God's mission. Sing this song as a community.
 
-###  Community Study 5: Seasoned Community: Open Doors for Gospel Work
+###  Community Study: Seasoned Community: Open Doors for Gospel Work
 
 - **Key Idea**: looking for opportunities to minister to others in grace and wisdom
 - **Key Passage**: Colossians 4:2-6
@@ -2889,7 +2889,7 @@ Pray that God will open doors for your community to participate in his mission w
 #### Sing a Song (3–5 minutes)
 Identify a song about God's mission and God's people participating in God's mission. Celebrate God's work of redemption in the world.
 
-### Community Study 6: Expanding Community: Having a Holy Ambition for Unreached Areas
+### Community Study: Expanding Community: Having a Holy Ambition for Unreached Areas
 
 - **Key Idea**: planning for the continued spread of the gospel
 - **Key Passage**: Romans 15:14-21
@@ -2937,7 +2937,7 @@ Choose a song to sing about God's salvation among the nations. Sing this song wi
 
 God wants his people to celebrate the good things that he has accomplished in and through them. This means that believers should dedicate time to praise and thank God for all that he has done. When believers do this, it honors God, encourages God's people, and emboldens us to continue God's work. This series of studies helps you *develop healthy habits of celebration as a Christian community*.
 
-###  Community Study 1: Remembering Together: Taking Time to Review God's Work
+###  Community Study: Remembering Together: Taking Time to Review God's Work
 
 - **Key Idea**: recalling all that God has done
 - **Key Passage**: 2 Timothy 1:3-6
@@ -2985,7 +2985,7 @@ Divide into groups of 2-3 people. Think about the people your work will impact. 
 #### Sing a Song (3–5 minutes)
 Sing a song together as a community that remembers God's goodness and grace in your lives.
 
-### Community Study 2: Community Thanksgiving: Expressing Gratitude to God
+### Community Study: Community Thanksgiving: Expressing Gratitude to God
 
 - **Key Idea**: giving thanks to God for his great work
 - **Key Passage**: 2 Thessalonians 1:3-4
@@ -3035,7 +3035,7 @@ As a whole community, use the sentences in the above activity to guide you in pr
 #### Sing a Song (3–5 minutes)
 Sing a song of thanksgiving to God. Praise him for his goodness to you as you endured hardship.
 
-### Community Study 3: Corporate Praise: Telling God of His Greatness
+### Community Study: Corporate Praise: Telling God of His Greatness
 
 - **Key Idea**: worshiping God as a community
 - **Key Passage**: Hebrews 13:14-16
@@ -3081,7 +3081,7 @@ Spend time by yourself praying to God and praising him for the past months toget
 #### Sing a Song (3–5 minutes)
 Sing a song of praise to God. Sing of his goodness, grace, and mercy over your ministry and community.
 
-### Community Study 4: Common Joy: Rejoicing in God Together
+### Community Study: Common Joy: Rejoicing in God Together
 
 - **Key Idea**: expressing our joy before God and others
 - **Key Passage**: Philippians 4:4-7
@@ -3128,7 +3128,7 @@ Reflect on what the whole community has shared. Offer prayers of joy to the Lord
 #### Sing a Song (3–5 minutes)
 Sing a song of joy to the Lord. Celebrate his goodness to your community.
 
-### Community Study 5: Group Encouragement: Finding Strength in God's Comfort and Hope
+### Community Study: Group Encouragement: Finding Strength in God's Comfort and Hope
 
 - **Key Idea**: finding our comfort and hope in God
 - **Key Passage**: 2 Thessalonians 2:16-17
@@ -3173,7 +3173,7 @@ After mentioning community needs, pray that God would bring hope and comfort to 
 #### Sing a Song (3–5 minutes)
 Sing a song that celebrates the comfort and hope that only God brings to his people.
 
-### Community Study 6: Continued Labor: Remaining Committed to God's Work
+### Community Study: Continued Labor: Remaining Committed to God's Work
 
 - **Key Idea**: anticipating the work that is ahead
 - **Key Passage**: 1 Corinthians 15:58
@@ -3234,7 +3234,7 @@ God invites us to participate in his work in relationship with one another. Rela
 
 It is important for your community to be one-minded about its purpose. Shared purpose unites people together in a common work. This series of studies helps you *think about your community relationships in the context of God’s mission*.
 
-### Community Study 1: Seeing the Crowds: Clarifying Ministry Needs
+### Community Study: Seeing the Crowds: Clarifying Ministry Needs
 
 - **Key Idea**: seeing the needs around us
 - **Key Passage**: Matthew 9:35-38
@@ -3273,7 +3273,7 @@ In this passage, Jesus commands us to pray. As a community, spend time praying t
 
 Take time as a community to sing praises to God for his work of salvation and the privilege of joining God in his work/mission.
 
-### Community Study 2: Invitation to God’s Purpose: Understanding God’s Mission
+### Community Study: Invitation to God’s Purpose: Understanding God’s Mission
 
 - **Key Idea**: understanding that God has sent us into the world
 - **Key Passage**: John 17:15-19
@@ -3313,7 +3313,7 @@ As disciples, you are sent into the world to tell others about God. Think about 
 
 Pray together as a large group. Seek God’s help that your community will become one-minded and aligned about the work God has for you. Also, ask for God’s grace and strength to accomplish this work.
 
-### Community Study 3: Sphere of Ministry: Describing Our Ministry Context
+### Community Study: Sphere of Ministry: Describing Our Ministry Context
 
 - **Key Idea**: clarifying the details of our ministry
 - **Key Passage**: Psalm 67:1-3
@@ -3342,7 +3342,7 @@ It is important that our plans for God’s work are the same as God’s own plan
 
 After discussing specific ministry challenges and opportunities among these people, take time to pray as a team. Pray that God would resolve the ministry challenges, open doors for the gospel among these people, and clarify your team’s understanding of how God wants to minister among these people.
 
-### Community Study 4: God’s People: Placing the Church at the Center of Our Strategy
+### Community Study: God’s People: Placing the Church at the Center of Our Strategy
 
 - **Key Idea**: grasping the importance of the church
 - **Key Passage**: Ephesians 3:20-21
@@ -3378,7 +3378,7 @@ Try to imagine how God might be glorified by having the church be a central part
 
 After discussing the importance of the church in God’s work, take time to pray about the challenges and fears in having the church play a central role in the work/ministry ahead.
 
-### Community Study 5: Reasons We Serve: Evaluating Our Motivations for Ministry
+### Community Study: Reasons We Serve: Evaluating Our Motivations for Ministry
 
 - **Key Idea**: having the right reasons to serve God
 - **Key Passage**: Colossians 3:23
@@ -3414,7 +3414,7 @@ Take some time to think about your own motivations for serving God in this minis
 
 As a group, pray for God to fill your whole community with the right motivations for ministry. Kneeling in prayer can help us recognize our deep need for God’s help. Encourage members of the community to kneel on the ground as they pray to God.
 
-### Community Study 6: Confidence in the Work: God Completes His Purposes
+### Community Study: Confidence in the Work: God Completes His Purposes
 
 - **Key Idea**: trusting God to finish his work
 - **Key Passage**: Psalm 90:16-17
@@ -3451,7 +3451,7 @@ God invites us to be a part of his work in the world. We can have confidence tha
 
 The Bible is a true and faithful guide for all of life. A healthy community establishes itself on God’s Word. It is important for your community to understand the character of the Bible. The Bible is an important and reliable resource for your community to function well as a team. This series of studies will help you *understand the nature of God’s Word and how this shapes a faithful approach to Bible translation*.
 
-### Community Study 1: God’s Extraordinary Word: The Bible Answers Our Deepest Needs
+### Community Study: God’s Extraordinary Word: The Bible Answers Our Deepest Needs
 
 - **Key Idea**: experiencing God’s word as relevant for all of life
 - **Key Passage**: Psalm 19:7-11
@@ -3491,7 +3491,7 @@ Remember your earlier description of your feelings about your present life circu
 
 Conclude this time together by praying to God. Specifically, use parts of Psalm 19:7-11 to thank God for his Word and to ask him to have his Word lead to a change in your lives.
 
-### Community Study 2: God’s Life-Giving Word: The Bible Shows Us Salvation and Grows Us as Christians
+### Community Study: God’s Life-Giving Word: The Bible Shows Us Salvation and Grows Us as Christians
 
 - **Key Idea**: trusting God’s Word as the source of eternal life
 - **Key Passage**: 1 Peter 1:23-2:3
@@ -3690,7 +3690,7 @@ Choose a song to sing that praises God and encourages one another.
 
 Strong communities develop godly habits. God teaches us about these foundational habits and why they are important. As Christians work together, these habits will help encourage, strengthen, and equip you to participate in God’s mission with joy and unity. This series of studies helps you *learn about foundational habits that make mature communities and disciples*.
 
-### Community Study 1: The Practice of Gratitude: Giving Thanks to God
+### Community Study: The Practice of Gratitude—Giving Thanks to God
 
 - **Key Idea**: thanking God for his goodness
 - **Key Passage**: Ephesians 5:18-21
@@ -3724,7 +3724,7 @@ Have a time of community prayer in which people express thanks to God. Try to be
 
 Choose 1–2 songs that give thanks to God. Sing them together as a community.
 
-### Community Study 2: The Practice of Worship: Praising God as a Community
+### Community Study: The Practice of Worship—Praising God as a Community
 
 - **Key Idea**: declaring God’s greatness and glory
 - **Key Passage**: Revelation 4:11
@@ -3756,7 +3756,7 @@ As a group, read the following verse again. Take time as a group to put this ver
 
 Break up into groups of 2-3 people. Have each person pray a prayer of praise to God.
 
-### Community Study 3: The Practice of Community: Fellowshipping with God’s People
+### Community Study: The Practice of Community: Fellowshipping with God’s People
 
 - **Key Idea**: enjoying relationships with God’s people
 - **Key Passage**: Hebrews 10:23-25
@@ -3791,7 +3791,7 @@ Spend time praying as a church community. Ask God to help your community/team be
 
 Choose 1–2 songs to sing that praise God and encourage one another to be faithful to God.
 
-### Community Study 4: The Practice of Confession: Acknowledging Our Sin
+### Community Study: The Practice of Confession: Acknowledging Our Sin
 
 - **Key Idea**: admitting our sin before God and others
 - **Key Passage**: James 5:16
@@ -3836,7 +3836,7 @@ Divide your community into groups of 2–3 individuals. Spend time praying for G
 
 Remember how God has forgiven you of your sin. Sing a song that celebrates God’s grace and mercy.
 
-### Community Study 5: The Practice of Prayer: Speaking with God
+### Community Study: The Practice of Prayer: Speaking with God
 
 - **Key Idea**: asking God to act on our behalf
 - **Key Passage**: 1 Peter 5:6-11
@@ -3875,7 +3875,7 @@ Identify several needs of your community that are the cause of anxiety. Pray to 
 
 Sing a song that expresses trust in God to fulfill his promises.
 
-### Community Study 6: The Practice of Accountability: Bearing Each Other’s Burdens
+### Community Study: The Practice of Accountability: Bearing Each Other’s Burdens
 
 - **Key Idea**: supporting each other in the work
 - **Key Passage**: Galatians 6:1-5
@@ -3914,7 +3914,7 @@ Sing a song of trust that expresses dependence upon God.
 
 God forms his followers into a community of faith. No person can create Christian community by human strength. This is something only God can do. Because Christian community is unique, it is important to understand the way God has formed believers together. This series of studies helps you *understand the nature of Christian community and what it means to be a member of this community*.
 
-### Community Study 1: One Body, Many Members: Enjoying God’s Design of Christian Community
+### Community Study: One Body, Many Members: Enjoying God’s Design of Christian Community
 
 - **Key Idea**: celebrating the unity and diversity of God’s people
 - **Key Passage**: 1 Corinthians 12:12-27
@@ -3955,7 +3955,7 @@ Christians can only enjoy the unity and diversity of Christian community with Go
 
 Reflect on what it means to be a Christian community. Sing a song that celebrates God’s work in forming God’s people together as a unified body.
 
-### Community Study 2: Gifts to Each One: Celebrating Diversity in Christian Community
+### Community Study: Gifts to Each One: Celebrating Diversity in Christian Community
 
 - **Key Idea**: valuing the gifts God has imparted to each other
 - **Key Passage**: Romans 12:3-8
@@ -4003,7 +4003,7 @@ Divide the community into groups of 2–3 people. Have each person pray an encou
 
 Choose a song that is fitting for this session. Sing this song as a community.
 
-### Community Study 3: The Bond of Peace: Maintaining the Unity of the Community
+### Community Study: The Bond of Peace: Maintaining the Unity of the Community
 
 - **Key Idea**: preserving the unity that God has established
 - **Key Passage**: Ephesians 4:1-6
@@ -4044,7 +4044,7 @@ Reflect on the instructions given in the passage above. Name one characteristic 
 
 After sharing the specific attitude you want to develop, divide your community into groups of 2–3 people. As you pray for each other, ask God to help each person in your group develop the attitude they identified. Also, pray for the overall unity of your community.
 
-### Community Study 4: No Divisions Among You: Guarding the Community against Disunity
+### Community Study: No Divisions Among You: Guarding the Community against Disunity
 
 - **Key Idea**: guarding against division and disunity
 - **Key Passage**: 1 Corinthians 1:10-13
@@ -4086,7 +4086,7 @@ Pray as a whole community. Ask God to help guard your community against division
 
 Choose a song to sing to praise God and encourage one another.
 
-### Community Study 5: Importance of Love: Making Love Central to Christian Relationships
+### Community Study: Importance of Love: Making Love Central to Christian Relationships
 
 - **Key Idea**: treating one another with love
 - **Key Passage**: 1 Corinthians 13:1-8
@@ -4134,7 +4134,7 @@ Reflect on the passage and discussion above. Identify one of the descriptions of
 
 Pray as a whole community that God would help each of you develop in love for one another. Also, thank God for the great love he has shown to people.
 
-### Community Study 6: Concerning Love of the Brothers: Caring for One Another with Genuine Love
+### Community Study: Concerning Love of the Brothers: Caring for One Another with Genuine Love
 
 - **Key Idea**: tending to the needs of others in our community
 - **Key Passage**: Romans 12:9-16
@@ -4183,7 +4183,7 @@ Choose a song to sing to praise God and encourage one another.
 
 Christian community thrives as disciples embody the character of Christ. God calls us to remove sinful vices that ruin community. He also calls us to develop godly characteristics that make community strong and enjoyable. Certainly, it is important to practice good habits as a community. But, it is also very important to develop godly character and attitudes. The Christian community will not only be strong by how we treat one another (i.e., what we do) but by the kind of people we are (i.e., who we are). This series of studies helps you *cultivate godly virtues that enable your relationships to thrive as a Christian community*.
 
-### Community Study 1: Two Ways: Understanding the Difference between the Flesh and the Spirit
+### Community Study: Two Ways: Understanding the Difference between the Flesh and the Spirit
 
 - **Key Idea**: distinguishing ungodly vices and godly virtues
 - **Key Passage**: Galatians 5:19-26
@@ -4232,7 +4232,7 @@ Divide the community into groups of 2–3. Use the above passage to pray over ea
 
 Choose a song to sing to praise God and encourage one another.
 
-### Community Study 2: Things Which Are Not Proper: Recognizing the Community Damage of Sin
+### Community Study: Things Which Are Not Proper: Recognizing the Community Damage of Sin
 
 - **Key Idea**: acknowledging the negative impact of sin
 - **Key Passage**: Romans 1:28-32
@@ -4273,7 +4273,7 @@ Thinking about the list of sinful ways, pick one specific sin that you feel coul
 
 Divide the community into groups of 2–3. Pray that God would guard you as individuals and as a community against the effects of these sinful ways.
 
-### Community Study 3: A Godly Community: Thinking about the Right Things
+### Community Study: A Godly Community: Thinking about the Right Things
 
 - **Key Idea**: focusing our thoughts on things that please God
 - **Key Passage**: Philippians 4:8-9
@@ -4317,7 +4317,7 @@ Divide your community into groups of 2–3. Give each group one of the character
 
 Use the passage above to pray to God. As a community, ask God to help you think about the specific characteristics above.
 
-### Community Study 4: Bearing Godly Fruit: Making Progress in the Faith
+### Community Study: Bearing Godly Fruit: Making Progress in the Faith
 
 - **Key Idea**: growing in godly characteristics
 - **Key Passage**: 2 Peter 1:5-9
@@ -4359,7 +4359,7 @@ Use the list of character traits above as a guide for prayer. Assign one charact
 
 Choose a song to sing to praise God and encourage one another.
 
-### Community Study 5: The Last Days: Guarding Against Cultural Values
+### Community Study: The Last Days: Guarding Against Cultural Values
 
 - **Key Idea**: renouncing worldly ways of living
 - **Key Passage**: 2 Timothy 3:1-5
@@ -4402,7 +4402,7 @@ Pray that God would protect your community from the sins of the surrounding cult
 
 Choose a song to sing to praise God and encourage one another.
 
-### Community Study 6: Godly Wisdom: Living by the Wisdom from Above
+### Community Study: Godly Wisdom: Living by the Wisdom from Above
 
 - **Key Idea**: grounding our lives in God’s wisdom
 - **Key Passage**: James 3:13-18
@@ -4445,7 +4445,7 @@ Pray that God would help your community to have godly wisdom. Use the passage ab
 
 Christian community will be as strong as each disciple becomes more like Christ in his character and attitude. Personal spiritual formation is important for a community to function well. Each person needs to take responsibility for their growth as a Christian. This series of studies helps you *develop a clear understanding of the principles and processes of spiritual growth in the Christian life*.
 
-### Community Study 1: Spiritual Battle: Taking Every Thought Captive
+### Community Study: Spiritual Battle: Taking Every Thought Captive
 
 - **Key Idea**: engaging the spiritual battle in the mind
 - **Key Passage**: 2 Corinthians 10:3-5
@@ -4507,7 +4507,7 @@ Pray for each member of your community that God would help them gain victory in 
 
 Choose a song that celebrates God’s victory over the enemy. Sing this song as praise to God and encouragement of one another.
 
-### Community Study 2: Personal Transformation: Renewing Your Mind
+### Community Study: Personal Transformation: Renewing Your Mind
 
 - **Key Idea**: aligning our thoughts with the truth as a means of growth
 - **Key Passage**: Romans 12:1-2
@@ -4560,7 +4560,7 @@ Because of Jesus, God gives his people victory. Think about the ways God has cau
 
 Pray for your community not to be conformed to the world. Ask that God would allow members of your community to experience real change and transformation in their personal lives.
 
-### Community Study 3: Taught in Jesus: Putting on the New Self
+### Community Study: Taught in Jesus: Putting on the New Self
 
 - **Key Idea**: understanding the process of Christian formation
 - **Key Passage**: Ephesians 4:17-24
@@ -4612,7 +4612,7 @@ Think about what it looks like to be made new in Jesus. Celebrate the ways that 
 
 Pray for members of your community to experience a change in how they live their lives. Ask that God would keep them from living like the world and to continue living in a way that pleases Christ.
 
-### Community Study 4: Put on the New Man: Becoming a Community of Transformed Members
+### Community Study: Put on the New Man: Becoming a Community of Transformed Members
 
 - **Key Idea**: experiencing transformation as a Christian community
 - **Key Passage**: Colossians 3:1-11
@@ -4666,7 +4666,7 @@ Pray for your community to experience God’s transformation and change. Use the
 
 Choose a song that praises God for his great work of transformation. Sing this song together and celebrate God’s work of change in your lives.
 
-### Community Study 5: As in the Day: Living Godly Lives in a Dark and Sinful World
+### Community Study: As in the Day: Living Godly Lives in a Dark and Sinful World
 
 - **Key Idea**: practicing godliness in a world filled with evil
 - **Key Passage**: Romans 13:11-14
@@ -4717,7 +4717,7 @@ Pray that God would help your community to stop living like the darkness and sta
 
 Choose a song that celebrates God’s purity and holiness. Sing this song as an encouragement for God’s people to live like Jesus lived.
 
-### Community Study 6: Faith Progress: Pressing on Toward the Goal
+### Community Study: Faith Progress: Pressing on Toward the Goal
 
 - **Key Idea**: learning about basic principles of spiritual progress
 - **Key Passage**: Philippians 3:12-16
@@ -4775,7 +4775,7 @@ Choose a song that celebrates God’s power and grace to transform lives. Sing t
 
 Working together as a community is a great gift from God. Even though there are many joys of community life, we can also expect challenges and struggles. Godly communities remain unified through conflict and tension. In fact, if we can resolve conflict in a godly way, it can make our community stronger. This series of studies helps you *maintain the unity of your community through godly principles of conflict resolution*.
 
-### Community Study 1: All of You: Enjoying Brotherly Unity
+### Community Study: All of You: Enjoying Brotherly Unity
 
 - **Key Idea**: honoring the unit of God’s people
 - **Key Passage**: 1 Peter 3:8-12
@@ -4820,7 +4820,7 @@ Reflect on the passage and discussion above. Think about what it would be like t
 
 Pray that God would make your community like the one described in the passage above. Use the specific details of the passage to pray as a community.
 
-### Community Study 2: Healthy Community Life: Being at Peace with Each Other
+### Community Study: Healthy Community Life: Being at Peace with Each Other
 
 - **Key Idea**: naming the elements of healthy community life
 - **Key Passage**: 1 Thessalonians 5:12-15
@@ -4865,7 +4865,7 @@ Ask God to help your community practice/obey the instructions in the above passa
 
 Choose a song to sing to praise God and encourage one another.
 
-### Community Study 3: When Tensions Arise: Understanding Causes of Conflict
+### Community Study: When Tensions Arise: Understanding Causes of Conflict
 
 - **Key Idea**: pinpointing the roots of relationship tension
 - **Key Passage**: James 4:1-2
@@ -4913,7 +4913,7 @@ Divide the community into groups of 2–3 people. Read the verse below. Use the 
 
 > 11 Finally, brothers, rejoice! Work for restoration, be encouraged, agree with one another, live in peace. And the God of love and peace will be with you. 2 Corinthians 13:11
 
-### Community Study 4: An Important Practice: Forgiving One Another
+### Community Study: An Important Practice: Forgiving One Another
 
 - **Key Idea**: emphasizing the importance of forgiveness
 - **Key Passage**: Matthew 18:21-35
@@ -4958,7 +4958,7 @@ Pray that God would reveal to you any person that you need to forgive. Ask God t
 
 Choose a song to sing to praise God and encourage one another.
 
-### Community Study 5: If Your Brother Sins: Dealing with Sin in the Community
+### Community Study: If Your Brother Sins: Dealing with Sin in the Community
 
 - **Key Idea**: outlining a process of conflict resolution
 - **Key Passage**: Matthew 18:15-20
@@ -5003,7 +5003,7 @@ Think through the teaching of the above passage and how this teaching can help y
 
 Pray as a whole community that God would help you to obey the teaching of this passage and make your community strong and healthy.
 
-### Community Study 6: Putting Others First: Following Jesus’ Example of Humility
+### Community Study: Putting Others First: Following Jesus’ Example of Humility
 
 - **Key Idea**: embracing humility as a way to relating to others
 - **Key Passage**: Philippians 2:1-5
@@ -5050,7 +5050,7 @@ Choose a song to sing to praise God and encourage one another.
 
 Each culture will understand power and authority in unique ways. The Bible has much to say about this topic. Ultimately, all authority and power comes from God. God cares about how people use their positions of leadership and power. Because we are a community of ministry, we need to have a godly approach to leadership. This series of studies helps you *approach leadership, authority, and power from a godly attitude of service*.
 
-### Community Study 1: Last of All: Understanding True Greatness
+### Community Study: Last of All: Understanding True Greatness
 
 - **Key Idea**: laying the foundation of all ministry
 - **Key Passage**: Mark 9:31-35
@@ -5092,7 +5092,7 @@ Have each member of the community get on their knees. Take turns praying for God
 > God, forgive us for the wrong desire to…
 > God, help us to serve others by…
 
-### Community Study 2: Servant of All: Viewing Our Leadership as Service
+### Community Study: Servant of All: Viewing Our Leadership as Service
 
 - **Key Idea**: viewing oneself as a servant
 - **Key Passage**: Mark 10:35-45
@@ -5135,7 +5135,7 @@ Spend time as a community listing the names of people that God wants you to serv
 
 Have each member of your community kneel down in prayer. Have each person pray that God would give him or her a servant heart.
 
-### Community Study 3: A Good Servant: Seeing the Characteristics of Godly Servants
+### Community Study: A Good Servant: Seeing the Characteristics of Godly Servants
 
 - **Key Idea**: describing the core attributes of servants
 - **Key Passage**: 1 Timothy 4:6-16
@@ -5180,7 +5180,7 @@ Identify one area in the passage that you want to focus on in your growth as a l
 
 Choose a song to sing to praise God and encourage one another.
 
-### Community Study 4: Entrusted by God: Doing Ministry in a Trustworthy Way
+### Community Study: Entrusted by God: Doing Ministry in a Trustworthy Way
 
 - **Key Idea**: developing a right self-understanding as a minister
 - **Key Passage**: 1 Corinthians 4:1-7
@@ -5231,7 +5231,7 @@ Divide members of your community into groups of 2–3 people. Based on the discu
 
 Pray as a whole community that God would help you to approach your leadership/ministry in this way.
 
-### Community Study 5: We Are Strong When Weak: Doing Ministry in God’s Strength
+### Community Study: We Are Strong When Weak: Doing Ministry in God’s Strength
 
 - **Key Idea**: relying on God’s power as a source of ministry strength
 - **Key Passage**: 2 Corinthians 12:1-10
@@ -5277,7 +5277,7 @@ Have each person identify the area of weakness and pray the following prayer to 
 > Good God, I acknowledge that I am weak in this way…
 > Thank you that your grace is sufficient for me and your power is made perfect in weakness, for whenever I am weak, then I am strong.
 
-### Community Study 6: Ministry that Matters: Approaching Leadership with Right Motivations
+### Community Study: Ministry that Matters: Approaching Leadership with Right Motivations
 
 - **Key Idea**: examining our heart attitude to ministry
 - **Key Passage**: 1 Thessalonians 2:1-8
@@ -5328,7 +5328,7 @@ Choose a song to sing to praise God and encourage one another.
 
 It takes commitment to be a member of God’s people and to participate in God’s work. We should expect hardship to come from within and without the community. Only devotion to God will allow us to remain committed to each other and the ministry. This series of studies helps you \*strengthen your commitment to God, God’s people, and God’s work in the world.
 
-### Community Study 1: Taking Up Our Cross: Following Jesus in Self-Denial
+### Community Study: Taking Up Our Cross: Following Jesus in Self-Denial
 
 - **Key Idea**: demonstrating a full commitment to Jesus
 - **Key Passage**: Matthew 16:24-28
@@ -5379,7 +5379,7 @@ Try to say what it means to be committed to Jesus in your own words. Use the fol
 \#### Pray to God (5 minutes)
 After sharing your thoughts about what it means to follow Jesus in full commitment, pray that God would help your community be fully committed to Jesus and his work.
 
-### Community Study 2: Only One Master: Renouncing Things That Compromise Our Devotion
+### Community Study: Only One Master: Renouncing Things That Compromise Our Devotion
 
 - **Key Idea**: removing obstacles to commitment
 - **Key Passage**: Matthew 6:19-24
@@ -5432,7 +5432,7 @@ Divide the community into groups of 2–3 people. Pray for other members of your
 
 Choose a song to sing to praise God and encourage one another.
 
-### Community Study 3: Loving as Jesus Loved: Showing Genuine Care for One Another
+### Community Study: Loving as Jesus Loved: Showing Genuine Care for One Another
 
 - **Key Idea**: showing love to one another
 - **Key Passage**: John 15:12-17
@@ -5477,7 +5477,7 @@ Think about how you can personally apply this passage to your life. Use the foll
 
 Pray that God would help your community be committed to God by being committed to one another. Ask God to protect your community from disunity and division in your relationships.
 
-### Community Study 4: Do Not Be Surprised: Expecting and Enduring Suffering as a Christian
+### Community Study: Do Not Be Surprised: Expecting and Enduring Suffering as a Christian
 
 - **Key Idea**: enduring suffering with Jesus’ peace and provision
 - **Key Passage**: 1 Peter 4:12-19
@@ -5522,7 +5522,7 @@ Pray that God would make your community prepared for suffering and persecution. 
 
 Choose a song to sing to praise God and encourage one another.
 
-### Community Study 5: We Rejoice: Finding Joy in Suffering
+### Community Study: We Rejoice: Finding Joy in Suffering
 
 - **Key Idea**: experiencing great joy in the midst of painful suffering
 - **Key Passage**: Romans 5:1-5
@@ -5569,7 +5569,7 @@ Read the passage below. Then, think about what it means to endure suffering and 
 
 > If we endure suffering in a way that pleases God, it would look like this…
 
-### Community Study 6: Armed for Battle: Equipping Ourselves for Spiritual Warfare
+### Community Study: Armed for Battle: Equipping Ourselves for Spiritual Warfare
 
 - **Key Idea**: engaging the Christian life as a spiritual battle
 - **Key Passage**: Ephesians 6:10-20
@@ -5618,7 +5618,7 @@ Pray that God would give your community strength and endurance for the spiritual
 
 God calls us to participate in his work. This work requires sacrifice and commitment. Even though God wants us to work hard for his purposes in the world, he also wants us to enjoy life in peace and rest. Healthy communities learn to balance work and rest as they minister together. This series of studies helps you \*develop a godly approach to work and rest.
 
-### Community Study 1: Good and Faithful Servants: Bearing Fruit as God’s Stewards
+### Community Study: Good and Faithful Servants: Bearing Fruit as God’s Stewards
 
 - **Key Idea**: approaching God’s work as God’s servants
 - **Key Passage**: Matthew 25:14-30
@@ -5669,7 +5669,7 @@ Pray that God would help your community to be fruitful and faithful. Pray togeth
 
 Think of a song that calls you to faithful service. Sing this song as a community.
 
-### Community Study 2: Approved Servants: Aiming to Please God Most of All
+### Community Study: Approved Servants: Aiming to Please God Most of All
 
 - **Key Idea**: seeking for God’s approval in all that we do
 - **Key Passage**: 2 Timothy 2:14-26
@@ -5722,7 +5722,7 @@ Reflect on what it means to be an approved workman. Pray for people by name in y
 
 Identify a song that celebrates God’s faithfulness and Christian ministry responsibility. Sing this song together as a way to express your commitment to God.
 
-### Community Study 3: Choosing the Best: Enjoying Jesus as We Serve
+### Community Study: Choosing the Best: Enjoying Jesus as We Serve
 
 - **Key Idea**: maintaining a vibrant relationship with God
 - **Key Passage**: Luke 10:38-42
@@ -5776,7 +5776,7 @@ Pray that God will help your community to work in a godly way. Identify some of 
 
 Sing a song as a community that celebrates God’s love and God’s rest as motivations for ministry work.
 
-### Community Study 4: Paying Attention: Maintaining Focus on God’s Calling
+### Community Study: Paying Attention: Maintaining Focus on God’s Calling
 
 - **Key Idea**: removing distractions from God’s work
 - **Key Passage**: Hebrews 12:1–3
@@ -5827,7 +5827,7 @@ After encouraging one another, pray for each other that God will supply the enco
 
 Choose a song to sing that helps your community celebrate Jesus’ faithful and focused work. Sing this song together as a community.
 
-### Community Study 5: Unless the Lord: Working God’s Power
+### Community Study: Unless the Lord: Working God’s Power
 
 - **Key Idea**: relying on God to make our work fruitful
 - **Key Passage**: Psalm 127:1-2
@@ -5880,7 +5880,7 @@ Pray that God will help your community to work in God’s strength. Pray as a la
 
 Sing a song as a community that celebrates God’s strength, power, and might. Specifically, sing a song that celebrates God’s work of resurrection.
 
-### Community Study 6: Come to Me: Finding Rest in Jesus
+### Community Study: Come to Me: Finding Rest in Jesus
 
 - **Key Idea**: working for God while enjoying his rest
 - **Key Passage**: Matthew 11:25-30
@@ -5935,7 +5935,7 @@ As a community, sing a song that celebrates the rest and comfort in Jesus.
 
 Christian community is not like any other community. Because of what Jesus accomplished on the cross, Christians enjoy a unique way of relating to each other. As Christians, the center of our relationships with each other is Jesus. For a community to be strong, the message of the gospel must always remain at the center of the community. This series of studies helps you *build your community upon the foundations of the gospel*.
 
-### Community Study 1: Godly Relationships: Vital Foundations for Personal Relationships
+### Community Study: Godly Relationships: Vital Foundations for Personal Relationships
 
 - **Key Idea**: understanding the dynamics of godly relationships
 - **Key Passage**: Psalm 37:1-9
@@ -5992,7 +5992,7 @@ Pray that God would remove the kinds of attitudes, thoughts, and actions that wo
 
 Think of a song that would celebrate your relationship with God and God’s people. Joyfully sing this song together as a community.
 
-### Community Study 2: Healthy Vulnerability: Naming Fears That Harm Personal Relationships
+### Community Study: Healthy Vulnerability: Naming Fears That Harm Personal Relationships
 
 - **Key Idea**: identifying fears that cripple ministry and harm community
 - **Key Passage**: Proverbs 29:25
@@ -6049,7 +6049,7 @@ Pray that God would remove fears and insecurities in your community. Have each m
 
 Choose a song that expresses trust in God for protection and safety. Sing this song together as a community.
 
-### Community Study 3: Genuine Trust: Cultivating Security in Personal Relationships
+### Community Study: Genuine Trust: Cultivating Security in Personal Relationships
 
 - **Key Idea**: establishing a community where people can be open and honest
 - **Key Passage**: Psalm 28:7-9
@@ -6106,7 +6106,7 @@ Pray that God would help your community be a community of trust. After each pers
 
 Choose a song that celebrates God’s faithfulness. Sing this song together as a community.
 
-### Community Study 4: Rich Delight: Experiencing Joy in Personal Relationships
+### Community Study: Rich Delight: Experiencing Joy in Personal Relationships
 
 - **Key Idea**: finding joy in relationships with one another
 - **Key Passage**: Romans 12:15
@@ -6165,7 +6165,7 @@ Pray that God would help your community be a community of joy. After each person
 
 Choose a song that rejoices in God. Sing this song together as a community.
 
-### Community Study 5: Deep Commitment: Building Loyalty in Personal Relationships
+### Community Study: Deep Commitment: Building Loyalty in Personal Relationships
 
 - **Key Idea**: entrusting ourselves to each other in love
 - **Key Passage**: John 15:9-14
@@ -6279,7 +6279,7 @@ Choose a song that expresses commitment to God. Sing this song together as a com
 
 When people come to faith in Christ, these believers are formed into a community of believers called the church. When Christians work together, they should understand how they relate to the church. Also, groups of Christians should learn how to relate to each other based on the nature of the church. This series of studies helps you *understand your community in relationship to the life and purpose of the church.*.
 
-### Community Study 1: One Community: Allowing Our Unity to Be a Witness to the World
+### Community Study: One Community: Allowing Our Unity to Be a Witness to the World
 
 - **Key Idea**: celebrating the unity of Christian community
 - **Key Passage**: John 17:20-26
@@ -6332,7 +6332,7 @@ Pray that God would help your community be unified and one with each other. Use 
 
 Choose a song that expresses the unity of God’s people. Sing this song together as a community.
 
-### Community Study 2: Loving Community: Treating Others Like God Treats Them
+### Community Study: Loving Community: Treating Others Like God Treats Them
 
 - **Key Idea**: acting toward each other with loving
 - **Key Passage**: Ephesians 4:25-5:2
@@ -6385,7 +6385,7 @@ Pray as a whole community. Have members of your community pray the specific inst
 
 Identify a song that expresses God’s love for his people and the love between God’s people. Sing this song together as a community.
 
-### Community Study 3: Christlike Community: Clothing Ourselves with Christ’s Character
+### Community Study: Christlike Community: Clothing Ourselves with Christ’s Character
 
 - **Key Idea**: exemplifying the character of Christ in our relationship with each other
 - **Key Passage**: Colossians 3:12-17
@@ -6438,7 +6438,7 @@ Pray as a whole community that God would help your community be more like the de
 
 Identify a song that celebrates the character of Christ. Sing this song joyfully together.
 
-### Community Study 4: Mission Community: Embracing God’s Purpose
+### Community Study: Mission Community: Embracing God’s Purpose
 
 - **Key Idea**: viewing Christian community as a community of purpose
 - **Key Passage**: 1 Peter 2:9-12
@@ -6493,7 +6493,7 @@ Pray that God will help your community become a community on mission. Ask 2 or 3
 
 Choose a song about God’s mission. Sing this song as a community.
 
-### Community Study 5: Seasoned Community: Open Doors for Gospel Work
+### Community Study: Seasoned Community: Open Doors for Gospel Work
 
 - **Key Idea**: looking for opportunities to minister to others in grace and wisdom
 - **Key Passage**: Colossians 4:2-6
@@ -6544,7 +6544,7 @@ Pray that God will open doors for your community to participate in his mission w
 
 Identify a song about God’s mission and God’s people participating in God’s mission. Celebrate God’s work of redemption in the world.
 
-### Community Study 6: Expanding Community: Having a Holy Ambition for Unreached Areas
+### Community Study: Expanding Community: Having a Holy Ambition for Unreached Areas
 
 - **Key Idea**: planning for the continued spread of the gospel
 - **Key Passage**: Romans 15:14-21
@@ -6599,7 +6599,7 @@ Choose a song to sing about God’s salvation among the nations. Sing this song 
 
 God wants his people to celebrate the good things that he has accomplished in and through them. This means that believers should dedicate time to praise and thank God for all that he has done. When believers do this, it honors God, encourages God’s people, and emboldens us to continue God’s work. This series of studies helps you *develop healthy habits of celebration as a Christian community*.
 
-### Community Study 1: Remembering Together: Taking Time to Review God’s Work
+### Community Study: Remembering Together: Taking Time to Review God’s Work
 
 - **Key Idea**: recalling all that God has done
 - **Key Passage**: 2 Timothy 1:3-6
@@ -6654,7 +6654,7 @@ Divide into groups of 2-3 people. Think about the people your work will impact. 
 
 Sing a song together as a community that remembers God’s goodness and grace in your lives.
 
-### Community Study 2: Community Thanksgiving: Expressing Gratitude to God
+### Community Study: Community Thanksgiving: Expressing Gratitude to God
 
 - **Key Idea**: giving thanks to God for his great work
 - **Key Passage**: 2 Thessalonians 1:3-4
@@ -6711,7 +6711,7 @@ As a whole community, use the sentences in the above activity to guide you in pr
 
 Sing a song of thanksgiving to God. Praise him for his goodness to you as you endured hardship.
 
-### Community Study 3: Corporate Praise: Telling God of His Greatness
+### Community Study: Corporate Praise: Telling God of His Greatness
 
 - **Key Idea**: worshiping God as a community
 - **Key Passage**: Hebrews 13:14-16
@@ -6764,7 +6764,7 @@ Spend time by yourself praying to God and praising him for the past months toget
 
 Sing a song of praise to God. Sing of his goodness, grace, and mercy over your ministry and community.
 
-### Community Study 4: Common Joy: Rejoicing in God Together
+### Community Study: Common Joy: Rejoicing in God Together
 
 - **Key Idea**: expressing our joy before God and others
 - **Key Passage**: Philippians 4:4-7
@@ -6818,7 +6818,7 @@ Reflect on what the whole community has shared. Offer prayers of joy to the Lord
 
 Sing a song of joy to the Lord. Celebrate his goodness to your community.
 
-### Community Study 5: Group Encouragement: Finding Strength in God’s Comfort and Hope
+### Community Study: Group Encouragement: Finding Strength in God’s Comfort and Hope
 
 - **Key Idea**: finding our comfort and hope in God
 - **Key Passage**: 2 Thessalonians 2:16-17
@@ -6870,7 +6870,7 @@ After mentioning community needs, pray that God would bring hope and comfort to 
 
 Sing a song that celebrates the comfort and hope that only God brings to his people.
 
-### Community Study 6: Continued Labor: Remaining Committed to God’s Work
+### Community Study: Continued Labor: Remaining Committed to God’s Work
 
 - **Key Idea**: anticipating the work that is ahead
 - **Key Passage**: 1 Corinthians 15:58
