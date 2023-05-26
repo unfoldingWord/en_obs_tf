@@ -15,7 +15,7 @@ This **Mission-Translation Brief** assists churches and networks who want to *ce
 - **Foundational Passages**: Matthew 28:16-20; Acts 1:6-8
 - **Core Projects**:
   - Project 1: Network Narrative and Mission: Describe the history and mission of your network.
-  - Project 2 Mission Map: Draw (or mark) a map of the people groups that God has called you to reach. Describe your mission strategy to reach these people groups.
+  - Project 2: Mission Map: Draw (or mark) a map of the people groups that God has called you to reach. Describe your mission strategy to reach these people groups.
 
 God calls us to serve his **mission**: to participate in God’s purposes in his world. Like a structure supporting a house, ***the work of Bible translation supports the work of the Great Commission***. In this session, we want to explore how to approach Bible translation in a way that helps to advance God’s plan to reach the nations with the good news about Jesus.
 
