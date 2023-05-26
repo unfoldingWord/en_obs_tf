@@ -150,7 +150,64 @@ As the soldiers were seizing Jesus, Peter pulled out his sword and cut off the e
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-11#Community Study: Godly Relationships—Vital Foundations for Personal Relationships.md NOT FOUND!!
+## Community Study: Godly Relationships—Vital Foundations for Personal Relationships
+
+- **Key Idea**: understanding the dynamics of godly relationships
+- **Key Passage**: Psalm 37:1-9
+- **Main Session**: OBS Story 38 (Jesus Is Betrayed)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> 44 Let these words go deeply into your ears: The Son of Man will be betrayed into the hands of men. Luke 9:44
+
+OR
+
+> 11 Jesus Christ is the stone which you as builders despised but which has been made the head cornerstone. 12 There is no salvation in any other person, for there is no other name under heaven given among men by which we must be saved.” Acts 4:11-12
+
+### Retell Your Story (5–10 minutes)
+
+God sent Jesus to save people from their sin. One of Jesus’ own disciples betrayed him. Think about a time when you have experienced a painful betrayal or a broken relationship. Describe the characteristics that made the relationship not function well.
+
+> Some of the characteristics of bad and unhealthy relationships are…
+
+### Read the Passage (3–5 minutes)
+
+God is the foundation of all healthy relationships. The characteristics that cultivate a person’s relationship with God are similar characteristics that help Christians cultivate relationships with one another. As a community, read the following Bible passage together to understand the characteristics of godly relationships and the factors that destroy godly relationships.
+
+> 1 Do not be irritated because of evildoers; do not be envious of those who act unrighteously. 2 For they will soon dry up as the grass and wither as the green plants. 3 Trust in Yahweh and do what is good; settle in the land and graze in faithfulness. 4 Then delight yourself in Yahweh, and he will give you the desires of your heart. 5 Give your ways to Yahweh; trust in him, and he will act on your behalf. 6 He will display your justice like the daylight and your innocence like the day at noon. 7 Be still before Yahweh and wait patiently for him. Do not be angry if someone succeeds in what he does, or when he makes evil plots. 8 Do not be angry and frustrated. Do not worry. This only makes trouble. 9 Evildoers will be cut off, but those who wait for Yahweh will inherit the land. Psalm 37:1-9
+
+### Discuss the Passage (10-15 minutes)
+
+Mature godly relationships are built on a healthy relationship with God. The way Christians relate to God teaches us how to relate to one another. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  What commands does this passage give? How do these commands instruct people on how to relate to God?
+2.  How are the instructions for relating to God in this passage also foundations for our relationship with one another?
+3.  In this passage, what are some attitudes, thoughts, and actions that can harm relationships?
+4.  How would you evaluate the health of your community at the current moment?
+
+### Identify a Challenge (5 minutes)
+
+Reflect on the discussion above. Think about the foundations of godly relationships (i.e., trust, delight, commitment, endurance). Identify which of these foundations might be a big challenge for your community. Explain your reasoning.
+
+> One foundation of godly relationships that might be challenging for our community might be…
+
+> The reason this foundation might be challenging is because…
+
+### Pray to God (5 minutes)
+
+Pray that God would remove the kinds of attitudes, thoughts, and actions that would ruin relationships in your community. Pray that God would help your community establish the foundations of godly relationships you learned about in the above discussion.
+
+> Almighty God, please remove the following things from our relationships…
+
+> Gracious God, please help our relationship with one another to have…
+
+### Sing a Song (3–5 minutes)
+
+Think of a song that would celebrate your relationship with God and God’s people. Joyfully sing this song together as a community.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

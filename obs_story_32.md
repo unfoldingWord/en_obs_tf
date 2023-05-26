@@ -152,7 +152,52 @@ The woman fell on her knees before Jesus, shaking and very afraid. Then she told
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-9#Community Study: Armed for Battle—Equipping Ourselves for Spiritual Warfare.md NOT FOUND!!
+## Community Study: Armed for Battle—Equipping Ourselves for Spiritual Warfare
+
+- **Key Idea**: engaging the Christian life as a spiritual battle
+- **Key Passage**: Ephesians 6:10-20
+- **Main Session**: OBS 32 (Jesus Heals a Demon-Possessed Man and a Sick Woman)
+
+### Sing a Song (3–5 minutes)
+
+Choose a song to sing to praise God and encourage one another.
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> For in him all the fullness of God lives in bodily form. You have been filled in him, who is the head over every power and authority. Colossians 2:9-10
+
+OR
+
+> For this reason the Son of God was revealed, so that he would destroy the devil’s works. 1 John 3:8
+
+### Read the Passage (3–5 minutes)
+
+As Christians follow Christ, they engage the life of faith as a spiritual battle/conflict. As a community, read the following Bible passage together to understand what it means to be committed to Jesus and his work.
+
+> 10 Finally, be strong in the Lord and in the strength of his might. 11 Put on the whole armor of God, so that you may be able to stand against the scheming plans of the devil. 12 For our struggle is not against flesh and blood, but against the rulers, against the authorities, against the powers over this present darkness, against the spiritual forces of evil in the heavenly places. 13 Therefore put on the whole armor of God, so that you may be able to stand in this time of evil, and after you have done everything, to stand firm. 14 Stand, therefore, after you have put on the belt of truth and the breastplate of righteousness. 15 Then as shoes for your feet, put on the readiness to proclaim the gospel of peace. 16 In all circumstances take up the shield of faith, by which you will be able to put out all the flaming arrows of the evil one. 17 And take the helmet of salvation and the sword of the Spirit, which is the word of God. 18 With every prayer and request, pray at all times in the Spirit. To this end, always be watching with all perseverance, as you offer prayers for all the saints. 19 And pray for me, that a message might be given to me when I open my mouth. Pray that I might make known with boldness the hidden truth about the gospel. 20 It is for the gospel that I am an ambassador who is kept in chains, so that I may declare it boldly, as I ought to speak. Ephesians 6:10-20
+
+### Discuss the Passage (10-15 minutes)
+
+The Christian life is a spiritual battle. God equips and empowers his people to engage in this battle with victory. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  How does this passage describe the spiritual battle/warfare of the Christian life?
+2.  In what ways has God equipped his people with resources to engage the spiritual battle with success?
+3.  How have you experienced the Christian life as a spiritual battle?
+4.  How can your community put on the armor described in this passage?
+
+### Name Growth Area (5 minutes)
+
+Think about the passage above. Identify one specific aspect of the armor listed above that you need most to develop.
+
+> At the present time, I need to develop in this aspect to be prepared for the spiritual battle…
+
+### Pray to God (5 minutes)
+
+Pray that God would give your community strength and endurance for the spiritual battle that lies ahead.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

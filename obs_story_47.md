@@ -151,7 +151,58 @@ Paul and other leaders of the believers traveled to many cities. They preached a
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-12#Community Study: Seasoned Community—Open Doors for Gospel Work.md NOT FOUND!!
+## Community Study: Seasoned Community—Open Doors for Gospel Work
+
+- **Key Idea**: looking for opportunities to minister to others in grace and wisdom
+- **Key Passage**: Colossians 4:2-6
+- **Main Session**: OBS 47 (Paul and Silas in Philippi)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> 8 Remember Jesus Christ, from David’s seed, who was raised from the dead. This is according to my gospel message, 9 for which I am suffering to the point of being bound with chains as a criminal. But the word of God is not bound. 2 Timothy 2:8-9
+
+OR
+
+> 3:1 Now, brothers, pray for us, that the word of the Lord may rush and be glorified, as it also is with you. 2 Pray that we may be delivered from wicked and evil people, for not all have faith. 2 Thessalonians 3:1-2
+
+### Testimonies of Mission Participation (5 minutes)
+
+Divide into groups of 2-3 people. Share opportunities God has provided for you to participate in God’s mission.
+
+> These are some mission opportunities God has provided for me in the last weeks…
+
+### Read the Passage (3–5 minutes)
+
+God invites his people to participate in his mission. The church community should look for open doors to serve God’s work in the world. Read the passage below to learn about how God invites believers into his work.
+
+> 2 Continue steadfastly in prayer. Stay alert in it in thanksgiving. 3 Pray together for us also, that God would open a door for the word, to speak the secret truth of Christ. Because of this, I am chained up. 4 Pray that I may make it clear, as I ought to speak. 5 Walk in wisdom toward those outside, and redeem the time. 6 Let your words always be with grace. Let them be seasoned with salt, so that you may know how you should answer each person. Colossians 4:2-6
+
+### Discuss the Passage (10-15 minutes)
+
+God’s mission for the world is defining mark of the church. Believers should be ready for opportunities to serve God’s work in the world. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  What instructions does this passage give to believers? How do these instructions shape a community of believers?
+2.  How does this passage teach believers to relate to the world?
+3.  What open doors has God brought to your community? How might God be inviting you to enter into these open doors as mission opportunities?
+4.  How can your community be ready for opportunities as God leads? How can your translation work directly connect with God’s mission?
+
+### Brainstorm Together (5 minutes)
+
+Think together about how the work of translation can open new opportunities for mission.
+
+> Our work of translation can open new ministry opportunities in these ways…
+
+### Pray to God (5 minutes)
+
+Pray that God will open doors for your community to participate in his mission work.
+
+### Sing a Song (3–5 minutes)
+
+Identify a song about God’s mission and God’s people participating in God’s mission. Celebrate God’s work of redemption in the world.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

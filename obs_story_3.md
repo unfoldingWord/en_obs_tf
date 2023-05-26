@@ -126,7 +126,46 @@ God then made the first rainbow as a sign of his promise. Every time the rainbow
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-3#Community Study: The Practice of Prayer—Speaking with God.md NOT FOUND!!
+## Community Study: The Practice of Prayer—Speaking with God
+
+- **Key Idea**: asking God to act on our behalf
+- **Key Passage**: 1 Peter 5:6-11
+- **Main Session**: OBS 3 (Flood)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> The Lord does not move slowly concerning his promises, as some consider slowness to be. Instead, he is patient toward you. He does not desire for any of you to perish, but for everyone to make room for repentance. 2 Peter 3:9
+
+### Think Together (10 minutes)
+
+God always fulfills his promises. It may seem like it takes a long time for God to fulfill his promises, but he always does. God is patient with people because he wants them to repent of their sins and place their faith in Jesus for salvation. Tell some stories from your own life about how God has been patient with you.
+
+### Read the Passage (2–3 minutes)
+
+We can trust God’s promises. God’s faithfulness to fulfill his promises encourages us to come to him in prayer. In order to understand about the Christian practice of prayer, read the passage below.
+
+> 6 Therefore humble yourselves under God’s mighty hand so that he may lift you up in due time. 7 Cast all your anxiety on him, because he cares for you. 1 Peter 5:6-7
+
+### Discuss the Passage (10 minutes)
+
+Use the following questions to discuss what it means to pray to God.
+
+1.  Why does it take humility to pray to God?
+2.  How is prayer described in this passage?
+3.  How have you experienced God’s answer to prayer in your own life?
+4.  How can you make prayer a regular practice in your community life?
+
+### Pray to God (5 minutes)
+
+Identify several needs of your community that are the cause of anxiety. Pray to God and cast your anxieties upon him.
+
+### Sing God’s Praise (3–5 minutes)
+
+Sing a song that expresses trust in God to fulfill his promises.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

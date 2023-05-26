@@ -125,7 +125,61 @@ The kings of Judah were descendants of David. Some of these kings were good men 
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-6#Community Study: Put on the New Man—Becoming a Community of Transformed Members.md NOT FOUND!!
+## Community Study: Put on the New Man—Becoming a Community of Transformed Members
+
+- **Key Idea**: experiencing transformation as a Christian community
+- **Key Passage**: Colossians 3:1-11
+- **Main Session**: OBS 18 (The Divided Kingdom)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> 11 Therefore Yahweh said to Solomon, “Because you have done this and have not kept the covenant and my statutes that I have commanded you, I will surely tear the kingdom from you and give it to your servant.” 1 Kings 11:11
+
+OR
+
+> For the time that is past suffices for doing what the Gentiles want to do, living in sensuality, passions, drunkenness, orgies, drinking parties, and lawless idolatry. 1 Peter 4:3
+
+### Name the Temptations (5 minutes)
+
+It is not easy to be a Christian. There are many temptations that Christians face. When Christians sin, it brings ruin to personal lives and community life. Think about the ways of the world that are temptations to Christians.
+
+> Some of the temptations that Christians face are…
+
+### Read the Passage (5 minutes)
+
+When believers place their faith in Jesus, Jesus commands them to reject sinful ways of living. God joins Christians together into a community of faith. Read the passage below to understand the way that God wants Christian community to live.
+
+> 1 If then God has raised you with Christ, seek the things above, where Christ is sitting at the right hand of God. 2 Think about the things above, not about the things on earth. 3 For you have died, and your life is hidden with Christ in God. 4 When Christ appears, who is your life, then you will also appear with him in glory. 5 Put to death, then, the members that are on earth—sexual immorality, uncleanness, passion, evil desire, and greed, which is idolatry. 6 It is for these things that the wrath of God is coming on the sons of disobedience. 7 It is in these things that you also once walked when you lived in them. 8 But now you must get rid of all these things—wrath, anger, evil intentions, insults, and obscene speech from your mouth. 9 Do not lie to one another, since you have taken off the old man with its practices, 10 and you have put on the new man that is being made new in knowledge according to the image of the one who created it. 11 This is where there is no Greek and Jew, circumcision and uncircumcision, barbarian, Scythian, slave, freeman, but Christ is all, and is in all. Colossians 3:1-11
+
+### Discuss the Idea (10–15 minutes)
+
+Christians reject their old ways of living. God gives Christians the power to experience change. After reading the passage above, use the following questions to help your community discuss biblical teaching on personal life transformation.
+
+1.  How does this passage describe the way that Christians can experience change and transformation in their lives?
+2.  What does a Christian community look like that has experienced this change/transformation?
+3.  How would you describe the maturity of your community in light of this passage?
+4.  What next steps does God want you to take to apply these principles to your community life?
+5.  Why is it important for your community to practice these principles of personal transformation?
+
+### Share Your Story (10 minutes)
+
+Think about the various principles of change discussed in the passage above. Identify 1–2 principles that you want to apply to your life. Then, identify 1–2 principles that you think are important for your community.
+
+> God is calling me to focus on the following principles…
+
+> I think that our community would mature by focusing on the following principles…
+
+### Pray to God (5 minutes)
+
+Pray for your community to experience God’s transformation and change. Use the language of the above biblical passage to pray that God would cause this change in your community.
+
+### Sing a Song (3–5 minutes)
+
+Choose a song that praises God for his great work of transformation. Sing this song together and celebrate God’s work of change in your lives.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

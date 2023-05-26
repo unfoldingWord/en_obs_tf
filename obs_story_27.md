@@ -121,7 +121,58 @@ Then Jesus asked the law expert, “What do you think? Which one of the three me
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-9#Community Study: Taking Up Our Cross—Following Jesus in Self-Denial.md NOT FOUND!!
+## Community Study: Taking Up Our Cross—Following Jesus in Self-Denial
+
+- **Key Idea**: demonstrating a full commitment to Jesus
+- **Key Passage**: Matthew 16:24-28
+- **Main Session**: OBS 27 (The Story of the Good Samaritan)
+
+### Sing a Song (3–5 minutes)
+
+Choose a song to sing to praise God and encourage one another.
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> Love does not harm one’s neighbor; therefore, love is the fulfillment of the law. Romans 13:10
+
+OR
+
+> “‘Love the Lord your God with all your heart, with all your soul, and with all your mind.’ This is the great and first commandment. And a second commandment is like it—‘Love your neighbor as yourself.’ Matthew 22:37-39
+
+### Think Together (5 minutes)
+
+Think together about what it means to be fully committed to something or someone. Have different members of the community share examples of what commitment looks like and explain why they think such examples show commitment.
+
+### Read the Passage (3–5 minutes)
+
+Jesus calls us to follow him. The life of a Christian is fully devoted to Jesus. As a community, read the following Bible passage together to understand what it means to be committed to Jesus and his work.
+
+> 24 Then Jesus said to his disciples, “If anyone wants to follow me, he must deny himself, take up his cross, and follow me. 25 For whoever wants to save his life will lose it, and whoever loses his life for my sake will find it. 26 For what does it profit a person if he gains the whole world but forfeits his life? What can a person give in exchange for his life? 27 For the Son of Man will come in the glory of his Father with his angels. Then he will reward every person according to what he has done. 28 Truly I say to you, there are some of you standing here who will not taste death until they see the Son of Man coming in his kingdom.” Matthew 16:24-28
+
+### Discuss the Passage (10-15 minutes)
+
+Christians follow Jesus knowing that they will encounter hardship. The Christian life requires full commitment to Jesus. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  What kind of commitment does Jesus ask his followers to make?
+2.  What challenges make this commitment difficult?
+3.  What will you have to give up to be fully committed to Jesus? What do you gain by fully following Jesus?
+4.  How does Jesus motivate us to be fully committed to him?
+5.  How can your community encourage one another in commitment to Jesus and his work?
+
+### Say it in Your own Words (10–15 minutes)
+
+Try to say what it means to be committed to Jesus in your own words. Use the follow sentences as a guide. Then, share your sentences with the whole community.
+
+> To follow Jesus and serve his work, I must deny/lose…
+> When I follow Jesus with my whole life, he will provide for me these things…
+> Our community will be fully committed to Jesus when it looks like this…
+
+\### Pray to God (5 minutes)
+After sharing your thoughts about what it means to follow Jesus in full commitment, pray that God would help your community be fully committed to Jesus and his work.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

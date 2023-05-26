@@ -110,7 +110,66 @@ As the women were on their way to tell the disciples the good news, Jesus appear
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-11#Community Study: Rich Delight—Experiencing Joy in Personal Relationships.md NOT FOUND!!
+## Community Study: Rich Delight—Experiencing Joy in Personal Relationships
+
+- **Key Idea**: finding joy in relationships with one another
+- **Key Passage**: Romans 12:15
+- **Main Session**: OBS 41 (God Raises Jesus from the Dead)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> 9 We know that since Christ has been raised from the dead he cannot die again; death no longer has authority over him. Romans 6:9
+
+OR
+
+> Jesus said to her, “I am the resurrection and the life; he who believes in me, even if he dies, will live; 26 and whoever lives and believes in me will never die. Do you believe this?” John 11:25-26
+
+### Think about Trust (5–10 minutes)
+
+Jesus is stronger than death. Jesus’ resurrection from the dead shows us that God has power over all things and can cause us to be joyful in all circumstances. Think about how Jesus’ resurrection is a source of joy.
+
+> Because Jesus has resurrected from the dead, he is more powerful than…
+
+> Jesus’ resurrection brings joy because…
+
+### Read the Passage (3–5 minutes)
+
+When we find joy in God, we are able to enjoy our relationships with one another. When Christians deeply trust each other, they share each other’s burdens and joys. Read the passage below to learn about what God teaches about joy and sorrow in relationships.
+
+> 15 Rejoice with those who rejoice; weep with those who weep. Romans 12:15
+
+### Discuss the Passage (10-15 minutes)
+
+God wants us to enjoy relationship with one another. A healthy Christian community finds joy in others in the community. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  How do these passages instruct believers to relate to one another?
+2.  How might these instructions be different than how people typically relate to one another?
+3.  How does Jesus’ resurrection give us the power to rejoice and weep with other believers?  
+4.  Why is it important for your community to enjoy other members of the community? How will joy in relationships make your community strong and healthy?
+
+### Rejoice and Weep (5 minutes)
+
+Think about others in your community who have a reason for rejoicing and weeping. Identify a person that you can rejoice with. Then, identify a person you can weep with.
+
+> One person I can rejoice with is…
+
+> One person I can weep with is…
+
+### Pray to God (5 minutes)
+
+Pray that God would help your community be a community of joy. After each person prays, have the whole group pray the Scripture passage together.
+
+> Gracious God, make our community a joy that…
+
+> Pray Together: Our hearts rejoice in him, for we trust in his holy name. Psalm 33:21
+
+### Sing a Song (3–5 minutes)
+
+Choose a song that rejoices in God. Sing this song together as a community.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

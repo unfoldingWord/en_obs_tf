@@ -129,7 +129,62 @@ Jesus said to his disciples, “God has given me the right to rule over everyone
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-11#Community Study: Deep Commitment—Building Loyalty in Personal Relationships.md NOT FOUND!!
+## Community Study: Deep Commitment—Building Loyalty in Personal Relationships
+
+- **Key Idea**: entrusting ourselves to each other in love
+- **Key Passage**: John 15:9-14
+- **Main Session**: OBS 42 (Jesus Returns to Heaven)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> 22 Christ is at the right hand of God. He went into heaven. Angels, authorities, and powers must submit to him. 1 Peter 3:22
+
+OR
+
+> 12 But when Christ offered for all time one sacrifice for sins, he sat down at the right hand of God. Hebrews 10:12
+
+### Think about Jesus’ Rule (5–10 minutes)
+
+Jesus is king. After he resurrected from the dead, Jesus ascended to heaven. He rules over everything and everyone. Jesus completed his work of salvation. Think about what it means to live under Jesus’ power.
+
+> To live under Jesus’ rule means…
+
+### Read the Passage (3–5 minutes)
+
+Our commitment to Jesus causes us to be committed to one another. Jesus sacrificed his life to save us. God calls us to devote our lives to him and other believers. Read the passage below to learn about what God teaches about sacrificial devotion in relationships.
+
+> 9 As the Father has loved me, I have also loved you. Remain in my love. 10 If you keep my commandments, you will remain in my love, as I have kept the commandments of my Father and remain in his love. 11 I have spoken these things to you so that my joy will be in you and so that your joy will be complete. 12 This is my commandment, that you love one another as I have loved you. 13 No one has greater love than this—that he lay down his life for his friends. 14 You are my friends if you do the things that I command you. John 15:9-14
+
+### Discuss the Passage (10-15 minutes)
+
+Jesus demonstrated his love and commitment to us. In a healthy Christian community, Christians are committed to Jesus and to one another. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  How does Jesus describe what it means to commit to Jesus and to one another?
+2.  How does our commitment to Jesus cause us to commit to one another?
+3.  What challenges make it hard for Christians to be committed to one another?
+4.  Why is it important for your community to have a commitment and devotion described in this passage?
+
+### Describe Commitment (5 minutes)
+
+After discussing the passage, explore what it means to be committed to one another. Share your summary thoughts as a group.
+
+> Christian commitment means…
+
+### Pray to God (5 minutes)
+
+Pray that God would help your community be committed to God and to others. After each person prays, have the whole group pray the Scripture passage together.
+
+> Gracious God, help us to show our commitment to one another by…
+
+> Pray Together: Beloved, let us love one another, for love is from God, and everyone who loves is born from God and knows God. \[\[1 John 4#4:7\]\]
+
+### Sing a Song (3–5 minutes)
+
+Choose a song that expresses commitment to God. Sing this song together as a community.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

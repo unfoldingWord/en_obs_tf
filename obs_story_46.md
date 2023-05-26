@@ -127,7 +127,62 @@ One day, the followers of Jesus at Antioch were fasting and praying. The Holy Sp
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-12#Community Study: Mission Community—Embracing God’s Purpose.md NOT FOUND!!
+## Community Study: Mission Community—Embracing God’s Purpose
+
+- **Key Idea**: viewing Christian community as a community of purpose
+- **Key Passage**: 1 Peter 2:9-12
+- **Main Session**: \## OBS 46 (Saul Becomes a Follower of Jesus)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> 15 This message is reliable and worthy of all acceptance, that Christ Jesus came into the world to save sinners. I am the worst of these. 16 But for this reason I was given mercy, so that in me, the foremost, Christ Jesus might demonstrate all patience. He did this as an example for those who would trust in him for eternal life. 1 Timothy 1:15-16
+
+OR
+
+> 9 For I am the least of the apostles. I am unworthy to be called an apostle because I persecuted the church of God. 10 But by the grace of God I am what I am, and his grace in me was not in vain. 1 Corinthians 15:9-10
+
+### Pray a Confession (5–10 minutes)
+
+It is important to always remember the impact of God’s grace in our lives. A community is strong and united as it remembers God’s transforming grace. In groups of 2-3 people, pray this prayer to God.
+
+> God, I am the least of all the disciples. My life before Jesus was like this…
+
+> Merciful God, you have changed my life to be like this… By the grace of God I am what I am.
+
+### Read the Passage (3–5 minutes)
+
+God’s grace and mercy dramatically changes people. God can transform the lives of those who are opposed to him and make them his servants. Read the passage below to learn about how God transforms the church community to be a part of his mission in the world.
+
+> 9 But you are a chosen people, a royal priesthood, a holy nation, a people for God’s possession, so that you would announce the wonderful actions of the one who called you out from darkness into his marvelous light. 10 Once you were not a people, but now you are the people of God. You did not receive mercy, but now you have received mercy. 11 Beloved, I call on you as foreigners and exiles to abstain from fleshly desires, which make war against your soul. 12 You should have good behavior among the Gentiles, so that, if they speak about you as having done evil things, they may observe your good works and praise God on the day of his coming. 1 Peter 2:9-12
+
+### Discuss the Passage (10-15 minutes)
+
+The church community is transformed by God’s grace. This same grace launches the church on God’s mission. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  How does this passage describe the church?
+2.  How do these descriptions of the church inform the church’s identity and mission?
+3.  How does the church sharing a common mission help believers live in a godly way toward each other and outsiders?
+4.  What would it look like for your community to be a community on mission? What things are you already doing to help in this? What things would you have to change about how you relate to each other?
+
+### Summarize the Mission (5 minutes)
+
+Take time in groups of 2-3 to share a simple sentence about the mission of the church and the mission of your community. When completed, share some examples with the large group.
+
+> The mission of the church is…
+
+> The mission of our community is…
+
+### Pray to God (5 minutes)
+
+Pray that God will help your community become a community on mission. Ask 2 or 3 people to pray out loud before the whole community.
+
+### Sing a Song (3–5 minutes)
+
+Choose a song about God’s mission. Sing this song as a community.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

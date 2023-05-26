@@ -130,7 +130,59 @@ But David’s baby boy died. This is how God punished David. Also, until David d
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-6#Community Study: Taught in Jesus—Putting on the New Self.md NOT FOUND!!
+## Community Study: Taught in Jesus—Putting on the New Self
+
+- **Key Idea**: understanding the process of Christian formation
+- **Key Passage**: Ephesians 4:17-24
+- **Main Session**: OBS 17 (God’s Covenant with David)
+
+### Sing a Song (3–5 minutes)
+
+God makes incredible promises to his people. Choose a song that praises God for his great and amazing promises. Sing this song together and celebrate God’s goodness and faithfulness.
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> And when he had removed him, he raised up David to be their king, of whom he testified and said, ‘I have found in David the son of Jesse a man after my heart, who will do all my will.’ Of this man’s offspring God has brought to Israel a Savior, Jesus, as he promised. Acts 13:22-23
+
+OR
+
+> 14 They will wage war against the Lamb. But the Lamb will conquer them because he is Lord of lords and King of kings—and with him are the called ones, the chosen ones, and the faithful ones. Revelation 17:14
+
+### Think About Your Culture (5 minutes)
+
+Jesus is the King who is more powerful than all other kings. God promised that he would send Jesus as King when God made a covenant with David. As Christians, we serve Jesus as the greatest King. Think about what it means to live under Jesus’ authority.
+
+> Because we serve Jesus as King, this means…
+
+### Read the Passage (5 minutes)
+
+Because Jesus is King, Christians are commanded to follow Jesus’ teachings. It can take time for Christians to learn how to live their new lives in Jesus. Read the passage below to understand what it means to live a life that follows Jesus.
+
+> 17 Therefore, I say and insist on this in the Lord, that you must no longer live as the Gentiles live, in the futility of their minds. 18 They are darkened in their understanding, alienated from the life of God because of the ignorance that is in them, because of the hardness of their hearts. 19 They have no shame and have handed themselves over to sensuality, and they are continually practicing every kind of impurity. 20 But that is not how you learned about Christ. 21 I assume that you have heard about him, and that you were taught in him, as the truth is in Jesus. 22 You were taught to put off what belongs to your former manner of life, to put off the old man. It is the old man that is corrupt because of its deceitful desires. 23 You were taught to be renewed in the spirit of your minds, 24 and to put on the new man that is created in the image of God—in true righteousness and holiness. Ephesians 4:17-24
+
+### Discuss the Idea (10–15 minutes)
+
+When Christians follow Jesus, they surrender their whole lives to Jesus’ authority. This means that Christians reject their old way of life and start living in a way that pleases God. After reading the passage above, use the following questions to help your community discuss biblical teaching on personal life transformation.
+
+1.  How does this passage instruct us to follow Jesus?
+2.  How does this passage explain a process of transformation? How do Christians change the way they live their lives?
+3.  What areas of your life does Jesus want you to change? What does Jesus want you to stop? What does Jesus want you to start?
+4.  How can you apply the principles of this passage to experience change in your own life?
+5.  Why is it important for your community to practice these principles of personal transformation?
+
+### Share Your Story (10 minutes)
+
+Think about what it looks like to be made new in Jesus. Celebrate the ways that God has made you a new person in Christ.
+
+> Because I believe in Jesus, God is making me into a new person that is like this…
+
+### Pray to God (5 minutes)
+
+Pray for members of your community to experience a change in how they live their lives. Ask that God would keep them from living like the world and to continue living in a way that pleases Christ.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

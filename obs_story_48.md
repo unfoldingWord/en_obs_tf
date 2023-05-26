@@ -152,7 +152,62 @@ David was a king of Israel, but Jesus is the king of the entire universe! He wil
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-13#Community Study: Remembering Together—Taking Time to Review God’s Work.md NOT FOUND!!
+## Community Study: Remembering Together—Taking Time to Review God’s Work
+
+- **Key Idea**: recalling all that God has done
+- **Key Passage**: 2 Timothy 1:3-6
+- **Main Session**: OBS 48 (Jesus Is the Promised Messiah)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> 8 Remember Jesus Christ, from David’s seed, who was raised from the dead. This is according to my gospel message 2 Timothy 2:8
+
+OR
+
+> 3:1 Beloved, this is now the second letter that I have written to you; and in both of them they are reminders to stir up your sincere mind, 2 so that you will recall the words spoken in the past by the holy prophets and the command of our Lord and Savior given through your apostles. 2 Peter 3:1-2
+
+### Remember Truths about Jesus (5 minutes)
+
+Think about the many stories you studied about the Bible. Identify some of the stories where you learned the most about Jesus.
+
+> These are some of the stories where I learned the most about Jesus…
+
+> These are some of the things I learned about Jesus…
+
+### Read the Passage (3–5 minutes)
+
+Christian community becomes strong as it remembers important things God wants them to remember. It takes focus and concentration to recall these important things in our life and community. Read the passage below to learn about the important practice of remembering.
+
+> 3 I thank God, whom I serve from my forefathers, with a clean conscience, as I constantly remember you in my prayers night and day. 4 As I remember your tears, I long to see you, that I may be filled with joy. 5 I have been reminded of your genuine faith, which lived first in your grandmother Lois and your mother Eunice, and I am convinced that it lives in you also. 6 This is the reason I am reminding you to rekindle the gift of God which is in you through the laying on of my hands. 2 Timothy 1:3-6
+
+### Discuss the Passage (10-15 minutes)
+
+As the gospel spreads, God wants the church to focus on the spread of the gospel to unreached areas. These places are areas where people do not yet believe in the gospel. A focus on frontier areas shapes your community. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  What are the different ways Paul talks about remembering in this passage? Specifically, what are the things that Paul remembers or reminds Timothy about?
+2.  Why is it important to remember? How does the practice of remembering aid our spiritual growth and ministry practice?
+3.  What negative things might happen to your community if you do not practice remembering?
+4.  How can your community develop a healthy practice of remembering together?
+
+### Remember the Past Journey (5 minutes)
+
+Spend time remembering the past as a community. Specifically, remember the moments of challenge and moments of joy that your community experienced over the past months together.
+
+> When I think about the past months together, these are the difficult moments I remember…
+
+> When I think about the past months together, these are the joyful moments I remember…
+
+### Pray to God (5 minutes)
+
+Divide into groups of 2-3 people. Think about the people your work will impact. Spend time remembering them by praying for them as a community.
+
+### Sing a Song (3–5 minutes)
+
+Sing a song together as a community that remembers God’s goodness and grace in your lives.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

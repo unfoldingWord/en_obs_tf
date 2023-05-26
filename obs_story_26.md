@@ -115,7 +115,54 @@ Then Jesus chose 12 men from among his disciples to be his special representativ
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-8#Community Study: Ministry that Matters—Approaching Leadership with Right Motivations.md NOT FOUND!!
+## Community Study: Ministry that Matters—Approaching Leadership with Right Motivations
+
+- **Key Idea**: examining our heart attitude to ministry
+- **Key Passage**: 1 Thessalonians 2:1-8
+- **Main Session**: OBS 26 (Jesus Starts His Ministry)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> Jesus went about in all of Galilee, teaching in their synagogues, preaching the gospel of the kingdom, and healing every kind of disease and sickness among the people. Matthew 4:23
+
+OR
+
+> The Spirit of the Lord is upon me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim liberty to the captives and recovering of sight to the blind, to set at liberty those who are oppressed, to proclaim the year of the Lord’s favor. Luke 4:18-19
+
+### Name Your Reasons (5 minutes)
+
+Think about your own personal reasons for being a part of this team and community. Try to name the things that motivate you for the work ahead.
+
+> I want to work as a part of this community for these reasons…
+
+### Read the Passage (3–5 minutes)
+
+As leaders in God’s church, it is important to lead/minister in a godly manner. God wants us to be motivated for ministry/leadership for good reasons. As a community, read the following Bible passage together to understand the godly approach to leadership, power, and authority.
+
+> 1 For you yourselves know, brothers, that our coming to you was not useless. 2 You know that we previously suffered and were shamefully treated at Philippi. We were bold in our God to speak to you the gospel of God in much struggling. 3 For our exhortation was not from error, nor from impurity, nor from deceit. 4 Instead, just as we have been approved by God to be trusted with the gospel, so we speak. We speak, not to please men, but to please God. He is the one who examines our hearts. 5 For we never used words of flattery, as you know, nor as an excuse to cover up greed—God is our witness. 6 Nor did we seek glory from people, either from you or from others. We could have claimed privileges as apostles of Christ. 7 Instead, we were as gentle among you as a mother comforting her own children. 8 In this way we had affection for you. We were pleased to share with you not only the gospel of God but also our own lives. For you had become very dear to us. 1 Thessalonians 2:1-8
+
+### Discuss the Passage (10-15 minutes)
+
+God wants us to have good motivations for ministry. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  In this passage, what are the wrong motivations for ministry?
+2.  What are good/correct/godly motivations for ministry?
+3.  How can we guard ourselves against wrong motivations in leadership/ministry?
+4.  As a community, how can we develop godly motivations for ministry?
+
+### Pray to God (5 minutes)
+
+Identify two bad motivations in the passage above. Have members of the community pray that God would guard the community against these motivations and help the community go about its work in a godly manner.
+
+> God, guard us against doing leadership/ministry for these wrong reasons…
+
+### Sing a Song (3–5 minutes)
+
+Choose a song to sing to praise God and encourage one another.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

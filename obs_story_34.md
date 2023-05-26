@@ -118,7 +118,60 @@ Then Jesus said, “I tell you, God heard the tax collector’s prayer, and decl
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-10#Community Study: Approved Servants—Aiming to Please God Most of All.md NOT FOUND!!
+## Community Study: Approved Servants—Aiming to Please God Most of All
+
+- **Key Idea**: seeking for God’s approval in all that we do
+- **Key Passage**: 2 Timothy 2:14-26
+- **Main Session**: OBS 34 (Jesus Teaches Other Stories)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> 33 With many parables like this he spoke the word to them, as much as they were able to understand. Mark 4:33
+
+OR
+
+> 33 But seek first his kingdom and his righteousness and all these things will be given to you. Matthew 6:33
+
+### Describing Faithful Servants (5–10 minutes)
+
+Think about faithful servants of God that you respect. As a community, describe together the characteristics of these faithful servants.
+
+> One faithful servant that I respect is …
+
+> I respect this servant because he/she is …
+
+### Read the Passage (3–5 minutes)
+
+God wants us to serve him faithfully. Our lives and ministry are fully dedicated to God. As a community, read the following Bible passage together to understand what it means to serve God faithfully in your life and ministry.
+
+> 14 Keep reminding them of these things. Warn them before God against quarreling about words; it is of no value, and only ruins those who listen. 15 Do your best to present yourself to God as one approved, a worker who has no reason to be ashamed, who accurately teaches the word of truth. 16 Avoid profane talk, which leads to more and more godlessness. 17 Their talk will spread like cancer. Among them are Hymenaeus and Philetus, 18 who have gone astray from the truth. They say that the resurrection has already happened, and they destroy the faith of some. 19 However, the firm foundation of God stands. It has this inscription: “The Lord knows those who are his” and “Everyone who names the name of the Lord must depart from unrighteousness.” 20 In a wealthy home, there are not only containers of gold and silver. There are also containers of wood and clay. Some of these are for honorable use, and some for dishonorable. 21 If someone cleans himself from dishonorable use, he is an honorable container. He is set apart, useful to the Master, and prepared for every good work. 22 Flee youthful lusts. Pursue righteousness, faith, love, and peace with those who call on the Lord out of a clean heart. 23 But refuse foolish and ignorant questions. You know that they give birth to arguments. 24 The Lord’s servant must not quarrel. Instead he must be gentle toward all, able to teach, and patient. 25 He must in meekness educate those who oppose him. God may perhaps give them repentance for the knowledge of the truth. 26 They may become sober again and leave the devil’s trap, after they have been captured by him for his will. 2 Timothy 2:14-26
+
+### Discuss the Passage (10-15 minutes)
+
+God created us for a specific work in the world. Faithful service to God is doing what God has called us to do. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  How does this passage describe a faithful servant of God?
+2.  In what areas of life do faithful servants need to show maturity?
+3.  What causes Christians and Christian leaders to be unfaithful? How can you and your community guard against unfaithfulness?
+4.  How would you evaluate your community? What areas of growth can you identify?
+
+### Identify a Challenge (5 minutes)
+
+Think about the above discussion. Try to communicate what it means to live a life that God approves.
+
+> God approves people like this…
+
+### Pray to God (5 minutes)
+
+Reflect on what it means to be an approved workman. Pray for people by name in your community. Ask for God to help these people serve God in a faithful and pleasing way.
+
+### Sing a Song (3–5 minutes)
+
+Identify a song that celebrates God’s faithfulness and Christian ministry responsibility. Sing this song together as a way to express your commitment to God.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

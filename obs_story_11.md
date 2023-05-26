@@ -87,7 +87,51 @@ That same night, Pharaoh called for Moses and Aaron and said, “Take the Israel
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-5#Community Study: A Godly Community—Thinking about the Right Things.md NOT FOUND!!
+## Community Study: A Godly Community—Thinking about the Right Things
+
+- **Key Idea**: focusing our thoughts on things that please God
+- **Key Passage**: Philippians 4:8-9
+- **Main Session**: OBS 11 (The Passover)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> It was by faith that he kept the Passover and the sprinkling of the blood, so that the destroyer of the firstborn should not touch the Israelites’ firstborn sons. Hebrews 11:28
+
+### Sing a Song (3–5 minutes)
+
+Choose a song to sing to praise God and encourage one another.
+
+### Read the Passage (5 minutes)
+
+When people follow God, they live in a way that honors God and encourages others. Christians need to focus their minds on those things which most please God. When we do this, we build up a community of faith. In order to learn about godly ways of thinking, read the passage below.
+
+> 8 Finally, brothers, whatever things are true, whatever things are honorable, whatever things are just, whatever things are pure, whatever things are lovely, whatever things are of good report, if there is anything excellent, if there is anything to be praised, think about these things. 9 The things that you have learned and received and heard and seen in me, do these things, and the God of peace will be with you. Philippians 4:8-9
+
+### Discuss the Idea (10–15 minutes)
+
+How we think affects the way that we live and interact with others. Use the following questions to discuss the godly types of things we should think about.
+
+1.  What kinds of things should Christians think about?
+2.  How does our thinking affect the way we live and interact with others? How does thinking about such things honor God and encourage other Christians?
+3.  Why is it important to be intentional/purposeful/proactive about the things we think about?
+4.  What practices and habits will your community do to help each other think about such things as you work and serve together?
+
+### Describe One Characteristic (5–10 minutes)
+
+Divide your community into groups of 2–3. Give each group one of the characteristics in the passage above (true, honorable, just, pure, lovely, good report, excellent, to be praised). Each group should try to identify specific thoughts that correspond to that characteristic that would help make your community strong. See the example below.
+
+> **True** thoughts that make the Christian community strong:
+> God wants the whole community to participate in his work
+> God gifted people in my community in different ways to make the community healthy
+> I should honor community members who do not naturally get attention.
+
+### Pray to God (5 minutes)
+
+Use the passage above to pray to God. As a community, ask God to help you think about the specific characteristics above.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

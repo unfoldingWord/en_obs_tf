@@ -112,7 +112,50 @@ When these men saw Jesus with his mother, they bowed down and worshiped him. The
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-8#Community Study: Servant of All—Viewing Our Leadership as Service.md NOT FOUND!!
+## Community Study: Servant of All—Viewing Our Leadership as Service
+
+- **Key Idea**: viewing oneself as a servant
+- **Key Passage**: Mark 10:35-45
+- **Main Session**: OBS 23 (The Birth of Jesus)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> But when the fullness of time had come, God sent out his Son, born of a woman, born under the law. He did this to redeem those under the law, so that we might receive adoption as sons. Galatians 4:4-5
+
+OR
+
+> The Word became flesh and lived among us. We have seen his glory, glory as of the one and only who came from the Father, full of grace and truth. John 1:14
+
+### Sing a Song (3–5 minutes)
+
+Choose a song to sing to praise God and encourage one another.
+
+### Read the Passage (3–5 minutes)
+
+Jesus came into the world to save sinful humans. Although Jesus is greater than humans, he came to serve humans. As a community, read the following Bible passage together to understand the godly approach to leadership, power, and authority.
+
+> 35 James and John, the sons of Zebedee, came up to him and said, “Teacher, we want you to do for us whatever we ask you.” 36 He said to them, “What do you want me to do for you?” 37 They said, “Allow us to sit with you in your glory, one at your right hand and the other at your left.” 38 But Jesus replied to them, “You do not know what you are asking. Are you able to drink the cup which I will drink or endure the baptism with which I will be baptized?” 39 They said to him, “We are able.” Jesus said to them, “The cup that I will drink, you will drink, and with the baptism with which I am baptized, you also will be baptized. 40 But who is to sit at my right hand or at my left hand is not mine to give, but it is for those for whom it has been prepared.” 41 When the other ten disciples heard about this, they began to be very angry with James and John. 42 Jesus called them to himself and said, “You know those who are considered rulers of the Gentiles dominate them, and their high officials exercise authority over them. 43 But it shall not be this way among you. Whoever wishes to become great among you must be your servant, 44 and whoever wishes to be first among you must be the slave of all. 45 For the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.” Mark 10:35-45
+
+### Discuss the Passage (10-15 minutes)
+
+Jesus is the ultimate example of serving others. He shows us that we should not seek to put ourselves first but to serve others. This kind of leadership calls us to sacrifice for others. As a community, use the following questions to discuss the teaching of the biblical story.
+
+1.  In this story, what did the disciples want from Jesus? How did Jesus reply to their request?
+2.  What did Jesus teach his disciples about leadership, authority, and ministry?
+3.  How is Jesus the ultimate example of this kind of leadership?
+4.  How will you approach your role in this ministry/work by being a servant of others?
+
+### List Names (5–10 minutes)
+
+Spend time as a community listing the names of people that God wants you to serve. Specifically, list out church members, networks, and people groups God has put in your life to serve.
+
+### Pray to God (5 minutes)
+
+Have each member of your community kneel down in prayer. Have each person pray that God would give him or her a servant heart.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

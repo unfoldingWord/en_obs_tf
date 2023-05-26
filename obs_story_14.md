@@ -132,7 +132,46 @@ Then God told Moses to go to the top of a mountain so he could see the Promised 
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-5#Community Study: Godly Wisdom—Living by the Wisdom from Above.md NOT FOUND!!
+## Community Study: Godly Wisdom—Living by the Wisdom from Above
+
+- **Key Idea**: grounding our lives in God’s wisdom
+- **Key Passage**: James 3:13-18
+- **Main Session**: OBS 14 (Wandering in the Wilderness)
+
+### Sing a Song (3–5 minutes)
+
+Choose a song to sing to praise God and encourage one another.
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> Moses led them out of Egypt, after doing miracles and signs in Egypt and at the Sea of Reeds, and in the wilderness during forty years. Acts 7:36
+
+### Read the Passage (5 minutes)
+
+It takes wisdom to live godly lives in a sinful world. It takes wisdom to be a mature Christian community in a sinful world. In order to learn about godly wisdom that makes Christian community strong, read the passage below.
+
+> 13 Who is wise and understanding among you? Let that person show a good life by his works in the humility of wisdom. 14 But if you have bitter jealousy and ambition in your heart, do not boast and lie against the truth. 15 This is not the wisdom that comes down from above. Instead, it is earthly, unspiritual, demonic. 16 For where there are jealousy and ambition, there is confusion and every evil practice. 17 But the wisdom from above is first pure, then peace-loving, gentle, reasonable, full of mercy and good fruits, impartial and sincere. 18 The fruit of righteousness is sown in peace among those who make peace. James 3:13-18
+
+### Discuss the Idea (10–15 minutes)
+
+Wisdom helps us to live godly lives and to enjoy loving community relationships. Use the following questions to discuss the kind of wisdom that pleases God.
+
+1.  What are the two kinds of wisdom described in this passage?
+2.  How is each kind of wisdom described? What are the characteristics of each kind of wisdom?
+3.  What bad characteristics are a great threat to your community? What good characteristics are most needed in your community?
+4.  How will your community develop wisdom that honors God and builds up the community?
+
+### Think about Your Heart (5 minutes)
+
+Take some time to think about your own heart. Identify which list of characteristics most describes your heart and your community. Try to explain the reasons why you selected these characteristics. Then, identify which characteristics you want to most describe your life.
+
+### Pray to God (5 minutes)
+
+Pray that God would help your community to have godly wisdom. Use the passage above to ask God for the specific characteristics that describe godly wisdom.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

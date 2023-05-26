@@ -101,7 +101,52 @@ Then God said, “Now that the human beings have become like us by knowing good 
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-3#Community Study: The Practice of Confession—Acknowledging Our Sin.md NOT FOUND!!
+## Community Study: The Practice of Confession—Acknowledging Our Sin
+
+- **Key Idea**: admitting our sin before God and others
+- **Key Passage**: James 5:16
+- **Main Session**: OBS 2 (Fall)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> So then, as through one man sin entered into the world, in this way death entered through sin. And death spread to all people, because all sinned.
+
+### Observe the World (5–10 minutes)
+
+The world has been deeply affected by sin. We experience brokenness, pain, and suffering all around us. As a community, reflect on the state of the world. Use the following sentence to help you make observations about the effects of sin in the world.
+
+> When I think about the world, I notice that sin has caused…
+
+### Read the Passage (1–2 minutes)
+
+We live in a sinful world. If we confess our sins to God, he is merciful to forgive us of our sins. In order to understand the practice of Christian confession, read the passage below.
+
+> So confess your sins to one another, and pray for each other, so that you may be healed. The prayer of a righteous person is very strong in its working. James 5:16
+
+### Explore the Idea (10–15 minutes)
+
+It is not easy to experience Christian community. Our own sinful tendencies and the enemy Satan threaten unity and harmony of Christian relationships with one another. The practice of confessing our sins is important for God’s people to be fruitful. Discuss the following questions below as a group.
+
+1.  What does it mean to confess your sins to one another? What does it mean to confess your sins to God?
+2.  Why is it important to confess your sins? How does this practice help strengthen and mature Christians and the Christian community?
+3.  When a person is willing to confess their sins, what is this person like?
+4.  How can your community make confession of sin a regular part of its community life?
+
+### Confess to God (10 minutes)
+
+Ask God to show you any sins in your life that need to be forgiven. Pray to God and ask for him to forgive you of your sin. If your community is willing, confess sins to one another.
+
+### Pray to God (5 minutes)
+
+Divide your community into groups of 2–3 individuals. Spend time praying for God’s grace and mercy upon one another.
+
+### Sing to God (5 minutes)
+
+Remember how God has forgiven you of your sin. Sing a song that celebrates God’s grace and mercy.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

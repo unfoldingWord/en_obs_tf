@@ -127,7 +127,55 @@ When the people arrived in Jerusalem, they rebuilt the Temple and the wall aroun
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-7#Community Study: When Tensions Arise—Understanding Causes of Conflict.md NOT FOUND!!
+## Community Study: When Tensions Arise—Understanding Causes of Conflict
+
+- **Key Idea**: pinpointing the roots of relationship tension
+- **Key Passage**: James 4:1-2
+- **Main Session**: OBS 20 (The Exile and Return)
+
+### Sing a Song (3–5 minutes)
+
+Choose a song to sing to praise God and encourage one another.
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> Because you did not worship Yahweh your God with joyfulness and gladness of heart when you were in prosperity, therefore will you serve the enemies that Yahweh will send against you; you will serve them in hunger, in thirst, in nakedness, and in poverty. Deuteronomy 28:47-48
+
+OR
+
+> 18 Yahweh is slow to anger and abundant in covenant faithfulness. He forgives iniquity and transgression. He will by no means clear the guilty when he brings the punishment of the ancestors’ sin on their descendants, to the third and fourth generation. Numbers 13:18
+
+### Think Together (5 minutes)
+
+Think about times when you experienced/saw conflict between different people. Answer the following questions together as a group.
+
+1.  When have you experienced/seen conflict arise among a group of people?
+2.  What do you think were the causes of these conflicts?
+
+### Read the Passage (5 minutes)
+
+Conflict, tension, and disputes arise among people. To be a healthy community, we need to understand how such difficulties come about. In order to grow together as a united and one-minded community, read the passage below.
+
+> 4:1 Where do quarrels and disputes among you come from? Do they not come from your desires that fight among your members? 2 You desire, and you do not have. You kill and covet, and you are not able to obtain. You fight and quarrel. James 4:1-2
+
+### Discuss the Idea (10–15 minutes)
+
+Every community can expect there to be challenges and conflict. After reading the passage above, use the following questions to help your community discuss what it means to practice Christian community in a godly way.
+
+1.  As you read this passage, what are the causes of conflict and disputes among people?
+2.  What different kinds of conflict can arise among people?
+3.  Based on this passage, how can we guard ourselves against quarrels and disputes?
+4.  When conflicts do arise, how can we address/resolve them to restore unity to the community?
+
+### Pray the Verse (5 minutes)
+
+Divide the community into groups of 2–3 people. Read the verse below. Use the verse as a guide to pray that God would give your community joy, restoration, encouragement, one-mindedness, and peace.
+
+> 11 Finally, brothers, rejoice! Work for restoration, be encouraged, agree with one another, live in peace. And the God of love and peace will be with you. 2 Corinthians 13:11
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

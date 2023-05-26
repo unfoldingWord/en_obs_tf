@@ -95,7 +95,49 @@ But Esau no longer wanted to harm Jacob. Instead, he was very happy to see him a
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-4#Community Study: No Divisions Among You—Guarding the Community against Disunity.md NOT FOUND!!
+## Community Study: No Divisions Among You—Guarding the Community against Disunity
+
+- **Key Idea**: guarding against division and disunity
+- **Key Passage**: 1 Corinthians 1:10-13
+- **Main Session**: OBS 7 (God Blesses Jacob)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> It was also by faith about things to come that Isaac blessed Jacob and Esau. Hebrews 11:20
+
+### Read the Passage (5 minutes)
+
+There are many things that seek to destroy the unity of God’s people. Christians need to be aware/alert that these threats exist in order to guard the community against division and disunity. In order to understand God’s design of Christian community, read the passage below.
+
+> 10 Now I urge you, brothers, through the name of our Lord Jesus Christ, that you all agree, and that there be no divisions among you. I urge that you be joined together with the same mind and by the same purpose. 11 For it has been made clear to me, my brothers, by Chloe’s people that there are factions among you. 12 I mean this: Each one of you says, “I am with Paul,” or “I am with Apollos,” or “I am with Cephas,” or “I am with Christ.” 13 Is Christ divided? Was Paul crucified for you? Were you baptized in the name of Paul? 1 Corinthians 1:10-13
+
+### Discuss the Idea (10–15 minutes)
+
+Mature Christian community guards against division and disunity. Use the following questions to explore what it means to be a part of a unified Christian community.
+
+1.  What instructions does the above passage give us about being a Christian community?
+2.  How can a Christian community experience division and disunity? What are causes of disunity that can divide Christian community?
+3.  What is the difference between disunity/division and having different perspectives (and even disagreements) as we work together? How can we remain unified while we work through different opinions and perspectives?
+4.  What are the dangers of never speaking our mind/thoughts? How can we share our thoughts and opinions while we respect one another in the process?
+5.  How will your community guard itself against division and disunity?
+
+### Sing God’s Word (5 minutes) (optional)
+
+Work together as a community to sing or chant the following verse together in a rhythm, beat, or melody.
+
+> Behold, how good and how pleasant it is for brothers to live together! Psalm 133:1
+
+### Pray to God (5 minutes)
+
+Pray as a whole community. Ask God to help guard your community against division and disunity. In this time of prayer, consider having community members get on their knees to pray as a symbol of humility before God and one another.
+
+### Sing to God (3–5 minutes)
+
+Choose a song to sing to praise God and encourage one another.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

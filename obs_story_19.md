@@ -155,7 +155,52 @@ The prophets continued to speak for God even though the people hated them. They 
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-7#Community Study: All of You—Enjoying Brotherly Unity.md NOT FOUND!!
+## Community Study: All of You—Enjoying Brotherly Unity
+
+- **Key Idea**: honoring the unit of God’s people
+- **Key Passage**: 1 Peter 3:8-12
+- **Main Session**: OBS 19 (The Prophets)
+
+### Sing a Song (3–5 minutes)
+
+Choose a song to sing to praise God and encourage one another.
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> 7 Surely the Lord Yahweh will do nothing unless he reveals his plan to his servants the prophets. Amos 3:7
+
+OR
+
+> 21 For no prophecy was ever brought by the will of man, but men spoke from God when they were carried along by the Holy Spirit. 2 Peter 1:21
+
+### Read the Passage (5 minutes)
+
+God tells believers to love each other like brothers and sisters. In order to grow together as a united and one-minded community, read the passage below.
+
+> 8 Finally, all of you, be likeminded, compassionate, loving as brothers, tenderhearted, and humble. 9 Do not pay back evil for evil or insult for insult. On the contrary, continue to bless, because for this you were called, that you might inherit a blessing. 10 “The one who wants to love life and see good days should stop his tongue from evil and his lips from speaking deceit. 11 Let him turn away from what is bad and do what is good. Let him seek peace and pursue it. 12 The eyes of the Lord see the righteous, and his ears hear their requests. But the face of the Lord is against those who do evil.” 1 Peter 3:8-12
+
+### Discuss the Idea (10–15 minutes)
+
+God explains to us what it means to be a Christian community. After reading the passage above, use the following questions to help your community discuss what it means to practice Christian community in a godly way.
+
+1.  How does this passage teach Christians to relate to one another?
+2.  What kind of commitment does it take to enjoy this kind of Christian community?
+3.  What behaviors and attitudes are dangerous against the Christian community?
+4.  How can your community/team develop this kind of Christian community?
+
+### Give Your Reasons (5–10 minutes)
+
+Reflect on the passage and discussion above. Think about what it would be like to be a part of the kind of community described in the passage. Share your thoughts with the group.
+
+> It would be a joy to be a part of this kind of community because…
+
+### Pray to God (5 minutes)
+
+Pray that God would make your community like the one described in the passage above. Use the specific details of the passage to pray as a community.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

@@ -85,7 +85,48 @@ Then God made a covenant with Abram. Normally, a covenant is an agreement betwee
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-4#Community Study: One Body, Many Members—Enjoying God’s Design of Christian Community.md NOT FOUND!!
+## Community Study: One Body, Many Members—Enjoying God’s Design of Christian Community
+
+- **Key Idea**: celebrating the unity and diversity of God’s people
+- **Key Passage**: 1 Corinthians 12:12-27
+- **Main Session**: OBS 4 (Covenant with Abraham)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> Then if you are Christ’s, you are Abraham’s descendants, and heirs according to promise. Galatians 3:29
+
+### Read the Passage (5 minutes)
+
+God forms believers into a community called the church. The church is like a person: one body made up of many parts. God wants his people to be unified and united (to function as one) and celebrate the diversity and uniqueness of individual members (who use their unique giftedness for the good of the community). In order to understand God’s design of Christian community, read the passage below.
+
+> 12 For as the body is one and has many members and all are members of the same body, so it is with Christ. 13 For by one Spirit we were all baptized into one body, whether Jews or Greeks, whether bound or free, and all were made to drink of one Spirit. 14 For the body is not a single member, but many. 15 If the foot says, “Since I am not the hand, I am not part of the body,” it is not any less a part of the body. 16 And if the ear says, “Because I am not an eye, I am not part of the body,” it is not any less a part of the body. 17 If the whole body were an eye, where would the sense of hearing be? If the whole body were an ear, where would the sense of smell be? 18 But God arranged each part of the body as he designed it. 19 If they were all the same member, where would the body be? 20 So now they are many members, but only one body. 21 The eye cannot say to the hand, “I have no need of you.” Nor does the head say to the feet, “I have no need of you.” 22 But the members of the body that appear to be weaker are essential, 23 and the parts of the body that we think are less honorable, we give them greater honor, and our unpresentable members have more dignity. 24 Now our presentable members have no need to be treated with dignity, for they already have dignity. But God has joined all the members together, and he gave more honor to those that lacked it. 25 He did this so there may be no division within the body, but that the members should care for one another with the same affection. 26 So when one member suffers, all the members suffer together; or when one member is honored, all the members rejoice together. 27 Now you are the body of Christ and individually members of it. 1 Corinthians 12:12-27
+
+### Explore the Idea (10–15 minutes)
+
+The above passage introduces us to God’s design for Christian community. Use the following questions to learn what it means for your group to function like one body made up of many members.
+
+1.  How does this passage describe what it means to be a part of the church community?
+2.  What are some challenges of being a part of a community that acts as one body and is made up of different individual members?
+3.  How can a Christian community encourage the unity of the whole group and also celebrate the unique giftedness of diverse members?
+4.  What are ways your community can realize God’s vision for being one body made up of many parts?
+
+### Envision the Community (5–10 minutes)
+
+Think about what it would look like for your community to remain unified and also celebrate the uniqueness of each member. Imagine what the fruit might be to work in such a God-honoring community.
+
+> By God’s help, if our community acts as one body with many members, then the result would be…
+
+### Pray to God (5 minutes)
+
+Christians can only enjoy the unity and diversity of Christian community with God’s help. It is not possible to maintain Christian community in our own human strength. Spend time praying as a community that God would help you realize the vision of the above passage and work together as a body.
+
+### Sing a Song (3–5 minutes)
+
+Reflect on what it means to be a Christian community. Sing a song that celebrates God’s work in forming God’s people together as a unified body.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

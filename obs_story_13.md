@@ -132,7 +132,50 @@ Moses made new stone tablets for the Ten Commandments to replace the ones that h
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-5#Community Study: The Last Days—Guarding Against Cultural Values.md NOT FOUND!!
+## Community Study: The Last Days—Guarding Against Cultural Values
+
+- **Key Idea**: renouncing worldly ways of living
+- **Key Passage**: 2 Timothy 3:1-5
+- **Main Session**: OBS 13 (God’s Covenant with Israel)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> All who rely on the works of the law are under a curse; and so it is written, “Cursed is everyone who does not abide by all the things written in the book of the law, and do them.” Galatians 3:10
+
+OR
+
+> For whoever obeys the whole law, except that he stumbles in just a single way, has become guilty of breaking the whole law. James 2:10
+
+### Read the Passage (5 minutes)
+
+It is not easy to be a Christian. It is also not easy to be a part of a healthy church community. Many people do not obey God and they live in a way that is sinful and wicked. In order to learn about how Christians should live in a world opposed to God, read the passage below.
+
+> 3:1 But know this: In the last days there will be difficult times. 2 For people will be lovers of themselves, lovers of money, boastful, proud, blasphemers, disobedient to parents, ungrateful, and unholy. 3 They will be without natural affection, unable to reconcile, slanderers, without self-control, violent, not lovers of good. 4 They will be betrayers, reckless, conceited, lovers of pleasure rather than lovers of God. 5 They will have a shape of godliness, but they will deny its power. Turn away from these people. 2 Timothy 3:1-5
+
+### Discuss the Idea (10–15 minutes)
+
+Christians live in a world where many people oppose God and his ways. Use the following questions to discuss the kinds of values Christians need to be guarded against.
+
+1.  What kinds of behaviors, desires, and lifestyles characterize the evil people described in the passage above?
+2.  How do these kinds of sins threaten Christian community?
+3.  How have you seen these sins dishonor God and hurt others?
+4.  What should your community do to become strong against these sinful threats?
+
+### Understand Your Culture (5–10 minutes)
+
+As you think about the sins listed in the passage above, think about where you see these sins in the surrounding culture. Give specific examples. Discuss together how such dangers can threaten your own community.
+
+### Pray to God (5 minutes)
+
+Pray that God would protect your community from the sins of the surrounding culture.
+
+### Sing a Song (3–5 minutes)
+
+Choose a song to sing to praise God and encourage one another.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

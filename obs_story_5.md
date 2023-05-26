@@ -93,7 +93,55 @@ Then God said to Abraham, “Because you were willing to give me everything, eve
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-4#Community Study: Gifts to Each One—Celebrating Diversity in Christian Community.md NOT FOUND!!
+## Community Study: Gifts to Each One—Celebrating Diversity in Christian Community
+
+- **Key Idea**: valuing the gifts God has imparted to each other
+- **Key Passage**: Romans 12:3-8
+- **Main Session**: OBS 5 (The Son of Promise)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> It was by faith that Abraham, when he was tested, offered Isaac. It was his only son whom he offered, he who had received the promises. Hebrews 11:17
+
+### Read the Passage (5 minutes)
+
+God builds the Christian community with believers/Christians who are uniquely gifted. For the church community to be mature and fruitful, each individual member of the community needs to use the gifts and skills that God has given. In order to understand God’s design of Christian community, read the passage below.
+
+> 3 For I say, because of the grace that was given to me, that everyone who is among you should not think more highly of themselves than they ought to think. Instead, they should think in a wise way, just as God has given out to each one a certain amount of faith. 4 For we have many members in one body, but not all the members have the same function. 5 In the same way, we who are many are one body in Christ, and are individually members of each other. 6 We have different gifts according to the grace that was given to us. If one’s gift is prophecy, let it be done according to the proportion of his faith. 7 If one’s gift is service, let him serve. If one has the gift of teaching, let him teach. 8 If one’s gift is encouragement, let him encourage. If one’s gift is giving, let him do it generously. If one’s gift is leading, let it be done with care. If one’s gift is in showing mercy, let it be done with cheerfulness. Romans 12:3-8
+
+### Discuss the Idea (10–15 minutes)
+
+God gifts each member of the Christian community with gifts and abilities that serve the whole community. Use the following questions to explore what it means to be a part of such a diverse body.
+
+1.  How does this passage describe God’s design for Christian community?
+2.  Why is it important that God uniquely gifted members of the church community? How does the unique giftedness of each member make the community strong and mature?
+3.  How might a community (unfortunately) discourage individual members from using/exercising their gifts?
+4.  What are healthy, God-honoring ways that we should view ourselves as we consider our giftedness?
+5.  How will your community encourage each member to use their unique gifts for God and for the good of the community?
+
+### Name Your Gifts (5 minutes)
+
+Think about how God may have uniquely gifted you as a member of the Christian community. Try to name specific ways you can contribute to the work of the community.
+
+> God has uniquely gifted me to…
+
+### Encourage Each Other (10–15 minutes)
+
+Think about the time you have spent as a community so far. Each person should identify at least one other member and mention (written or spoken) something they appreciate about that person. You can use the following prompt below
+
+> I am thankful for \[name of person\] because \[reason this person makes the community strong\]…
+
+### Pray to God (5 minutes)
+
+Divide the community into groups of 2–3 people. Have each person pray an encouraging prayer over them.
+
+### Sing a Song (3–5 minutes)
+
+Choose a song that is fitting for this session. Sing this song as a community.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

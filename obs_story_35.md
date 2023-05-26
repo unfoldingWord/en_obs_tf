@@ -136,7 +136,61 @@ Some religious leaders saw Jesus talking to these people as friends. So they beg
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-10#Community Study: Choosing the Best—Enjoying Jesus as We Serve.md NOT FOUND!!
+## Community Study: Choosing the Best—Enjoying Jesus as We Serve
+
+- **Key Idea**: maintaining a vibrant relationship with God
+- **Key Passage**: Luke 10:38-42
+- **Main Session**: OBS 35 The Story of the Compassionate Father
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> As a father has compassion on his children, so Yahweh has compassion on those who honor him. Psalm 103:13
+
+OR
+
+> See what kind of love the Father has given to us, that we should be called children of God, and this is what we are. 1 John 3:1
+
+### Reflect On God’s Love (5–10 minutes)
+
+Think about God’s love for you. Consider how God is like a loving Father. As a community, discuss how God’s love is a motivation for ministry.
+
+> I have experienced God’s fatherly love in these ways …
+
+> God’s love motivates us for ministry in these ways …
+
+### Read the Passage (3–5 minutes)
+
+God wants you to serve him out of love and rest. God’s compassion toward us energizes us to serve him in freedom. As a community, read the following Bible passage together to understand the important truth that of keeping a focus on Jesus during our work.
+
+> 38 Now as they were traveling along, he entered into a certain village, and a certain woman named Martha welcomed him into her house. 39 She had a sister named Mary, who sat at the Lord’s feet and heard his word. 40 But Martha was overly busy with preparing to serve a meal. She came up to Jesus, and said, “Lord, do you not care that my sister left me to serve alone? Therefore tell her to help me.” 41 But the Lord answered and said to her, “Martha, Martha, you are anxious about many things, 42 but only one thing is necessary. Mary has chosen what is best, which will not be taken away from her.” Luke 10:38-42
+
+### Discuss the Passage (10-15 minutes)
+
+God calls us to serve him with devotion and commitment. Nevertheless, God is the only source of strength and success in our lives. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  How does this passage describe the different ways Mary and Martha related to Jesus?
+2.  What is this passage teaching about the importance of enjoying Jesus’ presence?
+3.  How can our work for Jesus distract us from enjoying a relationship with Jesus? How is a relationship with Jesus important for our faithful work for Jesus?
+4.  How is this narrative a warning for us? How can we choose what is best as we go about God’s work?
+5.  How can your community embrace godly rhythms of work and rest?
+
+### Naming Challenges to Godly Work (5 minutes)
+
+Reflect on the above discussion. Consider things that threaten the work of ministry in a godly way.
+
+> If we are not careful to work in a godly way, these dangers can threaten our community and ministry…
+
+### Pray to God (5 minutes)
+
+Pray that God will help your community to work in a godly way. Identify some of the principles in the passage above and pray these over members of your community. Ask God for healthy rhythms of work and rest.
+
+### Sing a Song (3–5 minutes)
+
+Sing a song as a community that celebrates God’s love and God’s rest as motivations for ministry work.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

@@ -128,7 +128,56 @@ Moses was afraid and did not want to go to Pharaoh because he thought he could n
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-5#Community Study: Two Ways—Understanding the Difference between the Flesh and the Spirit.md NOT FOUND!!
+## Community Study: Two Ways—Understanding the Difference between the Flesh and the Spirit
+
+- **Key Idea**: distinguishing ungodly vices and godly virtues
+- **Key Passage**: Galatians 5:19-26
+- **Main Session**: OBS 9 (God Calls Moses)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> It was by faith that Moses, when he was born, was hidden for three months by his parents because they saw he was a beautiful child. They were not afraid of the king’s command. It was by faith that Moses, after he had grown up, refused to be called the son of Pharaoh’s daughter. Instead, he chose to suffer with the people of God, rather than to enjoy the pleasures of sin for a while. Hebrews 11:23
+
+### Name Temptations (5–10 minutes)
+
+It is not easy to be a Christian. God calls us to trust him and obey him in all areas of life. Sometimes, Christians are tempted to do things that disobey God’s commands. Think about what some of these temptations are and how they might disrupt Christian community.
+
+> Some of the temptations Christians face are…
+> These temptations disrupt Christian community in these ways…
+
+### Read the Passage (5 minutes)
+
+Even though all Christians sometimes disobey God, true Christians no longer live a life characterized by sin. This means that Christians no longer live to please their sinful nature, but they walk by the Holy Spirit. When Christians follow the Holy Spirit, they can enjoy relationships with other believers in joy and peace. In order to understand what it means to walk by the Spirit, read the passage below.
+
+> 19 Now the works of the sinful nature are evident: sexual immorality, impurity, depravity, 20 idolatry, sorcery, hostilities, strife, jealousy, outbursts of anger, rivalry, dissension, divisions, 21 envy, drunkenness, drunken celebrations, and things like these. I warn you, as I warned you before, that those who practice such things will not inherit the kingdom of God. 22 But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faith, 23 gentleness, and self-control; against such things there is no law. 24 Those who belong to Christ Jesus have crucified the sinful nature with its passions and desires. If we live by the Spirit, let us also walk by the Spirit. 26 Let us not become conceited, provoking one another, envying one another. Galatians 5:19-26
+
+### Discuss the Idea (10–15 minutes)
+
+People who believe in Jesus belong to Jesus. They no longer live to please sinful desires but to please God. Use the following questions to explore what it means to live the Christian life in the power of the Holy Spirit.
+
+1.  What kinds of things do people do when they live to please their sinful nature?
+2.  How do people live when they follow the Holy Spirit?
+3.  How do the works of the sinful nature destroy relationships with other people? How does the fruit of the Holy Spirit develop Christian community?
+4.  How do these two (opposing) lists help you care for the community of believers?
+
+### Personal Prayer (5 minutes) (optional)
+
+Think about how this passage teaches us to live. Pick one behavior/attitude from the works of the sinful nature and one behavior/attitude from the fruit of the Spirit. Ask God to keep you from that particular work of the sinful nature and ask him to help you live
+
+> God help me not to live by the sinful nature in this way…
+> God help me to live by the Spirit in this way…
+
+### Pray to God (5 minutes)
+
+Divide the community into groups of 2–3. Use the above passage to pray over each other. Ask God to guard each member against the works of the sinful nature. Pray that God would help each member to experience the fruit of the Spirit.
+
+### Sing to God (3–5 minutes)
+
+Choose a song to sing to praise God and encourage one another.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 

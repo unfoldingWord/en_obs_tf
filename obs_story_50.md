@@ -171,7 +171,60 @@ Jesus and his people will live on the new earth, and he will reign forever over 
 
 <!-- page break -->
 
-\##./obs_source/transclusions//obs-devotionals-unit-13#Community Study: Corporate Praise—Telling God of His Greatness.md NOT FOUND!!
+## Community Study: Corporate Praise—Telling God of His Greatness
+
+- **Key Idea**: worshiping God as a community
+- **Key Passage**: Hebrews 13:14-16
+- **Main Session**: OBS 50 (Jesus Returns)
+
+### Recite the Creedal Verse (3–5 minutes)
+
+The verse below summarizes the teaching of the current passage. Read the verse out loud as a community. Read it again several times as a group until the whole community can recite it from memory.
+
+> 27 Just as man is appointed to die once, and after that comes judgment, 28 so also, Christ was offered once to take away the sins of many, and will appear a second time, not to deal with sin, but for the salvation of those who are waiting for him Hebrews 9:27-28
+
+OR
+
+> 4 When Christ appears, who is your life, then you will also appear with him in glory Colossians 3:4
+
+### Think about the Future (5 minutes)
+
+Think about the future return of Jesus. What are you most excited about when you think of Jesus returning to earth?
+
+> When I think about the return of Jesus, these are the things that give me great excitement and hope…
+
+### Read the Passage (3–5 minutes)
+
+Christian community becomes strong as it expresses praise to God. Christians worship God because of what he has done in the past, what God is doing in the present, and what God will do in the future. Read the passage below to learn about the important practice of worship and praise.
+
+> 4 For we do not have any permanent city here. Instead, we are looking for one that is to come. 15 Through him, then, let us always offer up sacrifices of praise to God, praise that is the fruit of lips that acknowledge his name. 16 Let us not forget doing good and helping one another, for it is with such sacrifices that God is very pleased. Hebrews 13:14-16
+
+### Discuss the Passage (10-15 minutes)
+
+There are many reasons to praise God. Worshiping God is an important part of the heath of a believing community. As a community, use the following questions to discuss the teaching of the biblical passage.
+
+1.  What does this passage teach us about praising God? How is praise viewed as a sacrifice to God and a service to others?
+2.  What motivates Christians to praise God? How does this passage help explain the motivation for praise?
+3.  What negative things might happen to your community if you do not practice worship and praise?
+4.  How can your community develop a healthy practice of praise to God and service to others?
+
+### Express Gratitude (5 minutes)
+
+Think about the past months together as a community. Identify the reasons you have to praise God. Also, identify the moments you have served one another. Share these together as a community.
+
+> We can praise God for these reasons…
+
+> These are the moments we served one another…
+
+### Pray to God (5 minutes)
+
+Spend time by yourself praying to God and praising him for the past months together. Then, gather as a whole group and offer the statements of praise in the above activity as you pray to God.
+
+### Sing a Song (3–5 minutes)
+
+Sing a song of praise to God. Sing of his goodness, grace, and mercy over your ministry and community.
+
+<!-- page break -->
 
 ## Biblical Interpretation: Observing the Details of the Story
 
