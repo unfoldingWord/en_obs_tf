@@ -47,7 +47,7 @@ God calls us to belong to his **church**: to experience a loving Christian commu
 5.  **Bible Translation as Community-Owned**: How should/might the work of Bible translation serve your church/network? How should/might you involve the whole church in the work of Bible translation? *Tell us how you would envision the work of Bible translation including and impacting the church.*
 6.  **Partnership and Prayer**: How can we pray for your church and its leaders? How can we partner with your church and support your leaders? *Tell us ways we can pray for and partner with your church network and its key leaders.*
 
-## Formation: Engaging God’s Word for Transformation/Maturity
+## Formation: Engaging God’s Word for Transformation
 
 - **Key Question**: How are Christians and churches in your context maturing in the faith? How do you measure Christian maturity? *Tell us your current approach(es) to maturing disciples.*
 - **Foundational Passages**: Hebrews 5:11-6:1; 2 Peter 3:14-18
