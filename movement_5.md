@@ -16,17 +16,17 @@
 #### Checking Approach
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive for any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 
 **Discussion Group:** Develop key questions to ask about the passage (both formational and translational). Read the passage and have a group discussion about the passage, paying attention to issues that need to be addressed, edited, and revised.
 
 #### Record Feedback
-*After sharing your draft with language community, discuss the **Observations Questions**, and record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After sharing your draft with the language community, discuss the **Observations Questions**, and record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 *Update your translation decisions and record and new any noteworthy observations on the quality of your draft.
@@ -52,7 +52,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive for any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 
@@ -60,11 +60,11 @@ After witnessing this story to unbelievers, use one of the following methods to 
 
 #### Record Feedback
 
-*After sharing your draft with language community, discuss the **Observations Questions**, and record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After sharing your draft with the language community, discuss the **Observations Questions**, and record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 

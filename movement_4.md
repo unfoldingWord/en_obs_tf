@@ -14,7 +14,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 After teaching or ministering this story to the church, check the translation quality with the church community. Record any feedback from your checking experience.
 
 #### Create Checking Questions
-You can use **Translation Questions** to check you draft. Each **Translation Question** explains the meaning of a specific part of the story and asks you to consider how you would translate that part of the story in your own language. Change each **Translation Question** into a **Checking Question** by asking the following questions. The first question asks you to identity how each specific phrase was translated in your language. The second question asks people in the church to determine if your translation of the phrase expresses the meaning clearly, accurately, and naturally. Look at the following examples to see how to change **Translation Questions** into **Checking Questions**:  
+You can use **Translation Questions** to check your draft. Each **Translation Question** explains the meaning of a specific part of the story and asks you to consider how you would translate that part of the story in your own language. Change each **Translation Question** into a **Checking Question** by asking the following questions. The first question asks you to identify how each specific phrase was translated into your language. The second question asks people in the church to determine if your translation of the phrase expresses the meaning clearly, accurately, and naturally. Look at the following examples to see how to change **Translation Questions** into **Checking Questions**:  
 
 #### Translation Question Example 1
 **to proclaim the good news about Jesus** Paul and Silas traveled to Philippi for the purpose of preaching the gospel. The gospel is the good news that Jesus saves people from their sins if they will believe in Jesus. How would you express **to proclaim the good news about Jesus** to mean to tell other people the message about how Jesus can save people from their sins?
@@ -37,13 +37,13 @@ You can change these into **Checking Questions** like this:
 **so Paul and Silas baptized them** How did you translate **so Paul and Silas baptized them**? Does it mean the result of the jailer and his family believing in Jesus that Paul and Silas baptized all of them?
 
 #### Record Feedback
-*Discuss the **Checking Questions** with your church community, and record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*Discuss the **Checking Questions** with your church community, and record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
-*Update your translation decisions and record and new any noteworthy observations on the quality of your draft.
+*Update your translation decisions and record any new and noteworthy observations on the quality of your draft.
 ## Ministry Practice: Serving the Church with the Story
 
 Now that you have a draft of this story, consider how this story can encourage other believers in their faith. After ministering this story to others, you will also perform a community check of your translation draft.
@@ -64,7 +64,7 @@ After teaching or ministering this story to the church, check the translation qu
 
 #### Create Checking Questions
 
-You can use **Translation Questions** to check you draft. Each **Translation Question** explains the meaning of a specific part of the story and asks you to consider how you would translate that part of the story in your own language. Change each **Translation Question** into a **Checking Question** by asking the following questions. The first question asks you to identity how each specific phrase was translated in your language. The second question asks people in the church to determine if your translation of the phrase expresses the meaning clearly, accurately, and naturally. Look at the following examples to see how to change **Translation Questions** into **Checking Questions**:
+You can use **Translation Questions** to check your draft. Each **Translation Question** explains the meaning of a specific part of the story and asks you to consider how you would translate that part of the story in your own language. Change each **Translation Question** into a **Checking Question** by asking the following questions. The first question asks you to identify how each specific phrase was translated into your language. The second question asks people in the church to determine if your translation of the phrase expresses the meaning clearly, accurately, and naturally. Look at the following examples to see how to change **Translation Questions** into **Checking Questions**:
 
 #### Translation Question Example 1
 
@@ -94,12 +94,12 @@ You can change these into **Checking Questions** like this:
 
 #### Record Feedback
 
-*Discuss the **Checking Questions** with your church community, and record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*Discuss the **Checking Questions** with your church community, and record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
-\*Update your translation decisions and record and new any noteworthy observations on the quality of your draft.
+\*Update your translation decisions and record any new and noteworthy observations on the quality of your draft.

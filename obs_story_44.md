@@ -476,17 +476,17 @@ How can you know the quality of your translation?
 Use the following example sentences to help explain your translation decisions:
 
 1.  The original text literally **says/means**, so we translated the term in this way…
-2.  We originally decided to translate **the biblical term** in with **this term**, but we changed it because…
+2.  We originally decided to translate **the biblical term** with **this term**, but we changed it because…
 3.  When our translation team discussed **the biblical term**, this is what we talked about…
 4.  **The term** is \[clear, accurate, natural, consistent\] because…
-5.  The community understands **this term** it to mean…
+5.  The community understands **this term** to mean…
 6.  We considered these other terms. We did not use **these terms** because…
 7.  When we checked this in the church, we learned…
 8.  When we checked this in the community, we learned…
 
 **Example of Translation Decision**
 
-In OBS 01-07 we decided to translate **blessed** like this: \[actual translation\]. We decided this translation because of these reasons:
+In OBS 01-07 we decided to translate **blessed** like this: \[actual translation\]. We decided on this translation because of these reasons:
 
 1.  The word \[actual translation\] means to cause good things to happen to someone or something. This term is used when a person desires someone or something to prosper or flourish. This term does not refer to magic or witchcraft.
 2.  When we checked this word with other believers, they said it describes God showing his kindness and favor on someone or something. These are some of the terms that we did not decide to use…
@@ -514,7 +514,7 @@ After teaching or ministering this story to the church, check the translation qu
 
 #### Create Checking Questions
 
-You can use **Translation Questions** to check you draft. Each **Translation Question** explains the meaning of a specific part of the story and asks you to consider how you would translate that part of the story in your own language. Change each **Translation Question** into a **Checking Question** by asking the following questions. The first question asks you to identity how each specific phrase was translated in your language. The second question asks people in the church to determine if your translation of the phrase expresses the meaning clearly, accurately, and naturally. Look at the following examples to see how to change **Translation Questions** into **Checking Questions**:
+You can use **Translation Questions** to check your draft. Each **Translation Question** explains the meaning of a specific part of the story and asks you to consider how you would translate that part of the story in your own language. Change each **Translation Question** into a **Checking Question** by asking the following questions. The first question asks you to identify how each specific phrase was translated into your language. The second question asks people in the church to determine if your translation of the phrase expresses the meaning clearly, accurately, and naturally. Look at the following examples to see how to change **Translation Questions** into **Checking Questions**:
 
 #### Translation Question Example 1
 
@@ -544,15 +544,15 @@ You can change these into **Checking Questions** like this:
 
 #### Record Feedback
 
-*Discuss the **Checking Questions** with your church community, and record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*Discuss the **Checking Questions** with your church community, and record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
-\*Update your translation decisions and record and new any noteworthy observations on the quality of your draft.
+\*Update your translation decisions and record any new and noteworthy observations on the quality of your draft.
 
 <!-- page break -->
 
@@ -578,7 +578,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive for any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 
@@ -586,11 +586,11 @@ After witnessing this story to unbelievers, use one of the following methods to 
 
 #### Record Feedback
 
-*After sharing your draft with language community, discuss the **Observations Questions**, and record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After sharing your draft with the language community, discuss the **Observations Questions**, and record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
