@@ -4,8 +4,60 @@
     <meta charset="utf-8">
     <title>{{ page.subtitle }}</title>
   </head>
+  <style>
 
+    .mtb-content-wrapper {
+        color: black;
+        font-family: kepler-std;
+        font-size: 16px;
+        font-weight: 300;
+        letter-spacing: .8px;
+        line-height: 1.6;
+        padding-left: 200px;
+        padding-right: 200px;
+    }
+
+    .mtb-content-wrapper h1 {
+        color: black;
+        text-align: center;
+        font-family: kepler-std;
+        letter-spacing: 1px;
+        font-size: 30px;
+        font-weight: 800;
+    }
+
+    .mtb-content-wrapper h2 {
+        color: #F48847;
+        font-family: kepler-std;
+        letter-spacing: .8px;
+        font-size: 22px;
+        text-decoration: underline;
+        font-weight: 600;
+    }
+
+    .mtb-content-wrapper ol,
+    .mtb-content-wrapper ul {
+        color: black;
+        font-family: kepler-std;
+     }
+
+     #footer-text {
+        color: black;
+        font-family: kepler-std;
+        font-weight: 200;
+        letter-spacing: .8px;
+        line-height: 1.6;
+     }
+
+     #siteWrapper {
+        display: flex;
+        flex-direction: column;
+        min-height: 0vh;
+    }
+
+</style>
   <body>
+    <div id="mission-translation-brief-container" class="mtb-content-wrapper">
     <div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1684861113024_8838">
       <div class="sqs-block-content">
 
@@ -22,6 +74,7 @@
       <a href="./exports/odt/obs_story_{{page.story_num}}.odt" download="obs_story_{{page.story_num}}.odt">obs_story_{{page.story_num}}.odt</a>
       <a href="./exports/pdf/obs_story_{{page.story_num}}.pdf" download="obs_story_{{page.story_num}}.pdf">obs_story_{{page.story_num}}.pdf</a>
       {{ content }}
+    </div>
   </body>
 
 </html>
