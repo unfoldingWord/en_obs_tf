@@ -47,7 +47,7 @@ God calls us to belong to his **church**: to experience a loving Christian commu
 5.  **Bible Translation as Community-Owned**: How should/might the work of Bible translation serve your church/network? How should/might you involve the whole church in the work of Bible translation? *Tell us how you would envision the work of Bible translation including and impacting the church.*
 6.  **Partnership and Prayer**: How can we pray for your church and its leaders? How can we partner with your church and support your leaders? *Tell us ways we can pray for and partner with your church network and its key leaders.*
 
-## Formation: Engaging God’s Word for Transformation
+## Formation: Engaging God’s Word for Transformation/Maturity
 
 - **Key Question**: How are Christians and churches in your context maturing in the faith? How do you measure Christian maturity? *Tell us your current approach(es) to maturing disciples.*
 - **Foundational Passages**: Hebrews 5:11-6:1; 2 Peter 3:14-18
@@ -83,7 +83,7 @@ God calls us to rightly use his **Word**: to faithfully study and share his Word
 3.  **Biblical Translation**: How do you understand what the Bible teaches about itself? How should this understanding of the Bible impact your approach to Bible translation? *Tell us how you understand the nature of the Bible and the impact of that understanding on the work of Bible translation.*
 4.  **Translation Strategy**: What is your plan/strategy to produce quality Bible translations among the people God has called you to reach? How will you ensure that these translations and biblical resources are quality assured (that is, trusted and trustworthy)? What resources are most needed in your language in order to reach all of the people God has called you to reach? What will your approach be to the licensing and copyright of your Bible translation(s) and biblical resources? *Tell us about your plans for the work of Bible translation and the creation of biblical resources.*
 5.  **Bible Translation as Church-Centric** How should/might you translate the Scriptures in a mission-focused, community-owned, and theologically formative way? *Tell us your strategic plan to make Bible translation church-centric.*
-6.  **Partnership and Prayer**: How can we pray for your work of Bible translation? How can we support and help you in your Bible translation efforts? \*Tell us ways we can pray for and partner with you in the work of Bible translation and the creation of biblical resources in a way that will mature the church.
+6.  **Partnership and Prayer**: How can we pray for your work of Bible translation? How can we support and help you in your Bible translation efforts? *Tell us ways we can pray for and partner with you in the work of Bible translation and the creation of biblical resources in a way that will mature the church.*
 
 ## Summary of Mission-Translation Brief
 
