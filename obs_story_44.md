@@ -8,7 +8,7 @@ story_num: 44
 
 ### Key Idea
 
-The story of Peter and John healing a beggar teaches us God can use miraculous healings/events to give an opportunity to preach the good news about Jesus.
+The story of Peter and John healing a beggar teaches us God can use miraculous healings/events to provide an opportunity to preach the good news about Jesus.
 
 ### Creedal Verse
 
@@ -24,37 +24,37 @@ God set to restore his world through his promise.
 God made a covenant with Abraham. He promised to bless all nations through Abraham.
 God kept his promises across the generations.
 God provided Abraham with a promised child, Isaac.
-God gave Isaac a wife and she bore twins, Jacob and Esau.
+God gave Isaac a wife, and she bore twins Jacob and Esau.
 God blessed Jacob and his sons, and the blessing continued to the next generation.
 God rescued Joseph, one of Jacob’s sons, and used him to rescue his family.
 God caused his people, the Israelites, to multiply in the land of Egypt; eventually, they became slaves.
-But, God raised up a deliverer, Moses, to deliver his people from their slavery.
-God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people who covered their doorposts with the blood of a sacrificed lamb.
+But God raised up a deliverer, Moses, to deliver his people from slavery.
+God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people, who covered their doorposts with the blood of a sacrificed lamb.
 Then, God delivered the Israelites by bringing them out of Egypt and crossing the Red Sea on dry land.
 God made a covenant with the Israelites and made them his people.
 God tested Israel in a series of wilderness wanderings and
 eventually brought his people into the promised land of Canaan.
 God raised up deliverers to lead Israel and rescue them from their enemies.
 God formed Israel into a kingdom. He made a covenant with King David and promised to send a king that would rule his people forever.
-Many of Israel’s kings were evil and the kingdom of Israel divided into two kingdoms.
+Many of Israel’s kings were evil, and the kingdom of Israel was divided into two kingdoms.
 God sent prophets to warn his people of God’s judgment and call them to repent.
 When Israel did not repent, God sent his people into exile. After many years, he brought them back to the land.
-Throughout the Old Testament, God promised to send his Messiah to deliver his people form their sin.
+Throughout the Old Testament, God promised to send his Messiah to deliver his people from their sin.
 After many years, the prophet John was born. He would prepare people for the coming Messiah.
 At the perfect time, God sent his Son, Jesus, to be born of a virgin Mary.
 When John and Jesus grew up, John baptized Jesus as a sign that Jesus was God’s beloved Son.
 Jesus endured all manner of temptation without ever sinning.
 When he was thirty years old, he launched a public ministry of preaching, teaching, and healing.
 He taught his disciples about the life of compassion, sacrifice, and forgiveness.
-He performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
-He proclaimed to people the nature of real faith, God’s kingdom, and the how fallen humans can be restored in relationship with God.
-Toward the end of his ministry, Jesus revealed his power and glory to his disciples
-and raised a dead man to life
-Jesus was betrayed by one of his disciples and put on trial before a Roman governor
+Jesus performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
+He proclaimed to people the nature of real faith, God’s kingdom, and how fallen humans can be restored in relationship with God.
+Toward the end of his ministry, Jesus revealed his power and glory to his disciples.
+He raised a dead man to life.
+Jesus was betrayed by one of his disciples and put on trial before a Roman governor.
 Jesus was sentenced to death and crucified on a cross
 Three days later, Jesus rose again from the dead.
 After meeting with many of his disciples, Jesus went back to heaven.
-The Holy Spirit empowered Jesus’ followers and formed them into his church
+The Holy Spirit empowered Jesus’ followers and formed them into his church.
 Jesus’ disciples, like Peter and John, performed miracles and preached the good news about Jesus.
 
 <!-- page break -->
@@ -77,13 +77,13 @@ Peter looked at the lame man and said, “I do not have any money to give you. B
 
 ![](.\assets\images\image507.jpeg)
 
-Immediately, God healed the lame man. He began to walk and jump around, and to praise God. The people in the courtyard of the Temple were amazed.
+Immediately, God healed the lame man. He began to walk and jump around and to praise God. The people in the courtyard of the Temple were amazed.
 
 ##### 44-04
 
 ![](.\assets\images\image508.jpeg)
 
-A crowd of people quickly came to see the man who was healed. Peter said to them, “This man is well, but do not be amazed at this. We did not heal him with our own power,or because we honor God. Rather, it is Jesus who healed this man with his power, because we believe in Jesus.”
+A crowd of people quickly came to see the man who was healed. Peter said to them, “This man is well, but do not be amazed at this. We did not heal him with our own power,or because we honor God. Rather, it is Jesus who healed this man with his power because we believe in Jesus.”
 
 ##### 44-05
 
@@ -95,7 +95,7 @@ A crowd of people quickly came to see the man who was healed. Peter said to them
 
 ![](.\assets\images\image510.jpeg)
 
-When the leaders of the Temple heard Peter and John, they were very upset. So they arrested them and put them into prison. But many people believed what Peter said. The number of men who believed in Jesus grew to about 5,000.
+When the leaders of the Temple heard Peter and John, they were very upset. So they arrested them and put them in prison. But many people believed what Peter said. The number of men who believed in Jesus grew to about 5,000.
 
 ##### 44-07
 
@@ -113,7 +113,7 @@ Peter answered them, “This man standing before you has been healed by the powe
 
 ![](.\assets\images\image513.jpeg)
 
-The leaders were shocked that Peter and John spoke so boldly. They saw that these men were ordinary men who were uneducated. But then they remembered that these men had been with Jesus. So they said to them, “We will punish you very much if you give any more messages to the people about this man Jesus.” After saying many things like this, they let Peter and John go.
+The leaders were shocked that Peter and John spoke so boldly. They saw that these men were uneducated and ordinary men. But then they remembered that these men had been with Jesus. So they said to them, “We will punish you very much if you give any more messages to the people about this man Jesus.” After saying many things like this, they let Peter and John go.
 
 *A Bible story from: Acts 3-4:22*
 
@@ -180,7 +180,7 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 44-01
 
@@ -214,8 +214,8 @@ The people in the Temple courtyard were amazed.
 Who gathered around the man who was healed?  
 A crowd of people quickly gathered to see the man who was healed.
 
-What did Peter tell the crowd about the role Peter and John had in the healing?  
-Peter told the crowd to not be amazed at the healing and not to think that Peter and John healed the man in their own power or godliness.
+What did Peter tell the crowd about Peter and John’s role in the healing?  
+Peter told the crowd not to be amazed at the healing and not to think that Peter and John healed the man in their own power or godliness.
 
 What did Peter say caused the crippled man to be healed?  
 He said Jesus healed the man with his power because Peter and John believed in Jesus.
@@ -229,18 +229,18 @@ What did God do to Jesus after Jesus was killed?
 The people were responsible for killing Jesus, the giver of life, but God brought Jesus back to life.
 
 Did the people understand what they were doing?  
-Peter told the people that they did not really understand what they were doing but the prophets predicted that these things would come true.
+Peter told the people that they did not really understand what they were doing, but the prophets predicted that these things would come true.
 
 What prophecies did the people fulfill when they killed Jesus?  
 The prophets said that the Messiah would suffer and die.
 
 What did Peter tell the people that they should do?  
-They should repent and turn to God, so that he would wash away their sins.
+They should repent and turn to God so that he would wash away their sins.
 
 #### 44-06
 
 How did the leaders of the Temple react to Peter’s message?  
-The leaders of the Temple were very upset, they arrested Peter and John, and put them in prison.
+The leaders of the Temple were very upset. They arrested Peter and John and put them in prison.
 
 How many men believed in Jesus as a result of Peter’s message?  
 Many people believed Peter’s message; about 5,000 men believed.
@@ -279,7 +279,7 @@ What helped the leaders to understand how ordinary, uneducated people could prea
 The leaders remembered that Peter and John had been with Jesus.
 
 What did the Jewish leaders finally decide to do with Peter and John?  
-They threatened to punish them if the continued to preach this message and then let them go.
+They threatened to punish them if they continued to preach this message and then let them go.
 
 ### Translation Questions
 
@@ -289,9 +289,9 @@ Use the following translation questions to understand specific details of the pa
 
 **One day** This story took place on a certain day that is not specified. The events of this story actually happened. How would you express **One day** to mean the events of this story are true and took place on an unspecified day?
 
-**Peter and John went to the Temple** Peter and John went to the Jewish place of worship called the Temple. The Temple was a holy place were sacrifices were offered and religious activities took place. Peter and John did not go into the Temple building where only the priests were allowed. They went to the outer area of the Temple where they were permitted to go. How would you express **Peter and John went to the Temple** to mean Peter and John went to the Temple courtyard?
+**Peter and John went to the Temple** Peter and John went to the Jewish place of worship called the Temple. The Temple was a holy place where sacrifices were offered, and religious activities took place. Peter and John did not go into the Temple building, where only the priests were allowed. They went to the outer area of the Temple, where they were permitted to go. How would you express **Peter and John went to the Temple** to mean Peter and John went to the Temple courtyard?
 
-**A crippled man** There was a man at the gate begging for money who did not have full use of his legs, and could not stand or walk. How would you express **A crippled man** to mean a lame man who cannot stand or walk?
+**A crippled man** There was a man at the gate begging for money who did not have full use of his legs and could not stand or walk. How would you express **A crippled man** to mean a lame man who cannot stand or walk?
 
 #### 44-02
 
@@ -313,7 +313,7 @@ Use the following translation questions to understand specific details of the pa
 
 **We did not heal him with our own power** Peter and John acknowledge that they healed the lame man, but this was not something they did in their own power. How would you express **We did not heal him with our own power** to mean Peter and John did not use their own ability or strength to cause the lame man to walk again?
 
-**Jesus who healed this man with his power, because we believe in Jesus** Peter and John say that Jesus is responsible for healing the man. It was Jesus’ ability that allowed this man to have full use of this legs. The reason Jesus healed this man was the faith of Peter and John. How would you express **Jesus who healed this man with his power, because we believe in Jesus** to mean the reason Jesus restored the ability of the lame to walk was Peter and John trusted in Jesus?
+**Jesus who healed this man with his power, because we believe in Jesus** Peter and John say that Jesus is responsible for healing the man. It was Jesus’ ability that allowed this man to have full use of his legs. The reason Jesus healed this man was the faith of Peter and John. How would you express **Jesus who healed this man with his power, because we believe in Jesus** to mean the reason Jesus restored the ability of the lame to walk was Peter and John trusted in Jesus?
 
 #### 44-05
 
@@ -325,7 +325,7 @@ Use the following translation questions to understand specific details of the pa
 
 **So they arrested them and put them into prison** The religious leaders were upset at what was said. As a result, they arrested and imprisoned Peter and John. How would you express **So they arrested them and put them into prison** to mean the result of the leaders being upset was to arrest and imprison Peter and John?
 
-**But many people believed what Peter said** The religious leaders were upset at what Peter and John said. They arrested and imprisoned them. Other people had a different/opposite response. Many people believed what Peter said. In fact, 5000 men believed! How would you express **But many people believed what Peter said** to mean many people responded to Peter’s speech by believing what he preached and this was different/opposite to how the religious leaders responded by arresting and imprisoning Peter and John?
+**But many people believed what Peter said** The religious leaders were upset at what Peter and John said. They arrested and imprisoned them. Other people had a different/opposite response. Many people believed what Peter said. In fact, 5000 men believed! How would you express **But many people believed what Peter said** to mean many people responded to Peter’s speech by believing what he preached? This was different/opposite to how the religious leaders responded by arresting and imprisoning Peter and John.
 
 #### 44-07
 
@@ -337,17 +337,17 @@ Use the following translation questions to understand specific details of the pa
 
 **You rejected him** Peter rebukes the religious leaders. He said that they refused to accept Jesus. How would you express **You rejected him** as a strong statement that rebukes the religious leaders for refusing to believe that Jesus is the Savior?
 
-**but there is no other way to be saved** The leaders rejected Christ, so you would expect that he was not a person worth anything. However, he is actually the only one with the power to save people. How would you express **but there is no other way to be saved** to mean Jesus is the only one who can save people from their sins and people should accept and believe in him and not reject him like the religious leaders did?
+**but there is no other way to be saved** The leaders rejected Christ, so you would expect that he was not a person worth anything. However, he is actually the only one with the power to save people. How would you express **but there is no other way to be saved** to mean Jesus is the only one who can save people from their sins, and people should accept and believe in him and not reject him like the religious leaders did?
 
-**there is no other way to be saved except through the power of Jesus** Peter explained that only Jesus can save people his power. How would express **there is no other way to be saved except through the power of Jesus** to mean the only way to be saved from our sins is through the power of Jesus?
+**there is no other way to be saved except through the power of Jesus** Peter explained that only Jesus can save people his power. How would you express **there is no other way to be saved except through the power of Jesus** to mean the only way to be saved from our sins is through the power of Jesus?
 
 #### 44-09
 
-**were shocked** The religious leaders were very surprised that Peter and John spoke so courageously. They did not expect this from men who were not formally educated. How would you express **were shocked** to mean the leaders were amazed about uneducated men like Peter and John spoke so boldly?
+**were shocked** The religious leaders were very surprised that Peter and John spoke so courageously. They did not expect this from men who were not formally educated. How would you express **were shocked** to mean the leaders were amazed about uneducated men like Peter and John speaking so boldly?
 
-**ordinary men who were uneducated** Peter and John were not formally educated and did not go to religious school. This made them common, lower-class men in the eyes of the religious leaders. These two phrases have similar meanings and emphasize that Peter and John were not a part of the religious elite. How would you express **ordinary men who were uneducated** to emphasize that Peter and John had received no formal training in Jewish law.
+**ordinary men who were uneducated** Peter and John were not formally educated and did not go to a religious school. This made them common, lower-class men in the eyes of the religious leaders. These two phrases have similar meanings and emphasize that Peter and John were not a part of the religious elite. How would you express **ordinary men who were uneducated** to emphasize that Peter and John had received no formal training in Jewish law.
 
-**then they remembered that these men had been with Jesus** The religious leaders thought about the fact that Peter and John had spent time with Jesus. They were Jesus’ disciples and Jesus taught them himself. How would you express **then they remembered that these men had been with Jesus** to mean religious leaders recalled the fact that Peter and John spent time with Jesus and were trained/taught by him?
+**then they remembered that these men had been with Jesus** The religious leaders thought about the fact that Peter and John had spent time with Jesus. They were Jesus’ disciples, and Jesus taught them himself. How would you express **then they remembered that these men had been with Jesus** to mean religious leaders recalled the fact that Peter and John spent time with Jesus and were trained/taught by him?
 
 **After saying many things like this, they let Peter and John go** The religious leaders threatened to punish Peter and John if they continued to preach. Then, they released Peter and John and let them go free. How would you express **After saying many things like this, they let Peter and John go** to mean the religious leaders allowed Peter and John to leave subsequent to threatening them?
 
@@ -355,7 +355,7 @@ Use the following translation questions to understand specific details of the pa
 
 ## Theological Dialogue: Discussing the Meaning of the Story
 
-Take time to explore the meaning of this story together as a community. Use the following discussions as a way to grasp what truth the story teaches.
+Take time to explore the meaning of this story together as a community. Use the following discussions to grasp the truth the story teaches.
 
 ### Discourse Questions
 
@@ -381,13 +381,13 @@ Amazement of People: His healing also caused people to be amazed. A group of peo
 
 God’s Power: Peter told the people that God healed the man. Peter and John did not heal the crippled man in their own power. Rather, the man was healed by the power and strength of Jesus. When the religious leaders asked who gave Peter and John power to heal the crippled man, they said that he was healed by the power of Jesus. The healing of the crippled man showed God’s power. (44-04, 44-07, 44-08)
 
-Gospel Proclamation: Peter preached the gospel to the people. He told them that they were guilty for killing Jesus and did not really understand what they were doing. Peter explained that Jesus’ suffering and death was predicted by the prophets. This was God’s plan to save people from sin. Peter also announced that Jesus rose again from the dead. Peter commanded the people to repent from their sin and turn to God. If they did so, God would forgive their sins. When Peter spoke in front of the religious leaders, he also told them that they were responsible for killing Jesus, but God raised Jesus to life again. He told them that the only way to be saved is through the power of Jesus. The healing of the crippled man provided an opportunity to share the gospel with others. (44-05, 44-08)
+Gospel Proclamation: Peter preached the gospel to the people. He told them they were guilty of killing Jesus and did not understand what they were doing. Peter explained that the prophets predicted Jesus’ suffering and death. This was God’s plan to save people from sin. Peter also announced that Jesus rose again from the dead. Peter commanded the people to repent from their sin and turn to God. If they did so, God would forgive their sins. When Peter spoke in front of the religious leaders, he also told them they were responsible for killing Jesus, but God raised Jesus to life again. He told them that the only way to be saved is through the power of Jesus. The healing of the crippled man provided an opportunity to share the gospel with others. (44-05, 44-08)
 
 Many Conversions: The religious leaders arrested and imprisoned Jesus, but many people came to faith in Christ. The number of believing men was 5,000. The healing of the crippled man was used to bring many people to Christ Peter preached the gospel. (44-06)
 
 Boldness: The religious leaders were shocked that Peter and John spoke so boldly. Even though they were common, low-status, and not formally trained, they spoke with great courage and skill. They realized that Peter and John were Jesus’ disciples. Jesus spent time with them and taught them. The healing of the crippled man showed the power of being Jesus’ disciple. (44-09)
 
-##### What kind of suffering Peter and John experienced? (44-06, 44-07, 44-08, 44-09)
+##### What kinds of suffering did Peter and John experience? (44-06, 44-07, 44-08, 44-09)
 
 Arrest and Imprisonment: The leaders of the Temple were very upset at Peter and John. They arrested them and put them in prison. Jesus’ disciples faced imprisonment as they ministered to others. (44-06)
 
@@ -402,7 +402,7 @@ Threat of Punishment: The religious leaders told Peter and John to stop preachin
 Answer the following theology questions as a community. Discuss what truths this story teaches.
 
 1.  How mighty is the power of Jesus? How does this story show the power of Jesus?
-2.  What role do miracles and healings have in God’s mission? What does this story teach us about the role miracles have in the advance of the gospel?
+2.  What role do miracles and healings have in God’s mission? What does this story teach us about the role miracles have in advancing the gospel?
 3.  How should believers expect to suffer for faithfully following Jesus and preaching the gospel? How does this story teach us about how disciples experience suffering as they serve Jesus?
 
 ### Translation Draft

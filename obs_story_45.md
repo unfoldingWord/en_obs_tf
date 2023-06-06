@@ -24,39 +24,39 @@ God set to restore his world through his promise.
 God made a covenant with Abraham. He promised to bless all nations through Abraham.
 God kept his promises across the generations.
 God provided Abraham with a promised child, Isaac.
-God gave Isaac a wife and she bore twins, Jacob and Esau.
+God gave Isaac a wife, and she bore twins, Jacob and Esau.
 God blessed Jacob and his sons, and the blessing continued to the next generation.
 God rescued Joseph, one of Jacob’s sons, and used him to rescue his family.
 God caused his people, the Israelites, to multiply in the land of Egypt; eventually, they became slaves.
-But, God raised up a deliverer, Moses, to deliver his people from their slavery.
-God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people who covered their doorposts with the blood of a sacrificed lamb.
+But God raised up a deliverer, Moses, to deliver his people from slavery.
+God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people, who covered their doorposts with the blood of a sacrificed lamb.
 Then, God delivered the Israelites by bringing them out of Egypt and crossing the Red Sea on dry land.
 God made a covenant with the Israelites and made them his people.
 God tested Israel in a series of wilderness wanderings and
 eventually brought his people into the promised land of Canaan.
 God raised up deliverers to lead Israel and rescue them from their enemies.
 God formed Israel into a kingdom. He made a covenant with King David and promised to send a king that would rule his people forever.
-Many of Israel’s kings were evil and the kingdom of Israel divided into two kingdoms.
+Many of Israel’s kings were evil, and the kingdom of Israel was divided into two kingdoms.
 God sent prophets to warn his people of God’s judgment and call them to repent.
 When Israel did not repent, God sent his people into exile. After many years, he brought them back to the land.
-Throughout the Old Testament, God promised to send his Messiah to deliver his people form their sin.
+Throughout the Old Testament, God promised to send his Messiah to deliver his people from their sin.
 After many years, the prophet John was born. He would prepare people for the coming Messiah.
 At the perfect time, God sent his Son, Jesus, to be born of a virgin Mary.
 When John and Jesus grew up, John baptized Jesus as a sign that Jesus was God’s beloved Son.
 Jesus endured all manner of temptation without ever sinning.
 When he was thirty years old, he launched a public ministry of preaching, teaching, and healing.
 He taught his disciples about the life of compassion, sacrifice, and forgiveness.
-He performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
-He proclaimed to people the nature of real faith, God’s kingdom, and the how fallen humans can be restored in relationship with God.
-Toward the end of his ministry, Jesus revealed his power and glory to his disciples
-and raised a dead man to life
-Jesus was betrayed by one of his disciples and put on trial before a Roman governor
+Jesus performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
+He proclaimed to people the nature of real faith, God’s kingdom, and how fallen humans can be restored in relationship with God.
+Toward the end of his ministry, Jesus revealed his power and glory to his disciples.
+He raised a dead man to life.
+Jesus was betrayed by one of his disciples and put on trial before a Roman governor.
 Jesus was sentenced to death and crucified on a cross
 Three days later, Jesus rose again from the dead.
 After meeting with many of his disciples, Jesus went back to heaven.
-The Holy Spirit empowered Jesus’ followers and formed them into his church
+The Holy Spirit empowered Jesus’ followers and formed them into his church.
 Jesus’ disciples, like Peter and John, performed miracles and preached the good news about Jesus.
-New leaders like Stephen and Philip served the church and preached about Jesus
+New leaders like Stephen and Philip served the church and preached about Jesus.
 
 <!-- page break -->
 
@@ -78,7 +78,7 @@ One day when Stephen was teaching about Jesus, some Jews who did not believe in 
 
 ![](.\assets\images\image516.jpeg)
 
-The high priest asked Stephen, “Are these men telling the truth about you?” Stephen began to say many things in order to answer the high priest. He said that God had done many wonderful things for the people of Israel,from the time when Abraham lived to the time of Jesus. But the people had always disobeyed God. Stephen said, “You people are stubborn and rebellious against God. You always reject the Holy Spirit, just as our ancestors always rejected God and always killed his prophets. But you did something worse than they did! You killed the Messiah!”
+The high priest asked Stephen, “Are these men telling the truth about you?” Stephen began to say many things in order to answer the high priest. He said that God had done many wonderful things for the people of Israel from the time when Abraham lived to the time of Jesus. But the people had always disobeyed God. Stephen said, “You people are stubborn and rebellious against God. You always reject the Holy Spirit, just as our ancestors always rejected God and always killed his prophets. But you did something worse than they did! You killed the Messiah!”
 
 ##### 45-04
 
@@ -102,7 +102,7 @@ That day many people in Jerusalem started persecuting the followers of Jesus, so
 
 ![](.\assets\images\image520.jpeg)
 
-There was a believer in Jesus named Philip. He fled from Jerusalem, as did most other believers. He went to the region of Samaria where he preached to people about Jesus. Many people believed him and were saved. One day, an angel came from God to Philip and told him to go into the wilderness, and to walk down a certain road. Philip went there. As he was walking on the road, he saw a man riding in his chariot. This man was an important official from the land of Ethiopia. The Holy Spirit told Philip to go and talk with this man.
+There was a believer in Jesus named Philip. He fled from Jerusalem, as did most other believers. He went to the region of Samaria, where he preached to people about Jesus. Many people believed him and were saved. One day, an angel came from God to Philip and told him to go into the wilderness, and to walk down a certain road. Philip went there. As he was walking on the road, he saw a man riding in his chariot. This man was an important official from the land of Ethiopia. The Holy Spirit told Philip to go and talk with this man.
 
 ##### 45-08
 
@@ -209,7 +209,7 @@ Answer the following observation questions to gain a basic understanding of the 
 
 #### 45-01
 
-What was the name the key Christian leader at the beginning of this story?  
+What was the name of the key Christian leader at the beginning of this story?  
 One of the leaders from the first followers of Jesus was named Stephen.
 
 What do we learn about Stephen?  
@@ -221,7 +221,7 @@ Many people believed him when he taught them to trust in Jesus.
 #### 45-02
 
 How did some of the Jews who did not believe in Jesus respond to Stephen’s teaching?  
-Some of the Jews that did not believe in Jesus argued with Stephen, they became angry, and told lies about Stephen to the religious leaders.
+Some of the Jews that did not believe in Jesus argued with Stephen. They became angry and told lies about Stephen to the religious leaders.
 
 What was the false charge that some Jews brought against Stephen?  
 They said they heard Stephen speak evil things about Moses and God.
@@ -241,7 +241,7 @@ How did Stephen respond to the high priest?
 Stephen said God did many wonderful things for the people of Israel, but the Israelites always disobeyed God.
 
 What did Stephen say about the people?  
-Stephen told the people that they were stubborn, rebellious, and always reject the Holy Spirit just as the Jewish ancestors did.
+Stephen told the people they were stubborn, rebellious, and always rejected the Holy Spirit, just as the Jewish ancestors did.
 
 What did Stephen say the people had done that was worse than their ancestors?  
 They killed the Messiah.
@@ -257,7 +257,7 @@ They dragged Stephen out of the city and threw stones at him in order to kill hi
 #### 45-05
 
 What did Stephen say as he was dying?  
-As Stephen was dying he said, “Jesus, receive my spirit.”
+As Stephen was dying, he said, “Jesus, receive my spirit.”
 
 What was the last thing Stephen said before he died?  
 The last thing he said was, “Master, do not hold this sin against them.”
@@ -271,7 +271,7 @@ What did the believers do when the persecution began in Jerusalem?
 They fled to other places and preached about Jesus wherever they went.
 
 Did the believers stop preaching about Jesus?  
-No. The believers continued to preach about Jesus everywhere they went even though they were persecuted.
+No. The believers continued to preach about Jesus everywhere they went, even though they were persecuted.
 
 #### 45-07
 
@@ -328,7 +328,7 @@ The Ethiopian asked if he could be baptized and told the driver to stop the char
 #### 45-12
 
 What did Philip and the Ethiopian do after the driver stopped the chariot?  
-Philip and the Ethiopian went down into the water and Philip baptized the Ethiopian.
+Philip and the Ethiopian went down into the water, and Philip baptized the Ethiopian.
 
 What happened to Philip after he baptized the Ethiopian official?  
 The Holy Spirit carried Philip away to another place.
@@ -349,13 +349,13 @@ Use the following translation questions to understand specific details of the pa
 
 **The Holy Spirit gave him much power and wisdom** The Holy Spirit enabled Stephen to do powerful things, such as miracles. Also, the Holy Spirit gave Stephen understanding and discernment. How would you express **The Holy Spirit gave him much power and wisdom** to mean the Holy Spirit gave Stephen the ability to do miracles and gave him understanding?
 
-**Many people believed him when he taught them to trust in Jesus** Stephen taught people about Jesus. During these times of teaching, many people believed his message about Jesus and they put their trust in Jesus. How would you express **Many people believed him when he taught them to trust in Jesus** to mean many people trusted Jesus as a result of Stephen’s teaching?
+**Many people believed him when he taught them to trust in Jesus** Stephen taught people about Jesus. During these times of teaching, many people believed his message about Jesus, and they put their trust in Jesus. How would you express **Many people believed him when he taught them to trust in Jesus** to mean many people trusted Jesus as a result of Stephen’s teaching?
 
 #### 45-02
 
 **so they went to the religious leaders and told lies about him** Some Jews argued with Stephen and became very angry with Stephen and what he was teaching. The result of their anger was to say things that were not true about Stephen. How would you express **so they went to the religious leaders and told lies about him** to mean the result of the Jews becoming angry with Stephen was they said false things about him to the religious leaders?
 
-**We heard Stephen speak evil things about Moses and God!** The Jews who were angry with Stephen told the religious leaders that Stephen said wicked things about Moses and God. This was not true. Stephen did not say these things. The Jews gave this false report to try to harm Stephen The Jews expressed how angry they were with Stephen, and to try to make the other people angry with him as well. How would you express **We heard Stephen speak evil things about Moses and God!** as a strong statement that accused Stephen of saying disrespectful and wicked things about Moses and God?
+**We heard Stephen speak evil things about Moses and God!** The Jews who were angry with Stephen told the religious leaders that Stephen said wicked things about Moses and God. This was not true. Stephen did not say these things. The Jews gave this false report to try to harm Stephen. The Jews expressed how angry they were with Stephen and tried to make the other people angry with him as well. How would you express **We heard Stephen speak evil things about Moses and God!** as a strong statement that accused Stephen of saying disrespectful and wicked things about Moses and God?
 
 #### 45-03
 
@@ -363,25 +363,25 @@ Use the following translation questions to understand specific details of the pa
 
 **just as our ancestors always rejected God and always killed his prophets** Stephen said that the people accusing him were behaving just like the Jewish people who lived a long time ago. The Jews who lived a long time ago turned away from God and murdered God’s messengers. Stephen’s accusers were acting in a similar way by continually refusing to listen to the Holy Spirit. How would you express **just as our ancestors always rejected God and always killed his prophets** to mean Stephen’s accusers were acting in the same way the Jews did who lived a long time ago when they continually refused to listen to God and continually murdered his messengers?
 
-**But you did something worse than they did!** You killed the Messiah! Stephen made a strong statement to accuse the Jews of murdering the Messiah whom God had sent to them. The act of murdering the Messiah was far worse than what the Jews did who lived a long time ago. How would you express **But you did something worse than they did!** You killed the Messiah! as strong statements that accuse the people of doing something more evil than the ancient Israelites when they crucified the Messiah?
+**But you did something worse than they did!** You killed the Messiah! Stephen made a strong statement to accuse the Jews of murdering the Messiah God had sent them. The act of murdering the Messiah was far worse than what the Jews did, who lived long ago. How would you express **But you did something worse than they did!** You killed the Messiah! as strong statements that accuse the people of doing something more evil than the ancient Israelites when they crucified the Messiah?
 
 #### 45-04
 
-**covered their ears** The religious leaders were very angry at Stephen’s rebuke. They placed their hands over their ears as a symbolic action to show that they did not want to hear what Stephen said. How would you express **covered their ears** to mean they put their hands over their ears to show that they disliked what Stephen said and did not want to hear it any more?
+**covered their ears** The religious leaders were very angry at Stephen’s rebuke. They placed their hands over their ears as a symbolic action to show that they did not want to hear what Stephen said. How would you express **covered their ears** to mean they put their hands over their ears to show that they disliked what Stephen said and did not want to hear it anymore?
 
 **yelled loudly** The religious leaders made very loud sounds with their voices. They were very upset and shouted in anger. How would you express **yelled loudly** to mean the religious leaders were very angry and made very loud sounds with their voices to show their anger?
 
-**They dragged Stephen out of the city** The people used force to take Stephen outside the main part of the city. How would you express **They dragged Stephen out of the city** to mean forcefully brought Stephen outside the city against his will?
+**They dragged Stephen out of the city** The people used force to take Stephen outside the main part of the city. How would you express **They dragged Stephen out of the city** to mean forcefully bringing Stephen outside the city against his will?
 
 #### 45-05
 
-**As Stephen was dying, he cried out** The people were throwing stones at Stephen to kill him. Stephen was almost dead. At this point in time, Stephen spoke very loudly. How would you express **As Stephen was dying, he cried out** to mean just before Stephen died he called out in a loud voice?
+**As Stephen was dying, he cried out** The people were throwing stones at Stephen to kill him. Stephen was almost dead. At this point in time, Stephen spoke very loudly. How would you express **As Stephen was dying, he cried out** to mean just before Stephen died, he called out in a loud voice?
 
-**Jesus, receive my spirit** Stephen was almost dead. Soon, his physical body would no longer be alive. Stephen politely asked Jesus to take his spirit. How would you express **Jesus, receive my spirit** as a polite request for Jesus take his Stephen’s spirit and keep it alive and safe?
+**Jesus, receive my spirit** Stephen was almost dead. Soon, his physical body would no longer be alive. Stephen politely asked Jesus to take his spirit. How would you express **Jesus, receive my spirit** as a polite request for Jesus to take Stephen’s spirit and keep it alive and safe?
 
 **He fell to his knees** Stephen lowered himself down on his knees. This was an act of humble submission to God. How would you express **He fell to his knees** to mean Stephen knelt down and brought his body in a lowly and humble position that showed honor and submission to God?
 
-**do not hold this sin against them** Stephen knew that the people were sinning by killing him. Stephen did not want God to punish them for their sin. Stephen was asking God to forgiven them for killing him. How would you express **do not hold this sin against them** to mean do not consider them guilty of the sin of killing me and forgive their sin?
+**do not hold this sin against them** Stephen knew that the people were sinning by killing him. Stephen did not want God to punish them for their sin. Stephen was asking God to forgive them for killing him. How would you express **do not hold this sin against them** to mean do not consider them guilty of the sin of killing me and forgive their sin?
 
 #### 45-06
 
@@ -389,23 +389,23 @@ Use the following translation questions to understand specific details of the pa
 
 **so the believers fled to other places** The believers moved to live in other locations. The reason they did this was because people were persecuting followers of Jesus. How would you express **so the believers fled to other places** to mean the result of people persecuting believers of Jesus was followers of Jesus scattered and moved to live in other places?
 
-**But in spite of opposition** The Jewish leaders thought they could stop the spread of Jesus’ teaching by persecuting his followers. Instead, this caused them to scatter and spread the message even more widely. How would you express **But in spite of opposition** to mean the believers continued to preached Jesus even though one would expect them to stop preaching because of the opposition and persecution they were experiencing?
+**But in spite of opposition** The Jewish leaders thought they could stop the spread of Jesus’ teaching by persecuting his followers. Instead, this caused them to scatter and spread the message even more widely. How would you express **But in spite of opposition** to mean the believers continued to preach Jesus even though one would expect them to stop preaching because of the opposition and persecution they were experiencing?
 
 #### 45-07
 
-**an angel came from God to Philip and told him to go into the wilderness** God sent an angel to deliver a message to Philip. The angel instructed Philip to go into a desert-like area where few people live. How would you express **an angel came from God to Philip and told him to go into the wilderness** to mean God sent a heavenly messenger to Philip and he instructed Philip to go into a remote place where not many people live?
+**an angel came from God to Philip and told him to go into the wilderness** God sent an angel to deliver a message to Philip. The angel instructed Philip to go into a desert-like area where few people live. How would you express **an angel came from God to Philip and told him to go into the wilderness** to mean God sent a heavenly messenger to Philip, and he instructed Philip to go into a remote place where not many people live?
 
-**This man was an important official from the land of Ethiopia** This man was from Ethiopia. Ethiopia is a country in Eastern Africa. The man had high status as a worker for the Ethiopian government. How would you express **This man was an important official from the land of Ethiopia** to mean the man riding in the chariot was a high ranking government worker for the Ethiopian government?
+**This man was an important official from the land of Ethiopia** This man was from Ethiopia. Ethiopia is a country in Eastern Africa. The man had high status as a worker for the Ethiopian government. How would you express **This man was an important official from the land of Ethiopia** to mean the man riding in the chariot was a high-ranking government worker for the Ethiopian government?
 
 #### 45-08
 
-**They led him like a lamb to be killed** This passage refers to the Messiah. The Messiah is compared to a lamb. The passage predicts that the Messiah will die and his death will take place like people leading a lamb to be slaughtered. How would you express **They led him like a lamb to be killed** to mean people would kill the Messiah in a way that is similar to people leading a lamb to be slaughtered?
+**They led him like a lamb to be killed** This passage refers to the Messiah. The Messiah is compared to a lamb. The passage predicts that the Messiah will die, and his death will take place like people leading a lamb to be slaughtered. How would you express **They led him like a lamb to be killed** to mean people would kill the Messiah in a similar way to people leading a lamb to be slaughtered?
 
-**as a lamb is silent** This passage refers to the Messiah. It predicts that the Messiah will be killed. His death is compared to someone leading a lamb to be slaughtered. The lamb will die without making a sound. People will kill the Messiah and the Messiah will not make sound to resist his death. How would you express **as a lamb is silent** to mean like a lamb that does not make any sound even when it is about to be killed?
+**as a lamb is silent** This passage refers to the Messiah. It predicts that the Messiah will be killed. His death is compared to someone leading a lamb to be slaughtered. The lamb will die without making a sound. People will kill the Messiah, and the Messiah will not make a sound to resist his death. How would you express **as a lamb is silent** to mean like a lamb that does not make any sound even when it is about to be killed?
 
 #### 45-09
 
-**Do you understand what you are reading?** The Ethiopian was intelligent and could read, but he lacked spiritual discernment. How would you express **Do you understand what you are reading?** as a question that asks if you understand the meaning of what you are reading?
+**Do you understand what you are reading?** The Ethiopian was intelligent and could read but lacked spiritual discernment. How would you express **Do you understand what you are reading?** as a question asking if you understand the meaning of your reading?
 
 **Please come and sit next to me** It is implied here that Philip agreed to travel down the road with him to explain the scriptures. The Ethiopian official invited Philip to sit next to him in his chariot. How would you express **Please come and sit next to me** as a polite invitation that requests Philip to get aboard the chariot and sit next to the Ethiopian official?
 
@@ -417,23 +417,23 @@ Use the following translation questions to understand specific details of the pa
 
 **some water** There was enough water that Philip and the Ethiopian official could get into it and put the official under the water. Perhaps the water was like a pond, lake, or stream. How would you express **some water** to mean a body of water large enough for the two men to get into the water and for Philip to baptize the Ethiopian official in the water?
 
-**May I be baptized?** The Ethiopian official asked Philip to baptize him. He wanted to be baptized and asked this question to clarify that there was not reason the prevented Philip from baptizing him. How would you express **May I be baptized?** as a question that asks Philip to baptize him?
+**May I be baptized?** The Ethiopian official asked Philip to baptize him. He wanted to be baptized and asked this question to clarify that there was no reason that prevented Philip from baptizing him. How would you express **May I be baptized?** as a question that asks Philip to baptize him?
 
 #### 45-12
 
 **the Holy Spirit suddenly carried Philip away to another place** The Holy Spirit immediately took Philip away from that place and brought him to a different location. This happened instantly and in a moment. How would you express **the Holy Spirit suddenly carried Philip away to another place** to mean the Holy Spirit instantly snatched Philip away and brought him to a different location?
 
-**There Philip continued to tell people about Jesus** When Philip arrived in the different location, he preached the gospel to the people who lived there. How would you express **There Philip continued to tell people about Jesus** to mean Philip continued to preached in the place the Sprit brought him that Jesus can save people from their sins?
+**There Philip continued to tell people about Jesus** When Philip arrived in a different location, he preached the gospel to those living there. How would you express **There Philip continued to tell people about Jesus** to mean Philip continued to preach in the place the Spirit brought him that Jesus can save people from their sins?
 
 #### 45-13
 
-**He was happy that he now knew Jesus** The Ethiopian official traveled back to his country of Ethiopia and was very happy that he was saved from his sin because he had believed in Jesus. How would you express **He was happy that he now knew Jesus** to mean Ethiopian official was experiencing strong feelings of joy because he believed in Jesus and had his sins forgiven?
+**He was happy that he now knew Jesus** The Ethiopian official traveled back to his country of Ethiopia and was very happy that he was saved from his sin because he had believed in Jesus. How would you express **He was happy that he now knew Jesus** to mean the Ethiopian official was experiencing strong feelings of joy because he believed in Jesus and had his sins forgiven?
 
 <!-- page break -->
 
 ## Theological Dialogue: Discussing the Meaning of the Story
 
-Take time to explore the meaning of this story together as a community. Use the following discussions as a way to grasp what truth the story teaches.
+Take time to explore the meaning of this story together as a community. Use the following discussions to grasp the truth the story teaches.
 
 ### Discourse Questions
 
@@ -441,7 +441,7 @@ Use the following discourse questions to understand the meaning of the story. Pa
 
 ##### What was the ministry of Stephen and Philip like? (45-01, 45-02, 45-04, 45-07)
 
-Stephen: Stephen was a believer of Jesus. He was a leader among the followers of Jesus. People respected him. The Holy Spirit gave him power and wisdom. He performed many miracles. Stephen taught people about Jesus and invited them to trust Jesus for their salvation. He died because he told others about Jesus. (45-01, 45-02, 45-04, 45-05)
+Stephen: Stephen was a believer in Jesus. He was a leader among the followers of Jesus. People respected him. The Holy Spirit gave him power and wisdom. He performed many miracles. Stephen taught people about Jesus and invited them to trust Jesus for their salvation. He died because he told others about Jesus. (45-01, 45-02, 45-04, 45-05)
 
 Philip: Philip was a follower of Jesus. He fled from persecution and traveled to Samaria to tell people about Jesus. (45-07)
 
@@ -449,9 +449,9 @@ Philip: Philip was a follower of Jesus. He fled from persecution and traveled to
 
 Jesus: Stephen and Philip told people about Jesus. The message of the gospel is about Jesus. (45-01, 45-07)
 
-Rebuke/Conviction: Stephen rebuked the people as being stubborn and rebellious. He said that they were acting just like the ancient Jewish people. He said that they continually rejected the Holy Spirit, reject God, and kill his messengers. Stephen explained that they acted worse than the ancient Israelites in that they killed the Messiah. The message of the gospel confronts us about our sin and rebellion against God. (45-03)
+Rebuke/Conviction: Stephen rebuked the people as being stubborn and rebellious. He said that they were acting just like the ancient Jewish people. He said they continually rejected the Holy Spirit, rejected God, and killed his messengers. Stephen explained that they acted worse than the ancient Israelites in that they killed the Messiah. The message of the gospel confronts us about our sin and rebellion against God. (45-03)
 
-Jesus’ Death: Philip met the Ethiopian official reading from the prophet Isaiah. He read about how people would mistreat, disrespect, and kill the Messiah. The Messiah did not resist the people would wanted him killed. He did not fully understand the meaning of what he was reading. So, Philip explained to him that the passage was speaking about Jesus. The message of the gospel announces that God sent his Messiah to die on the cross like a lamb that was slaughtered. (45-08, 45-09, 45-10)
+Jesus’ Death: Philip met the Ethiopian official reading from the prophet Isaiah. He read about how people would mistreat, disrespect, and kill the Messiah. The Messiah did not resist the people who wanted him killed. He did not fully understand the meaning of what he was reading. So, Philip explained to him that the passage was speaking about Jesus. The message of the gospel announces that God sent his Messiah to die on the cross like a lamb that was slaughtered. (45-08, 45-09, 45-10)
 
 Good News of Salvation: Philip explained other parts of the Scripture and showed how Jesus saves people from their sins. This is good news. God’s planned to send Jesus to rescue his people from their sins by dying on the cross. The message of the gospel is the good news that Jesus can save people from their sin. (45-10)
 
@@ -472,9 +472,9 @@ Murder: The people dragged Stephen out of the city and three stones at him. They
 
 Persecution: On the same day Stephen was killed, people started to persecute and oppress Christians. This caused believers to flee to other locations. (45-06)
 
-Baptism: The Ethiopian official asked Philip to baptize him. Because the official believed in Jesus, it was fitting for him to get baptized to show his faith in Jesus and join him to the church community. (45-11, 45-12)
+Baptism: The Ethiopian official asked Philip to baptize him. Because the official believed in Jesus, it was fitting for him to get baptized to show his faith in Jesus and join him in the church community. (45-11, 45-12)
 
-Joy: The Ethiopian was very happy that he believed and Jesus and his sins were forgiven. (45-13)
+Joy: The Ethiopian was very happy that he believed in Jesus and his sins were forgiven. (45-13)
 
 ##### How did the good news of Jesus spread so that many people came to believe in Jesus? (45-01, 45-02, 45-05, 45-06, 45-07, 45-12)
 
@@ -482,13 +482,13 @@ Preaching: Stephen and Philip preached the message of Jesus. The told people abo
 
 Travels: Philip traveled to other locations to preach the gospel. Many of the believers moved to different locations and shared the gospel with the people who lived in those regions. God calls some people to travel to different locations to share the gospel with others. (45-06, 45-07, 45-12)
 
-Martyrdom: Stephen died because of his faith in Jesus and commitment to preach the good news to others. His death demonstrate genuine faith in Christ. (45-05)
+Martyrdom: Stephen died because of his faith in Jesus and commitment to preach the good news to others. His death demonstrated genuine faith in Christ. (45-05)
 
 Persecution: The people persecuted and mistreated the believers. This caused the believers to spread to various places. The believers shared the gospel with people in the places they went. (45-06)
 
 Divine Leading: God sent an angel to tell Philip to go into the wilderness and walk down a certain road where he would meet the Ethiopian official. Philip did not arrange this meeting. God arranged it. God also snatched Philip away from that location and brought him to another location where he continued to preach the gospel. (45-07, 45-12)
 
-Holy Spirit: The Holy Spirit empowered Stephen with wisdom. This wisdom allowed him to preach the gospel and defend it when the Jews argued against him. (45-01, 45-02).
+Holy Spirit: The Holy Spirit empowered Stephen with wisdom. This wisdom allowed him to preach and defend the gospel when the Jews argued against him. (45-01, 45-02).
 
 The Holy Spirit also told Philip to go to the Ethiopian official and talk with him. (45-07)
 
@@ -498,9 +498,9 @@ The Holy Spirit also told Philip to go to the Ethiopian official and talk with h
 
 Answer the following theology questions as a community. Discuss what truths this story teaches.
 
-1.  What are core elements of the gospel? What aspects of the gospel were evident in this story of the ministry of Stephen and Philip?
+1.  What are the core elements of the gospel? What aspects of the gospel were evident in this story of the ministry of Stephen and Philip?
 2.  How do people variously respond to the gospel? How does this story show different reactions to the gospel?
-3.  How does God bring about the spread of the gospel? What does this story teach about how God caused the gospel spread and more people to come to believe in Jesus?
+3.  How does God bring about the spread of the gospel? What does this story teach about how God caused the gospel to spread and more people to come to believe in Jesus?
 
 ### Translation Draft
 

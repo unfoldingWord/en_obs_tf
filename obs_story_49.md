@@ -8,7 +8,7 @@ story_num: 49
 
 ### Key Idea
 
-The story God’s New Covenant teaches us that Jesus brings in the blessings of a new way of being restored to relationship with God in the New Covenant.
+The story of God’s New Covenant teaches us that Jesus brings in the blessings of a new way of being restored to a relationship with God in the New Covenant.
 
 ### Creedal Verse
 
@@ -24,40 +24,40 @@ God set to restore his world through his promise.
 God made a covenant with Abraham. He promised to bless all nations through Abraham.
 God kept his promises across the generations.
 God provided Abraham with a promised child, Isaac.
-God gave Isaac a wife and she bore twins, Jacob and Esau.
+God gave Isaac a wife, and she bore twins Jacob and Esau.
 God blessed Jacob and his sons, and the blessing continued to the next generation.
 God rescued Joseph, one of Jacob’s sons, and used him to rescue his family.
 God caused his people, the Israelites, to multiply in the land of Egypt; eventually, they became slaves.
-But, God raised up a deliverer, Moses, to deliver his people from their slavery.
-God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people who covered their doorposts with the blood of a sacrificed lamb.
+But God raised up a deliverer, Moses, to deliver his people from slavery.
+God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people, who covered their doorposts with the blood of a sacrificed lamb.
 Then, God delivered the Israelites by bringing them out of Egypt and crossing the Red Sea on dry land.
 God made a covenant with the Israelites and made them his people.
 God tested Israel in a series of wilderness wanderings and
 eventually brought his people into the promised land of Canaan.
 God raised up deliverers to lead Israel and rescue them from their enemies.
 God formed Israel into a kingdom. He made a covenant with King David and promised to send a king that would rule his people forever.
-Many of Israel’s kings were evil and the kingdom of Israel divided into two kingdoms.
+Many of Israel’s kings were evil, and the kingdom of Israel was divided into two kingdoms.
 God sent prophets to warn his people of God’s judgment and call them to repent.
 When Israel did not repent, God sent his people into exile. After many years, he brought them back to the land.
-Throughout the Old Testament, God promised to send his Messiah to deliver his people form their sin.
+Throughout the Old Testament, God promised to send his Messiah to deliver his people from their sin.
 After many years, the prophet John was born. He would prepare people for the coming Messiah.
 At the perfect time, God sent his Son, Jesus, to be born of a virgin Mary.
 When John and Jesus grew up, John baptized Jesus as a sign that Jesus was God’s beloved Son.
 Jesus endured all manner of temptation without ever sinning.
 When he was thirty years old, he launched a public ministry of preaching, teaching, and healing.
 He taught his disciples about the life of compassion, sacrifice, and forgiveness.
-He performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
-He proclaimed to people the nature of real faith, God’s kingdom, and the how fallen humans can be restored in relationship with God.
-Toward the end of his ministry, Jesus revealed his power and glory to his disciples
-and raised a dead man to life
-Jesus was betrayed by one of his disciples and put on trial before a Roman governor
+Jesus performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
+He proclaimed to people the nature of real faith, God’s kingdom, and how fallen humans can be restored in relationship with God.
+Toward the end of his ministry, Jesus revealed his power and glory to his disciples.
+He raised a dead man to life,
+Jesus was betrayed by one of his disciples and put on trial before a Roman governor.
 Jesus was sentenced to death and crucified on a cross
 Three days later, Jesus rose again from the dead.
 After meeting with many of his disciples, Jesus went back to heaven.
-The Holy Spirit empowered Jesus’ followers and formed them into his church
+The Holy Spirit empowered Jesus’ followers and formed them into his church.
 Jesus’ disciples, like Peter and John, performed miracles and preached the good news about Jesus.
-New leaders like Stephen and Philip served the church and preached about Jesus
-Even Saul, a persecutor of Jesus’ followers, became a Christian and preached the gospel to many people
+New leaders like Stephen and Philip served the church and preached about Jesus.
+Even Saul, a persecutor of Jesus’ followers, became a Christian and preached the gospel to many people.
 Jesus is the promised Messiah and brings in blessings of a New Covenant.
 
 <!-- page break -->
@@ -74,13 +74,13 @@ An angel told Mary, a young woman, that she would give birth to God’s Son. She
 
 ![](.\assets\images\image566.jpeg)
 
-Jesus did many miracles that show that he is God. He walked on water and stopped storms. He healed many sick people and drove demons out of many others. He raised dead people to life, and he turned five loaves of bread and two small fish into enough food to feed over 5,000 people.
+Jesus did many miracles that show that he is God. He walked on water and stopped storms. He healed many sick people and drove demons out of many others. He raised dead people to life and turned five loaves of bread and two small fish into enough food to feed over 5,000 people.
 
 ##### 49-03
 
 ![](.\assets\images\image567.jpeg)
 
-Jesus was also a great teacher. Everything he taught, he taught correctly. People should do what he told them to do because he is the Son of God. For example, he taught that you need to love other people the same way you love yourself.
+Jesus was also a great teacher. Everything he taught, he taught correctly. People should do what he told them to do because he is the Son of God. For example, he taught that you must love other people the same way you love yourself.
 
 ##### 49-04
 
@@ -92,7 +92,7 @@ He also taught that you need to love God more than you love anything else, inclu
 
 ![](.\assets\images\image569.jpeg)
 
-Jesus said that it is better to be in God’s kingdom than to have anything else in the world. God must save you from your sins in order for you to enter his kingdom.
+Jesus said it is better to be in God’s kingdom than have anything else in the world. God must save you from your sins in order for you to enter his kingdom.
 
 ##### 49-06
 
@@ -146,7 +146,7 @@ God will save everyone who believes in Jesus and accepts him as their Master. Bu
 
 ![](.\assets\images\image578.jpeg)
 
-Jesus is calling you to believe in him and to be baptized. Do you believe that Jesus is the Messiah, the only Son of God? Do you believe that you are a sinner and that you deserve God’s punishment for your sin? Do you believe that Jesus died on the cross to take away your sins?
+Jesus is calling you to believe in him and to be baptized. Do you believe that Jesus is the Messiah, the only Son of God? Do you believe you are a sinner and deserve God’s punishment for your sin? Do you believe Jesus died on the cross to take away your sins?
 
 ##### 49-15
 
@@ -164,7 +164,7 @@ If you are a follower of Jesus, God has forgiven your sins because of what Jesus
 
 ![](.\assets\images\image581.jpeg)
 
-If you are a friend of God and a servant of Jesus the Master, you will want to obey what Jesus teaches you. Even though you are a follower of Jesus, Satan will still tempt you to sin. But God always does what he says he will do. He says that if you confess your sins, he will forgive you. He will give you strength to fight against sin.
+If you are a friend of God and a servant of Jesus, the Master, you will want to obey what Jesus teaches you. Even though you are a follower of Jesus, Satan will still tempt you to sin. But God always does what he says he will do. He says that if you confess your sins, he will forgive you. He will give you strength to fight against sin.
 
 ##### 49-18
 
@@ -241,21 +241,21 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 49-01
 
 Who gave birth to God’s Son?  
 Mary, a young woman who was a virgin, gave birth to God’s Son, Jesus.
 
-How did she became pregnant with Jesus?  
+How did she become pregnant with Jesus?  
 The Holy Spirit made her become pregnant with Jesus.
 
 Is Jesus both God and human?  
 Yes. Jesus is both fully God and fully human at the same time.
 
 How is Jesus both God and human?  
-Jesus became human because he was born of a woman. At the same time, he was and is God, and was born of virgin made pregnant by an act of the Holy Spirit.
+Jesus became human because he was born of a woman. At the same time, he was and is God, and was born of a virgin made pregnant by an act of the Holy Spirit.
 
 #### 49-02
 
@@ -267,7 +267,7 @@ Jesus walked on water, stopped storms, healed many sick people, drove out demons
 
 #### 49-03
 
-What kind of a teacher was Jesus?  
+What kind of teacher was Jesus?  
 Jesus was a great teacher and everything Jesus taught was true/correct.
 
 Why should people listen to Jesus’ teaching?  
@@ -295,7 +295,7 @@ God must save people from their sins in order for them to belong to God’s king
 #### 49-06
 
 How will people respond to Jesus?  
-Some people are like good soil and they accept Jesus; others are like hard soil on a path and they reject Jesus.
+Some people are like good soil and accept Jesus; others are like hard soil on a path and reject Jesus.
 
 What happens to the people that accept Jesus?  
 God saves the people who accept Jesus.
@@ -394,7 +394,7 @@ Jesus wants you to believe that Jesus is the Messiah, that Jesus is God’s Son,
 #### 49-15
 
 What happens when you believe in Jesus?  
-When you believe in Jesus you become a follower of Jesus, Satan no longer rules over you, God rules over you, God enables you to no longer sin, and God gives you a new way to live.
+When you believe in Jesus, you become a follower of Jesus, Satan no longer rules over you, God rules over you, God enables you to no longer sin, and God gives you a new way to live.
 
 #### 49-16
 
@@ -413,11 +413,11 @@ What should followers of Jesus do when they sin?
 They should confess their sins to God.
 
 What does God promise to do if we confess our sins?  
-He promises to forgive us, and to give us strength to fight against sin. God always does what he says he will do.
+He promises to forgive and give us strength to fight against sin. God always does what he says he will do.
 
 #### 49-18
 
-What are some of the things that God tells followers of Jesus to do?  
+What are some things that God tells followers of Jesus to do?  
 He tells us to pray, study his word, worship him, and tell others about what he has done for us.
 
 What will happen if followers of Jesus do these things?  
@@ -455,7 +455,7 @@ Use the following translation questions to understand specific details of the pa
 
 **other people will not** Jesus taught that God saves people who accept Jesus. However, God does not save people who do not accept Jesus. How would you express **other people will not** to mean **other people will not** accept Jesus and therefore will not be saved?
 
-**God’s Word is like seed** The message of salvation is compared to a seed that is sown on the ground. The seed has the potential for life and growth, but only grows if it falls on good soil. How would you express **God’s Word is like seed** to mean the message of Jesus saving people from their sins is similar to seed that is scattered on the ground?
+**God’s Word is like seed** The message of salvation is compared to a seed that is sown on the ground. The seed has the potential for life and growth but only grows if it falls on good soil. How would you express **God’s Word is like seed** to mean the message of Jesus saving people from their sins is similar to seed that is scattered on the ground?
 
 #### 49-07
 
@@ -463,19 +463,19 @@ Use the following translation questions to understand specific details of the pa
 
 #### 49-08
 
-**Every person in the world sins and is far from God** All people disobey God’s commands and do evil things. Sinful people do not have a close or personal relationship with God as friends who have. In this way, sin makes people far from God. How would you express **Every person in the world sins and is far from God** to mean all people do evil things against God’s commands and this causes people to not be in friendship with God?
+**Every person in the world sins and is far from God** All people disobey God’s commands and do evil things. Sinful people do not have a close or personal relationship with God as friends who have. In this way, sin makes people far from God. How would you express **Every person in the world sins and is far from God** to mean all people do evil things against God’s commands, and this causes people to not be in friendship with God?
 
 #### 49-09
 
-**But God loved everyone in the world** Everyone is an enemy of God, so you would expect God to hate and destroy them. Instead, God loves everyone and gave his son for them. How would you express **But God loved everyone in the world** to mean all people are enemies of God and deserve to be punished but God treated them differently than expected by loving all people in the world?
+**But God loved everyone in the world** Everyone is an enemy of God, so you would expect God to hate and destroy them. Instead, God loves everyone and gave his son for them. How would you express **But God loved everyone in the world** to mean all people are enemies of God and deserve to be punished, but God treated them differently than expected by loving all people in the world?
 
-**he gave his only Son** God loved people God allowed his only Son, Jesus, to be a sacrifice for sins. God sacrificed Jesus by allowing him to be crucified on the cross. How would you express **he gave his only Son** to mean God offered his only Son to the world as a sacrifice for sins?
+**he gave his only Son** God loves people. God allowed his only Son, Jesus, to be a sacrifice for sins. God sacrificed Jesus by allowing him to be crucified on the cross. How would you express **he gave his only Son** to mean God offered his only Son to the world as a sacrifice for sins?
 
 **Instead, believers will live with him forever** God sacrificed Jesus so that he would not punish believers in Jesus. The opposite of punishing sinners is allowing them to live forever with God. Also, those who believe in God still sin, so you would expect them to be punished. Instead, they will live with God forever. How would you express **Instead, believers will live with him forever** to mean rather than God punishing people who believe in Jesus, God did the opposite by allowing them to live with God forever?
 
 #### 49-10
 
-**because you have sinned** People deserve to be punished for their sin. The reason God is right to punish people with death is that all people sin. How would you express **because you have sinned** to mean the reason it is right for God to punish you with death is you did evil things and did not follow God’s commands?
+**because you have sinned** People deserve to be punished for their sin. God is right to punish people with death because all people sin. How would you express **because you have sinned** to mean it is right for God to punish you with death because you did evil things and did not follow God’s commands?
 
 **but Jesus took the punishment for sin in our place** People who sin should be punished for the wrong/evil things they have done. You would expect God to be angry with you because of your sin. Instead, he punished Jesus. How would you express **but Jesus took the punishment for sin in our place** to mean God did the opposite of punishing us for our sin and punished Jesus instead of us?
 
@@ -491,31 +491,31 @@ Use the following translation questions to understand specific details of the pa
 
 #### 49-13
 
-**But he will not save those who do not believe in him** God saves everyone who believes. But people who do not believe are excluded from the everyone. Some people do not believe in Jesus and God will not save those people. How would you express **But he will not save those who do not believe in him** to mean God will only save those who believe in Jesus and accept him as their Master and he will not save those who do not believe in him?
+**But he will not save those who do not believe in him** God saves everyone who believes. But people who do not believe are excluded from everyone. Some people do not believe in Jesus, and God will not save those people. How would you express **But he will not save those who do not believe in him** to mean God will only save those who believe in Jesus and accept him as their Master, and he will not save those who do not believe in him?
 
-**so he can be a friend to you** God loves people and wants them to believe in Jesus. The result of believing in Jesus is God can be a friend with those people who believe in Jesus. How would you express **so he can be a friend to you** to mean the result of believing in Jesus is people would no longer be enemies with God but they would have peace with God as friends have between each other?
+**so he can be a friend to you** God loves people and wants them to believe in Jesus. The result of believing in Jesus is God can be a friend to those people who believe in Jesus. How would you express **so he can be a friend to you** to mean the result of believing in Jesus is people would no longer be enemies with God, but they would have peace with God as friends have between each other?
 
 #### 49-14
 
-**Jesus is calling you to believe in him** Jesus is inviting people entrust their whole life to him. This is the only way God will save people from their sin. How would you express **Jesus is calling you to believe in him** to mean Jesus is telling people to trust in him to save them from their sin?
+**Jesus is calling you to believe in him** Jesus is inviting people to entrust their whole life to him. This is the only way God will save people from their sin. How would you express **Jesus is calling you to believe in him** to mean Jesus is telling people to trust in him to save them from their sin?
 
 #### 49-15
 
-**Satan no longer rules you in his kingdom of darkness** Darkness is used here to refer to sin and everything that is evil. The Bible often compares evil to darkness, and goodness to light. Satan uses his power to do evil things against people. Satan no longer has power or control over those people who believe in Jesus. How would you express **Satan no longer rules you in his kingdom of darkness** to mean Satan does not have power to control people in ways that are evil like the darkness?
+**Satan no longer rules you in his kingdom of darkness** Darkness is used here to refer to sin and everything that is evil. The Bible often compares evil to darkness and goodness to light. Satan uses his power to do evil things against people. Satan no longer has power or control over those people who believe in Jesus. How would you express **Satan no longer rules you in his kingdom of darkness** to mean Satan does not have the power to control people in ways that are evil, like the darkness?
 
-**God is now ruling over you in his kingdom of light** Light here refers to God’s holiness and goodness. The Bible often compares evil to darkness, and goodness to light. God uses his power over people in ways that are good and righteous. People who believe in Jesus are under God’s power. How would you express **God is now ruling over you in his kingdom of light** to mean God rules over people who believe in Jesus in a way that is righteous and good like the light?
+**God is now ruling over you in his kingdom of light** Light here refers to God’s holiness and goodness. The Bible often compares evil to darkness and goodness to light. God uses his power over people in ways that are good and righteous. People who believe in Jesus are under God’s power. How would you express **God is now ruling over you in his kingdom of light** to mean God rules over people who believe in Jesus in a way that is righteous and good, like the light?
 
 #### 49-16
 
-**If you are a follower of Jesus** God does not forgive the sins of all people. God forgives the sins of people who have believed in Jesus and become followers of him. If you are a Christ follower, then God has forgiven your sins and you are his close friend. How would you express **If you are a follower of Jesus** to mean God has already forgiven the sins of those people who have become followers of Jesus?
+**If you are a follower of Jesus**, God does not forgive the sins of all people. God forgives the sins of people who have believed in Jesus and become followers of him. If you are a Christ follower, God has forgiven your sins, and you are his close friend. How would you express **If you are a follower of Jesus** to mean God has already forgiven the sins of those people who have become followers of Jesus?
 
-**God considers you to be a close friend** All people are sinful and enemies of God. When people believe in Jesus this relationship changes. God regards people who believe in Jesus as friends. How would you express **God considers you to be a close friend** to mean God thinks of people who believe in Jesus as loving friends who are peace with one another?
+**God considers you to be a close friend** All people are sinful and enemies of God. When people believe in Jesus, this relationship changes. God regards people who believe in Jesus as friends. How would you express **God considers you to be a close friend** to mean God thinks of people who believe in Jesus as loving friends who are at peace with one another?
 
 #### 49-17
 
-**If you are a friend of God and a servant of Jesus the Master** People do not naturally want to obey Jesus. However, people who believe in Jesus have become a friend of God and a servant of Jesus. The result of this change is they will want to obey Jesus. How would you express **If you are a friend of God and a servant of Jesus the Master** to mean people who have become a friend of God and servant of Jesus will desire to do the things that Jesus commands?
+**If you are a friend of God and a servant of Jesus the Master** People do not naturally want to obey Jesus. However, people who believe in Jesus have become a friend of God and a servant of Jesus. The result of this change is they will want to obey Jesus. How would you express **If you are a friend of God and a servant of Jesus the Master** to mean people who have become a friend of God and servants of Jesus will desire to do the things that Jesus commands?
 
-**if you confess your sins** God does not forgive the sins of all people. He only forgives the sins of people who acknowledge to God that they have done evil things against God’s commands and who ask God to forgive them of their sins. How would you express **if you confess your sins** to mean God promises to forgive the sins of people who admit to God what they have done wrong?
+**if you confess your sins** God does not forgive the sins of all people. He only forgives the sins of people who acknowledge to God that they have done evil things against God’s commands and ask God to forgive them of their sins. How would you express **if you confess your sins** to mean God promises to forgive the sins of people who admit to God what they have done wrong?
 
 #### 49-18
 
@@ -525,7 +525,7 @@ Use the following translation questions to understand specific details of the pa
 
 ## Theological Dialogue: Discussing the Meaning of the Story
 
-Take time to explore the meaning of this story together as a community. Use the following discussions as a way to grasp what truth the story teaches.
+Take time to explore the meaning of this story together as a community. Use the following discussions to grasp the truth the story teaches.
 
 ### Discourse Questions
 
@@ -539,7 +539,7 @@ Birth: The Holy Spirit performed a miracle and made a virgin named Mary pregnant
 
 Fully God, Fully Man: Jesus is equal to God and has always existed. When Jesus was born into the world, Jesus also became a human without ever stopping being fully God. Since Jesus was born from Mary, he is fully human. Since Jesus has always existed as God’s Son, he is fully God. Jesus is fully God and fully human at the same time. (49-01)
 
-Miracles: Jesus did many miracles. These miracles showed who Jesus is and what he came to do. Jesus walked on water, stopped storms, healed the sick, drove out demons, raised the dead, fed a crowd of 5,000 with small portions of food. Jesus showed his power over nature, sickness, evil spirits, and death. (49-02)
+Miracles: Jesus did many miracles. These miracles showed who Jesus is and what he came to do. Jesus walked on water, stopped storms, healed the sick, drove out demons, raised the dead, and fed a crowd of 5,000 with small portions of food. Jesus showed his power over nature, sickness, evil spirits, and death. (49-02)
 
 Teaching: Jesus taught people the truth. Jesus never lied. Everything he said was correct and true. Jesus taught people to love others and love God above all things. (49-03, 49-04)
 
@@ -549,7 +549,7 @@ Cross: God loves people and offered Jesus as a sacrifice for sin. Jesus died on 
 
 ##### How do people experience God’s salvation and become followers of Jesus? (49-12, 49-13, 49-14)
 
-Good Deeds Can’s Save: People cannot be saved by doing good things. There is nothing people can do in their own strength to have their sins forgiven or make things right with God. (49-12)
+Good Deeds Can’t Save: People cannot be saved by doing good things. There is nothing people can do in their own strength to have their sins forgiven or make things right with God. (49-12)
 
 Believing in Jesus: God saves people who believe in Jesus. True followers of Jesus believe that Jesus is the Son of God, that Jesus is the Messiah, that we are sinners, that Jesus died on the cross as a sacrifice for sin, that Jesus came back to life, and that trusting in Jesus will take away our sins and make us friends with God. To believe in Jesus is to accept Jesus as Master and live their lives in service of Jesus. (49-12, 49-13, 49-14)
 

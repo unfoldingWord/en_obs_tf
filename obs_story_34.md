@@ -25,30 +25,30 @@ God set to restore his world through his promise.
 God made a covenant with Abraham. He promised to bless all nations through Abraham.
 God kept his promises across the generations.
 God provided Abraham with a promised child, Isaac.
-God gave Isaac a wife and she bore twins, Jacob and Esau.
+God gave Isaac a wife, and she bore twins, Jacob and Esau.
 God blessed Jacob and his sons, and the blessing continued to the next generation.
 God rescued Joseph, one of Jacob’s sons, and used him to rescue his family.
 God caused his people, the Israelites, to multiply in the land of Egypt; eventually, they became slaves.
 But, God raised up a deliverer, Moses, to deliver his people from their slavery.
-God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people who covered their doorposts with the blood of a sacrificed lamb.
+God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people, who covered their doorposts with the blood of a sacrificed lamb.
 Then, God delivered the Israelites by bringing them out of Egypt and crossing the Red Sea on dry land.
 God made a covenant with the Israelites and made them his people.
 God tested Israel in a series of wilderness wanderings and
 eventually brought his people into the promised land of Canaan.
 God raised up deliverers to lead Israel and rescue them from their enemies.
 God formed Israel into a kingdom. He made a covenant with King David and promised to send a king that would rule his people forever.
-Many of Israel’s kings were evil and the kingdom of Israel divided into two kingdoms.
+Many of Israel’s kings were evil, and the kingdom of Israel was divided into two kingdoms.
 God sent prophets to warn his people of God’s judgment and call them to repent.
 When Israel did not repent, God sent his people into exile. After many years, he brought them back to the land.
-Throughout the Old Testament, God promised to send his Messiah to deliver his people form their sin.
+Throughout the Old Testament, God promised to send his Messiah to deliver his people from their sin.
 After many years, the prophet John was born. He would prepare people for the coming Messiah.
 At the perfect time, God sent his Son, Jesus, to be born of a virgin Mary.
 When John and Jesus grew up, John baptized Jesus as a sign that Jesus was God’s beloved Son.
 Jesus endured all manner of temptation without ever sinning.
 When he was thirty years old, he launched a public ministry of preaching, teaching, and healing.
 He taught his disciples about the life of compassion, sacrifice, and forgiveness.
-He performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
-He proclaimed to people the nature of real faith, God’s kingdom
+Jesus performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
+He proclaimed to people the nature of real faith, God’s kingdom.
 
 <!-- page break -->
 
@@ -88,7 +88,7 @@ Telling another story, Jesus said, “The kingdom of God is like yeast that a wo
 
 ![](.\assets\images\image401.jpeg)
 
-There were some people who thought God would accept them because they were doing good things. These people despised others who did not do those good things. So Jesus told them this story: “There were two men, both of whom went to the Temple to pray. One of them was a tax collector, and the other was a religious leader.”
+Some people thought God would accept them because they were doing good things. These people despised others who did not do those good things. So Jesus told them this story: “There were two men, both of whom went to the Temple to pray. One of them was a tax collector, and the other was a religious leader.”
 
 ##### 34-07
 
@@ -179,7 +179,7 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 34-01
 
@@ -198,7 +198,7 @@ What happens to a mustard seed when it grows?
 It becomes the largest of all the garden plants.
 
 How big does the mustard grow?  
-The mustard seed grows a large garden plant that is big enough for birds to come and rest in its branches.
+The mustard seed grows a large garden plant big enough for birds to come and rest in its branches.
 
 #### 34-03
 
@@ -216,8 +216,8 @@ Jesus taught that the kingdom of God was like treasure that someone hid in a fie
 Who found the treasure?  
 Another man found the treasure and wanted it very much.
 
-What did the man do after he found the treasure that was hidden in the field?  
-He buried it again, sold all that he had, and used the money to buy the field where the treasure was.
+What did the man do after finding the treasure hidden in the field?  
+He buried it again, sold all he had, and used the money to buy the field where the treasure was.
 
 #### 34-05
 
@@ -236,7 +236,7 @@ What did these people think of others?
 These people despised others who did not do those good things.
 
 What story did Jesus tell the people who were confident in their good deeds?  
-Jesus told the story of two men who went to the temple to pray: a tax collector and a religious leader.
+Jesus told the story of two men who went to the temple to pray; a tax collector and a religious leader.
 
 #### 34-07
 
@@ -276,31 +276,31 @@ Use the following translation questions to understand specific details of the pa
 
 #### 34-01
 
-**stories** Jesus used these **stories** as parables to teach truths about God’s kingdom. It is not clear if the events actually happened or not, but these **stories** talk about common experiences that people can relate to. How would you express **stories** to mean narratives that teach truths through events or circumstances that could have actually happened in real life?
+**stories** Jesus used these **stories** as parables to teach truths about God’s kingdom. It is unclear if the events actually happened, but these **stories** talk about common experiences that people can relate to. How would you express **stories** to mean narratives that teach truths through events or circumstances that could have actually happened in real life?
 
-**The kingdom of God is like a mustard seed** Jesus speaks of the kingdom of God as if it were a mustard seed. This probably refers to the seed of the black mustard plant, which has tiny seeds that rapidly grow into very large plants. God’s rule and reign as king may start small like a mustard seed but he will eventually become larger than all other kingdoms. How would you express **The kingdom of God is like a mustard seed** to mean God’s rule can be compared (is similar to) a tiny mustard seed that grows into a large mustard plant that is larger than other garden plants?
+**The kingdom of God is like a mustard seed** Jesus speaks of the kingdom of God as if it were a mustard seed. This probably refers to the seed of the black mustard plant, which has tiny seeds that rapidly grow into very large plants. God’s rule and reign as king may start small like a mustard seed, but he will eventually become larger than all other kingdoms. How would you express **The kingdom of God is like a mustard seed** to mean God’s rule can be compared (is similar to) a tiny mustard seed that grows into a large mustard plant that is larger than other garden plants?
 
-**the smallest seed of all** The mustard seed is a very small seed. Mustard seeds were the smallest seeds known to the original hearers. At that time, it was tiniest seed that people typically planted. How would you express **the smallest seed of all** to mean the smallest of all the seeds that people normally plant?
+**the smallest seed of all** The mustard seed is a very small seed. Mustard seeds were the smallest seeds known to the original hearers. At that time, it was the tiniest seed that people typically planted. How would you express **the smallest seed of all** to mean the smallest of all the seeds that people normally plant?
 
 #### 34-02
 
 **when the mustard seed grows** Jesus spoke about the size of the mustard seed plant when it becomes fully grown. How would you express **when the mustard seed grows** to mean at the time the seed of the mustard plant grows into a mature (full-grown) plant?
 
-**largest of all of the garden plants** The mustard seed plant was a kind of plant that people planted in gardens. It was the largest of garden plants normally planted by people during this time. How would you express **largest of all of the garden plants** to mean the garden plant that becomes bigger than all the other plants that would be planted in a garden at this time?
+**largest of all of the garden plants** The mustard seed plant was a kind of plant that people planted in gardens. It was the largest garden plant people normally planted during this time. How would you express **largest of all of the garden plants** to mean the garden plant that becomes bigger than all the other plants that would be planted in a garden at this time?
 
 **rest** The mustard plant would become big enough for birds to stay for a while on the branches. How would you express **rest** to mean **rest** to sit on or perch on?
 
 #### 34-03
 
-**The kingdom of God is like yeast** Jesus speaks of the kingdom of God as if it were yeast that is mixed into dough. This yeast is leaven that is added to bread dough to make it rise. A little bit of yeast mixed into a large amount of dough makes the whole batch of dough rise How would you express **The kingdom of God is like yeast** to mean God’s rule can be compared (s similar to) a little bit of leaven that causes dough to rise?
+**The kingdom of God is like yeast** Jesus speaks of the kingdom of God as if it were yeast that is mixed into dough. This yeast is leaven that is added to bread dough to make it rise. A little bit of yeast mixed into a large amount of dough makes the whole batch of dough rise. How would you express **The kingdom of God is like yeast** to mean God’s rule can be compared (s similar to) a little bit of leaven that causes the dough to rise?
 
-**bread dough** This is a mixture of flour and liquid that can be shaped and baked into bread. How would you express **bread dough** to mean a mixture of ground-up grain (flour) and water that is baked into bread?
+**bread dough** This is a mixture of flour and liquid that can be shaped and baked into bread. How would you express **bread dough** as a mixture of ground-up grain (flour) and water baked into bread?
 
 **it spreads throughout the dough** When yeast/leaven is put into the dough, the yeast grows throughout all the dough. How would you express **it spreads throughout the dough** to mean every part of the dough has yeast/leaven in it?
 
 #### 34-04
 
-**The kingdom of God is also like treasure** Jesus speaks of the kingdom of God as if it were a valuable possession that someone hid in a field. How would you express **The kingdom of God is also like treasure** to mean God’s rule can be compared to (is similar to) a valuable possession that someone secretly put in a place out of sight so others could not easily find it?
+**The kingdom of God is also like treasure** Jesus speaks of the kingdom of God as if it were a valuable possession that someone hid in a field. How would you express **The kingdom of God is also like treasure** to mean God’s rule can be compared to (is similar to) a valuable possession that someone secretly put in place out of sight so others could not easily find it?
 
 **buried it again** The man who found the treasure put it under the ground to hide it from others. How would you express **buried it again** to mean to hide it under the ground so that no one else would find it?
 
@@ -310,7 +310,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 34-05
 
-**The kingdom of** God is also like a perfect pearl of great value Jesus speaks of the kingdom of God as if it were a precious gem called a pearl. Pearls are white circular gems. The pearl in this story is without any defects (perfect) and is worth a lot of money. How would you express **The kingdom of** God is also like a perfect pearl of great value to mean God’s rule can be compared to (is similar to) a beautiful stone/gem that has no flaws and is very valuable?
+**The kingdom of** God is also like a perfect pearl of great value. Jesus speaks of the kingdom of God as if it were a precious gem called a pearl. Pearls are white circular gems. The pearl in this story is without any defects (perfect) and is worth a lot of money. How would you express **The kingdom of** God is also like a perfect pearl of great value to mean God’s rule can be compared to (is similar to) a beautiful stone/gem that has no flaws and is very valuable?
 
 **a pearl merchant** This person is a pearl dealer or a pearl trader. This refers to a person whose business is buying and selling pearls. How would you express **a pearl merchant** to mean a person who buys and sells pearls as a business?
 
@@ -328,15 +328,15 @@ Use the following translation questions to understand specific details of the pa
 
 #### 34-07
 
-**The religious leader prayed like this** In this story, Jesus will compare and contrast how the religious leader and the tax collector pray. Jesus explains the way the religious leader prayed. How would you express **The religious leader prayed like this** to mean this is how the religious authority prayed?
+**The religious leader prayed like this** In this story, Jesus compares and contrasts how the religious leader and the tax collector pray. Jesus explains the way the religious leader prayed. How would you express **The religious leader prayed like this** to mean this is how the religious authority prayed?
 
-**I am not a sinner like** The religious leader thanked God that he was not evil like some other people. The religious leader considered himself righteous/moral and he considered other people (like the tax collectors) to be immoral. How would you express **I am not a sinner like** to mean the religious leader thought he was not sinful and wicked like he thought other people were?
+**I am not a sinner like** The religious leader thanked God that he was not evil like some other people. The religious leader considered himself righteous/moral and considered other people (like the tax collectors) immoral. How would you express **I am not a sinner like** to mean the religious leader thought he was not sinful and wicked like he thought other people were?
 
 **unjust men** The religious leader thought he was better than people who break the law and do evil things. How would you express **unjust men** to mean people who are not righteous?
 
 #### 34-08
 
-**I fast two times every week** The religious ruler said that he refrained from food at two different times in a week. The religious ruler was describing a habit that he would do every week. He believed that doing this would earn favor with God. How would you express **I fast two times every week** to mean the religious ruler had a habit/practice of refraining from food at two times each week?
+**I fast two times every week** The religious ruler said that he refrained from food at two different times in a week. The religious ruler was describing a habit that he would do every week. He believed that doing this would earn favor with God. How would you express **I fast two times every week** to mean the religious ruler had a habit/practice of refraining from food two times each week?
 
 **I give you ten percent of all the money and goods that I receive** The religious ruler gave one-tenth of his earnings back to God as an offering. The religious ruler was describing a habit that he would do on a regular basis. He believed that doing this would earn favor with God. How would you express **I give you ten percent of all the money and goods that I receive** to mean the religious ruler had a habit of giving one-tenth of his earnings to God as a religious offering?
 
@@ -346,21 +346,21 @@ Use the following translation questions to understand specific details of the pa
 
 **he pounded on his chest with his fist** The tax collector did not consider himself worthy of God’s acceptance. Because of his grief and despair, he hit his chest with his fist. How would you express **he pounded on his chest with his fist** to mean he pounded his chest in sorrow because he understood how sinful he was and how unworthy he was of God’s acceptance?
 
-**God, please be merciful to me because I am a sinner** The tax collector believed that he was a sinner. He pleaded with God in prayer to show him mercy and forgive his sins. The reason he knew he needed God’s mercy was he recognized how much of a sinner he was. How would you express **God, please be merciful to me because I am a sinner** as a humble and desperate plea to God to show compassion/pity and forgive one’s sins?
+**God, please be merciful to me because I am a sinner** The tax collector believed he was a sinner. He pleaded with God in prayer to show him mercy and forgive his sins. He knew he needed God’s mercy because he recognized how much of a sinner he was. How would you express **God, please be merciful to me because I am a sinner** as a humble and desperate plea to God to show compassion/pity and forgive one’s sins?
 
 #### 34-10
 
 **declared him to be righteous** Even though the tax collector was a sinner, God was merciful to him because of his humility and repentance. God regarded the tax collector as upright. How would you express **declared him to be righteous** to mean God considered/reckoned the tax collector to be morally right and acceptable to God even though he was a sinner?
 
-**God will dishonor everyone who is proud** God will cause the boastful and arrogant to lose honor and respect. How would you express **God will dishonor everyone who is proud** to mean God will give a lower status to those who have a high view of themselves and he will cause them to not be important?
+**God will dishonor everyone who is proud** God will cause the boastful and arrogant to lose honor and respect. How would you express **God will dishonor everyone who is proud** to mean God will give a lower status to those who have a high view of themselves, and he will cause them to not be important?
 
-**but he will honor whoever humbles himself** God will treat the humble different than he treats the proud. God will cause those who are meek and do not think themselves as better than others to be esteemed and respected by others. How would you express **but he will honor whoever humbles himself** to mean God will give a higher position to those who do not have an arrogant or boastful attitude about themselves and to behave in a meek way?
+**but he will honor whoever humbles himself** God will treat the humble differently than he treats the proud. God will cause those who are meek and do not think of themselves as better than others to be esteemed and respected by others. How would you express **but he will honor whoever humbles himself** to mean God will give a higher position to those who do not have an arrogant or boastful attitude about themselves and behave in a meek way?
 
 <!-- page break -->
 
 ## Theological Dialogue: Discussing the Meaning of the Story
 
-Take time to explore the meaning of this story together as a community. Use the following discussions as a way to grasp what truth the story teaches.
+Take time to explore the meaning of this story together as a community. Use the following discussions to grasp the truth the story teaches.
 
 ### Discourse Questions
 
@@ -374,21 +374,21 @@ Mustard Seed \| Small to Big: Jesus compared the kingdom of God to a mustard see
 
 Yeast \| Spreads Everywhere: Jesus compared the kingdom of God to yeast. Like yeast/leaven that spreads throughout an entire lump of bread dough, God’s kingdom will start in one place and spread everywhere. (34-03)
 
-Treasure \| Great Joy and Sacrifice: Jesus compared the kingdom of God to a treasure. A man hid the treasure in a field. Another man found the treasure. Because he wanted the treasure, the man buried it again and sold all his possessions so he could purchase the field and own the treasure. This treasure brought the man real joy. Like the treasure which is hid, the kingdom of God is not entirely visible to all people. It is something people need to desire and search for. Also, the kingdom brings great joy. This joy causes people to get rid of all other valuable possessions and consider God’s kingdom the most valuable thing of all. It is worth people sacrificing everything to be a part of God’s kingdom. God’s kingdom is the only thing that brings real joy. (34-04)
+Treasure \| Great Joy and Sacrifice: Jesus compared the kingdom of God to a treasure. A man hid the treasure in a field. Another man found the treasure. Because he wanted the treasure, the man buried it again and sold all his possessions to purchase the field and own the treasure. This treasure brought the man real joy. Like the treasure that is hidden, the kingdom of God is not entirely visible to all people. It is something people need to desire and search for. Also, the kingdom brings great joy. This joy causes people to get rid of all other valuable possessions and consider God’s kingdom the most valuable thing of all. It is worth people sacrificing everything to be a part of God’s kingdom. God’s kingdom is the only thing that brings real joy. (34-04)
 
 Pearl \| No Flaw and Great Value: Jesus compared the kingdom of God to a flawless and costly pearl. Like a pearl that had no defect and was also very expensive, the kingdom of God is perfect and is very valuable. Like the man in the treasure in the field, the pearl merchant sold all his possessions to purchase this pearl. God’s kingdom is without flaw, defect, or error. It is the most valuable thing to be a part of in one’s life. (34-05)
 
 ##### What were the different ways the religious leader and the tax collector tried to find acceptance before God? (34-06, 34-07, 34-08, 34-09, 34-10)
 
-Some people thought that they were accepted by God because they behaved well. Many people think that doing good things makes God approve of us. However, this is not the case. No one can be good enough for God to accept him. In fact, when we rely on our good deeds, it causes us to treat others as inferior to ourselves. (34-06)
+Some people thought that they were accepted by God because they behaved well. Many people think that doing good things makes God approve of us. However, this is not the case. No one can be good enough for God to accept him. In fact, relying on our good deeds causes us to treat others as inferior to ourselves. (34-06)
 
 Comparison Is Dangerous: Jesus told a story about a tax collector and a religious leader. The religious leader thought that God accepted him because of his good/moral behavior was better than the behavior/conduct of others. The religious ruler thanked God that he was not sinful like robbers, unjust people, and adulterers. The religious leader compared himself to the tax collector and thought he was better than him. (34-07)
 
-Religious Pride: The religious leader also thought that his religious/pious actions made him acceptable to God. He thought weekly fasting and regular offering made God accept him more than others. Our religious behavior cannot make us acceptable to God. (34-08)
+Religious Pride: The religious leader also thought that his religious/pious actions made him acceptable to God. He thought weekly fasting and a regular offering made God accept him more than others. Our religious behavior cannot make us acceptable to God. (34-08)
 
-Humble Repentance: The tax collector was different than the religious leader. The religious leader thought he was righteous but was actually sinful. The tax collector knew he was sinful. The tax collector knew that he was not worthy to be accepted by God. The only hope he had was to plead with God for mercy. The tax collector expressed how sad he was over his sin by beating his chest with his fist and begging God for mercy. God accepts those who genuinely come to him in humility and repentance of sin. (34-09)
+Humble Repentance: The tax collector was different than the religious leader. The religious leader thought he was righteous but was actually sinful. The tax collector knew he was sinful. The tax collector knew he was not worthy of being accepted by God. The only hope he had was to plead with God for mercy. The tax collector expressed how sad he was over his sin by beating his chest with his fist and begging God for mercy. God accepts those who genuinely come to him in humility and repentance of sin. (34-09)
 
-Declared Righteous: Jesus explained that God heard the tax collectors pray. God showed mercy on the tax collector and declared him righteous. Even though the tax collector was a sinner, God regarded him as righteous (morally right before God) because God forgave his sin. Sinful humans can only be declared righteous by God if their sins are forgiven. Sins will only be forgiven of those who humble beg God for mercy. (34-10)
+Declared Righteous: Jesus explained that God heard the tax collectors pray. God showed mercy on the tax collector and declared him righteous. Even though the tax collector was a sinner, God regarded him as righteous (morally right before God) because God forgave his sin. Sinful humans can only be declared righteous by God if their sins are forgiven. Sins will only be forgiven for those who humbly beg God for mercy. (34-10)
 
 Humility: Jesus explained that God dishonors the proud and honors the humble. People who think they are better than others and have confidence in their moral behavior will be rejected by God. Those who humble themselves and realize how low and sinful they are before God will be accepted by God. (34-10)
 
@@ -400,7 +400,7 @@ Answer the following theology questions as a community. Discuss what truths this
 
 1.  What is the kingdom of God like? What do we learn about God’s kingdom from this series of Jesus’ parables/stories?
 2.  How can sinful humans find acceptance before God? What does the story of the tax collector and the religious leader teach us about how to really be accepted by God?
-3.  How does pride become a part of our heart and what are its dangers? How can one become humble and what are its benefits? What does this story teach us about the danger of pride and the need for humility?
+3.  How does pride become a part of our heart, and what are its dangers? How can one become humble, and what are its benefits? What does this story teach us about the danger of pride and the need for humility?
 
 ### Translation Draft
 

@@ -25,30 +25,30 @@ God set to restore his world through his promise.
 God made a covenant with Abraham. He promised to bless all nations through Abraham.
 God kept his promises across the generations.
 God provided Abraham with a promised child, Isaac.
-God gave Isaac a wife and she bore twins, Jacob and Esau.
+God gave Isaac a wife, and she bore twins, Jacob and Esau.
 God blessed Jacob and his sons, and the blessing continued to the next generation.
 God rescued Joseph, one of Jacob’s sons, and used him to rescue his family.
 God caused his people, the Israelites, to multiply in the land of Egypt; eventually, they became slaves.
-But, God raised up a deliverer, Moses, to deliver his people from their slavery.
-God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people who covered their doorposts with the blood of a sacrificed lamb.
+But God raised up a deliverer, Moses, to deliver his people from slavery.
+God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people, who covered their doorposts with the blood of a sacrificed lamb.
 Then, God delivered the Israelites by bringing them out of Egypt and crossing the Red Sea on dry land.
 God made a covenant with the Israelites and made them his people.
 God tested Israel in a series of wilderness wanderings and
 eventually brought his people into the promised land of Canaan.
 God raised up deliverers to lead Israel and rescue them from their enemies.
 God formed Israel into a kingdom. He made a covenant with King David and promised to send a king that would rule his people forever.
-Many of Israel’s kings were evil and the kingdom of Israel divided into two kingdoms.
+Many of Israel’s kings were evil, and the kingdom of Israel was divided into two kingdoms.
 God sent prophets to warn his people of God’s judgment and call them to repent.
 When Israel did not repent, God sent his people into exile. After many years, he brought them back to the land.
-Throughout the Old Testament, God promised to send his Messiah to deliver his people form their sin.
+Throughout the Old Testament, God promised to send his Messiah to deliver his people from their sin.
 After many years, the prophet John was born. He would prepare people for the coming Messiah.
 At the perfect time, God sent his Son, Jesus, to be born of a virgin Mary.
 When John and Jesus grew up, John baptized Jesus as a sign that Jesus was God’s beloved Son.
 Jesus endured all manner of temptation without ever sinning.
 When he was thirty years old, he launched a public ministry of preaching, teaching, and healing.
 He taught his disciples about the life of compassion, sacrifice, and forgiveness.
-He performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
-He proclaimed to people the nature of real faith, God’s kingdom, and the how fallen humans can be restored in relationship with God.
+Jesus performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
+He proclaimed to people the nature of real faith, God’s kingdom, and how fallen humans can be restored in relationship with God.
 
 <!-- page break -->
 
@@ -198,11 +198,11 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 35-01
 
-What kind people gathered to hear Jesus teach in this story?  
+What kind of people gathered to hear Jesus teach in this story?  
 Many people who were tax collectors and people who did not obey the Law of Moses gathered to hear Jesus teach.
 
 #### 35-02
@@ -230,7 +230,7 @@ The father divided up his property between his sons.
 #### 35-04
 
 What did the younger son do with his inheritance?  
-The younger son gathered up all his possessions, went far away, and wasted it in sinful living.
+The younger son gathered up all his possessions, went far away, and wasted it on sinful living.
 
 #### 35-05
 
@@ -244,20 +244,20 @@ What did the younger son do to survive during the famine?
 He took a job feeding pigs.
 
 What did the younger son feel like at this time?  
-The younger son was so miserable and hungry that he wanted to eat the pigs food.
+The younger son was so miserable and hungry that he wanted to eat the pigs’ food.
 
 #### 35-06
 
 Why did the younger son decide to return home?  
-He realized that father’s servants had plenty to eat, and yet he was starving.
+He realized his father’s servants had plenty to eat, yet he was starving.
 
 What was the younger son planning to ask his father?  
 He was going to ask his father to let him be one of his servants.
 
 #### 35-07
 
-When the did the father see his son returning home?  
-The younger son started back towards his father’s home and the father saw him when he was still far away.
+When did the father see his son returning home?  
+The younger son started back towards his father’s home, and the father saw him when he was still far away.
 
 What did the father do when he saw the younger son approaching?  
 He felt compassion for him, ran to him, hugged him, and kissed him.
@@ -273,7 +273,7 @@ How did the father respond to the younger son’s confession?
 He put clothes, a ring, and sandals on the younger son and had a feast to celebrate his return.
 
 What did the father say about his son returning home?  
-The father said that his son was dead but was now alive, he was lost but was now found.
+The father said that his son was dead but was now alive; he was lost but was now found.
 
 #### 35-10
 
@@ -281,7 +281,7 @@ How did people act when the son returned home?
 The people began to celebrate.
 
 Where was the older son at this time?  
-The older son was working in the field and heard the music and dancing and wondered what was happening.
+The older son was working in the field, heard the music and dancing, and wondered what was happening.
 
 #### 35-11
 
@@ -300,7 +300,7 @@ What was the older son’s complaint to his father?
 The older son said he had worked faithfully for his father and obeyed him, and his father did not give him even a small goat to celebrate.
 
 What did the older son say about the celebration of the younger son?  
-The older son said that the younger son wasted money doing sinful things, but when he came home he was given the best calf to celebrate his return.
+The older son said that the younger son wasted money doing sinful things, but when he came home, he was given the best calf to celebrate his return.
 
 #### 35-13
 
@@ -308,7 +308,7 @@ How much of the father’s possessions now belonged to the older son?
 Everything the father had now belonged to the older son.
 
 What reason did the father give for celebrating the return of his younger son?  
-His son had been dead, but now was alive. He had been lost, but now was found.
+His son had been dead but now was alive. He had been lost, but now was found.
 
 ### Translation Questions
 
@@ -316,7 +316,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 35-01
 
-**tax collectors** Tax collectors gathered money from people that was owed to the government. At this time, **tax collectors** were considered to be the worst of sinners because often they stole money from people by collecting a higher tax than the government required and keeping the difference for themselves. How would you express **tax collectors** to mean people whose job it is to collect money from citizens that is owed to the government?
+**tax collectors** Tax collectors gathered money from people that was owed to the government. At this time, **tax collectors** were considered to be the worst of sinners because they often stole money from people by collecting a higher tax than the government required and keeping the difference for themselves. How would you express **tax collectors** to mean people whose job is to collect money from citizens owed to the government?
 
 **people who did not try to obey the Law of Moses** This group of people disobeyed God’s law and did not attempt to follow it. How would you express **people who did not try to obey the Law of Moses** to mean people who sinned by breaking God’s commands without making an effort to follow these commands?
 
@@ -324,27 +324,27 @@ Use the following translation questions to understand specific details of the pa
 
 **talking to these people as friends** Jesus was speaking with sinners and tax collectors in a friendly way. The religious leaders considered this a problem because they did not think religious people should associate with sinners. How would you express **talking to these people as friends** to mean speaking to people in a kind and accepting way like friends would speak to each other?
 
-**Jesus heard them talk** Jesus overheard the religious leaders criticize him. The religious leaders did not speak their criticism directly to Jesus. They told other people and Jesus heard what they said to these people. How would you express **Jesus heard them talk** to mean Jesus heard what the religious leaders said about him to other people?
+**Jesus heard them talk** Jesus overheard the religious leaders criticize him. The religious leaders did not speak their criticism directly to Jesus. They told other people, and Jesus heard what they said to these people. How would you express **Jesus heard them talk** to mean Jesus heard what the religious leaders said about him to other people?
 
 #### 35-03
 
-**There was a man** Jesus tells a story about a man who had two sons. The man in this story is not given a name. How would you express **There was a man** to introduce a new (unspecified/unnamed) character in a story/narrative?
+**There was a man** Jesus tells a story about a man with two sons. The man in this story is not given a name. How would you express **There was a man** to introduce a new (unspecified/unnamed) character in a story/narrative?
 
-**I want my inheritance now!** The younger son makes a strong request from his father. The son said this to emphasize that he was not willing to wait until after his father died in order to receive his inheritance. An inheritance is the part of your wealth that will be rightfully given to a child when the father dies. How would you express **I want my inheritance now!** as a strong request by the younger son that father give his inheritance wealth now rather than waiting until after his father dies?
+**I want my inheritance now!** The younger son makes a strong request from his father. The son said this to emphasize that he was unwilling to wait until after his father died to receive his inheritance. An inheritance is the part of your wealth that will be rightfully given to a child when the father dies. How would you express **I want my inheritance now!** as a strong request by the younger son that his father give his inheritance wealth now rather than waiting until after his father dies?
 
-**property** The father listened to the younger son’s request. The father separated his possessions and allocated some for his older son and his younger son. How would you express **property** to mean a person’s wealth and possessions that would include land, animals, and money?
+**property** The father listened to the younger son’s request. The father separated his possessions and allocated some for his older son and his younger son. How would you express **property** to mean a person’s wealth and possessions, including land, animals, and money?
 
 #### 35-04
 
 **wasted his money** The younger son spent all his money without getting anything of value in exchange. Some people might describe this as “throwing” one’s money away or “eating” one’s money. How would you express **wasted his money** to mean the younger son used all his money on things that were not valuable and did not help him sustain his wealth?
 
-**sinful living** The younger son spent his money doing things that were against God’s laws and commands. How would you express **sinful living** to mean acting and behaving in a way that is immoral and disobedient to God’s commands?
+**sinful living** The younger son spent his money doing things that were against God’s laws and commands. How would you express **sinful living** to mean acting and behaving in an immoral and disobedient way to God’s commands?
 
 #### 35-05
 
 **a severe famine occurred** A famine occurs when there is very little food to eat for a group of people living in a certain area. How would you express **a severe famine occurred** to mean there was a really bad time when there was very little food to eat for the people living in the area where the younger son was staying?
 
-**he took the only job he could find** The younger son needed to work so he could earn money. A job refers to work that he would do for someone else in exchange for payment. The younger son could not find a good job that would pay good money. The only job that was available for him was the dirty and low-paying job of feeding pigs. How would you express **he took the only job he could find** to mean the younger son worked to earn some money doing the only work that he could get at that time?
+**he took the only job he could find** The younger son needed to work so he could earn money. A job refers to work he would do for someone else in exchange for payment. The younger son could not find a good job that would pay good money. The only job available to him was the dirty and low-paying job of feeding pigs. How would you express **he took the only job he could find** to mean the younger son worked to earn some money doing the only work he could get at that time?
 
 **feeding pigs** The younger son was able to find a job **feeding pigs**. This would have been considered as one of the lowest jobs in society at this time. How would you express **feeding pigs** to mean a job of low status giving food to pigs?
 
@@ -352,31 +352,31 @@ Use the following translation questions to understand specific details of the pa
 
 **said to himself** The younger son either thought these words or said them out loud to himself. Either way, these words represent the thoughts of the younger son about his living conditions. How would you express **said to himself** to mean the younger son expressed his thoughts to himself without necessarily speaking to another person?
 
-**What am I doing?** The son isn’t really asking for information on what he is doing at the moment. He asked the question to himself to express dissatisfaction with how he was living. The younger son had wasted his inheritance, was living far from home, and was ready to share food with pigs. He was living a miserable life because of his disobedient decisions. How would you express **What am I doing?** as a question the son asks to convey that it did not make sense for him to be living in such miserable conditions?
+**What am I doing?** The son isn’t really asking for information on what he is doing at the moment. He asked the question to himself to express dissatisfaction with how he was living. The younger son had wasted his inheritance, lived far from home, and was ready to share food with pigs. He was living a miserable life because of his disobedient decisions. How would you express **What am I doing?** as a question the son asks to convey that it did not make sense for him to be living in such miserable conditions?
 
 #### 35-07
 
-**When he was still far away** The father saw his younger son returning home while he was some distance away. The son was getting close to his father’s house but was still far enough away that most people in the house would not have seen him. How would you express **When he was still far away** to mean the the father saw he younger son within sight of his father’s home, but still a distance away?
+**When he was still far away** The father saw his younger son returning home while he was some distance away. The son was getting close to his father’s house but was still far enough away that most people in the house would not have seen him. How would you express **When he was still far away** to mean the father saw his younger son within sight of his father’s home but still a distance away?
 
-**felt compassion** The father loved his son and had deep concern for him. How would you express **felt compassion** to mean the father felt felt deep love and pity toward his younger son?
+**felt compassion** The father loved his son and had a deep concern for him. How would you express **felt compassion** to mean the father felt deep love and pity toward his younger son?
 
-**hugged him and kissed him** The father did this to show his son that he loved him and was glad that the son was coming home. In this time and culture, this is how fathers would show affection to their sons. How would express **hugged him and kissed him** to mean the father embraced his son with a hug and kiss him showing the affection of a father for a son?
+**hugged him and kissed him** The father did this to show his son that he loved him and was glad that the son was coming home. These actions are how fathers would show affection to their sons in this time and culture. How would express **hugged him and kissed him** to mean the father embraced his son with a hug and kiss him showing the affection of a father for a son?
 
 #### 35-08
 
-**sinned against God and against you** The younger son realized that he violated God’s commands. He also recognized that he did not treat his father in a morally right way either. How would you express **sinned against God and against you** to mean disobeyed God’s commands and done things that were wrong to his father?
+**sinned against God and against you** The younger son realized he violated God’s commands. He also recognized that he did not treat his father in a morally right way either. How would you express **sinned against God and against you** to mean he disobeyed God’s commands and did things that were wrong to his father?
 
-**I am not worthy to be your son** The son told his father that he did not think he was good enough to be considered his fathers’ son. How would you express **I am not worthy to be your son** to mean the younger son did not think he deserved to be a son to his father anymore because of his sin against God and his father?
+**I am not worthy to be your son** The son told his father that he did not think he was good enough to be considered his father’s son. How would you express **I am not worthy to be your son** to mean the younger son did not think he deserved to be a son to his father anymore because he sinned against God and his father?
 
 #### 35-09
 
 **Put a ring on his finger** A ring was a sign of authority that men wore on one of their fingers. How would you express **Put a ring on his finger** as an act that means the father considered the younger son to be fully respected as a member of the family?
 
-**the best calf** The father told his servants to kill the the fattest calf for a feast. This was the calf that had been fattened so that, when cooked, it would taste the best. How would you express **the best calf** to mean fattest calf that would have the best tasting meat when cooked for a meal?
+**the best calf** The father told his servants to kill the fattest calf for a feast. The calf had been fattened so that, when cooked, it would taste the best. How would you express **the best calf** to mean the fattest calf with the best-tasting meat when cooked for a meal?
 
-**my son was dead, but now he is alive!** The father speaks of the son being gone as if he were dead. The father also speaks of the son returning home as if he has come back to life. This is a strong statement that emphasizes the father’s emotion and joy of having his son back home. How would you express **my son was dead, but now he is alive!** to mean the father grieved when his son was gone as if the son had died and now the father was happy that his son had returned home as if the son had come back to life?
+**my son was dead, but now he is alive!** The father speaks of the son being gone as if he were dead. The father also speaks of the son returning home as if he has come back to life. This strong statement emphasizes the father’s emotion and joy of having his son back home. How would you express **my son was dead, but now he is alive!** to mean the father grieved when his son was gone as if the son had died, and now the father was happy that his son had returned home as if the son had come back to life?
 
-**He was lost, but now we have found him!** The father speaks of the son being gone as if he were lost. The father also speaks of the son returning home as if he has be found again. This is a strong statement that emphasizes the father’s emotion and joy of having his son back home. How would you express **He was lost, but now we have found him!** to mean the father grieved when his son was gone as if the son had been lost and now the father was happy that his son had returned home as if the son had been found?
+**He was lost, but now we have found him!** The father speaks of the son being gone as if he were lost. The father also speaks of the son returning home as if he has been found again. This strong statement emphasizes the father’s emotion and joy of having his son back home. How would you express **He was lost, but now we have found him!** to mean the father grieved when his son was gone as if the son had been lost, and now the father was happy that his son had returned home as if the son had been found?
 
 #### 35-10
 
@@ -392,23 +392,23 @@ Use the following translation questions to understand specific details of the pa
 
 #### 35-12
 
-**All these years** I have worked faithfully for you! The older son told his father how he had been loyal all the time the younger son was living a sinful life. The old older son thought that his father was treating him unfairly. He gave a celebration for his younger brother who lived sinfully but did not have a celebration for his older son who was loyal to him. How would you express **All these years** I have worked faithfully for you! as a strong statement that shows that the older son felt his father was treating him unfairly by giving a celebration to the younger son rather than to the older son?
+**All these years** I have worked faithfully for you! The older son told his father how he had been loyal all the time the younger son was living a sinful life. The old older son thought that his father was treating him unfairly. He gave a celebration for his younger brother, who lived sinfully but did not have a celebration for his older son, who was loyal to him. How would you express **All these years** I have worked faithfully for you! as a strong statement that shows that the older son felt his father was treating him unfairly by giving a celebration to the younger son rather than to the older son?
 
 **one small goat** A small goat would have fed fewer people than the best calf, and would not be valued as much. The older brother is complaining that his father was treating the sinful younger son better than him. How would you express **one small goat** to mean the father did not give even small celebration for the older son who had served his father loyally?
 
-**this son of yours** The older son was angry. The older son rejected his younger brother and he disapproved of his father for welcoming back this wayward son. How would you express **this son of yours** to mean the older brother did not consider the younger son to be his brother, especially because he felt his father had acted unfairly in giving a celebration to his younger son?
+**this son of yours** The older son was angry. The older son rejected his younger brother and disapproved of his father for welcoming back this wayward son. How would you express **this son of yours** to mean the older brother did not consider the younger son to be his brother, especially because he felt his father had acted unfairly in giving a celebration to his younger son?
 
 #### 35-13
 
-**it is right for us** The father explained that it was appropriate/proper to celebrate the return of the younger son. How would you express **it is right for us** to mean it is the right/proper things to do in welcoming back the younger son?
+**it is right for us** The father explained that it was appropriate/proper to celebrate the younger son’s return. How would you express **it is right for us** to mean it is the right/proper thing to do in welcoming back the younger son?
 
-**your brother** The father refers to his younger son as **your brother** to remind the older son of his relationship to the younger son and of how he should love his younger brother. How would you express **your brother** to mean the younger son is truly the brother to his older brother and he should love him in that way?
+**your brother** The father refers to his younger son as **your brother** to remind the older son of his relationship with the younger son and of how he should love his younger brother. How would you express **your brother** to mean the younger son is truly the brother to his older brother and he should love him in that way?
 
 <!-- page break -->
 
 ## Theological Dialogue: Discussing the Meaning of the Story
 
-Take time to explore the meaning of this story together as a community. Use the following discussions as a way to grasp what truth the story teaches.
+Take time to explore the meaning of this story together as a community. Use the following discussions to grasp the truth the story teaches.
 
 ### Discourse Questions
 
@@ -416,7 +416,7 @@ Use the following discourse questions to understand the meaning of the story. Pa
 
 ##### How did Jesus interact with sinners and religious leaders? (35-01, 35-02)
 
-Sinners: Jesus was teaching a group of people who did not follow God’s laws. This group was composed of people who were considered sinful. There were tax collectors. These people were known for stealing money from people. Also, there were people who did not try to obey God. Although Jesus did not participate in their sin, Jesus was interacting with these people as friends. (35-01, 35-02)
+Sinners: Jesus was teaching a group of people who did not follow God’s laws. This group was composed of people who were considered sinful. There were tax collectors. These people were known for stealing money from people. Also, some people did not try to obey God. Although Jesus did not participate in their sin, Jesus interacted with these people as friends. (35-01, 35-02)
 
 Religious Leaders: Religious leaders criticized Jesus for being friendly with sinners. These religious leaders thought they were better than other sinners. They thought that Jesus should not be interacting with sinners in this way. The religious leaders told other people that Jesus was acting wrongly. In response, Jesus told the religious leaders a story that would confront their pride and attitude of being morally superior to others. (35-02)
 
@@ -428,17 +428,17 @@ Rejection of Family: The younger son took his possessions and lived in a far awa
 
 Sinful Living: The younger son wasted all his money on sinful living. He used the wealth of his inheritance to do things that did not please God and things that broke God’s commands. Seeking a life of pleasure, the younger son lived in sin. (35-04)
 
-Misery: The younger son ran out of money and could not by food. He took a job of lowly status feeding pigs. He was so miserable and hungry that he wanted to eat the pigs’ food. His life of sin led him to misery, hunger, and shame. (35-05)
+Misery: The younger son ran out of money and could not buy food. He took a job of lowly status feeding pigs. He was so miserable and hungry that he wanted to eat the pigs’ food. His life of sin led him to misery, hunger, and shame. (35-05)
 
 ##### How did the younger son get restored? (35-06, 35-07, 35-08, 35-09, 35-10)
 
-Honest Acknowledgement of Sin’s Misery: The younger son came to realize that his sinful living was foolish. He chose to live in sin and it led to a life of misery. Meanwhile, even the servants in his father’s house were eating better than he was. The son came to realize that his life of sin had led to misery and life was much better in his father’s home. The younger son had to admit he foolishness of his sin and the good of his father’s house before he would return home. (35-06)
+Honest Acknowledgement of Sin’s Misery: The younger son realized that his sinful living was foolish. He chose to live in sin, leading to a miserable life. Meanwhile, even the servants in his father’s house ate better than he was. The son realized that his life of sin had led to misery and that life was much better in his father’s home. The younger son had to admit the foolishness of his sin and the good of his father’s house before he would return home. (35-06)
 
-Return Home/Leave Sin: The younger son decided that he would return home to his father. His life was better with his father than living a life of sin. The younger son was restored by returning home to his father and leaving his life of sin. (35-06)
+Return Home/Leave Sin: The younger son decided to return home to his father. His life was better with his father than living a life of sin. The younger son was restored by returning home to his father and leaving his life of sin. (35-06)
 
-Father’s Compassion: The younger son was only received back home because the father had compassion on him. When the son was still a distance away, the father saw him and welcomed him by hugging and kissing him. (35-07)
+Father’s Compassion: The younger son was only received back home because the father had compassion for him. When the son was still a distance away, the father saw him and welcomed him by hugging and kissing him. (35-07)
 
-Humble Confession: The younger son acknowledged that he sinned against God and his father. His sin made him unworthy to be part of his father’s family. They younger son showed humility and confessed his sins. (35-08)
+Humble Confession: The younger son acknowledged sinning against God and his father. His sin made him unworthy to be part of his father’s family. The younger son showed humility and confessed his sins. (35-08)
 
 Full Acceptance: The younger son was fully restored to a position/status of honor in the family. The father put on him the best clothes, a ring on his finger, and sandals on his feet. He also had the best calf slaughtered for a feast and celebration. The father received the son back into the family as a full son. This was because of the compassion and grace of the father. (35-09, 35-10)
 
@@ -448,13 +448,13 @@ Back to Life/Being Found: The father restoring the son to the family was like a 
 
 Anger: The older brother found out about the celebration for his younger brother and was very angry. The older brother thought the father was being unfair in his treatment of the two sons. (35-10, 35-11)
 
-Refusing to Join Celebration: The older brother did not join the celebration. He was so angry that he refused to share the joy of his lost brother coming home and being restored to the family. The older brother did not find joy welcoming his wayward brother back home. (35-11)
+Refusing to Join Celebration: The older brother did not join the celebration. He was so angry that he refused to share the joy of his lost brother coming home and being restored to the family. The older brother did not find joy in welcoming his wayward brother back home. (35-11)
 
-Rejection: The older brother told his father that the younger brother was “this son of yours.” The older brother rejected his brother as a brother and showed disapproval of his father’s actions. The old brother rejected his younger brother as family. (35-12)
+Rejection: The older brother told his father that the younger brother was “this son of yours.” The older brother rejected his brother as a brother and disapproved of his father’s actions. The old brother rejected his younger brother as family. (35-12)
 
-Jealousy: The older brother complained to his father. He explained that he faithfully served him while his younger brother lived in sin but the father did not have a celebration for him. The older brother was jealous of the father’s treatment of the younger son. (35-12)
+Jealousy: The older brother complained to his father. He explained that he faithfully served him while his younger brother lived in sin, but the father did not have a celebration for him. The older brother was jealous of the father’s treatment of the younger son. (35-12)
 
-The older brother did not realize that he had all the provisions of his father’s house while he was living there. The father did not treat the older brother unfairly. The older brother had access to the privileges of the father’s household. Because the older brother thought he was better than the younger brother, he did not rejoice in the blessings that he enjoy or the return of his wayward brother. (35-13)
+The older brother did not realize that he had all the provisions of his father’s house while he was living there. The father did not treat the older brother unfairly. The older brother had access to the privileges of the father’s household. Because the older brother thought he was better than the younger brother, he did not rejoice in the blessings he enjoyed or the return of his wayward brother. (35-13)
 
 <!-- page break -->
 
@@ -463,8 +463,8 @@ The older brother did not realize that he had all the provisions of his father�
 Answer the following theology questions as a community. Discuss what truths this story teaches.
 
 1.  How is sin a rebellion against/rejection of God? How does the rebellion of the younger brother teach us about the nature of sin?
-2.  How can sinners be restored to a relationship with God? What does the return of the younger brother teach us about what it means to be restored in our relationship with God?
-3.  What keeps people from returning to God? How does the rebellion of the younger brother and the angry response of the older brother help us understand what can keep people from returning to God?
+2.  How can sinners be restored to a relationship with God? What does the younger brother’s return teach us about what it means to be restored in our relationship with God?
+3.  What keeps people from returning to God? How do the younger brother’s rebellion and the older brother’s angry response help us understand what can keep people from returning to God?
 
 ### Translation Draft
 

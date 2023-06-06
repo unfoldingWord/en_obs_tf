@@ -24,40 +24,40 @@ God set to restore his world through his promise.
 God made a covenant with Abraham. He promised to bless all nations through Abraham.
 God kept his promises across the generations.
 God provided Abraham with a promised child, Isaac.
-God gave Isaac a wife and she bore twins, Jacob and Esau.
+God gave Isaac a wife, and she bore twins Jacob and Esau.
 God blessed Jacob and his sons, and the blessing continued to the next generation.
 God rescued Joseph, one of Jacob’s sons, and used him to rescue his family.
 God caused his people, the Israelites, to multiply in the land of Egypt; eventually, they became slaves.
-But, God raised up a deliverer, Moses, to deliver his people from their slavery.
-God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people who covered their doorposts with the blood of a sacrificed lamb.
+But God raised up a deliverer, Moses, to deliver his people from slavery.
+God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people, who covered their doorposts with the blood of a sacrificed lamb.
 Then, God delivered the Israelites by bringing them out of Egypt and crossing the Red Sea on dry land.
 God made a covenant with the Israelites and made them his people.
 God tested Israel in a series of wilderness wanderings and
 eventually brought his people into the promised land of Canaan.
 God raised up deliverers to lead Israel and rescue them from their enemies.
 God formed Israel into a kingdom. He made a covenant with King David and promised to send a king that would rule his people forever.
-Many of Israel’s kings were evil and the kingdom of Israel divided into two kingdoms.
+Many of Israel’s kings were evil, and the kingdom of Israel was divided into two kingdoms.
 God sent prophets to warn his people of God’s judgment and call them to repent.
 When Israel did not repent, God sent his people into exile. After many years, he brought them back to the land.
-Throughout the Old Testament, God promised to send his Messiah to deliver his people form their sin.
+Throughout the Old Testament, God promised to send his Messiah to deliver his people from their sin.
 After many years, the prophet John was born. He would prepare people for the coming Messiah.
 At the perfect time, God sent his Son, Jesus, to be born of a virgin Mary.
 When John and Jesus grew up, John baptized Jesus as a sign that Jesus was God’s beloved Son.
 Jesus endured all manner of temptation without ever sinning.
 When he was thirty years old, he launched a public ministry of preaching, teaching, and healing.
 He taught his disciples about the life of compassion, sacrifice, and forgiveness.
-He performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
-He proclaimed to people the nature of real faith, God’s kingdom, and the how fallen humans can be restored in relationship with God.
-Toward the end of his ministry, Jesus revealed his power and glory to his disciples
-and raised a dead man to life
-Jesus was betrayed by one of his disciples and put on trial before a Roman governor
+Jesus performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
+He proclaimed to people the nature of real faith, God’s kingdom, and how fallen humans can be restored in relationship with God.
+Toward the end of his ministry, Jesus revealed his power and glory to his disciples.
+He raised a dead man to life.
+Jesus was betrayed by one of his disciples and put on trial before a Roman governor.
 Jesus was sentenced to death and crucified on a cross
 Three days later, Jesus rose again from the dead.
 After meeting with many of his disciples, Jesus went back to heaven.
-The Holy Spirit empowered Jesus’ followers and formed them into his church
+The Holy Spirit empowered Jesus’ followers and formed them into his church.
 Jesus’ disciples, like Peter and John, performed miracles and preached the good news about Jesus.
 New leaders like Stephen and Philip served the church and preached about Jesus
-Even Saul, a persecutor of Jesus’ followers, became a Christian
+Even Saul, a persecutor of Jesus’ followers, became a Christian.
 
 <!-- page break -->
 
@@ -67,7 +67,7 @@ Even Saul, a persecutor of Jesus’ followers, became a Christian
 
 ![](.\assets\images\image527.jpeg)
 
-There was a man named Saul who did not believe in Jesus. When he was a young man, he guarded the robes of the men who killed Stephen. Later he persecuted the believers. He went from house to house in Jerusalem to arrest both men and women and to put them in prison. Then the high priest gave Saul permission to go to the city of Damascus. He told Saul to arrest followers of Jesus there and to bring them back to Jerusalem.
+There was a man named Saul who did not believe in Jesus. As a young man, he guarded the robes of the men who killed Stephen. Later he persecuted the believers. He went from house to house in Jerusalem to arrest both men and women and to put them in prison. Then the high priest gave Saul permission to go to the city of Damascus. He told Saul to arrest followers of Jesus there and to bring them back to Jerusalem.
 
 ##### 46-02
 
@@ -97,7 +97,7 @@ So Ananias went to Saul, placed his hands on him, and said, “Jesus, who appear
 
 ![](.\assets\images\image532.jpeg)
 
-Right away Saul began preaching to the Jews in Damascus. He said, “Jesus is the Son of God!” The Jews were amazed because Saul had tried to kill believers, and now he believed in Jesus! Saul argued with the Jews. He showed that Jesus was the Messiah.
+Right away, Saul began preaching to the Jews in Damascus. He said, “Jesus is the Son of God!” The Jews were amazed because Saul had tried to kill believers, and now he believed in Jesus! Saul argued with the Jews. He showed that Jesus was the Messiah.
 
 ##### 46-07
 
@@ -109,7 +109,7 @@ After many days, the Jews made a plan to kill Saul. They sent people to watch fo
 
 ![](.\assets\images\image534.jpeg)
 
-Saul went to Jerusalem to meet with the apostles, but they were afraid of him. Then a believer named Barnabas took Saul to the apostles. He told them how Saul had preached boldly in Damascus. After that the apostles accepted Saul.
+Saul went to Jerusalem to meet with the apostles, but they were afraid of him. Then a believer named Barnabas took Saul to the apostles. He told them how Saul had preached boldly in Damascus. After that, the apostles accepted Saul.
 
 ##### 46-09
 
@@ -190,30 +190,30 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 46-01
 
 What was Saul like before he became a disciple of Jesus?  
-Saul did not believe in Jesus, he guarded the robes of the men who killed Stephen, and he persecuted believers by going house to house to arrest and imprison followers of Jesus.
+Saul did not believe in Jesus. He guarded the robes of the men who killed Stephen, and he persecuted believers by going house to house to arrest and imprison followers of Jesus.
 
 Why was Saul going to Damascus?  
-The high priest gave Saul permission to go to Damascus, arrest followers of Jesus, and to bring them back to Jerusalem.
+The high priest gave Saul permission to go to Damascus, arrest followers of Jesus, and bring them back to Jerusalem.
 
 #### 46-02
 
 What happened to Saul before he reached the city?  
-Just before Saul reached the city of Damascus, a bright light shone all around him, he fell to the ground, and he heard a voice speaking to him.
+Just before Saul reached the city of Damascus, a bright light shone all around him. He fell to the ground and heard a voice speaking to him.
 
 What did the person say to Saul?  
 He asked Saul, “Why are you persecuting me?”  
 What did Saul learn about who this person was?  
-Saul asked who the person was and he said he was Jesus and that Saul was persecuting him.
+Saul asked who the person was, and he said he was Jesus and that Saul was persecuting him.
 
 #### 46-03
 
 What happened to Saul when he got up after seeing the bright light?  
-Saul could not see. His friends led him into Damascus and he did not eat or drink for three days.
+Saul could not see. His friends led him into Damascus, and he did not eat or drink for three days.
 
 #### 46-04
 
@@ -227,10 +227,10 @@ Why was Ananias afraid to speak to Saul?
 He had heard that Saul was persecuting the believers.
 
 What did God say was the purpose for which he had chosen Saul?  
-God had chosen Saul to declare God’s name to the Jews and to people from other people groups.
+God had chosen Saul to declare God’s name to the Jews and people from other people groups.
 
 What hardship would Saul face in doing God’s work?  
-God told Ananias that Saul would suffer many things for God’s name?
+God told Ananias that Saul would suffer many things for God’s name.
 
 #### 46-05
 
@@ -238,7 +238,7 @@ What did Ananias do to Saul when he came to him?
 He placed his hands on him.
 
 What did Ananias say to Saul?  
-Ananias told Saul that Jesus sent him to Saul so he could see again and the Holy Spirit would fill Saul.
+Ananias told Saul that Jesus sent him to Saul so he could see again and that the Holy Spirit would fill him.
 
 How long did it take for Saul to regain his sight?  
 Saul was able to see immediately.
@@ -268,10 +268,10 @@ How did the Jews respond to Saul’s preaching?
 They made a plan to kill Saul.
 
 How did the Jews plan to kill Saul?  
-The sent people to watch for Saul at the city gates in order to kill him.
+They sent people to watch for Saul at the city gates in order to kill him.
 
 How did Saul escape from Damascus?  
-Saul heard about the plan and his friends lowered him over the city wall in a basket so he could escape.
+Saul heard about the plan, and his friends lowered him over the city wall in a basket so he could escape.
 
 Did this cause Saul to stop preaching?  
 Saul continued to preach about Jesus.
@@ -279,18 +279,18 @@ Saul continued to preach about Jesus.
 #### 46-08
 
 How did people respond when Saul arrived in Jerusalem?  
-Saul met with the apostles in Jerusalem but they were afraid of Saul.
+Saul met with the apostles in Jerusalem, but they were afraid of Saul.
 
 Who helped Saul to be accepted by the disciples in Jerusalem?  
 A believer named Barnabas took Saul to the apostles and told them how Saul had preached boldly in Damascus.
 
 How did people treat Saul after Barnabas told them how Paul preached boldly?  
-After Barnabas said these thing, the apostles accepted Saul.
+After Barnabas said these things, the apostles accepted Saul.
 
 #### 46-09
 
 Why did some believers go to Antioch?  
-Some believers fled to the far away city Antioch because of the persecution.
+Some believers fled to the faraway city of Antioch because of the persecution.
 
 What did some of these believers do in Antioch?  
 They preached about Jesus.
@@ -301,7 +301,7 @@ They were not Jews.
 What was unique about the believers in Antioch?  
 This was the first time people who were not Jews became believers.
 
-Who showed up to teach these news believers?  
+Who showed up to teach these new believers?  
 Barnabas and Saul came to Antioch to teach the new believers and strengthen the church.
 
 What name first began to be used for the believers in Antioch?  
@@ -346,13 +346,13 @@ Use the following translation questions to understand specific details of the pa
 
 #### 46-03
 
-**When Saul got up, he could not see** Saul fell on the ground when the light surrounded him. At the time Saul got back on his feet, he was unable to see. How would you express **When Saul got up, he could not see** to mean Saul had no ability to see (he was blind) at the time he stood back on his feet?
+**When Saul got up, he could not see** Saul fell on the ground when the light surrounded him. When Saul got back on his feet, he was unable to see. How would you express **When Saul got up, he could not see** to mean Saul had no ability to see (he was blind) when he stood back on his feet?
 
-**Saul did not eat or drink anything for three days** It is not stated whether he chose not to eat or drink as a form of worship, or if he had no appetite because he was too distressed from his situation. It is preferable not to specify the reason. How would you express **Saul did not eat or drink anything for three days** to mean Saul had nothing to eat or drink for three consecutive days?
+**Saul did not eat or drink anything for three days** It is not stated whether he chose not to eat or drink as a form of worship or if he had no appetite because he was too distressed from his situation. It is preferable not to specify the reason. How would you express **Saul did not eat or drink anything for three days** to mean Saul had nothing to eat or drink for three consecutive days?
 
 #### 46-04
 
-**Go!** Jesus ordered Ananias to travel to Saul as do what Jesus already told him to do. This command also mildly rebukes Ananias’ fear and hesitation. God is reassuring Ananias and and make clear why God is sending him to Saul. How would you express **Go!** as a command that Ananias should stop objecting and go to Saul as God instructed him to do?
+**Go!** Jesus ordered Ananias to travel to Saul as do what Jesus already told him to do. This command also mildly rebukes Ananias’ fear and hesitation. God is reassuring Ananias and making clear why God is sending him to Saul. How would you express **Go!** as a command that Ananias should stop objecting and go to Saul as God instructed him to do?
 
 **to declare my name to the Jews and to people from other people groups** Jesus told Ananias that Saul would preach about Jesus to all kinds of people: Jewish people and non-Jewish people who lived in many different places. How would you express **to declare my name to the Jews and to people from other people groups** to mean Saul would tell all kinds of people about Jesus, both Israelites and those who were not Israelites?
 
@@ -364,11 +364,11 @@ Use the following translation questions to understand specific details of the pa
 
 **the Holy Spirit will fill you** Ananias told Saul that the Holy Spirit would give Saul great power and ability. How would you express **the Holy Spirit will fill you** to mean the Holy Spirit would empower Saul to act in God’s strength and for God’s purposes?
 
-**Saul ate some food and became strong again** Saul was weak because he did not eat or drink anything for three consecutive days. At this time, Saul ate food and his body regained energy. How would you express **Saul ate some food and became strong again** to mean Saul consumed food and it energized his body?
+**Saul ate some food and became strong again** Saul was weak because he did not eat or drink anything for three consecutive days. At this time, Saul ate food, and his body regained energy. How would you express **Saul ate some food and became strong again** to mean Saul consumed food, and it energized his body?
 
 #### 46-06
 
-**The Jews were amazed because Saul had tried to kill believers** The Jews who heard Saul preach about Jesus were very surprised. Not too long ago, Saul was arresting and imprisoning disciples who believed in Jesus. Now Saul was preaching about Jesus. How would you express **The Jews were amazed because Saul had tried to kill believers** to mean the reason the Jews were very surprised about Saul preaching Jesus was Saul had previously tried to kill disciples of Jesus?
+**The Jews were amazed because Saul had tried to kill believers** The Jews who heard Saul preach about Jesus were very surprised. Not too long ago, Saul arrested and imprisoned disciples who believed in Jesus. Now Saul was preaching about Jesus. How would you express **The Jews were amazed because Saul had tried to kill believers** to mean the reason the Jews were very surprised about Saul preaching Jesus was Saul had previously tried to kill disciples of Jesus?
 
 **argued with the Jews** Paul spoke persuasively with the Jews. He tried to convince them to believe in Jesus. How would you express **argued with the Jews** to mean Paul gave the Jews good reasons for believing in Jesus?
 
@@ -376,35 +376,35 @@ Use the following translation questions to understand specific details of the pa
 
 #### 46-07
 
-**the Jews made a plan to kill Saul** Here the Jews refers to the leaders of the Jews. These leaders developed a plan that would result in killing Saul. How would you express **the Jews made a plan to kill Saul** to mean the Jewish leaders formed a plot to murder Saul?
+**the Jews made a plan to kill Saul** Here, the Jews refers to the leaders of the Jews. These leaders developed a plan that would result in killing Saul. How would you express **the Jews made a plan to kill Saul** to mean the Jewish leaders formed a plot to murder Saul?
 
-**lowered him over the city wall in a basket** Friends of Saul assisted Saul to escape the city so that he would not be killed. The people who wanted to kill Saul were waiting at the city gates. Paul got into a large basket and Saul’s friends lowered him over the city wall. Now Paul was able to get away from those who were trying to kill him. How would you express **lowered him over the city wall in a basket** to mean Saul’s friends helped Saul get into a large basket and lowered the basket with him in it over the city wall?
+**lowered him over the city wall in a basket** Friends of Saul assisted Saul in escaping the city so that he would not be killed. The people who wanted to kill Saul were waiting at the city gates. Saul got into a large basket, and Saul’s friends lowered him over the city wall. Now Saul was able to get away from those who were trying to kill him. How would you express **lowered him over the city wall in a basket** to mean Saul’s friends helped Saul get into a large basket and lowered the basket with him over the city wall?
 
 #### 46-08
 
 **but they were afraid of him** Saul traveled to the city of Jerusalem to meet with Jesus’ apostles. Even though Saul was now a disciple of Jesus, the apostles feared Saul because he used to kill believers. How would you express **but they were afraid of him** to mean the apostles being afraid of Saul is a different/opposite response than Paul wanting to meet with the apostles?
 
-**After that the apostles accepted Saul** Barnabas told the apostles how Saul preached boldly about Jesus. Then, the apostles treated Saul like a fellow disciple and were now longer afraid of him. How would you express **After that the apostles accepted Saul** to mean the apostles believed that Saul also was a believer in Jesus after Barnabas told them how Saul boldly told people about Jesus?
+**After that the apostles accepted Saul** Barnabas told the apostles how Saul preached boldly about Jesus. Then, the apostles treated Saul like a fellow disciple and were no longer afraid of him. How would you express **After that the apostles accepted Saul** to mean the apostles believed that Saul was also a believer in Jesus after Barnabas told them how Saul boldly told people about Jesus?
 
 #### 46-09
 
-**to strengthen the church** Barnabas and Saul traveled to the city of Antioch to teach the new believers. This teaching helped the church to grow strong spiritually. How would you express **to strengthen the church** to mean Barnabas and Saul traveled to the city of Antioch to help the believers in Jesus to grow strong in their faith and to believe more firmly in Jesus?
+**to strengthen the church** Barnabas and Saul traveled to the city of Antioch to teach the new believers. This teaching helped the church to grow strong spiritually. How would you express **to strengthen the church** to mean Barnabas and Saul traveled to Antioch to help the believers in Jesus grow strong in their faith and believe more firmly in Jesus?
 
 **believers in Jesus were first called ‘Christians’** For the first time, people called believers in Jesus Christians. How would you express **believers in Jesus were first called ‘Christians’** to mean the people of Antioch first called the believers in Jesus ‘Christians?’”
 
 #### 46-10
 
-**Set apart for me Barnabas and Saul to do the work I have called them to do** The Holy Spirit told the believers to designate Barnabas and Saul for a specific work that God called them to perform. How would you express **Set apart for me Barnabas and Saul to do the work I have called them to do** to mean appoint Paul and Barnabas to do the special work God chose them to do?
+**Set apart for me Barnabas and Paul to do the work I have called them to do** The Holy Spirit told the believers to designate Barnabas and Paul for a specific work God called them to perform. How would you express **Set apart for me Barnabas and Paul to do the work I have called them to do** to mean appoint Paul and Barnabas to do the special work God chose them to do?
 
-**placed their hands on them** The believers in Antioch put their hands on Barnabas and Paul, perhaps on their head, shoulder or back. This act showed that the leaders agreed that the Holy Spirit had called Barnabas and Saul to do this work. How would you express **placed their hands on them** to mean the believers in Antioch put their hands on Barnabas and Saul to bless them with the power and authority of the Holy Spirit and to show their unity and affirmation that the Spirit was sending them on this mission?
+**placed their hands on them** The believers in Antioch put their hands on Barnabas and Paul, perhaps on their head, shoulder, or back. This act showed that the leaders agreed that the Holy Spirit had called Barnabas and Saul to do this work. How would you express **placed their hands on them** to mean the believers in Antioch put their hands on Barnabas and Saul to bless them with the power and authority of the Holy Spirit and to show their unity and affirmation that the Spirit was sending them on this mission?
 
-**sent them out** The believers in Antioch sent Barnabas and Saul to go do what the Holy Spirit called them to do. How would you express **sent them out** to mean the believers sent them on their journey to do the work God chose them to do?
+**sent them out** The believers in Antioch sent Barnabas and Paul to do what the Holy Spirit called them to do. How would you express **sent them out** to mean the believers sent them on their journey to do the work God chose them to do?
 
 <!-- page break -->
 
 ## Theological Dialogue: Discussing the Meaning of the Story
 
-Take time to explore the meaning of this story together as a community. Use the following discussions as a way to grasp what truth the story teaches.
+Take time to explore the meaning of this story together as a community. Use the following discussions to grasp the truth the story teaches.
 
 ### Discourse Questions
 
@@ -422,11 +422,11 @@ Antioch: Persecution caused believers to move to other areas. Some moved to a ci
 
 ##### How did Saul’s conversion come about? (46-02, 46-03, 46-04, 46-05, 46-08)
 
-Conviction: Jesus met Saul while he was traveling to Damascus. Just before Saul reached the city, a bright light surrounded Saul and he fell on the ground. Jesus rebuked Saul for persecuting him. Saul’s persecution of beliers was an attack on Jesus. Jesus confronted and convicted Saul of his sin. (46-02)
+Conviction: Jesus met Saul while he was traveling to Damascus. Just before Saul reached the city, a bright light surrounded Saul, and he fell to the ground. Jesus rebuked Saul for persecuting him. Saul’s persecution of believers was an attack on Jesus. Jesus confronted and convicted Saul of his sin. (46-02)
 
-Realize Weakness and Blindness: After meeting Jesus on the road, Saul was blind and could not see. He had to be lead into the city of Damascus. He did not eat or drink for three days. Saul had to recognize that he was weak. He was not living life or seeing reality correctly. (46-03)
+Realize Weakness and Blindness: After meeting Jesus on the road, Saul was blind and could not see. He had to be led into the city of Damascus. He did not eat or drink for three days. Saul had to recognize that he was weak. He was not living life or seeing reality correctly. (46-03)
 
-Change: God told Ananias to go to Saul and place hands on him so Saul would recover his ability to see. Ananias was afraid of Saul because he killed believers. God told Ananias to go to Saul and do what God told him. Ananias obeyed God. He went to Saul, placed hands on him, and Saul could see again. God brought a miraculous change to Saul. Through God’s power, Saul became a believer in Jesus. (46-04, 46-05)
+Change: God told Ananias to go to Saul and place his hands on him so Saul would recover his ability to see. Ananias was afraid of Saul because he killed believers. God told Ananias to go to Saul and do what God told him. Ananias obeyed God. He went to Saul, placed hands on him, and Saul could see again. God brought a miraculous change to Saul. Through God’s power, Saul became a believer in Jesus. (46-04, 46-05)
 
 Mission: God chose Saul to preach Jesus to all kinds of people. Saul would endure many painful experiences as he told people about Jesus. (46-04)
 
@@ -438,13 +438,13 @@ Community Member: It took some time for the believers to accept Saul. At first, 
 
 ##### How did the early believers in Jesus go about doing God’s mission/work? (46-04, 46-06, 46-07, 46-09, 46-10)
 
-Preaching: God said that he chose Saul to preach about Jesus to all kinds of people. After Saul became a believers, Saul did not delay preaching the gospel. He immediately began preaching to Jews. He tried to convince them that Jesus was the Messiah. Saul continued to preach about Jesus after he escaped from a plot to kill him. Believers preached about Jesus as they fled persecution. People in the city of Antioch became believers because other believers told them about Jesus. (46-04, 46-06, 46-07, 46-09)
+Preaching: God said that he chose Saul to preach about Jesus to all kinds of people. After Saul became a believer, he did not delay preaching the gospel. He immediately began preaching to Jews. He tried to convince them that Jesus was the Messiah. Saul continued to preach about Jesus after he escaped from a plot to kill him. Believers preached about Jesus as they fled persecution. People in the city of Antioch became believers because other believers told them about Jesus. (46-04, 46-06, 46-07, 46-09)
 
-Suffering: Believers faced suffering and mistreatment as they preached about Jesus. Jesus said that Saul would eventually suffer for preaching about Jesus. Some people were amazed at Paul’s preaching. He used to kill believers of Jesus and now he was preaching about Jesus. Jewish leads devised a plot to kill Saul. They waited for him at the city gates, but friends of Saul helped him escape by lowering him in a basket over the city walls. (46-04, 46-07)
+Suffering: Believers faced suffering and mistreatment as they preached about Jesus. Jesus said that Saul would eventually suffer for preaching about Jesus. Some people were amazed at Saul’s preaching. He used to kill believers of Jesus, and now he was preaching about Jesus. Jewish leads devised a plot to kill Saul. They waited for him at the city gates, but friends of Saul helped him escape by lowering him in a basket over the city walls. (46-04, 46-07)
 
-Church Strengthening: Barnabas and Saul went to Antioch to teach the new believers about Jesus and make their faith in Jesus strong. (46-09)
+Church Strengthening: Barnabas and Paul went to Antioch to teach the new believers about Jesus and make their faith in Jesus strong. (46-09)
 
-Sending Missionaries: The believers in Antioch sent Barnabas and Saul to travel to other places to tell people about Jesus. The Holy Spirit set apart Barnabas and Saul for a specific, special work that God wanted them to do. The church prayed for them and sent them on their journey to continue to preach the gospel in other areas. (46-10)
+Sending Missionaries: The believers in Antioch sent Barnabas and Saul to travel to other places to tell people about Jesus. The Holy Spirit set apart Barnabas and Paul for a specific, special work God wanted them to do. The church prayed for them and sent them on their journey to continue to preach the gospel in other areas. (46-10)
 
 <!-- page break -->
 
@@ -452,7 +452,7 @@ Sending Missionaries: The believers in Antioch sent Barnabas and Saul to travel 
 
 Answer the following theology questions as a community. Discuss what truths this story teaches.
 
-1.  How does God bring a transformation/change in those who become genuine disciples of Jesus? How did Saul becoming a believer teach us about what kind of change is involved in becoming a follower of Jesus?
+1.  How does God bring a transformation/change in those who become genuine disciples of Jesus? How did Saul becoming a believer teach us what kind of change is involved in becoming a follower of Jesus?
 2.  What is the mission of followers of Jesus? What kind of work/mission has God called believes to do? What does the activity of the early believers teach us about what it means to do God’s work/mission on earth?
 
 ### Translation Draft

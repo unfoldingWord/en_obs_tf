@@ -8,7 +8,7 @@ story_num: 37
 
 ### Key Idea
 
-The story Jesus raising Lazarus from the dead teaches us Jesus has power over death.
+The story of Jesus raising Lazarus from the dead teaches us Jesus has power over death.
 
 ### Creedal Verse
 
@@ -24,32 +24,32 @@ God set to restore his world through his promise.
 God made a covenant with Abraham. He promised to bless all nations through Abraham.
 God kept his promises across the generations.
 God provided Abraham with a promised child, Isaac.
-God gave Isaac a wife and she bore twins, Jacob and Esau.
+God gave Isaac a wife, and she bore twins Jacob and Esau.
 God blessed Jacob and his sons, and the blessing continued to the next generation.
 God rescued Joseph, one of Jacob’s sons, and used him to rescue his family.
 God caused his people, the Israelites, to multiply in the land of Egypt; eventually, they became slaves.
-But, God raised up a deliverer, Moses, to deliver his people from their slavery.
-God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people who covered their doorposts with the blood of a sacrificed lamb.
+But God raised up a deliverer, Moses, to deliver his people from slavery.
+God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people, who covered their doorposts with the blood of a sacrificed lamb.
 Then, God delivered the Israelites by bringing them out of Egypt and crossing the Red Sea on dry land.
 God made a covenant with the Israelites and made them his people.
 God tested Israel in a series of wilderness wanderings and
 eventually brought his people into the promised land of Canaan.
 God raised up deliverers to lead Israel and rescue them from their enemies.
 God formed Israel into a kingdom. He made a covenant with King David and promised to send a king that would rule his people forever.
-Many of Israel’s kings were evil and the kingdom of Israel divided into two kingdoms.
+Many of Israel’s kings were evil, and the kingdom of Israel was divided into two kingdoms.
 God sent prophets to warn his people of God’s judgment and call them to repent.
 When Israel did not repent, God sent his people into exile. After many years, he brought them back to the land.
-Throughout the Old Testament, God promised to send his Messiah to deliver his people form their sin.
+Throughout the Old Testament, God promised to send his Messiah to deliver his people from their sin.
 After many years, the prophet John was born. He would prepare people for the coming Messiah.
 At the perfect time, God sent his Son, Jesus, to be born of a virgin Mary.
 When John and Jesus grew up, John baptized Jesus as a sign that Jesus was God’s beloved Son.
 Jesus endured all manner of temptation without ever sinning.
 When he was thirty years old, he launched a public ministry of preaching, teaching, and healing.
 He taught his disciples about the life of compassion, sacrifice, and forgiveness.
-He performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
-He proclaimed to people the nature of real faith, God’s kingdom, and the how fallen humans can be restored in relationship with God.
-Toward the end of his ministry, Jesus revealed his power and glory to his disciples
-and raised a dead man to life
+Jesus performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
+He proclaimed to people the nature of real faith, God’s kingdom, and how fallen humans can be restored in relationship with God.
+Toward the end of his ministry, Jesus revealed his power and glory to his disciples.
+He raised a dead man to life.
 
 <!-- page break -->
 
@@ -65,7 +65,7 @@ There was a man named Lazarus. He had two sisters named Mary and Martha. They we
 
 ![](.\assets\images\image427.jpeg)
 
-Jesus loved his friends, but he waited where he was for two days. After those two days he said to his disciples, “Let’s go back to Judea.” “But Teacher,” the disciples answered, “just a short time ago the people there wanted to kill you!” Jesus said, “Our friend Lazarus has fallen asleep, and I must wake him.”
+Jesus loved his friends, but he waited where he was for two days. After those two days, he said to his disciples, “Let’s go back to Judea.” “But Teacher,” the disciples answered, “just a short time ago the people there wanted to kill you!” Jesus said, “Our friend Lazarus has fallen asleep, and I must wake him.”
 
 ##### 37-03
 
@@ -186,7 +186,7 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 37-01
 
@@ -197,7 +197,7 @@ What happened to Lazarus?
 Lazarus got very sick.
 
 What did Jesus say would be the end result of Lazarus’ sickness?  
-Jesus said that the Lazarus’ sickness would not end up with Lazarus dying, but it would be for the glory of God.
+Jesus said that Lazarus’ sickness would not end up with Lazarus dying, but it would be for the glory of God.
 
 #### 37-02
 
@@ -212,7 +212,7 @@ Jesus told his disciples that Lazarus had fallen asleep and Jesus had to wake hi
 
 #### 37-03
 
-What did the disciples think Jesus meant when he said that Lazarus had fallen asleep?  
+What did the disciples think Jesus meant when he said Lazarus had fallen asleep?  
 They thought he was just asleep and would get better.
 
 What did Jesus plainly tell the disciples about Lazarus?  
@@ -230,7 +230,7 @@ What did Martha say to Jesus when she greeted him?
 Martha met Jesus and said that if Jesus had only been there then Lazarus would not have died.
 
 Did Martha believe that Jesus could have healed Lazarus?  
-Yes, she believed God would give Jesus whatever he asked from him.
+Yes, she believed God would give Jesus whatever he asked of him.
 
 #### 37-05
 
@@ -240,7 +240,7 @@ Jesus called himself the Resurrection and the Life.
 What will happen to believers because Jesus is the Resurrection and the Life?  
 Whoever believes in Jesus will live, even though he dies, and everyone who believes in Jesus will never die.
 
-What did Martha saw when Jesus asked if she believed what he said?  
+What did Martha see when Jesus asked if she believed what he said?  
 Martha said, “Yes, Master! I believe you are the Messiah, the Son of God.”
 
 #### 37-06
@@ -263,18 +263,18 @@ What was the tomb like?
 The tomb was a cave with a stone rolled in front of its opening.
 
 What did Jesus say when he arrived at the tomb?  
-When Jesus arrived at the tomb, he told them to roll away the stone.
+Jesus told them to roll away the stone when he arrived at the tomb.
 
 How long had Lazarus been dead?  
 He had been dead for four days.
 
 What did Martha think about Jesus’ instructions to roll away the stone?  
-Martha said that there would be a bad smell because Lazarus had been dead for four days.
+Martha said there would be a bad smell because Lazarus had been dead for four days.
 
 #### 37-08
 
 How did Jesus answer Martha’s concern?  
-Jesus reminded them that they would see God’s power if they believed in him.
+Jesus reminded them they would see God’s power if they believed in him.
 
 What did they do with the stone?  
 They rolled away the stone from the tomb.
@@ -312,47 +312,47 @@ Use the following translation questions to understand specific details of the pa
 
 **This sickness will not end with Lazarus dying** Lazarus was very sick. Jesus said that his sickness would not ultimately end up in death. Jesus’ disciples probably thought this meant that Lazarus would not die. But Jesus knew that, although Lazarus would die from his sickness, he would live in the end. How would you express **This sickness will not end with Lazarus dying** to mean the final result of this sickness will not be the death of Lazarus?
 
-**Instead, it will cause people to honor God** The final result of Lazarus’ sickness would be not be death. A very different result would take place. Lazarus’ sickness would be used to cause people to praise God. How would you express **Instead, it will cause people to honor God** to mean Lazarus’ sickness would result in people praising God rather than Lazarus ultimately dying?
+**Instead, it will cause people to honor God** The final result of Lazarus’ sickness would not be death. A very different result would take place. Lazarus’ sickness would be used to cause people to praise God. How would you express **Instead, it will cause people to honor God** to mean Lazarus’ sickness would result in people praising God rather than Lazarus ultimately dying?
 
 #### 37-02
 
-**Jesus loved his friends** Jesus considered Lazarus and his sisters (Mary and Martha) friends. He was felt a deep affection for them as friends. How would you express **Jesus loved his friends** to mean Jesus cared deeply for Lazarus, Mary, and Martha?
+**Jesus loved his friends** Jesus considered Lazarus and his sisters (Mary and Martha) friends. He felt a deep affection for them as friends. How would you express **Jesus loved his friends** to mean Jesus cared deeply for Lazarus, Mary, and Martha?
 
-**but he waited where he was for two days** Jesus deeply loved Lazarus, Mary, and Martha. Typically, people would go visit a sick friend as soon as possible. Instead of visiting Lazarus immediately, Jesus stayed two extra days. This seems different/opposite to how friends would care for each other. This does not mean that Jesus did not care for Lazarus and his sisters. Jesus delayed visiting Lazarus knowing that he would do a miracle to bring Lazarus back from the dead. How would you express **but he waited where he was for two days** to mean Jesus he stayed where he was for two days, even though Jesus loved Lazarus and his sisters?
+**but he waited where he was for two days** Jesus deeply loved Lazarus, Mary, and Martha. Typically, people would visit a sick friend as soon as possible. Instead of visiting Lazarus immediately, Jesus stayed two extra days. This seems different/opposite to how friends would care for each other. This does not mean that Jesus did not care for Lazarus and his sisters. Jesus delayed visiting Lazarus, knowing he would do a miracle to bring him back from the dead. How would you express **but he waited where he was for two days** to mean Jesus stayed where he was for two days, even though Jesus loved Lazarus and his sisters?
 
-**just a short time ago the people there wanted to kill you!** The disciples were concerned that Jesus would return to a place where people wanted to kill him. The disciples said this to emphasize the great danger Jesus faced if he went to Judea. How would you express **just a short time ago the people there wanted to kill you!** as a strong statement that shows concern for Jesus’ safety by warning him of the danger that he would face if he returned to Judea?
+**just a short time ago the people there wanted to kill you!** The disciples were concerned that Jesus would return to a place where people wanted to kill him. The disciples said this to emphasize the great danger Jesus faced if he went to Judea. How would you express **just a short time ago the people there wanted to kill you!** as a strong statement showing concern for Jesus’ safety by warning him of the danger he would face if he returned to Judea?
 
-**has fallen asleep** When a person dies it looks like they have fallen asleep. This is a polite way of saying that Lazarus has died. Although Jesus was using this word with a different meaning, the disciples did not understand that yet. How would you express **has fallen asleep** as a polite way of saying that someone has died?
+**has fallen asleep** When a person dies, it looks like they have fallen asleep. This is a polite way of saying that Lazarus has died. Although Jesus was using this word with a different meaning, the disciples did not understand that yet. How would you express **has fallen asleep** as a polite way of saying someone has died?
 
-**I must wake him** Jesus described bringing Lazarus back to life as waking him up from sleep. Lazarus was not really sleeping. He actually died. Jesus was using this to say that he would make Lazarus alive again. Although Jesus was using this word with a different meaning, the disciples did not understand that yet. How would you express **I must wake him** to mean Jesus would bring Lazarus back to life similar to waking someone up who is sleeping?
+**I must wake him** Jesus described bringing Lazarus back to life as waking him up from sleep. Lazarus was not really sleeping. He actually died. Jesus was using this to say that he would make Lazarus alive again. Although Jesus was using this word with a different meaning, the disciples did not understand that yet. How would you express **I must wake him** to mean Jesus would bring Lazarus back to life, similar to waking someone up who is sleeping?
 
 #### 37-03
 
-**if Lazarus is sleeping, then he will get better** The disciples thought that Jesus meant that Lazarus was actually sleeping. In reality, Lazarus had died. The disciples did not yet understand what had happened. How would you express **if Lazarus is sleeping, then he will get better** to mean there is no reason for us to go to him now, since he will get well?
+**if Lazarus is sleeping, then he will get better** The disciples thought that Jesus meant that Lazarus was actually sleeping. In reality, Lazarus had died. The disciples did not yet understand what had happened. How would you express **if Lazarus is sleeping, then he will get better** to mean there is no reason for us to go to him now since he will get well?
 
 **I am glad that I was not there** Jesus was not happy that Lazarus died, but rather he was happy that God was going to show how great he is. How would you express **I am glad that I was not there** to mean Jesus was happy that he was not there to heal Lazarus when he was sick because now God would show his great power by bringing Lazarus back to life?
 
-**so that you may believe in me** Jesus was happy for the chance to show God’s power in brining Lazarus back to life. The purpose of this miracle was to cause people to trust Jesus. How would you express **so that you may believe in me** to mean the reason Jesus wanted to show God’s power and bring Lazarus back to life was to cause people to place their faith in Jesus?
+**so that you may believe in me** Jesus was happy for the chance to show God’s power in bringing Lazarus back to life. The purpose of this miracle was to cause people to trust Jesus. How would you express **so that you may believe in me** to mean that Jesus wanted to show God’s power and bring Lazarus back to life to cause people to place their faith in Jesus?
 
 #### 37-04
 
-**if only you had been here, my brother would not have died** Martha is stating a hypothetical situation—what could have happened if Jesus had not waited for Lazarus to die before he came. Martha is describing something that did not happen but could have happened. Martha believe that if Jesus returned when Lazarus was sick he would have healed him and he would not have died. How would you express **if only you had been here, my brother would not have died** to mean Martha believed that if Jesus had returned earlier he could have prevented Lazarus from dying?
+**if only you had been here, my brother would not have died** Martha is stating a hypothetical situation—what could have happened if Jesus had not waited for Lazarus to die before he came? Martha is describing something that did not happen but could have happened. Martha believed that if Jesus returned when Lazarus was sick, he would have healed him, and he would not have died. How would you express **if only you had been here, my brother would not have died** to mean Martha believed that if Jesus had returned earlier, he could have prevented Lazarus from dying?
 
-**will give you whatever you ask from him** Martha was convinced that God the Father would grant any request that Jesus asked. How would you express **will give you whatever you ask from him** to mean Martha believed that God will do whatever Jesus ask him to do?
+**will give you whatever you ask from him** Martha was convinced that God the Father would grant any request that Jesus asked. How would you express **will give you whatever you ask from him** to mean Martha believed that God would do whatever Jesus asked him to do?
 
 #### 37-05
 
-**I am the Resurrection and the Life** This is one of several very powerful I am statements in which Jesus says something about his essential nature. In this one, Jesus indicates that he is the provider or source of resurrection and life. How would you express **I am the** Resurrection and the Life to mean Jesus is the one who resurrects people (brings people back to life after they died) and causes them to live?
+**I am the Resurrection and the Life** This is one of several very powerful I am statements in which Jesus says something about his essential nature. In this one, Jesus indicates that he is the provider or source of resurrection and life. How would you express **I am the** Resurrection and the Life to mean Jesus is the one who resurrects people (brings people back to life after they die) and causes them to live?
 
-**will live, even though he dies** Jesus is saying something surprising. Normally, when people die, they are no longer alive. However, Jesus is able to bring people back to life. Therefore, Jesus explained that every person who trusts in Jesus would live forever even though they would die. How would you express **will live, even though he dies** to mean people who trust in Jesus will live forever even though they die because Jesus has the power to bring dead people back to life?
+**will live, even though he dies** Jesus is saying something surprising. Usually, when people die, they are no longer alive. However, Jesus is able to bring people back to life. Therefore, Jesus explained that every person who trusts in Jesus would live forever even though they would die. How would you express **will live, even though he dies** to mean people who trust in Jesus will live forever even though they die because Jesus has the power to bring dead people back to life?
 
 **will never die** Jesus is explaining what will ultimately happen to people. People who trust in Jesus will physically die, but Jesus has the power to bring them back to life. So, even though they die, they don’t finally stay dead. How would you express **will never die** to mean every person who believes in Jesus will never finally stay dead because Jesus will bring them back to life and cause them to live forever?
 
 #### 37-06
 
-**fell at the feet of Jesus** Mary got on her knees before Jesus so that she was on the ground near his feet. This was a sign of honor and reverence. How would you express **fell at the feet of** Jesus to mean Mary knelt down at Jesus feet as a sign of respect?
+**fell at the feet of Jesus** Mary got on her knees before Jesus so that she was on the ground near his feet. This was a sign of honor and reverence. How would you express **fell at the feet of** Jesus to mean Mary knelt down at Jesus’ feet as a sign of respect?
 
-**if only you had been here, my brother would not have died** Mary is stating a hypothetical situation—what could have happened if Jesus had not waited for Lazarus to die before he came. Mary is describing something that did not happen but could have happened. Mary believe that if Jesus returned when Lazarus was sick he would have healed him and he would not have died. How would you express **if only you had been here, my brother would not have died** to mean Mary believed that if Jesus had returned earlier he could have prevented Lazarus from dying?
+**if only you had been here, my brother would not have died** Mary is stating a hypothetical situation—what could have happened if Jesus had not waited for Lazarus to die before he came? Mary is describing something that did not happen but could have happened. Mary believed that if Jesus returned when Lazarus was sick, he would have healed him, and he would not have died. How would you express **if only you had been here, my brother would not have died** to mean Mary believed that if Jesus had returned earlier, he could have prevented Lazarus from dying?
 
 **Then Jesus wept** Jesus mourned Lazarus’ death by crying. This showed that Jesus loved Lazarus and grieved his death. How would you express **Then** Jesus wept to mean Jesus expressed his grief and sadness by crying?
 
@@ -360,21 +360,21 @@ Use the following translation questions to understand specific details of the pa
 
 **Roll the stone away** Jesus gave instructions for the stone to be moved away from the entrance of the tomb. How would you express **Roll the stone away** as a command to push/roll the stone away from the opening of the tomb?
 
-**He has been dead for four days** At this point, Lazarus had been dead for four days. This means that his body would start decaying and give off a smell. How would you express **He has been dead for four days** to mean Lazarus died four days ago and his body is lying there?
+**He has been dead for four days** At this point, Lazarus had been dead for four days. This means that his body would start decaying and give off a smell. How would you express **He has been dead for four days** to mean Lazarus died four days ago, and his body is lying there?
 
 #### 37-08
 
-**Did I not tell you that you would see God’s power if you believe in me?** Jesus is asking this question but is not looking for an answer or information. Jesus asked the question to show that people did not fully believe Jesus and did not understand what he was about to do. He wanted to remind them that if they believed in Jesus they would see God do powerful things. How would you express **Did I not tell you that you would see God’s power if you believe in me?** as a question in which Jesus is telling people to remember that Jesus told them that they would see God show how powerful he is if they believed/trusted in Jesus?
+**Did I not tell you that you would see God’s power if you believe in me?** Jesus is asking this question but is not looking for an answer or information. Jesus asked the question to show that people did not fully believe Jesus and did not understand what he was about to do. He wanted to remind them that if they believed in Jesus, they would see God do powerful things. How would you express **Did I not tell you that you would see God’s power if you believe in me?** as a question in which Jesus is telling people to remember that Jesus told them that they would see God show how powerful he is if they believed/trusted in Jesus?
 
 #### 37-09
 
-**hearing me** Jesus prayed to God the Father and God the Father answered Jesus’ prayers. How would you express **hearing me** to mean Jesus is thanking God the Father for listening to him when he prays to him?
+**hearing me** Jesus prayed to God the Father, and God the Father answered Jesus’ prayers. How would you express **hearing me** to mean Jesus is thanking God the Father for listening to him when he prays to him?
 
 **Lazarus, come out!** Jesus spoke to Lazarus and commanded him to come out of the tomb. How would you express **Lazarus, come out!** as a strong command for Lazarus to walk out of the tomb on his own?
 
 #### 37-10
 
-**Lazarus came out!** Those watching did not expect Lazarus to come back to life. Now they saw him walking out of the tomb. This was a surprise and a shock. How would you express **Lazarus came out!** as a strong statement that emphasizes the shocking fact that Lazarus, who had been dead, walked out of the tomb.
+**Lazarus came out!** Those watching did not expect Lazarus to come back to life. Now they saw him walking out of the tomb. This was a surprise and a shock. How would you express **Lazarus came out!** as a strong statement emphasizing the shocking fact that Lazarus, who had been dead, walked out of the tomb?
 
 **He was still wrapped in grave clothes** At this time, people wrapped a dead body in strips of cloth and placed them in a tomb. Lazarus went directly from being dead to walking out of the tomb at Jesus’ command. He walked out of the tomb and still had burial bandages on. How would you express **He was still wrapped in grave clothes** to mean Lazarus walked out of the tomb and was still covered in his burial clothes?
 
@@ -382,15 +382,15 @@ Use the following translation questions to understand specific details of the pa
 
 #### 37-11
 
-**envied** The religious leaders were jealous of Jesus. Many people were following Jesus and the religious leaders wanted people to follow them. How would you express **envied** to mean the Jewish religious leaders were jealous of Jesus’ power and popularity and that so many Jews were believing in Jesus?
+**envied** The religious leaders were jealous of Jesus. Many people were following Jesus, and the religious leaders wanted people to follow them. How would you express **envied** to mean the Jewish religious leaders were jealous of Jesus’ power and popularity and that so many Jews believed in Jesus?
 
-**gathered together** The religious leaders met together to figure out how to kill Jesus. This was a not a casual meeting, but a meeting for a specific purpose�to plan how to kill Jesus. How would you express **gathered together** to mean to assemble together and join together for a purpose?
+**gathered together** The religious leaders met together to figure out how to kill Jesus. This was not a casual meeting but a meeting for a specific purpose to plan how to kill Jesus. How would you express **gathered together** to mean to assemble together and join together for a purpose?
 
 <!-- page break -->
 
 ## Theological Dialogue: Discussing the Meaning of the Story
 
-Take time to explore the meaning of this story together as a community. Use the following discussions as a way to grasp what truth the story teaches.
+Take time to explore the meaning of this story together as a community. Use the following discussions to grasp the truth the story teaches.
 
 ### Discourse Questions
 
@@ -398,7 +398,7 @@ Use the following discourse questions to understand the meaning of the story. Pa
 
 ##### How did Jesus use Lazarus’ sickness to bring about God’s purposes? (37-01, 37-02, 37-03, 37-05, 37-08, 37-09)
 
-Love/Friendship: One of Jesus’ close friends was really sick. His name was Lazarus. Jesus loved his friends. Sickness, pain, and disease affected people that Jesus cared deeply about. Jesus wept when he arrived back in Judea and asked where they put Lazarus’ body. (37-01, 37-02, 37-06)
+Love/Friendship: One of Jesus’ close friends was really sick. His name was Lazarus. Jesus loved his friends. Sickness, pain, and disease affected people whom Jesus cared deeply about. Jesus wept when he arrived back in Judea and asked where they put Lazarus’ body. (37-01, 37-02, 37-06)
 
 Power: Jesus explained that Lazarus’ sickness would not end up with him being dead forever. Jesus has the power to overcome sickness and death. (37-01)
 
@@ -406,17 +406,17 @@ Praise: Jesus said that Lazarus’ sickness would be used to cause people to pra
 
 Belief: Jesus was not happy that Lazarus died. Jesus was happy that he did not heal Lazarus so that he could bring him back to life and cause people to believe in him. (37-03, 37-09)
 
-See God’s Power: Jesus told people that they would see God’s power if they believed. If they trusted in Jesus, God would do an amazing thing that only God could do. (37-08)
+See God’s Power: Jesus told people they would see God’s power if they believed. If they trusted in Jesus, God would do an amazing thing that only God could do. (37-08)
 
 ##### How did Jesus bring Lazarus back to life? (37-05, 37-07, 37-08, 37-09, 37-10)
 
 Identity: Jesus told Martha that he is the Resurrection and the Life. Jesus has the power to bring dead people back to life again. Jesus revealed to people who he is. He has the power of life and can overcome death by bringing people back to life again. (37-05)
 
-Promise: Jesus explained that every person who believes in Jesus would live forever. Because Jesus can raise people from the dead, he can give eternal life to his followers. Even though followers of Christ physically die, Jesus will bring them back to life again so they can live forever. Jesus gave a promise of eternal life to those who would believe in him. (37-05)
+Promise: Jesus explained that every person who believes in Jesus would live forever. Because Jesus can raise people from the dead, he can give eternal life to his followers. Even though followers of Christ physically die, Jesus will bring them back to life again so they can live forever. Jesus promised eternal life to those who would believe in him. (37-05)
 
-Trust: Jesus gave instructions for the stone to be moved away. Martha questioned this instruction because Lazarus had been dead for four days and his body would smell. Jesus told people that if they really believed they would see God’s power. Asking them to roll back the stone was an invitation for them to trust Jesus. They trusted Jesus and rolled the stone away. (37-07, 37-08)
+Trust: Jesus gave instructions for the stone to be moved away. Martha questioned this instruction because Lazarus had been dead for four days, and his body would smell. Jesus told people that they would see God’s power if they really believed. Asking them to roll back the stone was an invitation for them to trust Jesus. They trusted Jesus and rolled the stone away. (37-07, 37-08)
 
-Power: Jesus prayed to God the Father. He thanked God for hearing him. Jesus gave a command for Lazarus to come out of the tomb and Lazarus came back to life and walked out of the tomb. Lazarus did this immediately and still had his grave clothes on. (37-09, 37-10)
+Power: Jesus prayed to God the Father. He thanked God for hearing him. Jesus gave a command for Lazarus to come out of the tomb, and Lazarus came back to life and walked out of the tomb. Lazarus did this immediately and still had his grave clothes on. (37-09, 37-10)
 
 ##### How did different people respond to Jesus in this story? (37-02, 37-03, 37-04, 37-05, 37-06, 37-10, 37-11)
 
@@ -424,11 +424,11 @@ People in Judea \| Hostility: The disciples were concerned about Jesus going bac
 
 Disciples \| Misunderstanding: The disciples did not fully understand what Jesus was saying. Jesus explained that Lazarus was sleeping and that Jesus would return to Judea to wake him up. The disciples thought that Lazarus was actually sleeping, but Jesus said this to explain that Lazarus had died. (37-02, 37-03)
 
-Martha \| Hopeful: Martha believed that Jesus could have healed Lazarus if he was there. She expressed grief that Jesus did not come earlier, but also expressed faith that God would give Jesus anything he asked. Martha was hopefully that Jesus would do something amazing. (37-04)
+Martha \| Hopeful: Martha believed that Jesus could have healed Lazarus if he had been there. She expressed grief that Jesus did not come earlier but also expressed faith that God would give Jesus anything he asked. Martha was hopeful that Jesus would do something amazing. (37-04)
 
-Martha \| Faith: Martha believed in Jesus. She believed that Jesus was her Master, the Messiah, and the Son of God. Submitted to Jesus as Master, Martha gave her life to Jesus as his servant. Trusting Jesus as Messiah, Martha put her hope in Jesus as God’s promised deliverer. Accepting that Jesus is truly God’s Son, Martha was believed that Jesus was the eternal Son of God. (37-05)
+Martha \| Faith: Martha believed in Jesus. She believed that Jesus was her Master, the Messiah, and the Son of God. Submitted to Jesus as Master, Martha gave her life to Jesus as his servant. Trusting Jesus as Messiah, Martha put her hope in Jesus as God’s promised deliverer. Accepting that Jesus is truly God’s Son, Martha believed that Jesus was the eternal Son of God. (37-05)
 
-Mary \| Grief: Mary fell at Jesus’ feet when she met him. Mary believed that Jesus could have healed Lazarus if he was there. (37-06)
+Mary \| Grief: Mary fell at Jesus’ feet when she met him. Mary believed that Jesus could have healed Lazarus if he had been there. (37-06)
 
 Many Jews \| Belief: Many Jews believed in Jesus because of the miracle. Jesus bringing Lazarus back to life convinced them that Jesus is God’s Son and the promised Messiah. (37-10)
 
@@ -440,7 +440,7 @@ Religious Leaders \| Jealousy: The religious leaders plotted to kill Jesus. They
 
 Answer the following theology questions as a community. Discuss what truths this story teaches.
 
-1.  Why did God send Jesus to earth? How does the story of Lazarus teach us about God’s purposes in sending Jesus?
+1.  Why did God send Jesus to earth? How does the story of Lazarus teach us about God’s purpose in sending Jesus?
 2.  What should we believe about Jesus? What does this story teach us about who Jesus is (his nature and identity)?
 3.  What does it mean to follow Jesus? How does this story teach us about what it means to genuinely believe in Jesus?
 

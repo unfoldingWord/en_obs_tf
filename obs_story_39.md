@@ -8,7 +8,7 @@ story_num: 39
 
 ### Key Idea
 
-The story Jesus being put on trial teaches us that Jesus was innocent of any crimes and was sentenced to death to pay for the guilt of humans.
+The story of Jesus being put on trial teaches us that Jesus was innocent of any crimes and was sentenced to death to pay for the guilt of humans.
 
 ### Creedal Verse
 
@@ -24,33 +24,33 @@ God set to restore his world through his promise.
 God made a covenant with Abraham. He promised to bless all nations through Abraham.
 God kept his promises across the generations.
 God provided Abraham with a promised child, Isaac.
-God gave Isaac a wife and she bore twins, Jacob and Esau.
+God gave Isaac a wife, and she bore twins, Jacob and Esau.
 God blessed Jacob and his sons, and the blessing continued to the next generation.
 God rescued Joseph, one of Jacob’s sons, and used him to rescue his family.
 God caused his people, the Israelites, to multiply in the land of Egypt; eventually, they became slaves.
-But, God raised up a deliverer, Moses, to deliver his people from their slavery.
-God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people who covered their doorposts with the blood of a sacrificed lamb.
+But God raised up a deliverer, Moses, to deliver his people from slavery.
+God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people, who covered their doorposts with the blood of a sacrificed lamb.
 Then, God delivered the Israelites by bringing them out of Egypt and crossing the Red Sea on dry land.
 God made a covenant with the Israelites and made them his people.
 God tested Israel in a series of wilderness wanderings and
 eventually brought his people into the promised land of Canaan.
 God raised up deliverers to lead Israel and rescue them from their enemies.
 God formed Israel into a kingdom. He made a covenant with King David and promised to send a king that would rule his people forever.
-Many of Israel’s kings were evil and the kingdom of Israel divided into two kingdoms.
+Many of Israel’s kings were evil, and the kingdom of Israel was divided into two kingdoms.
 God sent prophets to warn his people of God’s judgment and call them to repent.
 When Israel did not repent, God sent his people into exile. After many years, he brought them back to the land.
-Throughout the Old Testament, God promised to send his Messiah to deliver his people form their sin.
+Throughout the Old Testament, God promised to send his Messiah to deliver his people from their sin.
 After many years, the prophet John was born. He would prepare people for the coming Messiah.
 At the perfect time, God sent his Son, Jesus, to be born of a virgin Mary.
 When John and Jesus grew up, John baptized Jesus as a sign that Jesus was God’s beloved Son.
 Jesus endured all manner of temptation without ever sinning.
 When he was thirty years old, he launched a public ministry of preaching, teaching, and healing.
 He taught his disciples about the life of compassion, sacrifice, and forgiveness.
-He performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
-He proclaimed to people the nature of real faith, God’s kingdom, and the how fallen humans can be restored in relationship with God.
+Jesus performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
+He proclaimed to people the nature of real faith, God’s kingdom, and how fallen humans can be restored in relationship with God.
 Toward the end of his ministry, Jesus revealed his power and glory to his disciples
-and raised a dead man to life
-Jesus was betrayed by one of his disciples and put on trial before a Roman governor
+He raised a dead man to life.
+Jesus was betrayed by one of his disciples and put on trial before a Roman governor.
 
 <!-- page break -->
 
@@ -304,7 +304,7 @@ What did Jesus tell Pilate about his kingdom?
 Jesus told Pilate that his kingdom was not on earth or his servants would have fought for him.
 
 What did Jesus say was the reason he came to earth?  
-Jesus said he came to earth to tell the truth about God.
+Jesus said he came to earth, to tell the truth about God.
 
 How do people act who love the truth?  
 People who love the truth listen to Jesus.
@@ -342,7 +342,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 39-02
 
-**put Jesus on trial** The Jewish leaders had a formal meeting to accuse Jesus of doing something wrong. Usually a trial is held to find out if someone is innocent or guilty of a certain crime. In this case, the leaders were determined to have Jesus found guilty. How would you express **put Jesus on trial** to mean have a hearing or official/legal proceedings that determine whether Jesus was innocent or guilty?
+**put Jesus on trial** The Jewish leaders had a formal meeting to accuse Jesus of doing something wrong. Usually, a trial is held to find out if someone is innocent or guilty of a certain crime. In this case, the leaders were determined to have Jesus found guilty. How would you express **put Jesus on trial** to mean have a hearing or official/legal proceedings that determine whether Jesus was innocent or guilty?
 
 **lied about him** False witnesses told lies about Jesus. They wanted Jesus to be charged as guilty of wrongdoing even though he did not do the wrong things they accused him of doing. How would you express **lied about him** to mean falsely accused him of doing something wrong?
 
@@ -358,37 +358,37 @@ Use the following translation questions to understand specific details of the pa
 
 #### 39-04
 
-**I am** Jesus said that he was what the high priest said. Jesus is the Messiah and the Son of God. **I am** is also the name of God. By saying simply **I am**, Jesus was also saying that he is God. How would you express **I am** to mean Jesus is who the high priest said he was and Jesus called himself by God’s name?
+**I am** Jesus said that he was what the high priest said. Jesus is the Messiah and the Son of God. **I am** is also the name of God. By saying simply **I am**, Jesus was also saying that he is God. How would you express **I am** to mean Jesus is who the high priest said he was, and Jesus called himself by God’s name?
 
-**seated with God** and coming from heaven Because God is the ruler over all, people talk about him as sitting on a throne in heaven. By saying that he would be **seated with** God, Jesus claimed that he had authority to rule with the Father. How would you express **seated with God** and coming from heaven to mean sitting beside God and reigning with God and then coming from heaven to earth?
+**seated with God** and coming from heaven. Because God is the ruler over all, people talk about him as sitting on a throne in heaven. By saying that he would be **seated with** God, Jesus claimed he had the authority to rule with the Father. How would you express **seated with God** and coming from heaven to mean sitting beside God and reigning with God and then coming from heaven to earth?
 
-**tore his clothes because he was angry** The Jews would tear their clothes to show grief or anger. How you express **tore his clothes because he was angry** to mean the leading priest was so upset/enraged that Jesus claimed the authority of God that he ripped his clothes to show this anger?
+**tore his clothes because he was angry** The Jews would tear their clothes to show grief or anger. How would you express **tore his clothes because he was angry** to mean the leading priest was so upset/enraged that Jesus claimed the authority of God that he ripped his clothes to show this anger?
 
 **We do not need any more witnesses to tell us what this man has done!** The leading priest considered Jesus’ claim of God’s authority blasphemy. He made a strong statement that said he thought they had already proved that Jesus was guilty of irreverence toward God. How would you express **We do not need any more witnesses to tell us what this man has done!** as a strong statement that no other evidence was needed to prove that Jesus was guilty of wrongdoing?
 
-**What is your decision about him?** The leading priest asked the other Jewish leaders whether they thought he was innocent or guilty for claiming to have God’s authority. The chief priest wanted the religious leaders to condemn Jesus for claiming to be equal with God. How would you express **What is your decision about him?** as a question that asked the Jewish leaders to tell wether they considered Jesus innocent or guilty?
+**What is your decision about him?** The leading priest asked the other Jewish leaders whether they thought he was innocent or guilty for claiming to have God’s authority. The chief priest wanted the religious leaders to condemn Jesus for claiming to be equal with God. How would you express **What is your decision about him?** as a question asking the Jewish leaders whether they considered Jesus innocent or guilty?
 
 #### 39-05
 
 **He deserves to die!** The Jewish leaders said Jesus should die for claiming to be equal to God. How would you express **He deserves to die!** as a strong statement that emphasizes the opinion of the Jewish leaders that Jesus should be killed (put to death) because he called himself equal to God?
 
-**they blindfolded Jesus** They put a piece of cloth on Jesus’ eyes so that he could not see. How would you express **they blindfolded Jesus** to mean they covered Jesus’ eyes so that he could not see?
+**they blindfolded Jesus** They put a piece of cloth on Jesus’ eyes so he could not see. How would you express **they blindfolded Jesus** to mean they covered Jesus’ eyes so that he could not see?
 
-**spit on him** They spat on Jesus in order to say that he was worthless. This was a way of showing contempt for someone. How would you express **spit on him** to mean they spit on Jesus insult and shame him?
+**spit on him** They spat on Jesus to say he was worthless. This was a way of showing contempt for someone. How would you express **spit on him** to mean they spit on Jesus, to insult and shame him?
 
 #### 39-06
 
-**You also were with Jesus!** The servant girl said that Peter had spent time with Jesus and followed him. The servant girl said this to accuse Peter of being a criminal. How would you express **You also were with Jesus!** to mean Peter was one of Jesus’ followers who spent time with him and followed him?
+**You also were with Jesus!** The servant girl said Peter had spent time with Jesus and followed him. The servant girl said this to accuse Peter of being a criminal. How would you express **You also were with Jesus!** to mean Peter was one of Jesus’ followers who spent time with him and followed him?
 
-**denied it** Peter said that what the servant girl said was not true. Peter was lying. He really was one of Jesus’ disciples but did not admit it because of fear. How would you express **denied it** to mean Peter said that he was not with Jesus and what the servant girl said was false?
+**denied it** Peter said the servant girl’s statement was not true. Peter was lying. He really was one of Jesus’ disciples but did not admit it because of fear. How would you express **denied it** to mean Peter said that he was not with Jesus and that what the servant girl said was false?
 
 **We know that you were with Jesus because you both are from Galilee** The servant girl could probably tell Peter was from Galilee from the way he talked. How would you express **We know that you were with Jesus because you both are from Galilee** to mean people could tell from the way Jesus and Peter talked that they came from the region of Galilee?
 
 #### 39-07
 
-**May God curse me if I know this man!** Even though Peter was lying, Peter wanted people to really believe him that he did not know Jesus. He also referred to Jesus as this man to make it sound like he did not know him. He spoke a curse on himself if he was lying. He stated that God should cause him harm if actually did know Jesus. How would you express **May God curse me if I know this man!** as a strong statement that God would punish Peter if he was lying to them?
+**May God curse me if I know this man!** Even though Peter was lying, Peter wanted people to really believe him that he did not know Jesus. He also referred to Jesus as this man to make it sound like he did not know him. Peter spoke a curse on himself if he was lying. He stated that God should cause him harm if he actually did know Jesus. How would you express **May God curse me if I know this man!** as a strong statement that God would punish Peter if he was lying to them?
 
-**Immediately after** Peter swore like this, a rooster crowed At the very time after Peter spoke a curse on himself, a rooster crowed. How would you express **Immediately after** Peter swore like this, a rooster crowed to mean a rooster made a loud crowing sound at right away following Peter’s curse?
+**Immediately after** Peter swore like this, a rooster crowed. At the very time after Peter spoke a curse on himself, a rooster crowed. How would you express **Immediately after** Peter swore like this, a rooster crowed to mean a rooster made a loud crowing sound right away following Peter’s curse?
 
 #### 39-08
 
@@ -408,7 +408,7 @@ Use the following translation questions to understand specific details of the pa
 
 **my kingdom is not here on earth** Jesus told Pilate that his kingdom did not work like the kingdoms of human governments and rulers. How would you express **my kingdom is not here on earth** to mean Jesus’ kingdom is not like earthly kingdoms?
 
-**If it were, my servants would fight for me** Jesus made a hypothetical statement to show that his kingdom was not like the kingdom of human rulers. He said that if his kingdom worked like human governments then his disciples would fight to free Jesus. How would you express **If it were, my servants would fight for me** to mean Jesus’ disciples would physically fight to set Jesus free if Jesus’ kingdoms was like the government of human rulers?
+**If it were, my servants would fight for me** Jesus made a hypothetical statement to show that his kingdom was not like the kingdom of human rulers. He said that if his kingdom worked like human governments, then his disciples would fight to free Jesus. How would you express **If it were, my servants would fight for me** to mean Jesus’ disciples would physically fight to set Jesus free if Jesus’ kingdom was like the government of human rulers?
 
 **listens to me** Jesus said that people who love the truth follow Jesus’ commands. This includes not just hearing Jesus’ words, but also doing what he says. How would you express **listens to me** to mean hears Jesus’ teaching and obeys Jesus?
 
@@ -420,19 +420,19 @@ Use the following translation questions to understand specific details of the pa
 
 #### 39-12
 
-**begin to riot** Pilate feared that the crowd would act violently and become unruly. How would you express **begin to riot** to mean to start doing violent things in their anger?
+**begin to riot** Pilate feared the crowd would act violently and become unruly. How would you express **begin to riot** to mean to start doing violent things in their anger?
 
-**he agreed to have** Pilate did not want to kill Jesus because he believed that Jesus was innocent. But he was forced to tell his soldiers to crucify Jesus because of his fear of the crowd. How would you express **he agreed to have** to mean Pilate gave his permission to do what the crowd asked and have Jesus killed?
+**he agreed to have** Pilate did not want to kill Jesus because he believed that Jesus was innocent. But he was forced to tell his soldiers to crucify Jesus because he feared the crowd. How would you express **he agreed to have** to mean Pilate gave his permission to do what the crowd asked and have Jesus killed?
 
-**put a royal robe and a crown made of thorns on him** A robe and a crown were symbols of royalty. The robe was like a king’s robe. This robe had a bright color, so it looked like the kind of robe that a king would wear. This crown was a ring woven from thorns. A king would wear a crown of gold. They put the robe and crown on Jesus to mock him. How would you express **put a royal robe and a crown made of thorns on him** to mean the soldiers humiliated Jesus by dressing him up as a king and making fun of his claim to be the King of the Jews?
+**put a royal robe and a crown made of thorns on him** A robe and crown symbolized royalty. The robe was like a king’s robe. This robe had a bright color, so it looked like the kind of robe that a king would wear. This crown was a ring woven from thorns. A king would wear a crown of gold. They put the robe and crown on Jesus to mock him. How would you express **put a royal robe and a crown made of thorns on him** to mean the soldiers humiliated Jesus by dressing him up as a king and making fun of his claim to be the King of the Jews?
 
-**Look, the King of the Jews!** They were saying this to mock Jesus. They were calling Jesus “King of the Jews,” but they did not really believe he was a king. And yet what they were saying was true. How would you express **Look, the King of the Jews!** as an ironic statement that said Jesus was the King of Jews to mock him but in reality was actually true?
+**Look, the King of the Jews!** They were saying this to mock Jesus. They were calling Jesus “King of the Jews,” but they did not really believe he was a king. And yet what they were saying was true. How would you express **Look, the King of the Jews!** as an ironic statement that said Jesus was the King of Jews to mock him but, in reality, was actually true?
 
 <!-- page break -->
 
 ## Theological Dialogue: Discussing the Meaning of the Story
 
-Take time to explore the meaning of this story together as a community. Use the following discussions as a way to grasp what truth the story teaches.
+Take time to explore the meaning of this story together as a community. Use the following discussions to grasp the truth the story teaches.
 
 ### Discourse Questions
 
@@ -442,9 +442,9 @@ Use the following discourse questions to understand the meaning of the story. Pa
 
 Questioning Jesus: The soldiers brought Jesus to the house of the high priest. The high priest wanted to ask Jesus questions to show he was guilty of wrongdoing. They did this in the secrecy of the middle of the night. The Jewish leaders wanted to kill Jesus. (39-01, 39-09)
 
-Accusation of Guilt: The leaders put Jesus on trial and brought false witnesses to accuse Jesus. Jesus did not say anything. Their statements contradicted each other and the Jewish leaders could not find any evidence that would prove Jesus was guilty of wrongdoing. These things showed that Jesus was innocence of wrongdoing. When Jesus went before Pilate, he could not find anything that Jesus did that was wrong. Pilate told the crowd three times that Jesus was innocent. The trials of Jesus showed his innocence and that he was not guilty of sin. (39-02; 39-11)
+Accusation of Guilt: The leaders put Jesus on trial and brought false witnesses to accuse Jesus. Jesus did not say anything. Their statements contradicted each other, and the Jewish leaders could not find evidence proving Jesus was guilty of wrongdoing. These things showed that Jesus was innocent of wrongdoing. When Jesus went before Pilate, he could not find anything that Jesus did that was wrong. Pilate told the crowd three times that Jesus was innocent. The trials of Jesus showed his innocence and that he was not guilty of sin. (39-02; 39-11)
 
-Shame and Humiliation: The Jewish leaders said that Jesus deserved to die because he claimed that he was equal to God. They blindfolded him, spit on him, and mocked him. Later the soldiers mocked Jesus as king. Jesus endured humiliation, mistreatment, and mockery even though he was innocent. (39-05, 39-12)
+Shame and Humiliation: The Jewish leaders said that Jesus deserved to die because he claimed he was equal to God. They blindfolded him, spit on him, and mocked him. Later the soldiers mocked Jesus as king. Jesus endured humiliation, mistreatment, and mockery even though he was innocent. (39-05, 39-12)
 
 Physical Pain: They hit Jesus. Later, the soldiers whipped Jesus.
 Pending Death: Jesus faced death. The Jewish leaders wanted Jesus condemned to death. Pilate sentenced Jesus to death by crucifixion. The crowd of people called for Jesus to be crucified. (39-05, 39-11, 39-12)
@@ -455,9 +455,9 @@ Distance: Peter followed Jesus far behind while he was going to trial in the hou
 
 Denial: Three times, people accused Peter of being with Jesus. Peter denied this three times even though he was one of Jesus’ disciples. Peter even spoke down a curse on himself to prove that he did not know Jesus. (39-06, 39-07)
 
-Conviction: After Peter denied Jesus three times the rooster crowed and Jesus looked at Peter. The prophecy Jesus gave that Peter would deny Jesus three times came true. (39-07)
+Conviction: After Peter denied Jesus three times, the rooster crowed, and Jesus looked at Peter. The prophecy Jesus gave that Peter would deny Jesus three times came true. (39-07)
 
-Sorrow: When Peter realized what he did, he left and wept with great sorrow. In contrast, Judas was so filled with sorrow that he killed himself. (39-08)
+Sorrow: When Peter realized what he had done, he left and wept with great sorrow. In contrast, Judas was so filled with sorrow that he killed himself. (39-08)
 
 ##### How do real disciples relate to Jesus? (39-10)
 
@@ -471,9 +471,9 @@ Questioning Truth: Pilate questioned whether it was possible to know the truth. 
 
 Innocence of Wrong: Jesus was accused of wrongdoing but was innocent of this wrongdoing. Ironically, Jesus was sentenced because of his claims to be equal to God and to be the King of the Jews. These things are true of Jesus. (39-09, 39-11, 39-12)
 
-Messiah, Son of God, Divine, and King: The high priest asked Jesus if he is the Messiah, the Son of the living God. Jesus told him that he is. He used a phrase, “I am,” that is similar to God’s name. Jesus also said he would be seated next to God to rule and would come to earth from the clouds. The Jewish leaders knew Jesus was making claims to be equal to God. In this, Jesus announced that he is the Messiah, God’s eternal Son, equal with God, and has the right to rule as king with God the Father. (39-03, 39-04)
+Messiah, Son of God, Divine, and King: The high priest asked Jesus if he is the Messiah, the Son of the living God. Jesus told him that he is. He used a phrase “I am,” which is similar to God’s name. Jesus also said he would be seated next to God to rule and come to earth from the clouds. The Jewish leaders knew Jesus was making claims to be equal to God. In this, Jesus announced that he is the Messiah, God’s eternal Son, equal with God, and has the right to rule as king with God the Father. (39-03, 39-04)
 
-King of the Jews: Jesus went before Pilate and Pilate asked if Jesus was King of the Jews. Jesus told him that he is the King of the Jews. The Roman soldiers mocked Jesus as King of the Jews with a robe and crown of thorns. What they mocked was actually true of Jesus. He really is the King of the Jews. (39-09, 39-10, 39-12)
+King of the Jews: Jesus went before Pilate, and Pilate asked if Jesus was King of the Jews. Jesus told him that he is the King of the Jews. The Roman soldiers mocked Jesus as King of the Jews with a robe and crown of thorns. What they mocked was actually true of Jesus. He really is the King of the Jews. (39-09, 39-10, 39-12)
 
 Heavenly Kingdom: Jesus told Pilate that his kingdom is not like the kingdoms of the world. Jesus did not have his disciples fight to set him free. People fight with violence to defend human kingdoms; Jesus died on the cross to set people free. (39-10)
 

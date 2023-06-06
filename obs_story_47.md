@@ -24,40 +24,40 @@ God set to restore his world through his promise.
 God made a covenant with Abraham. He promised to bless all nations through Abraham.
 God kept his promises across the generations.
 God provided Abraham with a promised child, Isaac.
-God gave Isaac a wife and she bore twins, Jacob and Esau.
+God gave Isaac a wife, and she bore twins Jacob and Esau.
 God blessed Jacob and his sons, and the blessing continued to the next generation.
 God rescued Joseph, one of Jacob’s sons, and used him to rescue his family.
 God caused his people, the Israelites, to multiply in the land of Egypt; eventually, they became slaves.
-But, God raised up a deliverer, Moses, to deliver his people from their slavery.
-God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people who covered their doorposts with the blood of a sacrificed lamb.
+But God raised up a deliverer, Moses, to deliver his people from slavery.
+God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people, who covered their doorposts with the blood of a sacrificed lamb.
 Then, God delivered the Israelites by bringing them out of Egypt and crossing the Red Sea on dry land.
 God made a covenant with the Israelites and made them his people.
 God tested Israel in a series of wilderness wanderings and
 eventually brought his people into the promised land of Canaan.
 God raised up deliverers to lead Israel and rescue them from their enemies.
 God formed Israel into a kingdom. He made a covenant with King David and promised to send a king that would rule his people forever.
-Many of Israel’s kings were evil and the kingdom of Israel divided into two kingdoms.
+Many of Israel’s kings were evil, and the kingdom of Israel was divided into two kingdoms.
 God sent prophets to warn his people of God’s judgment and call them to repent.
 When Israel did not repent, God sent his people into exile. After many years, he brought them back to the land.
-Throughout the Old Testament, God promised to send his Messiah to deliver his people form their sin.
+Throughout the Old Testament, God promised to send his Messiah to deliver his people from their sin.
 After many years, the prophet John was born. He would prepare people for the coming Messiah.
 At the perfect time, God sent his Son, Jesus, to be born of a virgin Mary.
 When John and Jesus grew up, John baptized Jesus as a sign that Jesus was God’s beloved Son.
 Jesus endured all manner of temptation without ever sinning.
 When he was thirty years old, he launched a public ministry of preaching, teaching, and healing.
 He taught his disciples about the life of compassion, sacrifice, and forgiveness.
-He performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
-He proclaimed to people the nature of real faith, God’s kingdom, and the how fallen humans can be restored in relationship with God.
-Toward the end of his ministry, Jesus revealed his power and glory to his disciples
-and raised a dead man to life
-Jesus was betrayed by one of his disciples and put on trial before a Roman governor
+Jesus performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
+He proclaimed to people the nature of real faith, God’s kingdom, and how fallen humans can be restored in relationship with God.
+Toward the end of his ministry, Jesus revealed his power and glory to his disciples.
+He raised a dead man to life.
+Jesus was betrayed by one of his disciples and put on trial before a Roman governor.
 Jesus was sentenced to death and crucified on a cross
 Three days later, Jesus rose again from the dead.
 After meeting with many of his disciples, Jesus went back to heaven.
-The Holy Spirit empowered Jesus’ followers and formed them into his church
+The Holy Spirit empowered Jesus’ followers and formed them into his church.
 Jesus’ disciples, like Peter and John, performed miracles and preached the good news about Jesus.
-New leaders like Stephen and Philip served the church and preached about Jesus
-Even Saul, a persecutor of Jesus’ followers, became a Christian and preached the gospel to many people
+New leaders like Stephen and Philip served the church and preached about Jesus.
+Even Saul, a persecutor of Jesus’ followers, became a Christian and preached the gospel to many people.
 
 <!-- page break -->
 
@@ -91,13 +91,13 @@ The slave girl kept yelling as they walked, “These men are servants of the Mos
 
 ![](.\assets\images\image541.jpeg)
 
-Finally, one day when the slave girl started yelling, Paul turned to her and said to the demon that was in her, “In the name of Jesus, come out of her.” Right away the demon left her.
+Finally, one day when the slave girl started yelling, Paul turned to her and said to the demon that was in her, “In the name of Jesus, come out of her.” Right away, the demon left her.
 
 ##### 47-06
 
 ![](.\assets\images\image542.jpeg)
 
-The men who owned the slave girl became very angry! They realized that, without the demon, the slave girl could not tell people the future. This meant that people would no longer pay her owners to have her tell their future.
+The men who owned the slave girl became very angry! They realized that, without the demon, the slave girl could not tell people about the future. This meant that people would no longer pay her owners to have her tell their future.
 
 ##### 47-07
 
@@ -109,13 +109,13 @@ So the owners of the slave girl took Paul and Silas to the Roman authorities, wh
 
 ![](.\assets\images\image544.jpeg)
 
-They put Paul and Silas in the part of the prison where there were the most guards. They even attached their feet to large pieces of wood. But in the middle of the night, Paul and Silas were singing songs of praise to God.
+They put Paul and Silas in the part of the prison with the most guards. They even attached their feet to large pieces of wood. But in the middle of the night, Paul and Silas were singing songs of praise to God.
 
 ##### 47-09
 
 ![](.\assets\images\image545.jpeg)
 
-Suddenly, there was a violent earthquake! All the prison doors opened wide, and the chains of all the prisoners fell off.
+Suddenly, there was a violent earthquake! All the prison doors opened wide, and the prisoners’ chains fell off.
 
 ##### 47-10
 
@@ -139,7 +139,7 @@ The jailer and his whole family believed in Jesus, so Paul and Silas baptized th
 
 ![](.\assets\images\image549.jpeg)
 
-The next day the leaders of the city released Paul and Silas from prison and asked them to leave Philippi. Paul and Silas visited Lydia and some other friends and then left the city. The good news about Jesus kept spreading, and the Church kept growing.
+The next day the leaders of the city released Paul and Silas from prison and asked them to leave Philippi. Paul and Silas visited Lydia and some other friends and left the city. The good news about Jesus kept spreading, and the Church kept growing.
 
 ##### 47-14
 
@@ -210,7 +210,7 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 47-01
 
@@ -220,7 +220,7 @@ He began to use the name “Paul.”
 Where did Paul and Silas go in Philippi to proclaim the good news about Jesus?  
 They went to a place by the river outside the city where people gathered to pray.
 
-Who did Paula and Silas meet by the river?  
+Who did Paul and Silas meet by the river?  
 Paul and Silas met a woman merchant named Lydia who loved and worshipped God.
 
 #### 47-02
@@ -242,7 +242,7 @@ Paul and Silas often met with people at the place where Jews prayed.
 Who would follow Paul and Silas as they walked to the place where Jews prayed?  
 Every day a slave girl possessed by a demon followed Paul and Silas as they went there.
 
-What did power did the slave girl have?  
+What power did the slave girl have?  
 The slave girl possessed by a demon predicted the future and made her masters a lot of money as a fortuneteller.
 
 #### 47-04
@@ -269,19 +269,19 @@ The demon left the slave girl right away.
 How did the masters of the slave girl respond after the demon left her?  
 The men who owned the slave girl became very angry!
 Why were the owners of the slave girl angry that the demon was gone?  
-They realized that people would no longer pay money to them for her to tell people the future.
+They realized that people would no longer pay money to them for her to tell people about the future.
 
 #### 47-07
 
 Where did the owners of the slave girl take Paul and Silas?  
-They took Paul and Silas to the Roman authorities?  
+They took Paul and Silas to the Roman authorities.  
 What did the Roman authorities do to Paul and Silas?  
 They beat Paul and Silas and threw them in jail.
 
 #### 47-08
 
 Where did they put Paul and Silas?  
-They put Paul and Silas in the part of the prison with the most guards and they attached their feet to large pieces of wood.
+They put Paul and Silas in the part of the prison with the most guards, and they attached their feet to large pieces of wood.
 
 What were Paul and Silas doing in the middle of the night in jail?  
 They were singing songs of praise to God.
@@ -289,7 +289,7 @@ They were singing songs of praise to God.
 #### 47-09
 
 What happened while Paul and Silas were singing?  
-There was a violent earthquake, the prison doors flew open, and the chains of the prisoners fell off.
+There was a violent earthquake, the prison doors flew open, and the prisoners’ chains fell off.
 
 #### 47-10
 
@@ -297,13 +297,13 @@ What did the jailer see when he woke up?
 When the jailer woke up, he saw the prison doors open.
 
 Why was the jailer afraid?  
-He thought all the prisoners had escaped, and that the Roman authorities would kill him for letting them go.
+He thought all the prisoners had escaped and that the Roman authorities would kill him for letting them go.
 
 What was the jailer ready to do to himself?  
 The jailer was ready to kill himself.
 
 What did Paul tell the jailer?  
-Paul told the jailer to not kill himself and that none of the prisoners had left.
+Paul told the jailer not to kill himself and that none of the prisoners had left.
 
 #### 47-11
 
@@ -338,17 +338,17 @@ What did the city leaders do to Paul and Silas?
 The next day the city leaders released Paul and Silas from prison and told them to leave Philippi.
 
 Who did Paul and Silas visit before they left the city of Philippi?  
-Paul and Silas visited Lydia and some other friends and then left the city.
+Paul and Silas visited Lydia and some other friends and left the city.
 
 What kind of progress was the good news making?  
 The good news about Jesus kept spreading, and the Church kept growing.
 
 #### 47-14
 
-What kinds of things did Paul and other church leaders do as leaders of the early believers?  
-Paul and other leaders traveled to many cities, preached about Jesus, and wrote many letters to encourage and teach the believers in the churches.
+What kind of things did Paul and other church leaders do as leaders of the early believers?  
+Paul and other leaders traveled to many cities, preached about Jesus, and wrote letters to encourage and teach the believers in the churches.
 
-What happened to some of the letters Paul and other follower of Jesus leaders wrote to the believers in the churches?  
+What happened to some of the letters from Paul and other followers of Jesus who were leaders who wrote to the believers in the churches?  
 Some of these letters became books of the Bible.
 
 ### Translation Questions
@@ -363,13 +363,13 @@ Use the following translation questions to understand specific details of the pa
 
 #### 47-02
 
-**God enabled Lydia to believe the message about Jesus** Lydia could not believe in Jesus in her own strength. This was something God had to give Lydia the ability to do. So God caused Lydia to believe in the good news about Jesus. How would you express **God enabled Lydia to believe the message about Jesus** to mean God made it possible for Lydia to believe message that Paul and Silas preached about Jesus?
+**God enabled Lydia to believe the message about Jesus** Lydia could not believe in Jesus in her own strength. This was something God had to give Lydia the ability to do. So God caused Lydia to believe in the good news about Jesus. How would you express **God enabled Lydia to believe the message about Jesus** to mean God made it possible for Lydia to believe the message that Paul and Silas preached about Jesus?
 
 **She invited Paul and Silas to stay at her house** Lydia asked that Paul and Silas lodge at her house. This was the normal custom of the day for people to provide hospitality to visitors in their homes. There were no immoral motives in this arrangement. How would you express **She invited Paul and Silas to stay at her house** to mean Lydia offered her house as a place where Paul and Silas could lodge as visitors during their time in Philippi?
 
 #### 47-03
 
-**a slave girl possessed by a demon** This girl was controlled by an evil spirit. She was also subjected to human owners who had authority over her. How would you express **a slave girl possessed by a demon** to mean girl who was under the legal custody of human masters and who was also controlled by an evil spirit?
+**a slave girl possessed by a demon** This girl was controlled by an evil spirit. She was also subjected to human owners who had authority over her. How would you express **a slave girl possessed by a demon** to mean a girl who was under the legal custody of human masters and who was also controlled by an evil spirit?
 
 **a fortuneteller** A fortuneteller tried to get information from spirits in the supernatural world. A person who does this is sometimes called a ‘diviner’ or ‘soothsayer.’ The demon gave the girl special power to predict the future. The girl’s owners used this ability to make money from people. How would you express **a fortuneteller** to mean someone who told people what would happen to them in the future?
 
@@ -385,37 +385,37 @@ Use the following translation questions to understand specific details of the pa
 
 **In the name of Jesus, come out of her** Paul spoke a command that ordered the demon to leave the slave girl and stop controlling her. He gave this command by the power and authority of Jesus. Paul is acting as a representative of Jesus. Because of Jesus’ authority, Paul could command the demon to leave. How would you express **In the name of Jesus, come out of her** as a command that gave an order by the authority and power of Jesus for the demon to go away from the slave girl and no longer control her?
 
-**Right away the demon left her** The evil spirit left the slave girl and stopped controlling her at the time Paul ordered it to leave. How would you express to **Right away the demon left her** mean the demon came out of the slave girl immediately?
+**Right away the demon left her** The evil spirit left the slave girl and stopped controlling her when Paul ordered it to leave. How would you express **Right away the demon left her** to mean the demon came out of the slave girl immediately?
 
 #### 47-06
 
 **They realized that, without the demon, the slave girl could not tell people the future** The demon gave the slave girl the power to predict the future. The slave girl would no longer be able to predict the future without the power from the demon. The owners understood this. How would you express **They realized that, without the demon, the slave girl could not tell people the future** to mean the owners of the slave girl clearly understood that the slave girl would no longer be able to predict the future now that she did not have the demon?
 
-**This meant that people would no longer pay her owners to have her tell their future** The slave girl no longer had the power to predict the future. The result of this was the owners of the slave girl would lose business. How would you express **This meant that people would no longer pay her owners to have her tell their future** to mean the result of the slave girl not being able to predict the future was people would stop paying the owners to longer pay the owners.
+**This meant that people would no longer pay her owners to have her tell their future** The slave girl no longer had the power to predict the future. The result of this was the owners of the slave girl would lose business. How would you express **This meant that people would no longer pay her owners to have her tell their future** to mean the result of the slave girl not being able to predict the future was people would stop paying the owners?
 
 #### 47-07
 
 **beat Paul and Silas** The Roman authorities physically harmed Paul and Silas. How would you express **beat Paul and Silas** to mean the officials in the Roman government repeatedly struck Paul and Silas in a way to injure and punish them?
 
-**then threw them into jail** The Roman authorities put Paul and Silas in jail after they beat them. How would you express **then threw them into jail** to mean the officials in the Roman government forcefully put Paul and Silas in prison after the officials injured Paul and Silas by repeating hitting them?
+**then threw them into jail** The Roman authorities put Paul and Silas in jail after they beat them. How would you express **then threw them into jail** to mean the officials in the Roman government forcefully put Paul and Silas in prison after the officials injured Paul and Silas by repeatedly hitting them?
 
 #### 47-08
 
 **They even attached their feet to large pieces of wood** They locked the feet of Paul and Silas in large pieces of wood so that they could not move around freely or escape from prison. How would you express **They even attached their feet to large pieces of wood** to mean they added an extra measure of restriction by fastening the feet of Paul and Silas to big pieces of wood?
 
-**But in the middle of the night Paul and Silas were singing songs of praise to God,** Paul and Silas did something different/opposite than what was expected. Paul and Silas had been beaten, put in prison with their feet locked into wood. You would expect them to be crying or protesting, but instead of doing that, they were singing songs of praise to God. They did this when it was very late at night. How would you express **But in the middle of the night Paul and Silas were singing songs of praise to God,** to mean, when it was very late at night, Paul and Silas did the opposite of what many people would expect and praised God by singing?
+**But in the middle of the night Paul and Silas were singing songs of praise to God,** Paul and Silas did something different/opposite than what was expected. Paul and Silas had been beaten and put in prison with their feet locked into wood. You would expect them to be crying or protesting, but instead of doing that, they were singing songs of praise to God. They did this when it was very late at night. How would you express **But in the middle of the night Paul and Silas were singing songs of praise to God,** to mean, when it was very late at night, Paul and Silas did the opposite of what many people would expect and praised God by singing?
 
 #### 47-09
 
 **Suddenly, there was a violent earthquake!** Without any warning, the ground shook violently. People did not expect the earthquake to occur. It happened abruptly. How would you express **Suddenly, there was a violent earthquake!** to mean the ground unexpectedly shook intensely with very strong movements/tremors?
 
-**the chains of all the prisoners fell off** They put chains on the prisoners to restrain them. These chains belonged to the Roman government and were used to hold the prisoners in place. At the time the earthquake happened, these chains suddenly came off the prisoners. How would you express **the chains of all the prisoners fell off** to mean the chains suddenly came apart so that the prisoners were released?
+**the chains of all the prisoners fell off** They put chains on the prisoners to restrain them. These chains belonged to the Roman government and were used to hold the prisoners in place. When the earthquake happened, these chains suddenly came off the prisoners. How would you express **the chains of all the prisoners fell off** to mean the chains suddenly came apart so that the prisoners were released?
 
 #### 47-10
 
-**so he got ready to kill himself** The jailer knew that the Roman authorities would kill him if the prisoners escaped. As a result, the jailer planned to kill himself. How would you express **so he got ready to kill himself** to mean the result of the jailer being afraid that the Roman authorities would kill him was he intended to kill himself?
+**so he got ready to kill himself** The jailer knew the Roman authorities would kill him if the prisoners escaped. As a result, the jailer planned to kill himself. How would you express **so he got ready to kill himself** to mean the result of the jailer being afraid that the Roman authorities would kill him was he intended to kill himself?
 
-**But Paul saw him and shouted** You would expect that the prisoners had escaped and that the jailer will kill himself. Instead Paul stops him from killing himself, and tells him that all the prisoners are still in the jail. How would you express **But Paul saw him and shouted** to mean Paul did something different/opposite than one would expect and called out with a loud voice to stop the jailer from killing himself?
+**But Paul saw him and shouted** You would expect that the prisoners had escaped and that the jailer will kill himself. Instead, Paul stops him from killing himself and tells him that all the prisoners are still in jail. How would you express **But Paul saw him and shouted** to mean Paul did something different/opposite than one would expect and called out with a loud voice to stop the jailer from killing himself?
 
 #### 47-11
 
@@ -423,7 +423,7 @@ Use the following translation questions to understand specific details of the pa
 
 **Believe in Jesus, the Master** Paul answered the jailer’s question with a command to believe in Jesus. He explained that Jesus is the Master who has authority over all. This was addressed to both the jailer and his family, who all then believed and were baptized. How would you express **Believe in Jesus, the Master** as a command to the group to trust in Jesus as the ultimate/highest authority?
 
-**you and your family will be saved** Paul told them that if they believed in Jesus God would save the jailer and his family. How would you express **you and your family will be saved** to mean God will save you and your family from eternal punishment for your sins?
+**you and your family will be saved** Paul told them that if they believed in Jesus, God would save the jailer and his family. How would you express **you and your family will be saved** to mean God will save you and your family from eternal punishment for your sins?
 
 #### 47-12
 
@@ -437,13 +437,13 @@ Use the following translation questions to understand specific details of the pa
 
 #### 47-14
 
-**They also wrote many letters to encourage and teach the believers in the churches** The leaders of the early believers wrote messages and sent these to the churches. These letters strengthened and instructed believers in their belief. How would you express **They also wrote many letters to encourage and teach the believers in the churches** to mean leaders of the believers wrote down letters/messages and sent these messages to groups of believers in different in order to make their faith strong and instruct in what it means to be a believer of Jesus?
+**They also wrote many letters to encourage and teach the believers in the churches** The leaders of the early believers wrote messages and sent these to the churches. These letters strengthened and instructed believers in their belief. How would you express **They also wrote many letters to encourage and teach the believers in the churches** to mean leaders of the believers wrote down letters/messages and sent these messages to groups of believers in different to make their faith strong and instruct in what it means to be a believer of Jesus?
 
 <!-- page break -->
 
 ## Theological Dialogue: Discussing the Meaning of the Story
 
-Take time to explore the meaning of this story together as a community. Use the following discussions as a way to grasp what truth the story teaches.
+Take time to explore the meaning of this story together as a community. Use the following discussions to grasp the truth the story teaches.
 
 ### Discourse Questions
 
@@ -451,13 +451,13 @@ Use the following discourse questions to understand the meaning of the story. Pa
 
 ##### How did Lydia become a believer? (47-01, 47-02)
 
-Missionary Work: Paul and Silas traveled throughout the Roman Empire in order to preach the gospel with many people living in many different areas. Paul and Silas came to Philippi as one of the places on their journey. They specifically came to preach the good news about Jesus. Lydia came to believe in Jesus because leaders like Paul and Silas traveled to other areas to tell other people about the gospel of Jesus. (47-01)
+Missionary Work: Paul and Silas traveled throughout the Roman Empire to preach the gospel to many people living in different areas. Paul and Silas came to Philippi as one of the places on their journey. They specifically came to preach the good news about Jesus. Lydia came to believe in Jesus because leaders like Paul and Silas traveled to other areas to tell other people about the gospel of Jesus. (47-01)
 
-Religious Interest: In Philippi, Paul and Silas went to a place where people gathered to pray. They met Lydia there. She loved and worshipped God. Paul and Silas shared the gospel with Lydia, someone with religious interest, who was concerned about being right/acceptable before God. (47-01)
+Religious Interest: In Philippi, Paul and Silas went to a place where people gathered to pray. They met Lydia there. She loved and worshipped God. Paul and Silas shared the gospel with Lydia, someone with a religious interest, who was concerned about being right/acceptable before God. (47-01)
 
 God’s Power: God gave Lydia the ability to believe. Lydia heard the gospel and became a believer in Jesus. Her family also believed. God caused Lydia to believe in Jesus. This was not something that she could do on her own. 47-02)
 
-Baptism and Service: Paul and Silas baptized Lydia. She announced her faith in Jesus and then showed hospitality to Paul and Silas by inviting them to stay with her. Lydia was a business woman. Lydia became a believer and then used her her resources to serve these leaders. (47-01, 47-02)
+Baptism and Service: Paul and Silas baptized Lydia. She announced her faith in Jesus and then showed hospitality to Paul and Silas by inviting them to stay with her. Lydia was a business woman. Lydia became a believer and then used her resources to serve these leaders. (47-01, 47-02)
 
 ##### How did Paul drive out the evil spirit from the demon-possessed slave girl? (47-03, 47-04, 47-05, 47-06)
 
@@ -465,9 +465,9 @@ Demon-Possessed: A slave girl was possessed by an evil spirit. The demon gave he
 
 Human Masters: The slave girl was owned by human masters. They used her as a business to make a profit. People would pay the owners money to have the slave girl predict the future. The slave girl was exploited/mistreated by human owners. (47-03, 47-06)
 
-Not Experiencing Freedom: The slave girl followed Paul and Silas on their way to the place where Jews prayed. The slave girl continually called out in a loud voice. She said that Paul and Silas were servants of God and that they were telling people how God saves them. Paul was irritated that she was saying this. The slave girl was speaking about the salvation of Jesus but she was still afflicted by the demon and owned by her human masters. She did not experience the freedom and salvation that the demon was speaking about. (47-03, 47-04)
+Not Experiencing Freedom: The slave girl followed Paul and Silas on their way to the place where Jews prayed. The slave girl continually called out in a loud voice. She said that Paul and Silas were servants of God and that they were telling people how God saves them. Paul was irritated that she was saying this. The slave girl was speaking about the salvation of Jesus, but she was still afflicted by the demon and owned by her human masters. She did not experience the freedom and salvation the demon spoke about. (47-03, 47-04)
 
-No More Afflicted by Demon: Paul looked at the girl and commanded the demon to leave her by the authority of Jesus. Immediately, the demon left the girl and no longer controlled her. The power of Jesus set the slave girl free from the demon. We do not know what her owners did with her, but her owners could no longer use her for profit as a fortuneteller. The power of Jesus have the slave girl freedom from affliction and financial exploitation. (47-05, 47-06)
+No More Afflicted by Demon: Paul looked at the girl and commanded the demon to leave her by the authority of Jesus. Immediately, the demon left the girl and no longer controlled her. The power of Jesus set the slave girl free from the demon. We do not know what her owners did with her, but her owners could no longer use her for profit as a fortuneteller. The power of Jesus gave the slave girl freedom from affliction and financial exploitation. (47-05, 47-06)
 
 ##### How did the arrest of Paul and Silas lead to the conversion/salvation of the jailer and his family? (47-07, 47-08, 47-09, 47-10, 47-11, 47-12)
 
@@ -475,7 +475,7 @@ Beating and Prison: The owners of the slave girl were very angry that they could
 
 Praise of God: Paul and Silas sang songs of praise to God in the middle of the night. Rather than feeling despair, Paul and Silas praised God despite their difficult situation. (47-08)
 
-Divine Power and Divine Opportunities: God sent an earthquake and all of the chains fell off the prisoners and the doors were opened. God was creating an opportunity for Paul and Silas to share the gospel in prison. The jailer was afraid that the prisoners escaped and was read to kill himself. Rather than trying to escape and letting the jailer kill himself, Paul used the opportunity to tell the jailer about Jesus. (47-09, 47-10)
+Divine Power and Divine Opportunities: God sent an earthquake and all of the chains fell off the prisoners and the doors were opened. God created an opportunity for Paul and Silas to share the gospel in prison. The jailer was afraid that the prisoners had escaped and was ready to kill himself. Rather than trying to escape and letting the jailer kill himself, Paul used the opportunity to tell the jailer about Jesus. (47-09, 47-10)
 
 Believe in Jesus: The jailer wanted to know what he had to do for God to save him. God Paul told the jailer that he and his family needed to believe in Jesus for God to save him and his family. Paul preached the gospel to his whole family. They believed in Jesus. (47-11)
 
@@ -485,10 +485,10 @@ Baptism and Service: Paul and Silas baptized the whole family. Then, the jailer 
 
 Visiting Believers: The city leaders released Paul and Silas from prison and asked them to leave the city. Before they left, Paul and Silas visited Lydia and some other friends. Paul visited believers as a way to help them have a strong faith. (47-13)
 
-Many New Believers: Many people became believers. People shared the good news about Jesus and people trusted Jesus to save them from their sins. (47-13)
+Many New Believers: Many people became believers. People shared the good news about Jesus, and people trusted Jesus to save them from their sins. (47-13)
 Mission Trips: Paul and other leaders traveled to many cities to tell people about Jesus. They preached the good news about Jesus saving people from their sin. (47-13)
 
-Teaching and Encouragement: Leaders of the believers encouraged believers and taught them about what it means to be a follower of Jesus. They wrote letters to these groups of believers and some of these letters became books of the Bible. Leaders wanted churches to be strong and healthy as well as for the good news of Jesus to spread to more and more people. (47-14)
+Teaching and Encouragement: Leaders of the believers encouraged believers and taught them about what it means to be a follower of Jesus. They wrote letters to these groups of believers, and some of these letters became books of the Bible. Leaders wanted churches to be strong and healthy as well as for the good news of Jesus to spread to more and more people. (47-14)
 
 <!-- page break -->
 
@@ -498,7 +498,7 @@ Answer the following theology questions as a community. Discuss what truths this
 
 1.  What does it look like for people to experience God saving them from their sins? What do the stories about Lydia and the jailer teach us about how God saves people?
 2.  How does God’s power bring about a change in people’s lives? How does this story show God’s power to change people?
-3.  How can believers/churches focus on the spread of the gospel and the health of church communities? What does this story teach us about focusing on the spread of the gospel and the strengthening of churches?
+3.  How can believers/churches focus on the spread of the gospel and the health of church communities? What does this story teach us about focusing on spreading the gospel and strengthening churches?
 
 ### Translation Draft
 

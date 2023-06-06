@@ -24,31 +24,31 @@ God set to restore his world through his promise.
 God made a covenant with Abraham. He promised to bless all nations through Abraham.
 God kept his promises across the generations.
 God provided Abraham with a promised child, Isaac.
-God gave Isaac a wife and she bore twins, Jacob and Esau.
+God gave Isaac a wife, and she bore twins Jacob and Esau.
 God blessed Jacob and his sons, and the blessing continued to the next generation.
 God rescued Joseph, one of Jacob’s sons, and used him to rescue his family.
 God caused his people, the Israelites, to multiply in the land of Egypt; eventually, they became slaves.
-But, God raised up a deliverer, Moses, to deliver his people from their slavery.
-God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people who covered their doorposts with the blood of a sacrificed lamb.
+But God raised up a deliverer, Moses, to deliver his people from slavery.
+God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people, who covered their doorposts with the blood of a sacrificed lamb.
 Then, God delivered the Israelites by bringing them out of Egypt and crossing the Red Sea on dry land.
 God made a covenant with the Israelites and made them his people.
 God tested Israel in a series of wilderness wanderings and
 eventually brought his people into the promised land of Canaan.
 God raised up deliverers to lead Israel and rescue them from their enemies.
 God formed Israel into a kingdom. He made a covenant with King David and promised to send a king that would rule his people forever.
-Many of Israel’s kings were evil and the kingdom of Israel divided into two kingdoms.
+Many of Israel’s kings were evil, and the kingdom of Israel was divided into two kingdoms.
 God sent prophets to warn his people of God’s judgment and call them to repent.
 When Israel did not repent, God sent his people into exile. After many years, he brought them back to the land.
-Throughout the Old Testament, God promised to send his Messiah to deliver his people form their sin.
+Throughout the Old Testament, God promised to send his Messiah to deliver his people from their sin.
 After many years, the prophet John was born. He would prepare people for the coming Messiah.
 At the perfect time, God sent his Son, Jesus, to be born of a virgin Mary.
 When John and Jesus grew up, John baptized Jesus as a sign that Jesus was God’s beloved Son.
 Jesus endured all manner of temptation without ever sinning.
 When he was thirty years old, he launched a public ministry of preaching, teaching, and healing.
 He taught his disciples about the life of compassion, sacrifice, and forgiveness.
-He performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
-He proclaimed to people the nature of real faith, God’s kingdom, and the how fallen humans can be restored in relationship with God.
-Toward the end of his ministry, Jesus revealed his power and glory to his disciples
+Jesus performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
+He proclaimed to people the nature of real faith, God’s kingdom, and how fallen humans can be restored in relationship with God.
+Toward the end of his ministry, Jesus revealed his power and glory to his disciples.
 
 <!-- page break -->
 
@@ -70,7 +70,7 @@ As Jesus was praying, his face became as bright as the sun. His clothes became a
 
 ![](.\assets\images\image421.jpeg)
 
-Then Moses and the prophet Elijah appeared. These men had lived on the earth hundreds of years before this. They talked with Jesus about his death, because he would soon die in Jerusalem.
+Then Moses and the prophet Elijah appeared. These men had lived on the earth hundreds of years before this. They talked with Jesus about his death because he would soon die in Jerusalem.
 
 ##### 36-04
 
@@ -82,7 +82,7 @@ As Moses and Elijah were talking with Jesus, Peter said to Jesus, “It is good 
 
 ![](.\assets\images\image423.jpeg)
 
-As Peter was talking, a bright cloud came down and surrounded them. Then they heard a voice coming from the cloud. It said, “This is my Son whom I love. I am pleased with him. Listen to him.” The three disciples were terrified and fell on the ground.
+As Peter was talking, a bright cloud came down and surrounded them. Then they heard a voice coming from the cloud. It said, “This is my Son whom I love. I am pleased with him. Listen to him.” The three disciples were terrified and fell to the ground.
 
 ##### 36-06
 
@@ -159,7 +159,7 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 36-01
 
@@ -172,7 +172,7 @@ They went up on a high mountain by themselves to pray.
 #### 36-02
 
 What change happened to Jesus as he was praying?  
-His face became as bright as the sun and his clothes became as white as light.
+His face became as bright as the sun, and his clothes became as white as light.
 
 How white did his clothes become?  
 They became as white as light, whiter than anyone on earth could make them.
@@ -194,9 +194,9 @@ He was going to die in Jerusalem.
 #### 36-04
 
 What did Peter think about Moses and Elijah appearing on the mountain?  
-Peter said that it was good that they were there at the time Moses and Elijah appeared.
+Peter said it was good that they were there when Moses and Elijah appeared.
 
-What did Peter suggest that they do for Jesus, Moses, and Elijah?  
+What did Peter suggest they do for Jesus, Moses, and Elijah?  
 He wanted to make three shelters, one for Jesus, one for Moses, and one for Elijah.
 
 What was wrong with what Peter said?  
@@ -211,23 +211,23 @@ What did the voice from the bright cloud say to the disciples?
 It said, “This is my Son whom I love. I am pleased with him. Listen to him.”
 
 How did the three disciples respond to this voice?  
-The three disciples were terrified and fell on the ground.
+The three disciples were terrified and fell to the ground.
 
 #### 36-06
 
 What did Jesus do to his three disciples?  
-Jesus touched them, told them to not be afraid, and instructed them to get up.
+Jesus touched them, told them not to be afraid, and instructed them to get up.
 
 What did the disciples see when they looked around?  
 When they looked around, the only one still there was Jesus.
 
 #### 36-07
 
-What did Jesus tell the disciples to do about what they had seen as they went down the mountain ?  
-He told them not tell anyone about what happened on the mountain until after he died and came back to life.
+What did Jesus tell the disciples to do about what they had seen as they went down the mountain?  
+He told them not to tell anyone about what happened on the mountain until he died and returned to life.
 
 When did Jesus tell his disciples they could speak about what happened on the mountain?  
-Jesus told his disciples that they could speak about what happened on the mountain after Jesus rose from the dead.
+Jesus told his disciples they could speak about what happened on the mountain after Jesus rose from the dead.
 
 ### Translation Questions
 
@@ -237,15 +237,15 @@ Use the following translation questions to understand specific details of the pa
 
 **One day** The events of this story actually took place in history. The story does not specify the exact time they occurred. How would you express **One day** to identify true events that actually took place on an unspecified day and at an unspecified time?
 
-**Jesus took three of his disciples** Jesus brought his three disciples up on a high mountain to pray. How would you express **Jesus took three of his disciples** to mean Jesus specifically chose three disciples (Peter, James, and John) to go with him up on a high mountain and Jesus led them to that place?
+**Jesus took three of his disciples** Jesus brought his three disciples up on a high mountain to pray. How would you express **Jesus took three of his disciples** to mean Jesus specifically chose three disciples (Peter, James, and John) to go with him up on a high mountain, and Jesus led them to that place?
 
 **James** This is a different **James** than the one who wrote the Book of **James** in the Bible. How would you express **James** to mean the disciple of Jesus but not the one who wrote the Book of **James** in the Bible?
 
 #### 36-02
 
-**his face became as bright as the sun** At this time, Jesus’ appearance changed. His face became very bright that is looked like the brightness of the sun. How would you express **his face became as bright as the sun** to mean Jesus’ face reflect intense light that it was compared to (similar to) the bright shining of the sun?
+**his face became as bright as the sun** At this time, Jesus’ appearance changed. His face became very bright that looked like the brightness of the sun. How would you express **his face became as bright as the sun** to mean Jesus’ face reflected intense light that was compared to (similar to) the bright shining of the sun?
 
-**His clothes became as white as light** At this time, Jesus’ appearance changed. His clothes became very white light the color of light. How would you express **His clothes became as white as light** to mean Jesus’ clothes changed color and became like the color white that is compared to (similar to) the pure color of light?
+**His clothes became as white as light** At this time, Jesus’ appearance changed. His clothes became very white, like the color of light. How would you express **His clothes became as white as light** to mean Jesus’ clothes changed color and became like the color white which compares to (similar to) the pure color of light?
 
 **whiter than anyone on earth could make them** Jesus’ clothes turned extremely white. This color is so white that it was more white that people could make their clothes when they bleach them. How would you express **whiter than anyone on earth could make them** to mean Jesus’ clothes were more white than people could make their clothes white when they bleach them?
 
@@ -253,45 +253,45 @@ Use the following translation questions to understand specific details of the pa
 
 **appeared** Moses and Elijah were very important people in Israel’s history. God made a covenant with Moses and gave him the law. Elijah was a prophet of God. He spoke God’s messages to people and confronted false gods. They both lived and died hundreds of years ago in past generations. On the mountain, Moses and Elijah showed up out of nowhere. How would you express **appeared** to mean Elijah and Moses suddenly and unexpectedly were present on the mountain?
 
-**because he would soon die in Jerusalem** Moses and Elijah spoke with Jesus about the fact that he would die. The reason they spoke with Jesus about this was Jesus’s death would happen in a short time. Specifically, Jesus would die in the city of Jerusalem. How would you express **because he would soon die in Jerusalem** to mean the reason Moses and Elijah spoke with Jesus about his death was Jesus would die in the city of Jerusalem in a short time?
+**because he would soon die in Jerusalem** Moses and Elijah spoke with Jesus about the fact that he would die. They spoke with Jesus about this because Jesus’s death would happen in a short time. Specifically, Jesus would die in the city of Jerusalem. How would you express **because he would soon die in Jerusalem** to mean the reason Moses and Elijah spoke with Jesus about his death was that Jesus would die in Jerusalem in a short time?
 
 #### 36-04
 
-**It is good for us to be here** It is not clear whether us refers only to Peter, James, and John, or if it refers to everyone there, including Jesus, Elijah, and Moses. Peter thought it was positive that they were up on the mountain while these events took place. How would you express **It is good for us to be here** to mean it was good that they were on the mountain while these events were happening?
+**It is good for us to be here** It is not clear whether us refers only to Peter, James, and John or if it refers to everyone there, including Jesus, Elijah, and Moses. Peter thought it was positive that they were up on the mountain while these events took place. How would you express **It is good for us to be here** to mean it was good that they were on the mountain while these events were happening?
 
 **shelters** Peter wanted to make temporary **shelters** that functioned like tents or garden huts. Peter thought it was a good idea to build these **shelters**. These **shelters** were small, individual, temporary **shelters** like the Jews made from tree branches during an annual Jewish holiday. How would you express **shelters** to mean small, temporary dwellings where people could stay for a short time?
 
-**did not know what he was saying** Peter spoke without thinking clearly because he was so excited about what was taking place on the mountain. How would you express **did not know what he was saying** to mean Peter was speaking without really understanding what was happening?
+**did not know what he was saying** Peter spoke without thinking clearly because he was so excited about what was happening on the mountain. How would you express **did not know what he was saying** to mean Peter was speaking without really understanding what was happening?
 
 #### 36-05
 
 **a voice coming from the cloud** God spoke out loud and the sound of his voice was heard coming from the clouds. How would you express **a voice coming from the cloud** to mean God spoke and the sound of his voice was heard from the cloud in the sky?
 
-**terrified** Peter, James, and John were very sacred when they heard God speak out loud. How would you express **terrified** to mean extremely afraid?
+**terrified** Peter, James, and John were very scared when they heard God speak out loud. How would you express **terrified** to mean extremely afraid?
 
-**fell on the ground** The disciples immediately go down on the ground. The reason they did this was they were terrified of the sound of God’s voice. How would you express **fell on the ground** to mean quickly bowed to the ground as an act of awe and fear?
+**fell on the ground** The disciples immediately go down on the ground. They did this because they were terrified of the sound of God’s voice. How would you express **fell on the ground** to mean quickly bowed to the ground as an act of awe and fear?
 
 #### 36-06
 
 **touched them** Jesus put his hand on the disciples (perhaps on the shoulder). How would you express **touched them** to mean Jesus placed his hand on the disciples?
 
-**Do not be afraid** Jesus told the disciples to not fear what was happening. This was a command. How would you express **Do not be afraid** as a command to stop being afraid?
+**Do not be afraid** Jesus told the disciples not to fear what was happening. This was a command. How would you express **Do not be afraid** as a command to stop being afraid?
 
-**Get up** The disciples were kneeling or laying on the ground and Jesus instructed them to stand up. How would you express **Get up** as a command to stand up on one’s feet and stop laying/kneeling on the ground?
+**Get up** The disciples were kneeling or laying on the ground, and Jesus instructed them to stand up. How would you express **Get up** as a command to stand up on one’s feet and stop laying/kneeling on the ground?
 
-**the only one still there was Jesus** Moses and Elijah left and Jesus was the only one of those three who remained. The disciples were still on the mountain with Jesus. How would you express **the only one still there was** Jesus to mean Jesus was remained on the mountain after Moses and Elijah left?
+**the only one still there was Jesus** Moses and Elijah left, and Jesus was the only one of the three remaining. The disciples were still on the mountain with Jesus. How would you express **the only one still there was** Jesus to mean Jesus remained on the mountain after Moses and Elijah left?
 
 #### 36-07
 
-**I will soon die and then come back to life** Jesus explained that he would die sometime in the near future. After his death, Jesus would become alive again. This is a miracle. Only God can make dead people come back to life. How would you express **I will soon die and then come back to life** to mean Jesus would die at a time/day that was not too far in the future and after his death he would become alive again?
+**I will soon die and then come back to life** Jesus explained that he would die sometime in the near future. After his death, Jesus would become alive again. This is a miracle. Only God can make dead people come back to life. How would you express **I will soon die and then come back to life** to mean Jesus would die at a time/day that was not too far in the future, and after his death, he would become alive again?
 
-**After that, you may tell people** Jesus explained to his disciples that they were allowed to tell people about the events that happened on the mountain after the time Jesus rose from the dead. How would you express **After that, you may tell people** to mean Jesus permitted his disciples to tell others about what took place on the mountain only subsequent to his resurrection from the dead?
+**After that, you may tell people** Jesus explained to his disciples that they were allowed to tell people about the events on the mountain after Jesus rose from the dead. How would you express **After that, you may tell people** to mean Jesus permitted his disciples to tell others about what took place on the mountain only subsequent to his resurrection from the dead?
 
 <!-- page break -->
 
 ## Theological Dialogue: Discussing the Meaning of the Story
 
-Take time to explore the meaning of this story together as a community. Use the following discussions as a way to grasp what truth the story teaches.
+Take time to explore the meaning of this story together as a community. Use the following discussions to grasp the truth the story teaches.
 
 ### Discourse Questions
 
@@ -303,29 +303,29 @@ Solitude/Be By Themselves: Jesus brought Peter, James, and John up to the mounta
 
 Prayer: Jesus brought the disciples up on the mountain to pray. Jesus’ appearance changed while he was praying. (36-01, 36-02)
 
-##### Learning about Jesus: Jesus’ appearances changed to bright light and whiteness. Jesus brought the disciples on the mountain to teach the about himself and what he had come to do? (36-02)
+##### Learning about Jesus: Jesus’ appearance changed to bright light and whiteness. Jesus brought the disciples on the mountain to teach them about himself and what he had come to do. (36-02)
 
-##### What was happened on the mountain that showed who Jesus really is and what he came on earth to do? (36-02, 36-03, 36-05, 36-06, 36-07)
+##### What happened on the mountain that showed who Jesus really is and what he came on earth to do? (36-02, 36-03, 36-05, 36-06, 36-07)
 
 Bright and White: The appearance of Jesus changed. He became bright as the sun and white as light. This showed that Jesus was full of glory and majesty. (36-02)
 
-Jesus as Fulfillment: Moses and Elijah appeared and talked with Jesus. These were important leaders in Israel’s history and faith. Eventually Moses and Elijah left and Jesus was the only one of the three left. This highlighted that these important leaders pointed people to Jesus. Jesus is the fulfillment of God’s promises in the Old Testament to send a deliverer. (36-03, 36-06)
+Jesus as Fulfillment: Moses and Elijah appeared and talked with Jesus. These were important leaders in Israel’s history and faith. Eventually, Moses and Elijah left, and Jesus was the only one of the three left. This highlighted that these important leaders pointed people to Jesus. Jesus is the fulfillment of God’s promises in the Old Testament to send a deliverer. (36-03, 36-06)
 
-Jesus’ Death: Jesus, Moses, and Elijah spoke about the fact that in a short time Jesus would die in the city of Jerusalem. Jesus would die to save people from their sin. (36-03, 36-07)
+Jesus’ Death: Jesus, Moses, and Elijah spoke about the fact that in a short time, Jesus would die in the city of Jerusalem. Jesus would die to save people from their sin. (36-03, 36-07)
 
 Jesus’ Resurrection: Jesus told his disciples that he would come back to life. After Jesus would die in Jerusalem, he would become alive again. In this way, Jesus conquered death and sin. (36-07)
 
 Jesus as God’s Eternal Son: God spoke out loud and explained that Jesus was his Son and he loved him. Jesus is greater than Moses and Elijah. He is God’s eternal Son who is equal to God the Father and deserves worship and praise. (36-05)
 
-##### How did God the Father and Jesus the Son correct his disciples understanding of what was happening on the mountain? (36-04, 36-05, 36-06, 36-07)
+##### How did God the Father and Jesus the Son correct his disciples’ understanding of what was happening on the mountain? (36-04, 36-05, 36-06, 36-07)
 
-Ignorance: Peter did not fully understand what was happening. He acted out of ignorance. He wanted to build three shelters to celebrate the Jewish Feast of Booths. In this way, Peter was treating Jesus similar to Moses and Elijah. However, Jesus is superior to them. Moses and Elijah were only human leaders chosen by God. Jesus is God’s eternal Son who came to earth as a human to save humanity. Peter is ignorant of the meaning of what was really happening on the mountain. (36-04)
+Ignorance: Peter did not fully understand what was happening. He acted out of ignorance. He wanted to build three shelters to celebrate the Jewish Feast of Booths. In this way, Peter was treating Jesus similarly to Moses and Elijah. However, Jesus is superior to them. Moses and Elijah were the only human leaders chosen by God. Jesus is God’s eternal Son who came to earth as a human to save humanity. Peter is ignorant of the meaning of what was really happening on the mountain. (36-04)
 
 True Faith: Rightly Understanding Who Jesus Is: God spoke out loud and explained who Jesus is. He said that Jesus is God’s Son and God the Father loved him. God wanted Jesus’ disciples to know who Jesus really is. He is God’s eternal Son who came to earth as a human but has existed for all time. (36-05)
 
-Obedience: God told the disciples to listen to Jesus. God wanted Jesus’ disciples to listen and obey what Jesus told them. Following Jesus as a disciple means to obey what Jesus says. (36-05)
+Obedience: God told the disciples to listen to Jesus. God wanted Jesus’ disciples to listen and obey what Jesus told them. Following Jesus as a disciple means obeying what Jesus says. (36-05)
 
-Exclusive Trust: Jesus touched his fearful disciples, told them to stop being afraid, and to get up. Only Jesus could calm the fears of the disciples. To follow Jesus is to trust Jesus with our lives. It is important that when Jesus did this, Jesus was the only one who was there. Moses and Elijah had left. Moses and Elijah were important figures in Israel’s faith. However, disciples should not put their trust in these people. The only one a disciples should put their full confidence and trust is in Jesus. (36-06)
+Exclusive Trust: Jesus touched his fearful disciples and told them to stop being afraid and to get up. Only Jesus could calm the fears of the disciples. To follow Jesus is to trust Jesus with our lives. It is important that when Jesus did this, Jesus was the only one who was there. Moses and Elijah had left. Moses and Elijah were important figures in Israel’s faith. However, disciples should not put their trust in these people. The only one that a disciple should put their full confidence and trust in is Jesus. (36-06)
 
 Sharing with Others: Jesus instructed his disciples to wait to tell people about what happened on the mountain until Jesus rose from the dead. Jesus’ resurrection would be the appropriate time to speak about these events to others. God wants disciples of Jesus to speak about Jesus to others and tell them about how his death and resurrection can bring them life. (36-07)
 
@@ -335,7 +335,7 @@ Sharing with Others: Jesus instructed his disciples to wait to tell people about
 
 Answer the following theology questions as a community. Discuss what truths this story teaches.
 
-1.  How should we understand who Jesus is and what came on earth to do? What does Jesus’ transfiguration (i.e., his changing of appearance) tell us about his person and work?
+1.  How should we understand who Jesus is and what he came on earth to do? What does Jesus’ transfiguration (i.e., his changing of appearance) tell us about his person and work?
 2.  What does it mean to be a faithful follower of Jesus? How does the disciples’ experience on the mountain teach us about the nature of discipleship?
 
 ### Translation Draft

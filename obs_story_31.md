@@ -24,29 +24,29 @@ God set to restore his world through his promise.
 God made a covenant with Abraham. He promised to bless all nations through Abraham.
 God kept his promises across the generations.
 God provided Abraham with a promised child, Isaac.
-God gave Isaac a wife and she bore twins, Jacob and Esau.
+God gave Isaac a wife, and she bore twins Jacob and Esau.
 God blessed Jacob and his sons, and the blessing continued to the next generation.
 God rescued Joseph, one of Jacob’s sons, and used him to rescue his family.
 God caused his people, the Israelites, to multiply in the land of Egypt; eventually, they became slaves.
-But, God raised up a deliverer, Moses, to deliver his people from their slavery.
-God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people who covered their doorposts with the blood of a sacrificed lamb.
+But God raised up a deliverer, Moses, to deliver his people from their slavery.
+God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people, who covered their doorposts with the blood of a sacrificed lamb.
 Then, God delivered the Israelites by bringing them out of Egypt and crossing the Red Sea on dry land.
 God made a covenant with the Israelites and made them his people.
 God tested Israel in a series of wilderness wanderings and
 eventually brought his people into the promised land of Canaan.
 God raised up deliverers to lead Israel and rescue them from their enemies.
 God formed Israel into a kingdom. He made a covenant with King David and promised to send a king that would rule his people forever.
-Many of Israel’s kings were evil and the kingdom of Israel divided into two kingdoms.
+Many of Israel’s kings were evil, and the kingdom of Israel was divided into two kingdoms.
 God sent prophets to warn his people of God’s judgment and call them to repent.
 When Israel did not repent, God sent his people into exile. After many years, he brought them back to the land.
-Throughout the Old Testament, God promised to send his Messiah to deliver his people form their sin.
+Throughout the Old Testament, God promised to send his Messiah to deliver his people from their sin.
 After many years, the prophet John was born. He would prepare people for the coming Messiah.
 At the perfect time, God sent his Son, Jesus, to be born of a virgin Mary.
 When John and Jesus grew up, John baptized Jesus as a sign that Jesus was God’s beloved Son.
 Jesus endured all manner of temptation without ever sinning.
 When he was thirty years old, he launched a public ministry of preaching, teaching, and healing.
 He taught his disciples about the life of compassion, sacrifice, and forgiveness.
-He performed many miracles: he fed a crowd of five thousand, he walked on water
+Jesus performed many miracles: he fed a crowd of five thousand, he walked on water.
 
 <!-- page break -->
 
@@ -62,7 +62,7 @@ After Jesus fed the crowd, he told the disciples to get into a boat. He told the
 
 ![](.\assets\images\image364.jpeg)
 
-During this time, the disciples were rowing their boat, but the wind was blowing hard against them. When it was late in the night, they had only reached the middle of the lake.
+During this time, the disciples rowed their boat, but the wind blew hard against them. When it was late in the night, they had only reached the middle of the lake.
 
 ##### 31-03
 
@@ -74,7 +74,7 @@ At that time, Jesus finished praying and started to go back to meet his disciple
 
 ![](.\assets\images\image366.jpeg)
 
-Then the disciples saw him. They were very afraid because they thought he was a ghost. Jesus knew that they were afraid, so he called out to them and said, “Do not be afraid. It is I!”
+Then the disciples saw him. They were very afraid because they thought he was a ghost. Jesus knew they were afraid, so he called out to them and said, “Do not be afraid. It is I!”
 
 ##### 31-05
 
@@ -92,7 +92,7 @@ So, Peter got out of the boat and started walking to Jesus on the surface of the
 
 ![](.\assets\images\image369.jpeg)
 
-Then Peter became afraid and began to sink in the water. He cried out, “Master, save me!” Right away, Jesus reached out and grabbed him. Then he said to Peter, “You have so little faith! Why did you not trust me to keep you safe?”
+Then Peter became afraid and began to sink into the water. He cried out, “Master, save me!” Right away, Jesus reached out and grabbed him. Then he said to Peter, “You have so little faith! Why did you not trust me to keep you safe?”
 
 ##### 31-08
 
@@ -159,12 +159,12 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 31-01
 
 What did Jesus tell the disciples to do while he dismissed the crowd?  
-He told them to get into a boat and to sail to the other side of the lake.
+He told them to get into a boat and sail to the other side of the lake.
 
 What did Jesus do after he sent the disciples away in their boat?  
 Jesus stayed behind a little while and went up on a mountainside alone to pray.
@@ -215,7 +215,7 @@ He began to look at the waves and to feel the strong wind.
 #### 31-07
 
 What happened to Peter when he became afraid of the wind and the waves?  
-He began to sink into the water. and cried out for Jesus to save him.
+He began to sink into the water and cried out for Jesus to save him.
 
 What did Jesus do when Peter called out for help?  
 Jesus reached out and grabbed Peter.
@@ -226,10 +226,10 @@ Jesus said, “You have so little faith! Why did you not trust me to keep you sa
 #### 31-08
 
 What happened after Jesus got into the boat?  
-The wind immediately stopped blowing and the water became calm.
+The wind immediately stopped blowing, and the water became calm.
 
 How did the disciples respond to this miracle?  
-They disciples were amazed. They bowed down to Jesus, worshiped him, and said, “Truly, you are the Son of God.”
+The disciples were amazed. They bowed down to Jesus, worshiped him, and said, “Truly, you are the Son of God.”
 
 ### Translation Questions
 
@@ -239,7 +239,7 @@ Use the following translation questions to understand specific details of the pa
 
 **After Jesus fed the crowd, he told the disciples to get into a boat** In the previous story, Jesus fed the crowd. Following this event, Jesus told his disciples to get into a boat. How would you express **After Jesus fed the crowd, he told the disciples to get into a boat** to mean Jesus told the disciples to get into a boat subsequent to feeding the crowd?
 
-**while he stayed behind for a little while** Jesus told his disciple to cross the lake in a boat. During the time the disciples did this, Jesus remained back land for a short time. How would you express **while he stayed behind for a little while** to mean for a short time Jesus remained back on land at the same time the disciples sailed across the lake on a boat?
+**while he stayed behind for a little while** Jesus told his disciple to cross the lake in a boat. During the time the disciples did this, Jesus remained back at the land for a short time. How would you express **while he stayed behind for a little while** to mean for a short time Jesus remained back on land at the same time the disciples sailed across the lake on a boat?
 
 **a mountainside** Jesus went up on the side of a mountain to pray. How would you express **a mountainside** to mean the side of a mountain?
 
@@ -247,9 +247,9 @@ Use the following translation questions to understand specific details of the pa
 
 **During this time** The disciples were rowing the boat across the lake at the same time Jesus was praying on the side of the mountain. How would you express **During this time** to mean while Jesus was praying on the mountainside?
 
-**the wind was blowing hard against them** The disciples were traveling by boat across the lake. The boat had a sail, but it would not have worked when the wind was against them. So, they needed to row the boat. The wind was moving in the opposing direction they were rowing. How would you express **the wind was blowing hard against them** to mean wind was moving in the opposite direction the disciples were rowing?
+**the wind was blowing hard against them** The disciples were traveling by boat across the lake. The boat had a sail, but it would not have worked when the wind was against them. So, they needed to row the boat. The wind was moving in the opposing direction they were rowing. How would you express **the wind was blowing hard against them** to mean the wind was moving in the opposite direction the disciples were rowing?
 
-**they had only reached the middle of the lake** If the wind was calm and the conditions on the water were fare, one would expect the disciples to have made more progress across the lake. The wind blowing against the disciples slowed down their progress across the lake. How would you express **they had only reached the middle of the lake** to mean the disciples were traveling across the lake with difficulty because of the wind and only made it about halfway across the lake?
+**they had only reached the middle of the lake** If the wind was calm and the conditions on the water were fair, one would expect the disciples to have made more progress across the lake. The wind blowing against the disciples slowed down their progress across the lake. How would you express **they had only reached the middle of the lake** to mean the disciples were traveling across the lake with difficulty because of the wind and only made it about halfway across the lake?
 
 #### 31-03
 
@@ -259,31 +259,31 @@ Use the following translation questions to understand specific details of the pa
 
 #### 31-04
 
-**a ghost** The disciples did not expect to see Jesus. They also did not think that a person could walk on water. So, they thought Jesus was a spirit, since normally a human being cannot walk on water. How would you express **a ghost** to mean a spirit being without a physical body?
+**a ghost** The disciples did not expect to see Jesus. They also did not think that a person could walk on water. So, they thought Jesus was a spirit since usually, a human being cannot walk on water. How would you express **a ghost** to mean a spirit being without a physical body?
 
-**Do not be afraid** Jesus told his disciples to not fear. How would you express **Do not be afraid** as a command to stop being afraid?
+**Do not be afraid** Jesus told his disciples not to fear. How would you express **Do not be afraid** as a command to stop being afraid?
 
-**It is I!** The disciples thought that Jesus was a spirit. Jesus told his disciples to stop being afraid and told them who he was. How would you express **It is I!** to mean “It is me, Jesus”?
+**It is I!** The disciples thought Jesus was a spirit. Jesus told his disciples to stop being afraid and told them who he was. How would you express **It is I!** to mean “It is me, Jesus”?
 
 #### 31-05
 
-**if it is you** At this time, Peter did not fully believe that it was Jesus. To Peter, it seemed more likely that it was a spirit and not Jesus since people/humans do not normally walk on top of water. Peter request that Jesus prove to him that he was really Jesus by telling Peter to come out of the boat and walk on the surface of the water. How would you express **if it is you** to mean if it is really you, and not a ghost?
+**if it is you** At this time, Peter did not fully believe that it was Jesus. To Peter, it seemed more likely that it was a spirit, not Jesus since people/humans do not normally walk on top of water. Peter requested that Jesus prove to him that he was really Jesus by telling Peter to come out of the boat and walk on the surface of the water. How would you express **if it is you** to mean if it is really you and not a ghost?
 
-**Come!** Jesus commanded Peter to come to out on the water and walk toward Jesus on the surface of the water like Jesus was doing. How would you express **Come!** as a command to come here and walk to me?
+**Come!** Jesus commanded Peter to come out on the water and walk toward Jesus on the surface of the water like Jesus was doing. How would you express **Come!** as a command to come here and walk to me?
 
 #### 31-06
 
-**after walking a short distance** Peter did not walk on top of the water for a long time. When he started walking on the water toward Jesus he was looking at Jesus. Peter only walked a short distance and then he stopped looking at Jesus and started looking at the waves. How would you express **after walking a short distance** to mean Peter only walked a small distance on the water when he stopped looking at Jesus?
+**after walking a short distance** Peter did not walk on top of the water for a long time. When he started walking on the water toward Jesus, he was looking at Jesus. Peter only walked a short distance, and then he stopped looking at Jesus and started looking at the waves. How would you express **after walking a short distance** to mean Peter only walked a small distance on the water when he stopped looking at Jesus?
 
-**turned his eyes away from** After Peter walked a short distance, he looked away from Jesus and starting looking at the waves. How would you express **turned his eyes away from** to mean stopped looking at Jesus?
+**turned his eyes away from** After Peter walked a short distance, he looked away from Jesus and started looking at the waves. How would you express **turned his eyes away from** to mean stopped looking at Jesus?
 
 #### 31-07
 
-**Right away, Jesus reached out and grabbed him** Peter started to sink in the water and he called out for Jesus to rescue him. Jesus did not delay and grabbed Peter to keep him from sinking. How would you express **Right away, Jesus reached out and grabbed him** to mean Jesus immediately grasped Peter (without delay) to keep him from sinking?
+**Right away, Jesus reached out and grabbed him** Peter started to sink in the water, and he called out for Jesus to rescue him. Jesus did not delay and grabbed Peter to keep him from sinking. How would you express **Right away, Jesus reached out and grabbed him** to mean Jesus immediately grasped Peter (without delay) to keep him from sinking?
 
 **You have so little faith!** Jesus told Peter that he did not deeply trust Jesus. This strong statement is a rebuke of Peter’s faith. How would you express **You have so little faith!** as a strong statement that rebuked Peter for having very little trust in Jesus?
 
-**Why did you not trust me to keep you safe?** Jesus uses a question to tell Peter that he should not have doubted. Peter should have known that Jesus was able to protect him. Jesus is saying that Peter should not have doubted Jesus. How would you express **Why did you not trust me to keep you safe?** as a question that means Peter should not have doubted that Jesus could keep him from sinking?
+**Why did you not trust me to keep you safe?** Jesus uses a question to tell Peter he should not have doubted. Peter should have known that Jesus was able to protect him. Jesus is saying that Peter should not have doubted Jesus. How would you express **Why did you not trust me to keep you safe?** as a question that means Peter should not have doubted that Jesus could keep him from sinking?
 
 #### 31-08
 
@@ -295,7 +295,7 @@ Use the following translation questions to understand specific details of the pa
 
 ## Theological Dialogue: Discussing the Meaning of the Story
 
-Take time to explore the meaning of this story together as a community. Use the following discussions as a way to grasp what truth the story teaches.
+Take time to explore the meaning of this story together as a community. Use the following discussions to grasp the truth the story teaches.
 
 ### Discourse Questions
 
@@ -313,11 +313,11 @@ Presence: Jesus finished praying and went to meet his disciples in the middle of
 
 ##### What challenges did the disciples face in this story? (31-01, 31-02, 31-04)
 
-In Boat without Jesus Physically Present: Jesus sent the disciples across the lake by boat. He was not physically present with them. The disciples needed to trust and follow Jesus even when he is not physically present. (31-01)
+In Boat without Jesus Physically Present: Jesus sent the disciples across the lake by boat. He was not physically present with them. The disciples needed to trust and follow Jesus even when he was not physically present. (31-01)
 
 Rowing Hard/Facing Opposing Winds: The disciples rowed across the lake. The wind was going in the opposite direction. The disciples had to row hard. They faced challenges and opposition in obeying Jesus’ instructions. (31-02)
 
-Slow Progress: The disciples rowed the boat for a long time. Late into the night, the disciples did not make the kind of progress that would be ideal. The opposing winds slowed down their progress and they only made it into the middle of the lake. (31-02)
+Slow Progress: The disciples rowed the boat for a long time. Late into the night, the disciples did not make the kind of progress that would be ideal. The opposing winds slowed their progress, and they only made it into the middle of the lake. (31-02)
 
 Fear: The disciples were very afraid when they saw Jesus walking on water. They thought he was a ghost. (31-04)
 
@@ -325,21 +325,21 @@ Fear: The disciples were very afraid when they saw Jesus walking on water. They 
 
 Jesus’ Knowledge: Jesus knew that his disciples were afraid. Jesus is all-knowing and is aware of all that we are experiencing. (31-04)
 
-Jesus’ Presence: Jesus called out to his disciples and told them not to be afraid. The reason they did not need to be afraid was because Jesus was present with them. Jesus’ presence calms fears. (31-04)
+Jesus’ Presence: Jesus called out to his disciples and told them not to be afraid. They did not need to be afraid because Jesus was present with them. Jesus’ presence calms fears. (31-04)
 
 Jesus’ Authority: Jesus commanded Peter to come out and walk on top of the water. Jesus gave a command. Peter submitted himself to Jesus’ command and authority. (31-05)
 
-Jesus’ Power: Jesus enabled Peter to do what is normally impossible for humans to do. Jesus’ power caused Peter to walk on the surface of the water. (31-05, 31-06)
+Jesus’ Power: Jesus enabled Peter to do what is usually impossible for humans to do. Jesus’ power caused Peter to walk on the surface of the water. (31-05, 31-06)
 
 Son of God: In the end, Peter and the disciples confessed that Jesus is the Son of God. They worshipped Jesus. (31-08)
 
-##### How did the Peter and the disciples (positively and negatively) respond to Jesus in this story? (31-06, 31-07, 31-08)
+##### How did Peter and the disciples (positively and negatively) respond to Jesus in this story? (31-06, 31-07, 31-08)
 
-Doubt: Peter started out trusting and obeying Jesus. He walked on the water for a short distance. When Peter took his eyes off of Jesus, he noticed the waves and the wind more than Jesus’ presence. Doubt comes when we stop looking to Jesus. Faith is a continual trust and dependence on Jesus where we look to him for our protection. (31-06)
+Doubt: Peter started out trusting and obeying Jesus. He walked on the water for a short distance. When Peter took his eyes off of Jesus, he noticed the waves and the wind more than Jesus’ presence. Doubt comes when we stop looking to Jesus. Faith is a continual trust and dependence on Jesus, where we look to him for our protection. (31-06)
 
-Fear: Peter became afraid and began to sink in the water. Peter became afraid when he stopped looking to Jesus and focused on the wind and the waves. (31-07)
+Fear: Peter became afraid and began to sink into the water. Peter became afraid when he stopped looking at Jesus and focused on the wind and the waves. (31-07)
 
-Little Faith: Peter had some faith to listen to Jesus and get on top of the water. His faith, however, was small. He started to doubt soon after he was on the water. Peter’s lack of faith caused him to not trust Jesus. (31-07)
+Little Faith: Peter had some faith to listen to Jesus and get on top of the water. His faith, however, was small. He started to doubt soon after he was on the water. Peter’s lack of faith caused him not to trust Jesus. (31-07)
 
 Obedience: As soon as Peter and Jesus got into the boat, the wind immediately stopped blowing. Jesus can calm the wind and the waves at his will. (31-08)
 

@@ -8,7 +8,7 @@ story_num: 50
 
 ### Key Idea
 
-The story Jesus returning teaches us about the great things God will do when Jesus returns to the earth.
+The story of Jesus’ return teaches us about the great things God will do when Jesus returns to the earth.
 
 ### Creedal Verse
 
@@ -24,40 +24,40 @@ God set to restore his world through his promise.
 God made a covenant with Abraham. He promised to bless all nations through Abraham.
 God kept his promises across the generations.
 God provided Abraham with a promised child, Isaac.
-God gave Isaac a wife and she bore twins, Jacob and Esau.
+God gave Isaac a wife, and she bore twins, Jacob and Esau.
 God blessed Jacob and his sons, and the blessing continued to the next generation.
 God rescued Joseph, one of Jacob’s sons, and used him to rescue his family.
 God caused his people, the Israelites, to multiply in the land of Egypt; eventually, they became slaves.
-But, God raised up a deliverer, Moses, to deliver his people from their slavery.
-God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people who covered their doorposts with the blood of a sacrificed lamb.
+But God raised up a deliverer, Moses, to deliver his people from slavery.
+God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people, who covered their doorposts with the blood of a sacrificed lamb.
 Then, God delivered the Israelites by bringing them out of Egypt and crossing the Red Sea on dry land.
 God made a covenant with the Israelites and made them his people.
 God tested Israel in a series of wilderness wanderings and
 eventually brought his people into the promised land of Canaan.
 God raised up deliverers to lead Israel and rescue them from their enemies.
 God formed Israel into a kingdom. He made a covenant with King David and promised to send a king that would rule his people forever.
-Many of Israel’s kings were evil and the kingdom of Israel divided into two kingdoms.
+Many of Israel’s kings were evil, and the kingdom of Israel was divided into two kingdoms.
 God sent prophets to warn his people of God’s judgment and call them to repent.
 When Israel did not repent, God sent his people into exile. After many years, he brought them back to the land.
-Throughout the Old Testament, God promised to send his Messiah to deliver his people form their sin.
+Throughout the Old Testament, God promised to send his Messiah to deliver his people from their sin.
 After many years, the prophet John was born. He would prepare people for the coming Messiah.
 At the perfect time, God sent his Son, Jesus, to be born of a virgin Mary.
 When John and Jesus grew up, John baptized Jesus as a sign that Jesus was God’s beloved Son.
 Jesus endured all manner of temptation without ever sinning.
 When he was thirty years old, he launched a public ministry of preaching, teaching, and healing.
 He taught his disciples about the life of compassion, sacrifice, and forgiveness.
-He performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
+Jesus performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
 He proclaimed to people the nature of real faith, God’s kingdom, and the how fallen humans can be restored in relationship with God.
-Toward the end of his ministry, Jesus revealed his power and glory to his disciples
-and raised a dead man to life
-Jesus was betrayed by one of his disciples and put on trial before a Roman governor
+Toward the end of his ministry, Jesus revealed his power and glory to his disciples.
+He raised a dead man to life.
+Jesus was betrayed by one of his disciples and put on trial before a Roman governor.
 Jesus was sentenced to death and crucified on a cross
 Three days later, Jesus rose again from the dead.
 After meeting with many of his disciples, Jesus went back to heaven.
-The Holy Spirit empowered Jesus’ followers and formed them into his church
+The Holy Spirit empowered Jesus’ followers and formed them into his church.
 Jesus’ disciples, like Peter and John, performed miracles and preached the good news about Jesus.
-New leaders like Stephen and Philip served the church and preached about Jesus
-Even Saul, a persecutor of Jesus’ followers, became a Christian and preached the gospel to many people
+New leaders like Stephen and Philip served the church and preached about Jesus.
+Even Saul, a persecutor of Jesus’ followers, became a Christian and preached the gospel to many people.
 Jesus is the promised Messiah and brings in blessings of a New Covenant.
 At the end of the world, Jesus will return to earth, the dead will come back to life, God will punish Satan and those who rejected Jesus, and God will recreate the world where God’s people will live with God forever in complete peace.
 
@@ -75,7 +75,7 @@ For almost 2,000 years, more and more people around the world have been hearing 
 
 ![](.\assets\images\image584.jpeg)
 
-As we wait for Jesus to return, God wants us to live in a way that is holy and that honors him. He also wants us to tell others about his kingdom. When Jesus was living on earth, he said, “My disciples will preach the good news about the kingdom of God to people everywhere in the world, and then the end will come.”
+As we wait for Jesus to return, God wants us to live in a holy way that honors him. He also wants us to tell others about his kingdom. When Jesus was living on earth, he said, “My disciples will preach the good news about the kingdom of God to people everywhere in the world, and then the end will come.”
 
 ##### 50-03
 
@@ -129,7 +129,7 @@ The disciples did not understand the meaning of the story, so they asked Jesus t
 
 ![](.\assets\images\image593.jpeg)
 
-Jesus also said that he would return to earth just before the world ends. He will come back the same way that he left. That is, he will have a real body, and he will come on the clouds in the sky. When Jesus returns, every follower of Jesus who has died will rise from the dead and meet him in the sky.
+Jesus also said he would return to Earth just before the world ended. He will come back the same way that he left. That is, he will have a real body and come on the clouds in the sky. When Jesus returns, every follower of Jesus who has died will rise from the dead and meet him in the sky.
 
 ##### 50-12
 
@@ -147,19 +147,19 @@ Jesus promised to give a crown to everyone who believes in him. They will rule w
 
 ![](.\assets\images\image596.jpeg)
 
-But God will judge everyone who does not believe in Jesus. He will throw them into hell. There they will weep and grind their teeth, and they will suffer forever. A fire that never goes out will continually burn them, and worms will never stop eating them.
+But God will judge everyone who does not believe in Jesus. He will throw them into hell. There they will weep and grind their teeth and suffer forever. A fire that never goes out will continually burn them, and worms will never stop eating them.
 
 ##### 50-15
 
 ![](.\assets\images\image597.jpeg)
 
-When Jesus returns, he will completely destroy Satan and his kingdom. He will throw Satan into hell. Satan will burn there forever, along with everyone who chose to follow him rather than to obey God.
+When Jesus returns, he will completely destroy Satan and his kingdom. He will throw Satan into hell. Satan will burn there forever, along with everyone who chose to follow him rather than obey God.
 
 ##### 50-16
 
 ![](.\assets\images\image598.jpeg)
 
-Because Adam and Eve disobeyed God and brought sin into this world, God cursed it and decided to destroy it. But some day God will create a new heaven and a new earth that will be perfect.
+Because Adam and Eve disobeyed God and brought sin into this world, God cursed it and decided to destroy it. But someday, God will create a new heaven and a new earth that will be perfect.
 
 ##### 50-17
 
@@ -232,12 +232,12 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 50-01
 
 During the last 2,000 years, what has happened to the number of people who believe in Jesus?  
-More and more people have been hearing and believing the good news about Jesus.
+More and more people have heard and believed the good news about Jesus.
 
 What causes the church to grow?  
 The church grows as more people believe in Jesus.
@@ -250,8 +250,8 @@ Yes. Jesus will keep his promise to return even though he has not returned yet.
 
 #### 50-02
 
-How does God want us to live as we wait for Jesus to return?  
-He wants us to live in a way that is holy and that honors him.
+How does God want us to live while waiting for Jesus to return?  
+He wants us to live in a holy way that honors him.
 
 What did Jesus say would happen before the end of the world comes?  
 His disciples would preach the good news of the kingdom of God to people everywhere in the world.
@@ -279,7 +279,7 @@ How will the world that hated Jesus treat his disciples?
 The world will cause his disciples to suffer just as they caused Jesus to suffer.
 
 How did Jesus tell his disciples to endure suffering?  
-Jesus told his disciples to expect suffering and to be strong when they suffer.
+Jesus told his disciples to expect to suffer and to be strong when they suffer.
 
 Who did Jesus defeat?  
 Jesus told his disciples that he defeated Satan, God’s enemy who rules the world.
@@ -300,13 +300,13 @@ The man explained that his enemies did this.
 #### 50-07
 
 Why didn’t the servants pull out the weeds?  
-Their master did not want them to accidentally pull out the wheat along with the weeds.
+Their master did not want them to pull out the wheat along with the weeds accidentally.
 
 When did the man say they could pull the weeds?  
 The man told them to wait until the harvest when they can pull out the wheat and the weeds.
 
 How would they separate the weeds from the wheat?  
-They would put the weeds in piles and burn them and they would bring the wheat into the barn.
+They would put the weeds in piles and burn them, and they would bring the wheat into the barn.
 
 #### 50-08
 
@@ -324,8 +324,8 @@ The good seed represents the people of God’s kingdom.
 
 #### 50-09
 
-Who does the weeds represent?  
-The weeds represented people who belong to the devil.
+Who do the weeds represent?  
+The weeds represent people who belong to the devil.
 
 Who does the man’s enemy represent?  
 The man’s enemy represents the devil.
@@ -350,7 +350,7 @@ When will Jesus come back?
 Jesus will come back just before the world ends.
 
 In what form will Jesus return to the earth?  
-He will return the way that he left, with a real body, and on the clouds in the sky.
+He will return the way he left, with a real body and on the clouds in the sky.
 
 When Jesus returns, what will happen to every follower of Jesus who has died?  
 They will also rise to meet him in the sky.
@@ -371,7 +371,7 @@ Jesus promised that he would give believers a crown, that believers would rule f
 #### 50-14
 
 What did God say would happen to those who do not believe in Jesus?  
-God will judge all those who do not believe by throwing them into hell where they will suffer forever with burning and destruction.
+God will judge all those who do not believe by throwing them into hell, where they will suffer forever with burning and destruction.
 
 #### 50-15
 
@@ -398,7 +398,7 @@ At this time, what will God do to sadness, suffering, and sin?
 When God creates the new world, God will remove all sadness, suffering, and sin.
 
 What will life be like in the new heaven and new earth?  
-Jesus will rule his kingdom justly and with peace, and he will be with his people forever.
+Jesus will rule his kingdom justly and with peace and be with his people forever.
 
 ### Translation Questions
 
@@ -406,7 +406,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 50-01
 
-**The Church has been growing** As more and more people believe in Jesus the size of the church community increases in number. The church grows as the number of believers in Jesus increases. How would you express **The Church has been growing** to mean the number of people in the Church around the world has been increasing?”
+**The Church has been growing** As more and more people believe in Jesus, the size of the church community increases in number. The church grows as the number of believers in Jesus increases. How would you express **The Church has been growing** to mean the number of people in the Church around the world has been increasing?”
 
 **at the end of the world** Jesus said that he will come back to earth in the final days of this world. How would you express **at the end of the world** to mean right before the present world comes to an end?
 
@@ -414,7 +414,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 50-02
 
-**As we wait for Jesus to return, God wants us to live in a way that is holy and that honors him** Disciples are waiting for Jesus to return to earth as he promised. During this time of waiting for Jesus to return, disciples are supposed to live lives that are set apart to God and that respect God. How would you express **As we wait for Jesus to return, God wants us to live in a way that is holy and that honors him** to mean God wants believers to live in ways that are godly and that esteem God during the time they wait for Jesus to return to earth as he promised?
+**As we wait for Jesus to return, God wants us to live in a way that is holy and that honors him** Disciples are waiting for Jesus to return to earth as he promised. During this time of waiting for Jesus to return, disciples are supposed to live lives that are set apart to God and that respect God. How would you express **As we wait for Jesus to return, God wants us to live in a way that is holy, and that honors him** to mean God wants believers to live in ways that are godly and that esteem God during the time they wait for Jesus to return to earth as he promised?
 
 **then the end will come** Disciples of Jesus will preach the message of God’s kingdom to all peoples in the world. After this, this present world will end. How would you express **then the end will come** to mean the end of this world will come when the disciples tell all peoples in the world about God’s kingdom?”
 
@@ -446,9 +446,9 @@ Use the following translation questions to understand specific details of the pa
 
 #### 50-07
 
-**Should we pull out the weeds?** The servants asked their master if he wanted them to remove the weeds from the ground. How would you express **Should we pull out the weeds?** as a question in which the servants ask if the master wanted the servants to we is exclusive. It refers to the servants but not the master. The servants would not expect the master to take out the weeds from the field by pulling them out of the ground?
+**Should we pull out the weeds?** The servants asked their master if he wanted them to remove the weeds from the ground. How would you express **Should we pull out the weeds?** as a question in which the servants ask if the master wanted the servants to pull out the weeds exclusively? It refers to the servants but not the master. The servants would not expect the master to take out the weeds from the field by pulling them out of the ground.
 
-**If you do that, you will pull out some of the wheat as well** The master explained to his servants that they would remove some of the wheat from the ground if the servants tried to remove the weeds at this time. It would be too difficult to distinguish young wheat from the weeds, and to pull the weeds without accidentally uprooting the wheat. How would you express **If you do that, you will pull out some of the wheat as well** to mean you will accidentally pull out some of the wheat also if you try to remove the weeds at this present time?
+**If you do that, you will pull out some of the wheat as well** The master explained to his servants that they would remove some of the wheat from the ground if the servants tried to remove the weeds at this time. It would be too difficult to distinguish young wheat from the weeds and to pull the weeds without accidentally uprooting the wheat. How would you express **If you do that, you will pull out some of the wheat as well** to mean you will accidentally pull out some of the wheat also if you try to remove the weeds at this present time?
 
 **Wait until the harvest** The master told the servants to delay pulling up the weeds until it was time to bring in the harvest of wheat. Because harvest was the right time to remove the wheat from the ground, the servants did not need to worry about accidentally removing the wheat too early by pulling out the weeds. How would you express **Wait until the harvest** to mean postpone pulling out the weeds until the crops were ripe and ready to be gathered in for the harvest?
 
@@ -466,43 +466,43 @@ Use the following translation questions to understand specific details of the pa
 
 **The harvest represents the end of the world** In the story, the time of the harvest teaches something about the time when the world will come to an end. How would you express **The harvest represents the end of the world** to mean the time of gathering ripe crops from the field represents the time when this present world comes to an end?
 
-**the harvesters represent God’s angels** In the story, the people who gather the harvest refers to God’s heavenly messengers. How would you express **the harvesters represent God’s angels** to mean the people in the story who remove the ripe crops from the field represent heavenly messengers who serve God?
+**the harvesters represent God’s angels** In the story, the people who gather the harvest refers to God’s heavenly messengers. How would you express **the harvesters represent God’s angels** to mean the people in the story who remove the ripe crops from the field and represent heavenly messengers who serve God?
 
 #### 50-10
 
-**all the people who belong to the devil** People who do not believe in Jesus follow the evil ways of the devil. How would you express **all the people who belong to the devil** to mean people who reject Jesus and who are ruled by the devil and obey his wicked ways?
+**all the people who belong to the devil** People who do not believe in Jesus follow the evil ways of the devil. How would you express **all the people who belong to the devil** to mean people who reject Jesus and are ruled by the devil and obey his wicked ways?
 
 **cry and grind their teeth in terrible suffering** People who do not believe in Jesus will be thrown into a very hot fire as a punishment for rejecting Jesus. Because they will experience ongoing pain and misery, these people will make loud sounds and grit their teeth together as an expression of their pain. How would you express **cry and grind their teeth in terrible suffering** to mean people punished in the very hot fire will make loud sounds of distress and will grate their teeth together to show the extreme sadness and suffering they are experiencing?
 
-**But the people who are righteous, who have followed Jesus, will shine like the sun** People who follow Jesus are the same as the people who are righteous. God sees people who believe in Jesus as righteous because he forgives their sin. Also, believers act righteously because they obey Jesus’ commands. Followers of Jesus have a different/opposite experience than those who reject Jesus. The people who are righteous because they followed Jesus will not be thrown in the fire with everyone else. Followers of Jesus will experience good things like a sun that is brightly shining. How would you express **But the people who are righteous, who have followed Jesus, will shine like the sun** to mean people who believe in Jesus will show pure goodness as the sun shows bright light?
+**But the people who are righteous, who have followed Jesus, will shine like the sun** People who follow Jesus are the same as the people who are righteous. God sees people who believe in Jesus as righteous because he forgives their sin. Also, believers act righteously because they obey Jesus’ commands. Followers of Jesus have a different/opposite experience than those who reject Jesus. The people who are righteous because they followed Jesus, will not be thrown in the fire with everyone else. Followers of Jesus will experience good things like a sun that is brightly shining. How would you express **But the people who are righteous, who have followed Jesus, will shine like the sun** to mean people who believe in Jesus will show pure goodness as the sun shows bright light?
 
 #### 50-11
 
-**He will come back the same way that he left** Jesus promised that he would return to earth just like he left the earth. How would you express **He will come back the same way that he left** to mean Jesus promises to leave heaven and return to the earth at some time in the future just like he left earth to return to heaven at the time after his resurrection?
+**He will come back the same way that he left** Jesus promised that he would return to earth just like he left the earth. How would you express **He will come back the same way that he left** to mean Jesus promises to leave heaven and return to the earth at some time in the future, just like he left earth to return to heaven at the time after his resurrection?
 
 **will come on the clouds in the sky** Jesus promised that the clouds of the sky will carry Jesus along at the time he returns to earth. How would you express **will come on the clouds in the sky** to mean the clouds in the sky will surround Jesus as he comes back to earth?
 
-**When Jesus returns, every follower of Jesus who has died will rise from the dead and meet him in the sky** At the time Jesus returns to earth, believers in Jesus who already died will come back to life. Those who believe in Jesus will go up to be near Jesus while he is in the sky. How would you express **When Jesus returns, every follower of Jesus who has died will rise from the dead and meet him in the sky** to mean believers who are dead will come back to life and going Jesus in the sky at the time Jesus returns to earth?
+**When Jesus returns, every follower of Jesus who has died will rise from the dead and meet him in the sky** When Jesus returns to earth, believers in Jesus who already died will come back to life. Those who believe in Jesus will go up to be near Jesus while he is in the sky. How would you express **When Jesus returns, every follower of Jesus who has died will rise from the dead and meet him in the sky** to mean believers who are dead will come back to life and go with Jesus in the sky at the time Jesus returns to earth?
 
 #### 50-12
 
-**Then the followers of Jesus who are still alive** Believers who are alive at the time Jesus returns to earth will gather with Jesus. This will happen after the followers of Jesus who died rose to meet Jesus in the air. How would you express **Then the followers of Jesus who are still alive** to mean Jesus’ followers who are still alive when Jesus returns will also join Jesus after Jesus’ followers who had died first come back to life and join with Jesus?
+**Then the followers of Jesus who are still alive** Believers who are alive when Jesus returns to earth will gather with Jesus. This will happen after the followers of Jesus who died rose to meet Jesus in the air. How would you express **Then the followers of Jesus who are still alive** to mean Jesus’ followers who are still alive when Jesus returns will also join Jesus after Jesus’ followers who had died first come back to life and join with Jesus?
 
 **After that Jesus will live with his people,** All believers will gather to be near Jesus. Then, Jesus will continue to live with his people for all time. How would you express **After that Jesus will live with his people,** to mean Jesus and his followers will live together forever subsequent to Jesus’ followers joining Jesus?
 
 #### 50-13
 
-**Jesus promised to give a crown to everyone who believes in him** Jesus said that he will gift all believers with a crown, a symbol of honor, royalty, and authority. This crown represents our reward for believing in Jesus and serving him in this life. How would you express **Jesus promised to give a crown to everyone who believes in him** to mean Jesus will reward all people who believed in Jesus?
+**Jesus promised to give a crown to everyone who believes in him** Jesus said that he will gift all believers with a crown, a symbol of honor, royalty, and authority. This crown represents our reward for believing in Jesus and serving him in this life. How would you express **Jesus promised to give a crown to everyone who believes in him** to mean Jesus will reward all people who believe in Jesus?
 
 **They will have perfect peace** At this time, people will not experience sin, sadness, or hardship. All things will be the way God wants them to be. Nothing will disturb this peace. How would you express **They will have perfect peace** to mean people will completely enjoy life without any conflict, anxiety, or fear?
 
 #### 50-14
 
-**But God will judge everyone who does not believe** At the end of the world, God promises to reward believers, to rule over believers, and to give believers complete and total peace. In contrast to this, God promises to punish all people who did not believe in Jesus. How would you express **But God will judge everyone who does not believe** to mean the punishment and pain people who do not believe in Jesus will experience is different/opposite to the wonderful place of peace where Jesus’ followers will live?
+**But God will judge everyone who does not believe** At the end of the world, God promises to reward believers, to rule over believers, and to give believers complete and total peace. In contrast, God promises to punish all people who do not believe in Jesus. How would you express **But God will judge everyone who does not believe** to mean the punishment and pain people who do not believe in Jesus will experience is different/opposite to the wonderful place of peace where Jesus’ followers will live?
 
 #### 50-15
 
-**When Jesus returns, he will completely destroy Satan and his kingdom** At the time Jesus comes back to earth, Jesus will prevent Satan from ever again doing evil things or from controlling people in evil ways. How would you express **When Jesus returns, he will completely destroy Satan and his kingdom** to mean Jesus will totally defeat Satan and put an end to his evil rule over people?kingdom?
+**When Jesus returns, he will completely destroy Satan and his kingdom** When Jesus comes back to earth, Jesus will prevent Satan from ever again doing evil things or controlling people in evil ways. How would you express **When Jesus returns, he will completely destroy Satan and his kingdom** to mean Jesus will totally defeat Satan and put an end to his evil rule over people and his kingdom?
 
 #### 50-16
 
@@ -514,13 +514,13 @@ Use the following translation questions to understand specific details of the pa
 
 **He will wipe away every tear from people’s eyes** God promises that he will tenderly take away any sadness people have. Wiping tears from the eyes of people is an act that comforts people and removes sorrow. How would you express **He will wipe away every tear from people’s eyes** to mean God will bring an end to all of our grief and make all trouble and hardship end?
 
-**Jesus will rule his kingdom justly and with peace** In the future, Jesus will have authority of his people for all time. When Jesus rules over his people, he will use his authority in ways that are fair and bring about goodness for all people. How would you express **Jesus will rule his kingdom justly and with peace** to mean Jesus will govern his people fairly, in a way that brings them peace?
+**Jesus will rule his kingdom justly and with peace** In the future, Jesus will have authority over his people for all time. When Jesus rules over his people, he will use his authority in ways that are fair and bring about goodness for all people. How would you express **Jesus will rule his kingdom justly and with peace** to mean Jesus will govern his people fairly, in a way that brings them peace?
 
 <!-- page break -->
 
 ## Theological Dialogue: Discussing the Meaning of the Story
 
-Take time to explore the meaning of this story together as a community. Use the following discussions as a way to grasp what truth the story teaches.
+Take time to explore the meaning of this story together as a community. Use the following discussions to grasp the truth the story teaches.
 
 ### Discourse Questions
 
@@ -528,31 +528,31 @@ Use the following discourse questions to understand the meaning of the story. Pa
 
 ##### What mission did Jesus give to his disciples? (50-01, 50-02, 50-03, 50-04)
 
-God’s Mission: Jesus resurrected from the dead and went back to heaven around 2,000 years ago. Since that time, more and more people have become believers. When people believe Jesus and become his followers, the church grows in number. God is accomplishing his mission on earth to save people from their sins. Jesus will come back as he promised. Until that happens, God is causing more people to believe in Jesus. (50-01)
+God’s Mission: Jesus resurrected from the dead and went back to heaven around 2,000 years ago. Since that time, more and more people have become believers. When people believe in Jesus and become his followers, the church grows in number. God is accomplishing his mission on earth to save people from their sins. Jesus will come back as he promised. Until that happens, God is causing more people to believe in Jesus. (50-01)
 
-Worldwide Evangelism and Church Planting: Jesus commanded his followers to preach the gospel to people and tell them the message of God’s kingdom. Believers continue to share with all people groups the good news of Jesus saving people from their sin and believers continue to plant churches throughout the world until Jesus returns to earth. In particular, Jesus commanded his followers to preach the gospel where people have never heard the message. When the gospel is shared with all peoples, the end of the world will come. (50-01, 50-02, 50-03)
+Worldwide Evangelism and Church Planting: Jesus commanded his followers to preach the gospel to people and tell them the message of God’s kingdom. Believers continue to share with all people groups the good news of Jesus saving people from their sin, and believers continue to plant churches throughout the world until Jesus returns to earth. In particular, Jesus commanded his followers to preach the gospel where people have never heard the message. When the gospel is shared with all peoples, the end of the world will come. (50-01, 50-02, 50-03)
 
-Holy Living: God wants his people to live holy lives. The hope of Jesus returning to earth motivates believers to live godly lives and act in a way that honors God. The holy lives of God’s people are witness of the gospel to those who have not yet believed in Jesus. (50-02)
+Holy Living: God wants his people to live holy lives. The hope of Jesus returning to earth motivates believers to live godly lives and act in a way that honors God. The holy lives of God’s people are witnesses of the gospel to those who have not yet believed in Jesus. (50-02)
 
-Making Disciples: Jesus specifies the mission for believers. He tells them to make disciples of all people groups. Disciples are believers who obey Jesus’ teaching. Jesus said that many people in the world are ready to become believers, like a harvest of crops that is ripe to be picked. (50-03)
+Making Disciples: Jesus specifies the mission for believers. He tells them to make disciples of all people groups. Disciples are believers who obey Jesus’ teaching. Jesus said that many people in the world are ready to become believers, like a harvest of crops ripe to be picked. (50-03)
 
-Endure Suffering: Jesus told his followers that they would be mistreated by other people. Jesus endured suffering and believers should expect suffering as well. Also, Jesus told his followers that they should also remain strong in suffering and not give up believing in Jesus or following Jesus. Jesus has defeated Satan and evil no longer rules the world. Jesus has already won the battle against evil. Jesus will save those who continue to believe in Jesus and follow him until the end. (50-4)
+Endure Suffering: Jesus told his followers that they would be mistreated by other people. Jesus endured suffering, and believers should expect suffering as well. Also, Jesus told his followers that they should also remain strong in suffering and not give up believing in Jesus or following Jesus. Jesus has defeated Satan, and evil no longer rules the world. Jesus has already won the battle against evil. Jesus will save those who continue to believe in Jesus and follow him until the end. (50-4)
 
-##### What happens at end of the world? (50-05, 50-06, 50-07, 50-08, 50-09, 50-10)
+##### What happens at the end of the world? (50-05, 50-06, 50-07, 50-08, 50-09, 50-10)
 
-Final Judgment: Until the end of the world, people live in the world who believe in Jesus and who do not believe in Jesus. This is like a field that has weeds growing among wheat grain. God will not separate the weeds (unbelievers) from the wheat (believers) until the end of the world. At the end of the world, there will be a final judgment. The final judgment will be like a harvest in which the weeds and wheat are pulled from the ground. The weeds are gathered into a pile where they will be burned and the wheat is gathered into a storehouse. At the end of the world, angels will gather people who do not believe in Jesus and follow the devil (i.e., the weeds) and throw them in a fire of judgment and punishment. They will suffer in sadness and pain forever. Those people who follow Jesus (i.e., the wheat) will enjoy goodness and blessing with God forever. (50-05, 50-06, 50-07, 50-08, 50-09, 50-10)
+Final Judgment: Until the end of the world, people live in the world who believe in Jesus and who do not believe in Jesus. This is like a field that has weeds growing among wheat grain. God will not separate the weeds (unbelievers) from the wheat (believers) until the end of the world. At the end of the world, there will be a final judgment. The final judgment will be like a harvest in which the weeds and wheat are pulled from the ground. The weeds are gathered into a pile where they will be burned, and the wheat is gathered into a storehouse. At the end of the world, angels will gather people who do not believe in Jesus, follow the devil (i.e., the weeds), and throw them in a fire of judgment and punishment. They will suffer in sadness and pain forever. Those people who follow Jesus (i.e., the wheat) will enjoy goodness and blessing with God forever. (50-05, 50-06, 50-07, 50-08, 50-09, 50-10)
 
 ##### What events will take place? (50-11, 50-12, 50-13, 50-14, 50-15, 50-16, 50-17)
 
-Jesus’ Return: At the end of the world, Jesus will return to the earth. He will come in the same way that he left earth when he went back to heaven. Jesus has a real body and will come from heaven on the clouds. (50-11)
+Jesus’ Return: At the end of the world, Jesus will return to the earth. He will come in the same way that he left Earth when he went back to heaven. Jesus has a real body and will come from heaven on the clouds. (50-11)
 
 Resurrection from the Dead: People who died will come back to life. The dead who believed in Jesus will rise again and meet Jesus in the sky. Believers who are alive at the time Jesus returns will also join with Jesus in the sky. (50-11, 50-12)
 
-Eternal Life: Jesus will live with his people forever. They will enjoy total peace. They will receive a reward from Jesus. And, they will rule with Jesus forever. (50-12, 50-13)
+Eternal Life: Jesus will live with his people forever. They will enjoy total peace. They will receive a reward from Jesus. And they will rule with Jesus forever. (50-12, 50-13)
 
-Final Judgment: God will punish all people who did not believe in Jesus. He will throw in them into hell. In that place there will be pain, suffering, and sadness that never ends. A fire will burn them forever and worms will not stop eating them. (50-14, 50-15)
+Final Judgment: God will punish all people who do not believe in Jesus. He will throw in them into hell. In that place, there will be pain, suffering, and sadness that never ends. A fire will burn them forever and worms will not stop eating them. (50-14, 50-15)
 
-Defeat of Satan: God will completely destroy Satan. He will throw Satan into the fire of hell where he will experience pain and suffering forever. (50-15)
+Defeat of Satan: God will completely destroy Satan. He will throw Satan into the fire of hell, where he will experience pain and suffering forever. (50-15)
 
 Recreation of the World: God cursed the world because of the sin of Adam and Eve. At the end of the world, God will make the world new again. God will create a new heaven and a new earth that will be perfect. There will be no more sadness, sickness, or sin. God and his people will live there for all time in peace. (50-16, 50-17)
 

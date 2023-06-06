@@ -8,7 +8,7 @@ story_num: 32
 
 ### Key Idea
 
-The story of Jesus healing the demon-possessed man and a sick woman teaches us that Jesus has power over spiritual world and sickness.
+The story of Jesus healing the demon-possessed man and a sick woman teaches us that Jesus has power over the spiritual world and sickness.
 
 ### Creedal Verse
 
@@ -24,29 +24,29 @@ God set to restore his world through his promise.
 God made a covenant with Abraham. He promised to bless all nations through Abraham.
 God kept his promises across the generations.
 God provided Abraham with a promised child, Isaac.
-God gave Isaac a wife and she bore twins, Jacob and Esau.
+God gave Isaac a wife, and she bore twins Jacob and Esau.
 God blessed Jacob and his sons, and the blessing continued to the next generation.
 God rescued Joseph, one of Jacob’s sons, and used him to rescue his family.
 God caused his people, the Israelites, to multiply in the land of Egypt; eventually, they became slaves.
-But, God raised up a deliverer, Moses, to deliver his people from their slavery.
-God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people who covered their doorposts with the blood of a sacrificed lamb.
+But God raised up a deliverer, Moses, to deliver his people from their slavery.
+God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people, who covered their doorposts with the blood of a sacrificed lamb.
 Then, God delivered the Israelites by bringing them out of Egypt and crossing the Red Sea on dry land.
 God made a covenant with the Israelites and made them his people.
 God tested Israel in a series of wilderness wanderings and
 eventually brought his people into the promised land of Canaan.
 God raised up deliverers to lead Israel and rescue them from their enemies.
 God formed Israel into a kingdom. He made a covenant with King David and promised to send a king that would rule his people forever.
-Many of Israel’s kings were evil and the kingdom of Israel divided into two kingdoms.
+Many of Israel’s kings were evil, and the kingdom of Israel was divided into two kingdoms.
 God sent prophets to warn his people of God’s judgment and call them to repent.
 When Israel did not repent, God sent his people into exile. After many years, he brought them back to the land.
-Throughout the Old Testament, God promised to send his Messiah to deliver his people form their sin.
+Throughout the Old Testament, God promised to send his Messiah to deliver his people from their sin.
 After many years, the prophet John was born. He would prepare people for the coming Messiah.
 At the perfect time, God sent his Son, Jesus, to be born of a virgin Mary.
 When John and Jesus grew up, John baptized Jesus as a sign that Jesus was God’s beloved Son.
 Jesus endured all manner of temptation without ever sinning.
 When he was thirty years old, he launched a public ministry of preaching, teaching, and healing.
 He taught his disciples about the life of compassion, sacrifice, and forgiveness.
-He performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
+Jesus performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
 
 <!-- page break -->
 
@@ -62,7 +62,7 @@ Jesus and his disciples went in their boat to the region where the Gerasene peop
 
 ![](.\assets\images\image372.jpeg)
 
-Now there was a man there who was demon possessed.
+Now there was a man there who was demon-possessed.
 
 ##### 32-03
 
@@ -104,7 +104,7 @@ So the demons came out of the man and entered the pigs. The pigs ran down a stee
 
 ![](.\assets\images\image379.jpeg)
 
-There were people taking care of those pigs. When they saw what happened, they ran into the town. There they told everyone what Jesus had done. The people from the town came and saw the man who used to have the demons. He was sitting calmly, wearing clothes, and acting like a normal person.
+There were people taking care of those pigs. When they saw what happened, they ran into the town. There they told everyone what Jesus had done. The people from the town came and saw the man who used to have demons. He was sitting calmly, wearing clothes, and acting like a normal person.
 
 ##### 32-10
 
@@ -146,7 +146,7 @@ Immediately, Jesus realized that power had gone out from him. So he turned aroun
 
 ![](.\assets\images\image386.jpeg)
 
-The woman fell on her knees before Jesus, shaking and very afraid. Then she told him what she had done, and that she had been healed. Jesus said to her, “Your faith has healed you. Go in peace.”
+The woman fell on her knees before Jesus, shaking and very afraid. Then she told him what she had done and that she had been healed. Jesus said to her, “Your faith has healed you. Go in peace.”
 
 *A Bible story from: Matthew 8:28-34; 9:20-22; Mark 5; Luke 8:26-48*
 
@@ -205,17 +205,17 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 32-01
 
-Where did Jesus and his disciples travel to by boat?  
+Where did Jesus and his disciples travel by boat?  
 Jesus and his disciples went in their boat to the region where the Gerasene people lived.
 
 #### 32-02
 
 Whom did Jesus meet when he arrived where the Gerasene people lived?  
-He met a man there who was demon possessed.
+He met a man there who was demon-possessed.
 
 #### 32-03
 
@@ -228,7 +228,7 @@ Where did the man live?
 The man lived among the tombs.
 
 How did the man act?  
-He screamed all day and night, not wearing clothes, and cutting himself with stones.
+He screamed all day and night, not wearing clothes and cutting himself with stones.
 
 #### 32-05
 
@@ -241,7 +241,7 @@ Jesus spoke to the demon and commanded it to come out of the man.
 #### 32-06
 
 What did the demon say to Jesus?  
-The demon cried out in a loud voice asking Jesus what he wanted with him, called him Jesus, Son of the Most High God, and asked Jesus not to torture him.
+The demon cried out in a loud voice, asking Jesus what he wanted with him, called him Jesus, Son of the Most High God, and asked Jesus not to torture him.
 
 What was the demon’s name?  
 His name was Legion.
@@ -271,7 +271,7 @@ What did the people who took care of the pigs do?
 The people who took care of the pigs ran into the town and told everyone what Jesus had done.
 
 What did the people from the town do?  
-The people from the town came to see the man who used to have the demons.
+The people from the town came to see the man who used to have demons.
 
 How did the man behave after the demons left him?  
 He sat calmly, wore clothes, and acted like a normal person.
@@ -305,13 +305,13 @@ The people who heard his story were amazed.
 Who gathered around Jesus after he arrived at the other side of the lake?  
 After Jesus returned to the other side of the lake, a large crowd gathered around Jesus and pressed on Jesus.
 
-What was wrong with one of the woman in the crowd?  
+What was wrong with one of the women in the crowd?  
 A woman in the crowd suffered from a bleeding problem for 12 years, spent all her money on doctors, and only got worse.
 
 #### 32-14
 
 Why did the woman with the bleeding problem come to Jesus?  
-She thought that if she touched Jesus’ clothes, she would be healed.
+She thought she would be healed if she touched Jesus’ clothes.
 
 What happened as soon as the woman touched Jesus’ clothes?  
 Her bleeding stopped.
@@ -327,7 +327,7 @@ The disciples told Jesus that there are many people in the crowd. They asked Jes
 #### 32-16
 
 How did the woman act before Jesus?  
-The woman fell on her knees before Jesus, she was shaking and very afraid, she told Jesus that she touched his clothes, and she told him how she was healed.
+The woman fell on her knees before Jesus, shaking and very afraid. She told Jesus that she touched his clothes and told him how she was healed.
 
 What did Jesus say to the woman when she fell down before him?  
 He told her, “Your faith has healed you. Go in peace.”
@@ -338,7 +338,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 32-01
 
-**the Gerasene people** The Gerasenes lived in an area along the eastern shore of the Sea of Galilee. They were descendants of the Jews, but we know few details about them. How would you express **the Gerasene people** to mean the people who in the region around Gerasa, a city southeast of the Sea of Galilee?
+**the Gerasene people** The Gerasenes lived in an area along the eastern shore of the Sea of Galilee. They were descendants of the Jews, but we know few details about them. How would you express **the Gerasene people** to mean the people in the region around Gerasa, a city southeast of the Sea of Galilee?
 
 **They reached land** Jesus and his disciples traveled by boat to the region where the Gerasene people lived. How would you express **They reached land** to mean they arrived on the shore?
 
@@ -348,21 +348,21 @@ Use the following translation questions to understand specific details of the pa
 
 #### 32-03
 
-**This man was so strong that nobody could control him** The demon made the man more powerful than normal humans are. He was so strong that other people could not restrain him. How would you express **This man was so strong that nobody could control him** to mean the demon made the man so strong that no person could restrain him?
+**This man was so strong that nobody could control him** The demon made him more powerful than normal humans. He was so strong that other people could not restrain him. How would you express **This man was so strong that nobody could control him** to mean the demon made the man so strong that no person could restrain him?
 
-**fastened his arms and legs** People put chains around the man’s arms and legs. They shackled him to keep him under control and restrict his ability to move freely. How would you express **fastened his arms and legs** to mean restrained or bound his arms and legs with chains so he could not move freely?
+**fastened his arms and legs** People put chains around the man’s arms and legs. They shackled him to keep him under control and restricted his ability to move freely. How would you express **fastened his arms and legs** to mean restrained or bound his arms and legs with chains so he could not move freely?
 
-**kept breaking them** The demon made the man so strong that he could break the chains which were put on his arms and legs. This happened many times and each time the man continued to break the chains. How would you express **kept breaking them** to mean the man continued to break the chains each time the people bound him in chains?
+**kept breaking them** The demon made the man so strong that he could break the chains which were put on his arms and legs. This happened many times, and each time the man continued to break the chains. How would you express **kept breaking them** to mean the man continued to break the chains each time the people bound him in chains?
 
 #### 32-04
 
 **among the tombs** The man lived near the tombs. Tombs are places where dead people are buried. How would you express **among the tombs** to mean the man lived around the area where people were buried in tombs?
 
-**This man would scream all day and all night** The man cried out in a loud voice on a regular basis. He did this during the day and during the night. This was a common and repeated behavior of the man that he did on a regular basis. How would you express **This man would scream all day and all night** to mean the man repeatedly cried out in a loud voice during the day and during the night?
+**This man would scream all day and all night** The man cried out in a loud voice on a regular basis. He did this during the day and the night. This was a common and repeated behavior of the man that he did on a regular basis. How would you express **This man would scream all day and all night** to mean the man repeatedly cried out loudly during the day and night?
 
 #### 32-05
 
-**knelt down in front of him** The man ran up to Jesus and got on his knees before Jesus. This was a symbolic action to show that he was submitting to Jesus and asking for his help. How would you express **knelt down in front of him** to mean got down on one’s knees in front of Jesus as an act of respect, humility, and submission?
+**knelt down in front of him** The man ran up to Jesus and got on his knees before Jesus. This was a symbolic action to show that he was submitting to Jesus and asking for his help. How would you express **knelt down in front of him** to mean getting down on one’s knees in front of Jesus as an act of respect, humility, and submission?
 
 **Come out of this man!** Jesus commanded the demon to leave the man. By leaving the man, the demon would no longer control him. How would you express **Come out of this man!** as a command that ordered the demon to leave the man and no longer control him?
 
@@ -370,23 +370,23 @@ Use the following translation questions to understand specific details of the pa
 
 **cried out** The demon spoke out in a loud voice. This How would you express **cried out** to mean shouted or exclaimed?
 
-**What do you want with me Jesus, Son of the Most High God?,** The demon is asking for information. The demon was terrified that Jesus would judge him. He was asking this question because he was afraid of what Jesus would do to him. The question could function as a request for Jesus not to judge him. How would you express **What do you want with me Jesus, Son of the Most High God?,** as a question that means what are you going to do to me?
+**What do you want with me Jesus, Son of the Most High God?** The demon is asking for information. The demon was terrified that Jesus would judge him. He was asking this question because he was afraid of what Jesus would do to him. The question could function as a request for Jesus not to judge him. How would you express **What do you want with me Jesus, Son of the Most High God?** as a question that means what are you going to do to me?
 
-**the Most High God** God is supreme and above all. This title for God is not referring to altitude or being tall. It is showing that God is the greatest, strongest, and most sovereign. How would you express **the Most High God** as a title for God that means the Most Powerful God who is sovereign and supreme above all?
+**the Most High God** God is supreme and above all. This title for God is not referring to altitude or being tall. It shows that God is the greatest, strongest, and most sovereign. How would you express **the Most High God** as a title for God that means the Most Powerful God who is sovereign and supreme above all?
 
-**My name is Legion, because we are many** This was the name of the group of demons that controlled the man. It also indicates that the evil spirits that controlled him were very numerous. A legion was a group of several thousand soldiers in the Roman army. The name Legion is comparing the size of the demons to a large group of soldiers. The reason this was the name for the group of demons was there were many demons controlling the man. How would you express **My name is Legion, because we are many** to mean the reason the name of the group of demons was legion was there were many demons controlling the man, like a large crowd/army of thousands of soldiers?
+**My name is Legion, because we are many** This was the name of the group of demons controlling the man. It also indicates that the evil spirits that controlled him were very numerous. A legion was a group of several thousand soldiers in the Roman army. The name Legion compares the size of the demons to a large group of soldiers. This was the name for the group of demons because there were many demons controlling the man. How would you express **My name is Legion, because we are many** to mean the reason the name of the group of demons was legion was many demons were controlling the man, like a large crowd/army of thousands of soldiers?
 
 #### 32-07
 
-**Please do not send us out of this region!** The demons pleaded that Jesus not force them to leave the region. The demons knew that Jesus had authority to tell them what to do. How would you express **Please do not send us out of this region!** as a polite request that Jesus not make the demons leave the area where the man was living?
+**Please do not send us out of this region!** The demons pleaded for Jesus not to force them to leave the region. The demons knew that Jesus had the authority to tell them what to do. How would you express **Please do not send us out of this region!** as a polite request for Jesus not to make the demons leave the area where the man was living?
 
 **herd of pigs** There were many demons. There was also a group of many pigs nearby. The demons asked to be sent into the group of pigs. How would you express **herd of pigs** to mean a large group of pigs?
 
-**Please send us into the pigs instead!** The demons pleaded that Jesus allow them to go into a herd of pigs. The wanted to go into the pigs rather than being forced to leave the region. How would you express **Please send us into the pigs instead!** as a polite request that Jesus allow the demons to go into the herd of pigs rather than being sent out of the region?
+**Please send us into the pigs instead!** The demons pleaded for Jesus to allow them to go into a herd of pigs. They wanted to go into the pigs rather than being forced to leave the region. How would you express **Please send us into the pigs instead!** as a polite request for Jesus to allow the demons to go into the herd of pigs rather than being sent out of the region?
 
 #### 32-08
 
-**So the demons came out of the man and entered the pigs** Jesus granted the demons request. Jesus agreed to allow the demons to go into the herd of pigs. The result of this was the demons left the man and entered the pigs. How would you express **So the demons came out of the man and entered the pigs** to mean the result of Jesus granting the demons request was the demons left the man and went into the herd of pigs?
+**So the demons came out of the man and entered the pigs** Jesus granted the demons’ request. Jesus agreed to allow the demons to go into the herd of pigs. This resulted in the demons leaving the man and entering the pigs. How would you express **So the demons came out of the man and entered the pigs** to mean the result of Jesus granting the demons’ request was the demons left the man and went into the herd of pigs?
 
 **The pigs ran down a steep bank into the lake** After the demons entered into the pigs, the pigs ran into the water of the lake. The land alongside the lake sloped down into the water. How would you express **The pigs ran down a steep bank into the lake** to mean the pigs went fast down the sloping land alongside the lake and went into the water of the lake?
 
@@ -400,7 +400,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 32-10
 
-**begged to go along with Jesus** The man wanted to go with Jesus. He pleaded with Jesus to let him go with him. How would you express **begged to go along with Jesus** to mean earnestly asked Jesus if he could go with him?
+**begged to go along with Jesus** The man wanted to go with Jesus. He pleaded with Jesus to let him go with him. How would you express **begged to go along with Jesus** to mean earnestly asking Jesus if he could go with him?
 
 #### 32-11
 
@@ -436,7 +436,7 @@ Use the following translation questions to understand specific details of the pa
 
 **shaking and very afraid** The woman was trembling because she was afraid. How would you express **shaking and very afraid** to mean shaking with fear?
 
-**Your faith has healed you** The woman believed that Jesus could heal her. How would you express **Your faith has healed you** to mean God has healed the woman because she trusted in Jesus?
+**Your faith has healed you** The woman believed Jesus could heal her. How would you express **Your faith has healed you** to mean God has healed the woman because she trusted in Jesus?
 
 **Go in peace** People spoke this traditional blessing when they left each other. It is spoken as people depart from each other to express peace between people as they leave each other. How would you express **Go in peace** to mean may you have peace as you go or go and know that all is well between us?
 
@@ -444,23 +444,23 @@ Use the following translation questions to understand specific details of the pa
 
 ## Theological Dialogue: Discussing the Meaning of the Story
 
-Take time to explore the meaning of this story together as a community. Use the following discussions as a way to grasp what truth the story teaches.
+Take time to explore the meaning of this story together as a community. Use the following discussions to grasp the truth the story teaches.
 
 ### Discourse Questions
 
 Use the following discourse questions to understand the meaning of the story. Pay attention to how the story itself addresses each question or theme.
 
-##### How was the Gerasene man afflicted by the demon? (32-01, 32-02, 32-03, 32-04, 32-06)
+##### How did the demon afflict the Gerasene man? (32-01, 32-02, 32-03, 32-04, 32-06)
 
 Demon-Possessed: Jesus arrived in the region where the Gerasene people lived. In that place, there was a man who was demon-possessed. He was controlled by evil spirits. (32-01, 32-02)
 
 Not Able to Be Controlled: The demon was so powerful that it made the man so strong that no one could control him. The man broke and chain put on his hands or feet. The man was enslaved and bound to this demon. (32-03)
 
-Outcast and Unclean: The man lived in area near the tombs. This man was cast out of normal society and was considered unclean by others. (32-04)
+Outcast and Unclean: The man lived in the area near the tombs. This man was cast out of normal society and was considered unclean by others. (32-04)
 
 Afflicted: The man would scream day and night. He did not wear clothes. He cut himself with stones. The demon afflicted this man and made his life miserable. (32-04)
 
-Many Spirits: The name of the demon was Legion because there were many evil sprits controlling the man. The man was afflicted with an army of evil spirits. (32-06)
+Many Spirits: The demon’s name was Legion because many evil sprits controlled the man. The man was afflicted with an army of evil spirits. (32-06)
 
 ##### How did Jesus deliver the Gerasene man from the evil spirits which controlled him? (32-05, 32-06, 32-07, 32-08, 32-09)
 
@@ -468,7 +468,7 @@ Jesus’ Command: The Gerasene man ran up to Jesus and knelt down in front of Je
 
 Jesus’ Presence/Power: The demons knew that Jesus was God’s Son and feared that Jesus would judge them. Even though the demons were powerful, they were not more powerful than Jesus. The demons were afraid of what Jesus would and could do to them. (32-06)
 
-Jesus’ Authority: The demons could not do whatever they wanted to do. They asked Jesus permission to go into a herd of pigs rather than to be sent out of the region. Jesus granted their request. The evil spirits entered the pigs and the pigs ran into the lake and drowned. Evil spirits have no authority over Jesus. (32-07, 32-08)
+Jesus’ Authority: The demons could not do whatever they wanted to do. They asked Jesus’ permission to go into a herd of pigs rather than to be sent out of the region. Jesus granted their request. The evil spirits entered the pigs, and the pigs ran into the lake and drowned. Evil spirits have no authority over Jesus. (32-07, 32-08)
 
 Jesus’ Restoring Work: The man was sitting calmly, wearing clothes, and acting like a normal person. Jesus had restored this man by sending out the evil spirits. (32-09)
 
@@ -480,7 +480,7 @@ Townspeople Afraid: The people from the town came out to see the man who used to
 
 Gerasene Man Wanted to Follow Jesus: The Gerasene man begged Jesus to go with him. He wanted to follow the person who delivered him from the evil spirits. (32-10)
 
-Gerasene Man Told to Share His Story: Jesus told the Gerasene man to tell his story to those in the area where he lived. He explained how Jesus showed him mercy and delivered him from the evil sprits. (32-11)
+Gerasene Man Told to Share His Story: Jesus told the Gerasene man to tell his story to those in the area where he lived. He explained how Jesus showed him mercy and delivered him from the evil spirits. (32-11)
 
 People Amazed: The people who heard the story of the Gerasene man were amazed at what Jesus did. (32-12)
 
@@ -488,11 +488,11 @@ People Amazed: The people who heard the story of the Gerasene man were amazed at
 
 Struggle to Find Help: A woman with a bleeding problem was sick for 12 years. Doctors could not help her. She spent all her money and was unable to get better. In fact, her condition got worse. The woman was unable to find help anywhere. She had exhausted her resources. (32-13)
 
-Faith in Jesus: The woman believed if she touched Jesus’ clothes she would be healed. She had genuine faith. When she touched Jesus’ clothes the bleeding immediately stopped and she was healed. The woman trusted Jesus to heal her. (32-14, 32-16)
+Faith in Jesus: The woman believed she would be healed if she touched Jesus’ clothes. She had genuine faith. When she touched Jesus’ clothes, the bleeding immediately stopped, and she was healed. The woman trusted Jesus to heal her. (32-14, 32-16)
 
 Jesus’ Power: Jesus felt his power flow to the woman with a bleeding problem. Jesus caused the woman to no longer be sick. (32-15)
 
-Peace: The woman was afraid and fell on her knees before Jesus. Jesus sent the woman away full recovered and told her to be at peace. Jesus restored the woman from her sick condition and removed her fear. (32-16)
+Peace: The woman was afraid and fell on her knees before Jesus. Jesus sent the woman away fully recovered and told her to be at peace. Jesus restored the woman from her sick condition and removed her fear. (32-16)
 
 <!-- page break -->
 
@@ -501,7 +501,7 @@ Peace: The woman was afraid and fell on her knees before Jesus. Jesus sent the w
 Answer the following theology questions as a community. Discuss what truths this story teaches.
 
 1.  How do people suffer in this fallen world? What do the afflictions of the Gerasene man and the bleeding woman teach us about how people suffer?
-2.  What does Jesus ability to heal the demon possessed and the sick tell us about who he is? What do we learn about Jesus from his healing of the Gerasene man and the bleeding woman?
+2.  What does Jesus ability to heal the demon-possessed and the sick tell us about who he is? What do we learn about Jesus from his healing of the Gerasene man and the bleeding woman?
 3.  How should we understand the spiritual world? What does Jesus’ healing of the Gerasene man teach us about the spiritual world
 4.  What does it look like to respond to Jesus in genuine faith? How do the various responses in this story help us understand genuine faith in Jesus?
 

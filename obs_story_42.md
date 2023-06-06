@@ -24,33 +24,33 @@ God set to restore his world through his promise.
 God made a covenant with Abraham. He promised to bless all nations through Abraham.
 God kept his promises across the generations.
 God provided Abraham with a promised child, Isaac.
-God gave Isaac a wife and she bore twins, Jacob and Esau.
+God gave Isaac a wife, and she bore twins, Jacob and Esau.
 God blessed Jacob and his sons, and the blessing continued to the next generation.
 God rescued Joseph, one of Jacob’s sons, and used him to rescue his family.
 God caused his people, the Israelites, to multiply in the land of Egypt; eventually, they became slaves.
-But, God raised up a deliverer, Moses, to deliver his people from their slavery.
-God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people who covered their doorposts with the blood of a sacrificed lamb.
+But God raised up a deliverer, Moses, to deliver his people from slavery.
+God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people, who covered their doorposts with the blood of a sacrificed lamb.
 Then, God delivered the Israelites by bringing them out of Egypt and crossing the Red Sea on dry land.
 God made a covenant with the Israelites and made them his people.
 God tested Israel in a series of wilderness wanderings and
 eventually brought his people into the promised land of Canaan.
 God raised up deliverers to lead Israel and rescue them from their enemies.
 God formed Israel into a kingdom. He made a covenant with King David and promised to send a king that would rule his people forever.
-Many of Israel’s kings were evil and the kingdom of Israel divided into two kingdoms.
+Many of Israel’s kings were evil, and the kingdom of Israel was divided into two kingdoms.
 God sent prophets to warn his people of God’s judgment and call them to repent.
 When Israel did not repent, God sent his people into exile. After many years, he brought them back to the land.
-Throughout the Old Testament, God promised to send his Messiah to deliver his people form their sin.
+Throughout the Old Testament, God promised to send his Messiah to deliver his people from their sin.
 After many years, the prophet John was born. He would prepare people for the coming Messiah.
 At the perfect time, God sent his Son, Jesus, to be born of a virgin Mary.
 When John and Jesus grew up, John baptized Jesus as a sign that Jesus was God’s beloved Son.
 Jesus endured all manner of temptation without ever sinning.
 When he was thirty years old, he launched a public ministry of preaching, teaching, and healing.
 He taught his disciples about the life of compassion, sacrifice, and forgiveness.
-He performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
-He proclaimed to people the nature of real faith, God’s kingdom, and the how fallen humans can be restored in relationship with God.
-Toward the end of his ministry, Jesus revealed his power and glory to his disciples
-and raised a dead man to life
-Jesus was betrayed by one of his disciples and put on trial before a Roman governor
+Jesus performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
+He proclaimed to people the nature of real faith, God’s kingdom, and how fallen humans can be restored in relationship with God.
+Toward the end of his ministry, Jesus revealed his power and glory to his disciples.
+He raised a dead man to life.
+Jesus was betrayed by one of his disciples and put on trial before a Roman governor.
 Jesus was sentenced to death and crucified on a cross
 Three days later, Jesus rose again from the dead.
 After meeting with many of his disciples, Jesus went back to heaven.
@@ -63,7 +63,7 @@ After meeting with many of his disciples, Jesus went back to heaven.
 
 ![](.\assets\images\image481.jpeg)
 
-On the day that God raised Jesus from the dead, two of his disciples were going to a nearby town. As they walked, they talked about what had happened to Jesus. They had hoped that he was the Messiah, but then he was killed. Now the women said he was alive again. They did not know what to believe.
+On the day that God raised Jesus from the dead, two of his disciples were going to a nearby town. As they walked, they talked about what had happened to Jesus. They had hoped he was the Messiah, but he was killed. Now the women said he was alive again. They did not know what to believe.
 
 ##### 42-02
 
@@ -81,7 +81,7 @@ Then Jesus explained to them what God’s word said about the Messiah. Long ago,
 
 ![](.\assets\images\image484.jpeg)
 
-When they arrived at the town where the two men wanted to stay, it was almost evening. They invited Jesus to stay with them, so he went into a house with them. They sat down to eat their evening meal. Jesus picked up a loaf of bread, thanked God for it, and then broke it. Suddenly, they recognized that he was Jesus. But at that moment, he disappeared from their sight.
+When they arrived at the town where the two men wanted to stay, it was almost evening. They invited Jesus to stay with them, so he went into a house with them. They sat down to eat their evening meal. Jesus picked up a loaf of bread, thanked God for it, and broke it. Suddenly, they recognized that he was Jesus. But at that moment, he disappeared from their sight.
 
 ##### 42-05
 
@@ -111,7 +111,7 @@ Jesus said, “Everything about me that God’s word says will happen, I have to
 
 ![](.\assets\images\image489.jpeg)
 
-During the next 40 days, Jesus appeared to his disciples many times. Once, he even appeared to more than 500 people at the same time! In many ways, he proved to his disciples that he was alive, and he taught them about the kingdom of God.
+During the next 40 days, Jesus appeared to his disciples many times. Once, he even appeared to more than 500 people at the same time! In many ways, he proved to his disciples that he was alive and taught them about the kingdom of God.
 
 ##### 42-10
 
@@ -123,7 +123,7 @@ Jesus said to his disciples, “God has given me the right to rule over everyone
 
 ![](.\assets\images\image491.jpeg)
 
-40 days after Jesus rose from the dead, he told his disciples, “Stay in Jerusalem until my Father gives you power. He will do this by sending the Holy Spirit upon you.” Then Jesus went up to heaven, and a cloud hid him from their sight. Jesus sat down in heaven at the right hand of God to rule over all things.
+Forty days after Jesus rose from the dead, he told his disciples, “Stay in Jerusalem until my Father gives you power. He will do this by sending the Holy Spirit upon you.” Then Jesus went up to heaven, and a cloud hid him from their sight. Jesus sat down in heaven at the right hand of God to rule over all things.
 
 *A Bible story from: Matthew 28:16-20; Mark 16:12-20; Luke 24:13-53; John 20:19-23; Acts 1:1-11*
 
@@ -192,18 +192,18 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 42-01
 
 What were two of Jesus’ disciples doing at the beginning of this story?  
-On the day that Jesus came back to life, two of Jesus’ disciples were walking on a road to a nearby town.
+On the day Jesus came back to life, two of Jesus’ disciples were walking on a road to a nearby town.
 
 What were the two disciples talking about as they walked along the road?  
 They were talking about what had happened to Jesus.
 
 What concern did the two disciples have?  
-They hoped Jesus was the Messiah but he was killed. The women said he was alive again but they did not know what to believe.
+They hoped Jesus was the Messiah, but he was killed. The women said he was alive again, but they did not know what to believe.
 
 #### 42-02
 
@@ -216,8 +216,8 @@ No. They did not recognize it was Jesus at this time.
 What did Jesus say to them?  
 Jesus asked them what they were talking about.
 
-What did they disciples tell Jesus?  
-They told Jesus about the things that happened to Jesus during the previous few days.
+What did the disciples tell Jesus?  
+They told Jesus about the things that had happened to Jesus during the previous few days.
 
 Who did the two disciples think Jesus was when he approached them on the road?  
 They thought he was a foreigner who did not know what had happened in Jerusalem.
@@ -228,14 +228,14 @@ What explanation did Jesus give to the disciples on the road?
 Jesus explained what God’s word said about the Messiah.
 
 What had the prophets said would happen to the Messiah?  
-They had said the Messiah would suffer and die, but would rise again on the third day.
+They had said the Messiah would suffer and die but would rise again on the third day.
 
 #### 42-04
 
-What time did the two disciples arrive into town?  
+What time did the two disciples arrive in town?  
 They arrived when it was almost evening.
 
-What time the two disciples say to Jesus when they arrived in the town where they wanted to stay?  
+What time did the two disciples say to Jesus when they arrived in the town where they wanted to stay?  
 The disciples invited Jesus to stay with them.
 
 How did Jesus respond to their invitation?  
@@ -245,12 +245,12 @@ What did Jesus do during the evening meal with the disciples?
 Jesus picked up bread, thanked God for it, and broke the bread.
 
 What happened when Jesus broke the bread?  
-The disciples recognized that it was Jesus and then Jesus disappeared from their sight.
+The disciples recognized that it was Jesus, and then Jesus disappeared from their sight.
 
 #### 42-05
 
 What did the two disciples say after they recognized Jesus?  
-They acknowledged that the man was Jesus and they said that this was why they were so excited while Jesus instructed them from God’s word.
+They acknowledged that the man was Jesus, and they said that this was why they were so excited while Jesus instructed them from God’s word.
 
 What did the two disciples do after Jesus left them?  
 They returned to Jerusalem and told the other disciples that Jesus was alive and that they had seen him.
@@ -266,11 +266,11 @@ What did Jesus ask his disciples?
 Jesus asked them why they were afraid and why they did not think it was really Jesus.
 
 How did Jesus prove to the disciples that he was not a ghost?  
-To show the he was not a ghost, Jesus showed them his hands and feet, told them that ghosts do not have bodies like him, asked for something to eat, and ate a piece of fish.
+To show that he was not a ghost, Jesus showed them his hands and feet. He told them that ghosts do not have bodies like him, asked for something to eat, and ate a piece of fish.
 
 #### 42-07
 
-What did Jesus say would happen God’s word?  
+What did Jesus say would happen in God’s word?  
 Jesus explained that everything said about Jesus in God’s word would certainly happen.
 
 What enabled the disciples to understand God’s word?  
@@ -288,7 +288,7 @@ Where were Jesus’ disciples to proclaim this message?
 They would proclaim it first in Jerusalem, and then go to all people groups everywhere.
 
 What were the disciples to be witnesses of?  
-The disciples were witnesses of all that Jesus said, al that he did, and all that happened to him.
+The disciples were witnesses of all that Jesus said, all that he did, and all that happened to him.
 
 #### 42-09
 
@@ -307,7 +307,7 @@ What right did God the Father give to Jesus?
 God the Father gave Jesus the right to rule over everyone in heaven and on earth.
 
 What did Jesus command his disciples to go and do?  
-He told them to go and make disciples of all people groups, baptizing them in the name of the Father, the Son, and the Holy Spirit, and teaching them to obey everything he had commanded them.
+He told them to go and make disciples of all people groups, baptizing them in the name of the Father, the Son, and the Holy Spirit and teaching them to obey everything he had commanded them.
 
 What promise did Jesus give his disciples?  
 Jesus promised that he would be with his disciples always.
@@ -321,7 +321,7 @@ Where did Jesus go 40 days after his resurrection?
 He went up to heaven.
 
 How did Jesus go up to heaven?  
-Jesus went up to heaven and a cloud hid him from their sight.
+Jesus went up to heaven, and a cloud hid him from their sight.
 
 What did Jesus do when he arrived in heaven?  
 He sat down at the right hand of God to rule over all things.
@@ -332,21 +332,21 @@ Use the following translation questions to understand specific details of the pa
 
 #### 42-01
 
-**As they walked, they talked about what had happened to Jesus** Two disciples walked toward a nearby town. They discussed the events concerning Jesus that took place over the past days. They had this discussion while they were walking toward the town. How would you express **As they walked, they talked about what had happened to Jesus** to mean the two disciples discussed the events surrounding Jesus’ trial, suffering, and crucifixion while they walked along the road toward a nearby town?
+**As they walked, they talked about what had happened to Jesus** Two disciples walked toward a nearby town. They discussed the events concerning Jesus that took place over the past few days. They had this discussion while they were walking toward the town. How would you express **As they walked, they talked about what had happened to Jesus** to mean the two disciples discussed the events surrounding Jesus’ trial, suffering, and crucifixion while they walked along the road toward a nearby town?
 
-**They had hoped that he was the Messiah, but then he was killed** The disciples thought the Messiah would reign as king of Israel. They did not expect him to die so they could not reconcile Jesus being Messiah with Jesus being crucified. His death was in contrast to their expectations for the Messiah. How would you express **They had hoped that he was the Messiah, but then he was killed** to mean the disciples expected Jesus to reign with power as Israel’s king but the opposite of their expectation happened: Jesus was crucified on a cross?
+**They had hoped that he was the Messiah, but then he was killed** The disciples thought the Messiah would reign as king of Israel. They did not expect him to die, so they could not reconcile Jesus being Messiah with Jesus being crucified. His death was in contrast to their expectations for the Messiah. How would you express **They had hoped that he was the Messiah, but then he was killed** to mean the disciples expected Jesus to reign with power as Israel’s king, but the opposite of their expectation happened: Jesus was crucified on a cross?
 
 #### 42-02
 
-**Jesus approached them and started walking with them, but they did not recognize him** The disciples knew Jesus well so you would expect them to recognize him, but they did not. How would you express **Jesus approached them and started walking with them, but they did not recognize him** to mean the disciples had an opposite/different response to Jesus than one would expect of his disciples: they did not know it was Jesus walking with them along the road?
+**Jesus approached them and started walking with them, but they did not recognize him** The disciples knew Jesus well, so you would expect them to recognize him, but they did not. How would you express **Jesus approached them and started walking with them, but they did not recognize him** to mean the disciples had an opposite/different response to Jesus than one would expect of his disciples: they did not know it was Jesus walking with them along the road?
 
-**all the things that had happened to Jesus** This refers to Jesus’ trial, suffering, death, burial, and the reports of his resurrection. How would you express **all the things that had happened to Jesus** to mean the events that transpired over the past days that resulted in Jesus trial, mistreatment, crucifixion, burial, and resurrection?
+**all the things that had happened to Jesus** This refers to Jesus’ trial, suffering, death, burial, and the reports of his resurrection. How would you express **all the things that had happened to Jesus** to mean the events that transpired over the past days that resulted in Jesus’ trial, mistreatment, crucifixion, burial, and resurrection?
 
 #### 42-03
 
 **Jesus explained to them what** God’s word said about the Messiah Jesus taught his disciples what the Old Testament Scriptures predicted about God’s promised Messiah. How would you express **Jesus explained to them what** God’s word said about the Messiah to mean Jesus described in detail what the prophets foretold about the Messiah?
 
-**evil men would make the Messiah suffer and die** Jesus is all-powerful and no one could force him to do anything that he did not agree to do. Therefore, Jesus voluntarily submitted to the suffering, mistreatment, and death he experienced. How would you express **evil men would make the Messiah suffer and die** to mean wicked people would mistreat/afflict and kill the Messiah?
+**evil men would make the Messiah suffer and die** Jesus is all-powerful, and no one could force him to do anything he did not agree to do. Therefore, Jesus voluntarily submitted to the suffering, mistreatment, and death he experienced. How would you express **evil men would make the Messiah suffer and die** to mean wicked people would mistreat/afflict and kill the Messiah?
 
 **on the third day** The prophets predicted that the Messiah would come back to life three days after he died. How would you express **on the third day** to mean **on the third day** after Jesus’ death?
 
@@ -354,25 +354,25 @@ Use the following translation questions to understand specific details of the pa
 
 **it was almost evening** Jesus and the two disciples arrived at the town toward the end of the day when the sun was going down. How would you express **it was almost evening** to mean the day was ending and it was starting to get dark?
 
-**Suddenly, they recognized that he was Jesus** Even though they were his followers, the disciples did not know that they were speaking with Jesus. At the moment Jesus broke the bread the disciples immediately knew that the man was Jesus. How would you express **Suddenly, they recognized that he was Jesus** to mean the disciples instantly realized that the man eating with them was Jesus at the time when Jesus broke the bread?
+**Suddenly, they recognized that he was Jesus** Even though they were his followers, the disciples did not know they were speaking with Jesus. The moment Jesus broke the bread, the disciples immediately knew that the man was Jesus. How would you express **Suddenly, they recognized that he was Jesus** to mean the disciples instantly realized that the man eating with them was Jesus at the time when Jesus broke the bread?
 
-**at that moment, he disappeared from their sight** At the very point in time the disciples recognized that it was Jesus, Jesus was gone from their sight. How would you express **at that moment, he disappeared from their sight** to mean Jesus suddenly vanished from their sight and was no longer there at the very time they knew that it was Jesus?
+**at that moment, he disappeared from their sight** At the very point in time, the disciples recognized that it was Jesus, he was gone from their sight. How would you express **at that moment, he disappeared from their sight** to mean Jesus suddenly vanished from their sight and was no longer there at the very time they knew that it was Jesus?
 
 #### 42-05
 
-**That was Jesus!** The two disciples did not expect the man to be Jesus, especially after they had talked with him as they traveled to the town. They were surprised to realized that the man with them was Jesus. This exclamation emphasizes how shocked the disciples were to see Jesus alive again. How would you express **That was Jesus!** as a strong statement that identifies the man as Jesus with a sense of shock and surprise?
+**That was Jesus!** The two disciples did not expect the man to be Jesus, especially after they had talked with him as they traveled to the town. They were surprised to realize that the man with them was Jesus. This exclamation emphasizes how shocked the disciples were to see Jesus alive again. How would you express **That was Jesus!** as a strong statement that identifies the man as Jesus with a sense of shock and surprise?
 
-**That is why we were so excited when he explained God’s word to us!** The disciples experienced great joy and enthusiasm when Jesus explained God’s word to his disciples while they traveled to the town. The disciples only realized afterward that they were so excited because the man explaining God’s word to them was Jesus. They make this strong statement to emphasize the realization that the reason they were so excited was because the person talking to them was Jesus. How would you express **That is why we were so excited when he explained God’s word to us!** as a strong statement that conveys the sudden realization that the reason the disciples were so eager and enthusiastic as they listened to God’s word on the road was because it was Jesus who was teaching them?
+**That is why we were so excited when he explained God’s word to us!** The disciples experienced great joy and enthusiasm when Jesus explained God’s word to his disciples while they traveled to the town. The disciples only realized afterward that they were so excited because the man explaining God’s word to them was Jesus. They make this strong statement to emphasize the realization that they were so excited because the person talking to them was Jesus. How would you express **That is why we were so excited when he explained God’s word to us!** as a strong statement that conveys the sudden realization that the reason the disciples were so eager and enthusiastic as they listened to God’s word on the road was because it was Jesus who was teaching them?
 
 **Jesus is alive!** The two disciples made a strong statement of surprise that Jesus was alive. People do not normally see people alive after they have died. The disciples did not expect to see Jesus alive at this time. How would you express **Jesus is alive!** as a strong statement that conveys the astonishment and amazement that they saw Jesus alive?
 
-**We have seen him!** The two disciples were amazed that they not only heard that Jesus was alive, but had personally see him. How would you express **We have seen him!** as a strong statement that conveys the disciples surprise and amazement that they had personally see Jesus alive?
+**We have seen him!** The two disciples were amazed that they heard that Jesus was alive and had personally seen him. How would you express **We have seen him!** as a strong statement that conveys the disciples’ surprise and amazement that they had personally seen Jesus alive?
 
 #### 42-06
 
 **The disciples thought he was a ghost** A ghost is the spirit of a dead person. When Jesus appeared to the disciples in the room, they thought they were seeing the spirit of a person who had died. How would you express **The disciples thought he was a ghost** to mean the disciples thought they were seeing Jesus as a spirit and as physically alive?
 
-**Why are you afraid?** Jesus uses this question to comfort his disciples. He is not actually seeking information or looking for a specific question. Jesus uses the question to tell them that there is no reason to be afraid. How would you express **Why are you afraid?** as a question that tells someone to not be frightened?
+**Why are you afraid?** Jesus uses this question to comfort his disciples. He is not actually seeking information or looking for a specific question. Jesus uses the question to tell them there is no reason to be afraid. How would you express **Why are you afraid?** as a question that tells someone not to be frightened?
 
 **Why do you not think it is really I, Jesus?** Jesus uses this question to mildly rebuke the disciples. Jesus is not seeking an answer to the question. Jesus was telling them not to doubt that he was alive. How would you express **Why do you not think it is really I, Jesus?** as a question that reprimands the disciples for not believing that Jesus was alive and instructs them to stop doubting?
 
@@ -380,7 +380,7 @@ Use the following translation questions to understand specific details of the pa
 
 **Everything about me that God’s word says will happen, I have told you that it must happen** Jesus tells his disciples that all the things that the Old Testament Scriptures predicted would take place concerning Jesus would have to come about. How would you express **Everything about me that God’s word says will happen, I have told you that it must happen** to mean all the prophecies predicted about Jesus in the Old Testament will certainly take place just as God’s word said?
 
-**Jesus made them understand God’s word better** Jesus taught his disciples so that they could know more clearly what God’s word meant. How would you express **Jesus made them understand God’s word better** to mean Jesus taught his disciples what the Scriptures so that they could understand more clearly what they actually meant?
+**Jesus made them understand God’s word better** Jesus taught his disciples so that they could know more clearly what God’s word meant. How would you express **Jesus made them understand God’s word better** to mean Jesus taught his disciples what the Scriptures were so they could understand more clearly what they actually meant?
 
 #### 42-08
 
@@ -388,13 +388,13 @@ Use the following translation questions to understand specific details of the pa
 
 **If they repent God will forgive their sins,** God’s message told people how they can have their sins forgiven. God forgives the sins of people who turn from their sins. If people repent, then God will forgive their sins. If they do not repent, then he will not forgive their sins. How would you express **If they repent, God will forgive their sins** to mean God forgives the sins of people on the condition that they forsake and reject (turn away) from their sin?
 
-**My disciples will proclaim this message starting in Jerusalem** Jesus’ disciples were given the task to preach this message of the forgiveness of sins. The would begin preaching this message in Jerusalem and then preach it to people who lived throughout the world. How would you express **My disciples will proclaim this message starting in Jerusalem** to mean Jesus’ disciples would begin to proclaim God’s message in the city of Jerusalem?
+**My disciples will proclaim this message starting in Jerusalem** Jesus’ disciples were given the task to preach this message of the forgiveness of sins. They would begin preaching this message in Jerusalem and then preach it to people who lived throughout the world. How would you express **My disciples will proclaim this message starting in Jerusalem** to mean Jesus’ disciples would begin to proclaim God’s message in Jerusalem?
 
 **You are witnesses of everything I have said and done** Witnesses tell other people a true account of what they have experienced. Jesus’ disciples would tell other people the things Jesus did and taught. How would you express **You are witnesses of everything I have said and done** to mean the disciples would tell others the truth about what Jesus did and taught?
 
 #### 42-09
 
-**Jesus appeared to his disciples many times** During this period of 40 days, Jesus showed up to his disciples so that they could see that he was really alive. Jesus did this on many different instances. How would you express **Jesus appeared to his disciples many times** to mean Jesus made himself visible to his disciples and showed that he really came back to life on many different occasions and situations?
+**Jesus appeared to his disciples many times** During this period of forty days, Jesus showed up to his disciples so they could see that he was really alive. Jesus did this on many different instances. How would you express **Jesus appeared to his disciples many times** to mean Jesus made himself visible to his disciples and showed that he really came back to life on many different occasions and situations?
 
 #### 42-10
 
@@ -402,19 +402,19 @@ Use the following translation questions to understand specific details of the pa
 
 **baptize** In the New Testament, the terms “**baptize**” and “baptism” usually refer to ritually bathing a Christian with water to show that he has been cleansed from sin and has been united with Christ. How would you express **baptize** to mean to apply water in a ritual ceremony to show that a believer’s sins have been forgiven and the believer has been initiated into a community of believers?
 
-**in the name of the Father, the Son, and the Holy Spirit** The disciples were to baptize people who came to believe in Jesus. When they baptized them, they were to do so by the authority of God the Father, God the Son, and God the Holy Spirit. There is only one God. The true God exists as three persons. Therefore, God is one and only true God who eternally exists as three persons: Father, Son, and Spirit. How would you express **in the name of the Father, the Son, and the Holy Spirit** to mean disciples were to baptized believers under the authority of God the Father, God the Son, and God the Holy Spirit?
+**in the name of the Father, the Son, and the Holy Spirit** The disciples were to baptize people who came to believe in Jesus. When they baptized them, they were to do so by the authority of God the Father, God the Son, and God the Holy Spirit. There is only one God. The true God exists as three persons. Therefore, God is one and only true God who eternally exists as three persons: Father, Son, and Spirit. How would you express **in the name of the Father, the Son, and the Holy Spirit** to mean disciples were to be baptized believers under the authority of God the Father, God the Son, and God the Holy Spirit?
 
 #### 42-11
 
-**a cloud hid him from their sight** Jesus went up to heaven and he was no longer visible because a cloud prevented the disciples from seeing him. How would you express **a cloud hid him from their sight** to mean Jesus disappeared into a cloud and was no longer visible to his disciples?
+**a cloud hid him from their sight** Jesus went up to heaven, and he was no longer visible because a cloud prevented the disciples from seeing him. How would you express **a cloud hid him from their sight** to mean Jesus disappeared into a cloud and was no longer visible to his disciples?
 
-**Jesus sat down in heaven at the right hand of God** Jesus went to heaven and took his seat on the right hand of God the Father. To sit down was a symbolic act that indicated that Jesus’ work was completed. Furthermore, sitting at the right hand of God represents taking the place of honor and authority beside him. How would you express **Jesus sat down in heaven at the right hand of God** to mean Jesus completed the work God the Father sent him to do and Jesus went to heaven and took his rightful place of authority and honor by sitting on on the right side next to God the Father?
+**Jesus sat down in heaven at the right hand of God** Jesus went to heaven and took his seat on the right hand of God the Father. To sit down was a symbolic act that indicated that Jesus’ work was completed. Furthermore, sitting at the right hand of God represents taking the place of honor and authority beside him. How would you express **Jesus sat down in heaven at the right hand of God** to mean Jesus completed the work God the Father sent him to do, and Jesus went to heaven and took his rightful place of authority and honor by sitting on on the right side next to God the Father?
 
 <!-- page break -->
 
 ## Theological Dialogue: Discussing the Meaning of the Story
 
-Take time to explore the meaning of this story together as a community. Use the following discussions as a way to grasp what truth the story teaches.
+Take time to explore the meaning of this story together as a community. Use the following discussions to grasp the truth the story teaches.
 
 ### Discourse Questions
 
@@ -428,7 +428,7 @@ Disappointment: The disciples wanted to believe that Jesus was the Messiah, but 
 
 Uncertainty: The disciples heard the report of the women that Jesus had risen again. They did not personally see Jesus. At this point, they did not know what to believe. (42-01)
 
-Ignorant: The disciples did not know that they were talking to Jesus. They though he was a person from a foreign land who did not know the events that took place in the past days. At this point, the disciples were ignorant that they were talking to Jesus. They did not recognize Jesus for who he really is. (42-02)
+Ignorant: The disciples did not know that they were talking to Jesus. They thought he was a person from a foreign land who did not know the events that took place in the past days. At this point, the disciples were ignorant that they were talking to Jesus. They did not recognize Jesus for who he really is. (42-02)
 
 ##### How did Jesus show/reveal himself to his disciples? (42-02, 42-03, 42-04, 42-05, 42-06)
 
@@ -436,11 +436,11 @@ Walking/Presence with Disciples: Jesus appeared to two disciples walking on a ro
 
 Teaching God’s Word: Jesus explained God’s word to them. He taught them what the Scriptures predicted about the Messiah. He explained that the prophets said the Messiah would suffer, die, and rise again on the third day. (42-03)
 
-Meal Fellowship: Jesus accepted the invitation to stay with the disciples. They sat down together for an evening meal. Jesus took bread, gave thanks, and broke it. At this point, the disciples understood that the man they were eating with was Jesus. Jesus fellowship with his disciples around a meal. This meal not only showed Jesus care for his disciples but also reminded them of the last meal Jesus had with his disciples when he broke bread and said the bread represented Jesus body which would be broken by being crucified on a cross. This bread caused the disciples to recognize Jesus. (42-04)
+Meal Fellowship: Jesus accepted the invitation to stay with the disciples. They sat down together for an evening meal. Jesus took bread, gave thanks, and broke it. At this point, the disciples understood that the man they were eating with was Jesus. Jesus fellowshipped with his disciples around a meal. This meal not only showed Jesus’ care for his disciples but also reminded them of the last meal Jesus had with his disciples when he broke bread and said the bread represented Jesus’ body which would be broken by being crucified on a cross. This bread caused the disciples to recognize Jesus. (42-04)
 
-Surprise and Amazement: Jesus disappeared as soon as the disciples recognized it was Jesus. They were amazed that Jesus was alive. The recognized that Jesus was the reason they were so excited when they traveled on the road. They were surprised that Jesus had personally appeared to them. (42-05)
+Surprise and Amazement: Jesus disappeared as soon as the disciples recognized it was Jesus. They were amazed that Jesus was alive. They recognized that Jesus was the reason they were so excited when they traveled on the road. They were surprised that Jesus had personally appeared to them. (42-05)
 
-Evidence That Jesus is Alive: Jesus appeared to his disciples again. They were in a room. They thought he was a ghost. Jesus rebuked them for their fear and unbelief. He proved to them that he was really alive and not a ghost. He told them to look at his hands and feet. Also, he ate a piece of fish to prove that he was really alive. Jesus wanted to calm their fears and answer their doubts. (42-06)
+Evidence That Jesus is Alive: Jesus appeared to his disciples again. They were in a room. They thought he was a ghost. Jesus rebuked them for their fear and unbelief. He proved to them that he was really alive and not a ghost. Jesus told them to look at his hands and feet. Also, he ate a piece of fish to prove that he was really alive. Jesus wanted to calm their fears and answer their doubts. (42-06)
 
 ##### What mission/assignment/work did Jesus give his disciples to do in the world? (42-07, 42-08, 42-09, 42-10, 42-11)
 
@@ -450,11 +450,11 @@ Message of Forgiveness: The prophets also said that Jesus’ disciples would pre
 
 Global Mission: Jesus told his disciples that they would preach this message of forgiveness all peoples throughout the world. They would tell the truth about all that Jesus said and did. (42-08)
 
-Kingdom Work: Over a period of 40 days, Jesus appeared to his disciples on many different occasions. He proved that he was alive and taught them about the kingdom of God. Jesus’ disciples would be witnesses of Jesus’ resurrection as they preached the message to people throughout the world because they had witnessed Jesus alive after his death. By preaching the message of Jesus’ resurrection they were announcing God’s kingdom: Jesus rules and reigns over all because he came back to life from the dead. Jesus’ mission to the world was a mission in service of God’s kingdom. (42-09)
+Kingdom Work: Over a period of forty days, Jesus appeared to his disciples on many different occasions. He proved that he was alive and taught them about the kingdom of God. Jesus’ disciples would be witnesses of Jesus’ resurrection as they preached the message to people throughout the world because they had witnessed Jesus alive after his death. By preaching the message of Jesus’ resurrection, they were announcing God’s kingdom: Jesus rules and reigns over all because he came back to life from the dead. Jesus’ mission to the world was a mission in service of God’s kingdom. (42-09)
 
-Great Commission: Jesus commanded his disciples to make disciples in all the people groups of the world. They would make disciples by preaching the gospel, baptizing believers in the name of the Father, Son, and Holy Spirit, and teaching them to obey all Jesus’ teachings. This is the Great Commission. This explains what the Christian mission is (make disciples of all people groups) and how it is fulfilled (preaching, baptizing, teaching). (42-10)
+Great Commission: Jesus commanded his disciples to make disciples in all the people groups of the world. They would make disciples by preaching the gospel, baptizing believers in the name of the Father, Son, and Holy Spirit, and teaching them to obey all of Jesus’ teachings. This is the Great Commission. This explains the Christian mission (make disciples of all people groups) and how it is fulfilled (preaching, baptizing, teaching). (42-10)
 
-Empowered Mission: Jesus promised his disciples his authority and presence as they went about the mission. Jesus rose to heaven and reigns with God the Father in all authority. Jesus also said the Father would send the Holy Spirit to strengthen the disciples. He also told them to wait in Jerusalem for the Holy Spirit to come upon them. When the Holy Spirit came upon them, they would have the power to be witnesses of Jesus’ resurrection in the world. (42-10, 42-11)
+Empowered Mission: Jesus promised his disciples would have his authority and presence as they went about the mission. Jesus rose to heaven and reigns with God the Father in all authority. Jesus also said the Father would send the Holy Spirit to strengthen the disciples. He also told them to wait in Jerusalem for the Holy Spirit to come upon them. When the Holy Spirit came upon them, they would have the power to be witnesses of Jesus’ resurrection in the world. (42-10, 42-11)
 
 <!-- page break -->
 
@@ -462,9 +462,9 @@ Empowered Mission: Jesus promised his disciples his authority and presence as th
 
 Answer the following theology questions as a community. Discuss what truths this story teaches.
 
-1.  Why is important that Jesus appeared to his disciples after his resurrection? How does this story show the importance of Jesus’ post-resurrection appearances?
+1.  Why is it important that Jesus appeared to his disciples after his resurrection? How does this story show the importance of Jesus’ post-resurrection appearances?
 2.  How did Jesus fulfill the promises of the prophets? In what ways does this story prove that Jesus is the Messiah predicted by the Old Testament Scriptures?
-3.  What is the mission of Jesus’ disciples? What does this story teach us about what Jesus’ mission in the world is and how Jesus’ disciples can go about fulfilling this mission?
+3.  What is the mission of Jesus’ disciples? What does this story teach us about Jesus’ mission in the world and how Jesus’ disciples can fulfill this mission?
 
 ### Translation Draft
 

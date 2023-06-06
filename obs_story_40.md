@@ -8,7 +8,7 @@ story_num: 40
 
 ### Key Idea
 
-The story Jesus being crucified teaches us Jesus died on the cross as a sacrifice to be punished for the sin of people so that God would not punish people who believe in Jesus.
+The story of Jesus being crucified teaches us Jesus died on the cross as a sacrifice to be punished for the sin of people so that God would not punish people who believe in Jesus.
 
 ### Creedal Verse
 
@@ -24,19 +24,19 @@ God set to restore his world through his promise.
 God made a covenant with Abraham. He promised to bless all nations through Abraham.
 God kept his promises across the generations.
 God provided Abraham with a promised child, Isaac.
-God gave Isaac a wife and she bore twins, Jacob and Esau.
+God gave Isaac a wife, and she bore twins, Jacob and Esau.
 God blessed Jacob and his sons, and the blessing continued to the next generation.
 God rescued Joseph, one of Jacob’s sons, and used him to rescue his family.
 God caused his people, the Israelites, to multiply in the land of Egypt; eventually, they became slaves.
-But, God raised up a deliverer, Moses, to deliver his people from their slavery.
-God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people who covered their doorposts with the blood of a sacrificed lamb.
+But God raised up a deliverer, Moses, to deliver his people from slavery.
+God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people, who covered their doorposts with the blood of a sacrificed lamb.
 Then, God delivered the Israelites by bringing them out of Egypt and crossing the Red Sea on dry land.
 God made a covenant with the Israelites and made them his people.
 God tested Israel in a series of wilderness wanderings and
 eventually brought his people into the promised land of Canaan.
 God raised up deliverers to lead Israel and rescue them from their enemies.
 God formed Israel into a kingdom. He made a covenant with King David and promised to send a king that would rule his people forever.
-Many of Israel’s kings were evil and the kingdom of Israel divided into two kingdoms.
+Many of Israel’s kings were evil and the kingdom of Israel was divided into two kingdoms.
 God sent prophets to warn his people of God’s judgment and call them to repent.
 When Israel did not repent, God sent his people into exile. After many years, he brought them back to the land.
 Throughout the Old Testament, God promised to send his Messiah to deliver his people form their sin.
@@ -46,12 +46,12 @@ When John and Jesus grew up, John baptized Jesus as a sign that Jesus was God’
 Jesus endured all manner of temptation without ever sinning.
 When he was thirty years old, he launched a public ministry of preaching, teaching, and healing.
 He taught his disciples about the life of compassion, sacrifice, and forgiveness.
-He performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
-He proclaimed to people the nature of real faith, God’s kingdom, and the how fallen humans can be restored in relationship with God.
-Toward the end of his ministry, Jesus revealed his power and glory to his disciples
-and raised a dead man to life
-Jesus was betrayed by one of his disciples and put on trial before a Roman governor
-Jesus was sentenced to death and crucified on a cross
+Jesus performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
+He proclaimed to people the nature of real faith, God’s kingdom, and how fallen humans can be restored in relationship with God.
+Toward the end of his ministry, Jesus revealed his power and glory to his disciples.
+He raised a dead man to life.
+Jesus was betrayed by one of his disciples and put on trial before a Roman governor.
+Jesus was sentenced to death and crucified on a cross.
 
 <!-- page break -->
 
@@ -97,7 +97,7 @@ Then the sky over the whole region became completely dark, even though it was th
 
 ![](.\assets\images\image470.jpeg)
 
-Then Jesus cried out, “It is finished! Father, I am giving my spirit into your hands.” Then he bowed his head and gave up his spirit. When he died, there was an earthquake. In the Temple, the large curtain that separated the people from the presence of God was torn in two from the top to the bottom.
+Then Jesus cried out, “It is finished! Father, I am giving my spirit into your hands.” Then he bowed his head and gave up his spirit. When he died, there was an earthquake. In the Temple, the large curtain separating the people from God’s presence was torn in two from the top to the bottom.
 
 ##### 40-08
 
@@ -109,7 +109,7 @@ Through his death, Jesus opened the way for people to come to God. When a soldie
 
 ![](.\assets\images\image472.jpeg)
 
-Then two Jewish leaders named Joseph and Nicodemus came and asked Pilate for Jesus’ body. They believed that Jesus was the Messiah. They wrapped his body in cloth, took it to a tomb cut out of rock and placed it inside. Then they rolled a large stone in front of the tomb to block the opening.
+Then two Jewish leaders, Joseph and Nicodemus, came and asked Pilate for Jesus’ body. They believed that Jesus was the Messiah. They wrapped his body in cloth, took it to a tomb cut out of rock, and placed it inside. Then they rolled a large stone in front of the tomb to block the opening.
 
 *A Bible story from: Matthew 27:27-61; Mark 15:16-47; Luke 23:26-56; John 19:17-42*
 
@@ -180,7 +180,7 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 40-01
 
@@ -224,10 +224,10 @@ What did the robber who did not mock Jesus ask him to do?
 He asked Jesus to remember him in his kingdom.
 
 What did the other robber ask the robber who mocked Jesus?  
-The one robber asked robber who mocked Jesus whether he feared God who would punish him.
+The one robber asked the robber who mocked Jesus whether he feared God, who would punish him.
 
 What did that robber say about Jesus and the guilt of the robbers?  
-The robber who did not mock Jesus said that Jesus was innocent while both robbers did many bad things.
+The robber who did not mock Jesus said that Jesus was innocent, while both robbers did many bad things.
 
 What did that robber ask Jesus?  
 He asked Jesus to remember him when he became king in his kingdom.
@@ -257,7 +257,7 @@ What happened after Jesus committed himself to God the Father?
 Jesus bowed his head and gave up his spirit.
 
 What miraculous things happened immediately after Jesus died?  
-There was an earthquake and the large curtain in the Temple was torn in two, from top to bottom.
+There was an earthquake, and the large curtain in the Temple was torn in two from top to bottom.
 
 #### 40-08
 
@@ -265,7 +265,7 @@ What did Jesus accomplish through his death?
 Jesus opened the way for people to come to God.
 
 How did the soldier guarding Jesus respond?  
-A solider guarding Jesus saw what happened and said that Jesus was innocent and the Son of God.
+A soldier guarding Jesus saw what happened and said that Jesus was innocent and the Son of God.
 
 #### 40-09
 
@@ -290,7 +290,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 40-02
 
-**a place called ‘the Skull’** The place where the soldiers crucified Jesus was called the Skull. This is a small escarpment near Jerusalem with a rocky, white face which looks somewhat like a skull. How would you express **a place called ‘the Skull’** to mean a place that people called ‘the Skull’?
+**a place called ‘the Skull’** The place where the soldiers crucified Jesus was called the Skull. This is a small escarpment near Jerusalem with a rocky, white face that looks somewhat like a skull. How would you express **a place called ‘the Skull’** to mean a place that people called ‘the Skull’?
 
 **forgive them, because they do not know what they are doing** Jesus prayed to God the Father that he would not punish them for their sin because they did not really understand who they were crucifying. The soldiers thought Jesus was only a criminal who deserved to die. They did not understand that he was the Son of God. How would you express **forgive them, because they do not know what they are doing** to mean they do not understand the meaning of what they are doing, so please forgive them?
 
@@ -304,45 +304,45 @@ Use the following translation questions to understand specific details of the pa
 
 **two robbers** These two criminals were guilty of using force or violence to steal things. How would you express **two robbers** to mean two bandits who were guilty of taking things that did not belong to them?
 
-**Do you not fear that God will punish you?** The robber does not expect an answer to this question; it is a way to make a strong statement to tell the other robber that he should fear God. How would you express **Do you not fear that God will punish you?** as a question means you should fear God who will judge you for the crimes you have committed and wrongs you have done?
+**Do you not fear that God will punish you?** The robber does not expect an answer to this question; it is a way to make a strong statement to tell the other robber that he should fear God. How would you express **Do you not fear that God will punish you?** as a question means you should fear God, who will judge you for the crimes you have committed and wrongs you have done?
 
-**We are guilty of doing many bad things, but this man is innocent** The robber admitted that the two robbers had committed crimes but Jesus was not guilty of any crime. The robbers deserved to die for their crimes but Jesus did not do anything wrong to deserve to die. How would you express **We are guilty of doing many bad things, but this man is innocent** to mean the two robbers did evil things and deserved to die, but this man, Jesus, had done nothing wrong and did not deserve to die?
+**We are guilty of doing many bad things, but this man is innocent** The robber admitted that the two robbers had committed crimes, but Jesus was not guilty of any crime. The robbers deserved to die for their crimes, but Jesus did not do anything wrong to deserve to die. How would you express **We are guilty of doing many bad things, but this man is innocent** to mean the two robbers did evil things and deserved to die, but this man, Jesus, had done nothing wrong and did not deserve to die?
 
 **Please remember me** The robber asked Jesus to allow him to be with Jesus. Remember here does not mean to recall something after forgetting it. The robber is making a humble request that Jesus would give him access to God’s kingdom. How would you express **Please remember me** as a humble request that Jesus would accept him and welcome him into his kingdom?
 
 **in your kingdom** The robber asked Jesus to welcome him to be with him at the time Jesus became king and established his kingdom. How would you express **in your kingdom** to mean the time when Jesus establishes his kingdom and rules as king?
 
-**Today you will be with me in Paradise** Jesus told the robber that he would be with Jesus that very day. They both would die and spirit of the robber would be with Jesus in heaven because he believed and trusted Jesus. How would you express **Today you will be with me in Paradise** to mean the robber’s spirit would be with Jesus in heaven that very day after he died?
+**Today you will be with me in Paradise** Jesus told the robber that he would be with Jesus that very day. They both would die, and the spirit of the robber would be with Jesus in heaven because he believed and trusted Jesus. How would you express **Today you will be with me in Paradise** to mean the robber’s spirit would be with Jesus in heaven that very day after he died?
 
 #### 40-05
 
-**If you are the Son of God, come down from the cross and save yourself!** Jesus is really the Son of God. He also has all power. Jesus allowed people to crucify him on the cross. The people mocking Jesus did not believe this. They were trying to mock Jesus because they expected the Son of God to not be mistreated and crucified like what was happening to Jesus. They did not believe Jesus was the Son of God. They also did not understand why Jesus was dying on the cross. The people were mocking Jesus, but he truly was the Son of God. How would you express **If you are the Son of God, come down from the cross and save yourself!** as a way to mock Jesus by saying that if he really was the Son of God he should come off the cross and rescue himself from death?
+**If you are the Son of God, come down from the cross and save yourself!** Jesus is really the Son of God. He also has all power. Jesus allowed people to crucify him on the cross. The people mocking Jesus did not believe this. They were trying to mock Jesus because they expected the Son of God not to be mistreated and crucified, like what was happening to Jesus. They did not believe Jesus was the Son of God. They also did not understand why Jesus was dying on the cross. The people were mocking Jesus, but he truly was the Son of God. How would you express **If you are the Son of God, come down from the cross and save yourself!** as a way to mock Jesus by saying that if he really was the Son of God, he should come off the cross and rescue himself from death?
 
 **Then we will believe you** The people said that they would believe that Jesus is the Messiah if Jesus came off of the cross by his own power. They did not really believe in him. They only said they would believe in Jesus if Jesus performed this act. Jesus was dying on the cross for a reason the people did not believe or understand. How would you express **Then we will believe you** to mean the people would believe Jesus is the Messiah if he showed them his power and came down from the cross?
 
 #### 40-06
 
-**even though it was the middle of the day** The sky in that region became dark like it was night time. However, it was the middle of the day. This is a surprising thing to happen in the middle of the day. It was a miracle. How would you express **even though it was the middle of the day** to mean an unexpected thing happened when God caused the sky to turn dark like night but it was the afternoon?
+**even though it was the middle of the day** The sky in that region became dark like it was nighttime. However, it was the middle of the day. This is a surprising thing to happen in the middle of the day. It was a miracle. How would you express **even though it was the middle of the day** to mean an unexpected thing happened when God caused the sky to turn dark like night, but it was the afternoon?
 
 #### 40-07
 
-**It is finished!** Jesus said these words right before he died on the cross. He was saying that he accomplished the work that God gave Jesus to do. This means that Jesus’ work of salvation was complete. How would you express **It is finished!** to mean the work of salvation is completed or Jesus accomplished the work of salvation by dying on the cross?
+**It is finished!** Jesus said these words right before he died on the cross. He was saying that he accomplished the work that God gave Jesus to do. This means that Jesus’ work of salvation was complete. How would you express **It is finished!** to mean the work of salvation is completed, or Jesus accomplished the work of salvation by dying on the cross?
 
 **I am giving my spirit into your hands** Jesus gave himself to God’s protection and safekeeping. Jesus trusted God the Father to care for him after death. How would you express **I am giving my spirit into your hands** to mean Jesus entrusted his spirit to God’s care?
 
-**bowed his head and gave up his spirit** This is the point when Jesus died. Because his physical body final died, Jesus’ head moved downward and his spirit went to God. These phrases tell that Jesus died. How would you express **bowed his head and gave up his spirit** to mean when Jesus died he lowered his head and released his spirit to God?
+**bowed his head and gave up his spirit** This is the point when Jesus died. Because his physical body finally died, Jesus’ head moved downward, and his spirit went to God. These phrases tell that Jesus died. How would you express **bowed his head and gave up his spirit** to mean when Jesus died, he lowered his head and released his spirit to God?
 
-**In the Temple, the large curtain that separated the people from the presence of God was torn in two** At the time Jesus died, God caused the large curtain in the Temple to be divided into two pieces. This curtain was a large, strong fabric hung in the Temple. It was a thick curtain or hanging fabric that separated one room from another. This curtain separated the people from the most holy place in the temple. When the curtain was torn, the people now had access to God’s presence. How would you expressI **In the Temple, the large curtain that separated the people from the presence of God was torn in two** to mean God tore in two the thick fabric in the Temple that separated the people from his presence?
+**In the Temple, the large curtain that separated the people from the presence of God was torn in two** At the time Jesus died, God caused the large curtain in the Temple to be divided into two pieces. This curtain was a large, strong fabric hung in the Temple. It was a thick curtain or hanging fabric that separated one room from another. This curtain separated the people from the most holy place in the temple. When the curtain was torn, the people now had access to God’s presence. How would you express **In the Temple, the large curtain that separated the people from the presence of God was torn in two** to mean God tore in two the thick fabric in the Temple that separated the people from his presence?
 
 #### 40-08
 
-**Through his death** Jesus accomplished salvation for people by dying on the cross. God restores people to himself by Jesus’ crucifixion. How would you express **Through his death** to mean Jesus made it possible for people to be restored to God by means of his death?
+**Through his death** Jesus accomplished salvation for people by dying on the cross. God restores people to himself through Jesus’ crucifixion. How would you express **Through his death** to mean Jesus made it possible for people to be restored to God by means of his death?
 
-**Jesus opened the way for people to come to God** Jesus made it possible for people to know God personally by dying on the cross. Jesus’ death on the cross was a sacrifice that paid for human sin. Jesus was punished for the sin of people instead of humans being punished for their sin. The tearing of the curtain showed that the barrier between God and people had been removed. Only those who believe in Jesus can have forgiveness of their sin. How would you express **Jesus opened the way for people to come to God** to mean Jesus made it possible for people to come near God and know him personally because of his death on the cross?
+**Jesus opened the way for people to come to God** Jesus made it possible for people to know God personally by dying on the cross. Jesus’ death on the cross was a sacrifice that paid for human sin. Jesus was punished for the sin of people instead of humans being punished for their sin. The tearing of the curtain showed that the barrier between God and people had been removed. Only those who believe in Jesus can have forgiveness for their sin. How would you express **Jesus opened the way for people to come to God** to mean Jesus made it possible for people to come near God and know him personally because of his death on the cross?
 
 #### 40-09
 
-**asked Pilate for Jesus’ body** Joseph and Nicodemus requested to have Jesus body so they could bury it. How would you express **asked Pilate for Jesus’ body** to mean they asked Pilate to permit them to take Jesus’ body down from the cross so they could bury it?
+**asked Pilate for Jesus’ body** Joseph and Nicodemus requested to have Jesus’ body so they could bury it. How would you express **asked Pilate for Jesus’ body** to mean they asked Pilate to permit them to take Jesus’ body down from the cross so they could bury it?
 
 **took it to a tomb cut out of rock and placed it inside** Jesus was buried in a tomb that was cut out of a rock. This opening was covered by a large stone that was rolled in front of the entrance. How would you express **took it to a tomb cut out of rock and placed it inside** to mean they buried Jesus inside a tomb that was made by cutting out an open space in a large rock area?
 
@@ -350,7 +350,7 @@ Use the following translation questions to understand specific details of the pa
 
 ## Theological Dialogue: Discussing the Meaning of the Story
 
-Take time to explore the meaning of this story together as a community. Use the following discussions as a way to grasp what truth the story teaches.
+Take time to explore the meaning of this story together as a community. Use the following discussions to grasp the truth the story teaches.
 
 ### Discourse Questions
 
@@ -358,7 +358,7 @@ Use the following discourse questions to understand the meaning of the story. Pa
 
 ##### What did Jesus endure in his crucifixion? (40-01, 40-02, 40-03, 40-04, 40-05, 40-07)
 
-Mocking and Shame: The soldiers mocked Jesus. They made him carry the cross upon which he would die. One of the robbers mocked Jesus on the cross. The Jewish leaders and people in the crowd also mocked Jesus. They said that if really was the Son of God that he should save himself by coming down from the cross. Jesus endured shame and humiliation. (40-01, 40-04, 40-05)
+Mocking and Shame: The soldiers mocked Jesus. They made him carry the cross upon which he would die. One of the robbers mocked Jesus on the cross. The Jewish leaders and people in the crowd also mocked Jesus. They said that if he really was the Son of God that he should save himself by coming down from the cross. Jesus endured shame and humiliation. (40-01, 40-04, 40-05)
 
 Physical Pain: The soldiers led Jesus away to be killed on a cross. They nailed his hands and feet to the wooden cross and allowed him to hang there to die. Jesus endured physical pain. (40-01, 40-02)
 
@@ -368,13 +368,13 @@ Humiliation and God’s Plan: The soldiers gambled for Jesus’ clothes. Removin
 
 Death: Jesus died on the cross. After hours of hanging on the cross, Jesus physically died. Jesus endured death on the cross. (40-01, 40-07)
 
-##### What people showed lack of faith in Jesus? (40-01, 40-02, 40-03, 40-04, 40-05)
+##### What people showed a lack of faith in Jesus? (40-01, 40-02, 40-03, 40-04, 40-05)
 
 Soldiers: The soldiers mocked Jesus. They participated in killing Jesus. They also gambled for his clothes. They (40-01, 40-02, 40-03)
 
-Robber: The one robber mocked and reviled Jesus. The robber assumed that if Jesus was on the cross he was not powerful to save himself. (40-05)
+Robber: The one robber mocked and reviled Jesus. The robber assumed that if Jesus was on the cross, he was not powerful to save himself. (40-05)
 
-Jewish Leaders and People: The Jewish leaders and the crowd expressed doubt that Jesus was the Son of God. They completely misunderstood who he is and why he was dying on the cross. They were examples of lack of belief. (40-05)
+Jewish Leaders and People: The Jewish leaders and the crowd expressed doubt that Jesus was the Son of God. They completely misunderstood who he is and why he was dying on the cross. They were examples of a lack of belief. (40-05)
 
 ##### What was Jesus accomplishing by dying on the cross? (40-02, 40-04, 40-06, 40-07, 40-08)
 
@@ -386,19 +386,19 @@ Forgiveness: Jesus asked God to forgive people because they did not know who the
 
 Eternal Life: Jesus promised the robber who believed in him that he would be with Jesus in Paradise that very day. Jesus went to the cross to make eternal life with God possible. (40-04)
 
-Confronting Darkness: Before Jesus died, the sky became dark in the region. It was the afternoon but it was dark like the night. It stayed dark for three hours. Jesus’ death was God’s means of fighting against the darkness in the world and all the sad and sorrowful effects of sin. (40-06)
+Confronting Darkness: Before Jesus died, the sky became dark in the region. It was the afternoon, but it was dark like the night. It stayed dark for three hours. Jesus’ death was God’s means of fighting against the darkness in the world and all the sad and sorrowful effects of sin. (40-06)
 
-Complete God’s Work/Plan of Salvation: Just before Jesus died he cried out, “It is finished!” Jesus was saying that his death on the cross was completing the work God the Father sent Jesus to earth to accomplish. Jesus’ death was completing God’s work/plan to save people from their sin. (40-07)
+Complete God’s Work/Plan of Salvation: Just before Jesus died, he cried out, “It is finished!” Jesus was saying that his death on the cross was completing the work God the Father sent Jesus to earth to accomplish. Jesus’ death was completing God’s work/plan to save people from their sin. (40-07)
 
-Remove Barrier Between God and People: At the moment Jesus died, the large curtain in the temple that separated people from God was torn in two. Jesus’ death on the cross removed the barrier that kept people from God. (40-07)
+Removed the Barrier Between God and People: The moment Jesus died, the large curtain in the temple that separated people from God was torn in two. Jesus’ death on the cross removed the barrier that kept people from God. (40-07)
 
-Restore Relationship with God: Jesus’ death on the cross made it possible for people to be restored to a relationship with God. Sin separates people from God. Jesus died on the cross on was punished for sin that humans committed. By believing in Jesus people can have their sins forgiven because of Jesus’ sacrifice. Jesus’ death made it possible to be reconciled to God. (40-08)
+Restored Relationship with God: Jesus’ death on the cross made it possible for people to be restored to a relationship with God. Sin separates people from God. Jesus died on the cross and was punished for sin that humans committed. By believing in Jesus, people can have their sins forgiven because of Jesus’ sacrifice. Jesus’ death made it possible to be reconciled to God. (40-08)
 
-##### How did the robber on the cross, the Roman solider, Joseph, and Nicodemus show their faith in Jesus? (40-04, 40-08, 40-09)
+##### How did the robber on the cross, the Roman soldier, Joseph, and Nicodemus, show their faith in Jesus? (40-04, 40-08, 40-09)
 
-Robber: One robber on the cross expressed believe in Jesus. He acknowledged that he was guilty of doing wrong. He showed a fear of God. He believed Jesus was innocent of wrongdoing. He asked Jesus to accept him into his kingdom and allow. Jesus told that robber that he would enjoy life with God that very day after he died. (40-04)
+Robber: One robber on the cross expressed belief in Jesus. He acknowledged that he was guilty of doing wrong. He showed a fear of God. He believed Jesus was innocent of wrongdoing. He asked Jesus to accept him into his kingdom. Jesus told that robber that he would enjoy life with God that very day after he died. (40-04)
 
-Roman Soldier: The Roman solider who saw what happened came to believe that Jesus was innocent. He also became convinced that Jesus is God’s Son. (40-08)
+Roman Soldier: The Roman soldier who saw what happened came to believe that Jesus was innocent. He also became convinced that Jesus is God’s Son. (40-08)
 
 Joseph and Nicodemus: Joseph and Nicodemus asked permission to bury Jesus’ body. They wanted to treat Jesus with respect and honor. They believed that Jesus was the Messiah. (40-09)
 

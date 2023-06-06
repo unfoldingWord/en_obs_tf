@@ -24,37 +24,37 @@ God set to restore his world through his promise.
 God made a covenant with Abraham. He promised to bless all nations through Abraham.
 God kept his promises across the generations.
 God provided Abraham with a promised child, Isaac.
-God gave Isaac a wife and she bore twins, Jacob and Esau.
+God gave Isaac a wife, and she bore twins Jacob and Esau.
 God blessed Jacob and his sons, and the blessing continued to the next generation.
 God rescued Joseph, one of Jacob’s sons, and used him to rescue his family.
 God caused his people, the Israelites, to multiply in the land of Egypt; eventually, they became slaves.
-But, God raised up a deliverer, Moses, to deliver his people from their slavery.
-God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people who covered their doorposts with the blood of a sacrificed lamb.
+But God raised up a deliverer, Moses, to deliver his people from slavery.
+God judged the Egyptians with harsh plagues; in the final judgment, he passed over his people, who covered their doorposts with the blood of a sacrificed lamb.
 Then, God delivered the Israelites by bringing them out of Egypt and crossing the Red Sea on dry land.
 God made a covenant with the Israelites and made them his people.
 God tested Israel in a series of wilderness wanderings and
 eventually brought his people into the promised land of Canaan.
 God raised up deliverers to lead Israel and rescue them from their enemies.
 God formed Israel into a kingdom. He made a covenant with King David and promised to send a king that would rule his people forever.
-Many of Israel’s kings were evil and the kingdom of Israel divided into two kingdoms.
+Many of Israel’s kings were evil, and the kingdom of Israel was divided into two kingdoms.
 God sent prophets to warn his people of God’s judgment and call them to repent.
 When Israel did not repent, God sent his people into exile. After many years, he brought them back to the land.
-Throughout the Old Testament, God promised to send his Messiah to deliver his people form their sin.
+Throughout the Old Testament, God promised to send his Messiah to deliver his people from their sin.
 After many years, the prophet John was born. He would prepare people for the coming Messiah.
 At the perfect time, God sent his Son, Jesus, to be born of a virgin Mary.
 When John and Jesus grew up, John baptized Jesus as a sign that Jesus was God’s beloved Son.
 Jesus endured all manner of temptation without ever sinning.
 When he was thirty years old, he launched a public ministry of preaching, teaching, and healing.
 He taught his disciples about the life of compassion, sacrifice, and forgiveness.
-He performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
-He proclaimed to people the nature of real faith, God’s kingdom, and the how fallen humans can be restored in relationship with God.
-Toward the end of his ministry, Jesus revealed his power and glory to his disciples
-and raised a dead man to life
-Jesus was betrayed by one of his disciples and put on trial before a Roman governor
+Jesus performed many miracles: he fed a crowd of five thousand, he walked on water, he healed the sick, and he cast out demons.
+He proclaimed to people the nature of real faith, God’s kingdom, and how fallen humans can be restored in relationship with God.
+Toward the end of his ministry, Jesus revealed his power and glory to his disciples.
+He raised a dead man to life.
+Jesus was betrayed by one of his disciples and put on trial before a Roman governor.
 Jesus was sentenced to death and crucified on a cross
 Three days later, Jesus rose again from the dead.
 After meeting with many of his disciples, Jesus went back to heaven.
-The Holy Spirit empowered Jesus’ followers and formed them into his church
+The Holy Spirit empowered Jesus’ followers and formed them into his church.
 
 <!-- page break -->
 
@@ -70,13 +70,13 @@ After Jesus returned to heaven, the disciples stayed in Jerusalem as Jesus had c
 
 ![](.\assets\images\image493.jpeg)
 
-Every year, 50 days after the Passover, the Jews celebrated an important day called Pentecost. Pentecost was a time when the Jews celebrated the wheat harvest. Jews came from all over the world to Jerusalem to celebrate Pentecost together. This year the time for Pentecost came about a week after Jesus had gone back to heaven.
+Every year, fifty days after the Passover, the Jews celebrated an important day called Pentecost. Pentecost was a time when the Jews celebrated the wheat harvest. Jews came from all over the world to Jerusalem to celebrate Pentecost together. This year the time for Pentecost came about a week after Jesus had gone back to heaven.
 
 ##### 43-03
 
 ![](.\assets\images\image494.jpeg)
 
-While the believers were all together, suddenly the house where they had gathered was filled with a sound like a strong wind. Then something that looked like flames of fire appeared over the heads of all the believers. They were all filled with the Holy Spirit and they praised God in other languages. They did not know these languages, but these were languages that the Holy Spirit enabled them to speak.
+While the believers were all together, suddenly, the house where they had gathered was filled with a sound like a strong wind. Then something that looked like flames of fire appeared over the heads of all the believers. They were all filled with the Holy Spirit, and they praised God in other languages. They did not know these languages, but these were languages that the Holy Spirit enabled them to speak.
 
 ##### 43-04
 
@@ -130,13 +130,13 @@ Peter answered them, “All of you need God to forgive your sins. So repent and 
 
 ![](.\assets\images\image503.jpeg)
 
-About 3,000 people believed what Peter said and became disciples of Jesus. They were baptized and became part of the church at Jerusalem.
+About 3,000 people believed what Peter said and became disciples of Jesus. They were baptized and became part of the church in Jerusalem.
 
 ##### 43-13
 
 ![](.\assets\images\image504.jpeg)
 
-The believers continually listened as the apostles taught them. They often met together and ate together, and they often prayed with each other. They praised God together and they shared everything they had with each other. Everyone in the city thought well of them. Every day, more people became believers.
+The believers continually listened as the apostles taught them. They often met together and ate together, and they often prayed with each other. They praised God together and shared everything they had with each other. Everyone in the city thought well of them. Every day, more people became believers.
 
 *A Bible story from: Acts 1:12-14; 2*
 
@@ -203,7 +203,7 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 43-01
 
@@ -218,7 +218,7 @@ They constantly gathered together to pray.
 When did the Jews celebrate Pentecost?  
 They celebrated Pentecost every year, 50 days after the Passover.
 
-Why was Pentecost as special day of celebration?  
+Why was Pentecost a special day of celebration?  
 Pentecost was a time when the Jews celebrated the wheat harvest.
 
 Who came to Jerusalem to celebrate Pentecost?  
@@ -252,7 +252,7 @@ What did some of the people think was the reason the disciples were talking this
 They thought the disciples were drunk.
 
 How did Peter respond to the accusation that they were drunk?  
-Peter instructed the people to listen to him, he told them that they were not drunk, and he explained that the prophet Joel predicted that this would happen.
+Peter instructed the people to listen to him. He told them they were not drunk and explained that the prophet Joel predicted this would happen.
 
 What did Peter say was causing them to speak these languages?  
 Peter said God would pour out his Spirit in the last days.
@@ -271,10 +271,10 @@ He said the people in the crowd crucified Jesus.
 #### 43-07
 
 What happened to Jesus?  
-Peter explained that Jesus died and God raised him to life again.
+Peter explained that Jesus died, and God raised him to life again.
 
 Who affirmed Jesus’ resurrection from the dead?  
-Peter explained that the prophet predicted that the Messiah would raise again to life and the disciples were witnesses of Jesus’ resurrection when he appeared to them many times.
+Peter explained that the prophet predicted that the Messiah would rise again to life and the disciples were witnesses of Jesus’ resurrection when he appeared to them many times.
 
 #### 43-08
 
@@ -333,31 +333,31 @@ Use the following translation questions to understand specific details of the pa
 
 #### 43-01
 
-**After Jesus returned to heaven, the disciples stayed in Jerusalem** First Jesus went back to heaven. Then the disciples waited in Jerusalem. How would you express **After Jesus returned to heaven, the disciples stayed in Jerusalem** to mean the disciples remained in Jerusalem for a while subsequent to Jesus going back up to heaven?
+**After Jesus returned to heaven, the disciples stayed in Jerusalem** First, Jesus went back to heaven. Then the disciples waited in Jerusalem. How would you express **After Jesus returned to heaven, the disciples stayed in Jerusalem** to mean the disciples remained in Jerusalem for a while subsequent to Jesus going back up to heaven?
 
 **The believers there constantly gathered together to pray** The disciples of Jesus met together on a regular basis to pray to God. How would you express **The believers there constantly gathered together to pray** to mean the followers of Jesus regularly met with one another to pray to God?
 
 #### 43-02
 
-**the Jews celebrated an important day called Pentecost** Pentecost means ‘fiftieth (day).’ Pentecost is a special holy day that Jews celebrated 50 days after Passover. This happened in May. During this special day of celebration, the Jews would thank God for the wheat (a grain crop) harvest by bringing offerings and celebrate by having special meals. How would you express **the Jews celebrated an important day called Pentecost** to mean the Jewish people thanked God for the wheat harvest fifty days after Passover on a day called Pentecost?
+**the Jews celebrated an important day called Pentecost** Pentecost means ‘fiftieth (day).’ Pentecost is a special holy day that Jews celebrate fifty days after Passover. This happened in May. During this special day of celebration, the Jews would thank God for the wheat (a grain crop) harvest by bringing offerings and celebrate by having special meals. How would you express **the Jews celebrated an important day called Pentecost** to mean the Jewish people thanked God for the wheat harvest fifty days after Passover on a day called Pentecost?
 
-**This year the time for** Pentecost came about a week after Jesus had gone back to heaven Pentecost happened every year. The year Jesus died, it took place around one week after Jesus went back to heaven. How would you express **This year the time for** Pentecost came about a week after Jesus had gone back to heaven to mean on the year the Jesus died, Pentecost took place around seven days after Jesus returned to heaven?
+**This year the time for** Pentecost came about a week after Jesus had gone back to heaven Pentecost happened every year. The year Jesus died, it took place around one week after Jesus went back to heaven. How would you express **This year the time for** Pentecost came about a week after Jesus had gone back to heaven, to mean the year Jesus died, Pentecost took place around seven days after Jesus returned to heaven.
 
 #### 43-03
 
-**While the believers were all together** Two events happened at the same time—the believers were together, and there was a sound like a strong wind. How would you express **While the believers were all together** to mean a noise like strong wind filled the house at the same time the believers were meeting together in the house?
+**While the believers were all together** Two events happened at the same time—the believers were together, and there was a sound like a strong wind. How would you express **While the believers were all together** to mean a noise like a strong wind filled the house at the same time the believers were meeting together in the house?
 
 **a sound like a strong wind** In the house, there was a sound that the wind makes when it blows hard. How would you express **a sound like a strong wind** to mean a noise that a strong wind makes?
 
 **filled with the Holy Spirit** The Holy Spirit came upon the believers in the house and provided them with power. How would you express **filled with the Holy Spirit** to mean the believers were given ability/power by the Holy Spirit?
 
-**they praised God in other languages** The believers filled with the Holy Spirit spoke as people from other places speak. The believers did not know these languages until the Holy Spirit gave them the power to speak them. They were speaking in foreign language about the great things that God has done. How would you express **they praised God in other languages** to mean the believers honored and celebrated the great things God had done in languages other than their own language?
+**they praised God in other languages** The believers filled with the Holy Spirit spoke as people from other places spoke. The believers did not know these languages until the Holy Spirit gave them the power to speak them. They were speaking in foreign languages about the great things that God has done. How would you express **they praised God in other languages** to mean the believers honored and celebrated the great things God had done in languages other than their own language?
 
 #### 43-04
 
-**they came together in a crowd to see what was happening** The people in city of Jerusalem heard the disciples speaking in foreign languages. People who were from other parts of the world would have been surprised to hear someone speaking their native language. This happened to many people who spoke many different languages. It cause them to pay attention to this surprising and unexpected thing that was taking place. How would you express **they came together in a crowd to see what was happening** to mean people in the city of Jerusalem heard the believers speaking languages and formed a large group of people to observe what was taking place?
+**they came together in a crowd to see what was happening** The people in the city of Jerusalem heard the disciples speaking in foreign languages. People who were from other parts of the world would have been surprised to hear someone speaking their native language. This happened to many people who spoke many different languages. It caused them to pay attention to this surprising and unexpected thing that was taking place. How would you express **they came together in a crowd to see what was happening** to mean people in the city of Jerusalem heard the believers speaking languages and formed a large group of people to observe what was taking place?
 
-**even though they were from many different countries and spoke many different languages** The people gathered in the city of Jerusalem were from many countries and spoke different languages. They did not expect a Jew in Jerusalem to speak their native language like this. How would you express **even though they were from many different countries and spoke many different languages** to mean the people were surprised that they could understand what they believers were saying despite the fact that they spoke different languages?
+**even though they were from many different countries and spoke many different languages** The people gathered in the city of Jerusalem were from many countries and spoke different languages. They did not expect a Jew in Jerusalem to speak their native language like this. How would you express **even though they were from many different countries and spoke many different languages** to mean the people were surprised that they could understand what the believers were saying even though they spoke different languages?
 
 #### 43-05
 
@@ -373,11 +373,11 @@ Use the following translation questions to understand specific details of the pa
 
 **Jesus was a man who did many wonderful things to show who he was** Jesus performed many miracles. Jesus used these miracles to clarify for people who he really is. How would you express **Jesus was a man who did many wonderful things to show who he was** to mean Jesus did many miraculous things to demonstrate to people that he is the Messiah?
 
-**But you crucified him!** Peter strong accuses the people in the crowd of murdering Jesus, the Messiah whom God had sent to them. The Jews did not actually nail Jesus to the cross. However, the Jewish leaders caused him to be condemned and many of the people in the crowd had shouted for him to be crucified. Jesus did many wonderful things, so you would expect people to recognize that he was sent from God. Instead, they crucified him. How would you express **But you crucified him!** to mean the people treated Jesus opposite than one would expect and caused Jesus to be killed on a cross?
+**But you crucified him!** Peter strongly accuses the people in the crowd of murdering Jesus, the Messiah whom God had sent to them. The Jews did not actually nail Jesus to the cross. However, the Jewish leaders caused him to be condemned, and many of the people in the crowd had shouted for him to be crucified. Jesus did many wonderful things, so you would expect people to recognize that he was sent from God. Instead, they crucified him. How would you express **But you crucified him!** to mean the people treated Jesus opposite than one would expect and caused Jesus to be killed on a cross?
 
 #### 43-07
 
-**You will not let your Holy One rot in the grave** The prophet predicted that God would not allow the Messiah to remain dead and decay in the grave. This refers to the fact that Jesus did not remain in the tomb very long. It is another way of saying that he did not stay dead, but rather, came back to life again. How would you express **You will not let your Holy One rot in the grave** to mean God would not permit the Messiah, his chosen one, to remain dead and decompose in a tomb but would bring him back to life?
+**You will not let your Holy One rot in the grave** The prophet predicted that God would not allow the Messiah to remain dead and decay in the grave. This refers to the fact that Jesus did not remain in the tomb very long. It is another way of saying that he did not stay dead but rather, came back to life again. How would you express **You will not let your Holy One rot in the grave** to mean God would not permit the Messiah, his chosen one, to remain dead and decompose in a tomb but would bring him back to life?
 
 **We are witnesses that God raised Jesus to life again** Peter said that Jesus’ disciples would testify to the truth that God brought Jesus back to life. Peter included himself in this group of witnesses. How would you express **We are witnesses that God raised Jesus to life again** to mean Jesus’ followers (including Peter) attest/testify to others that God resurrected Jesus (God caused Jesus to come back to life again)?
 
@@ -385,43 +385,43 @@ Use the following translation questions to understand specific details of the pa
 
 **God the Father has now honored Jesus by making him sit at his right hand** God the Father set Jesus at his right side. This was the most important side and referred to the place of highest honor and authority. Because Jesus completed the work of salvation, he sat down at the right side of God the Father. This means Jesus rules with the same authority as God the Father. How would you express **God the Father has now honored Jesus by making him sit at his right hand** to mean God the Father affirmed Jesus’ honor and rule by having him sit on his right side, the most important place of respect and authority?
 
-**The Holy Spirit is causing the things that you are now seeing and hearing** Peter is referring to the believers speaking in foreign languages. This was a miracle. They were speaking languages that they did not previously understand. Peter explains that the Holy Spirit is giving the believers the power to do this. The people in the city of Jerusalem were observing and hearing this as it happened. How would you express **The Holy Spirit is causing the things that you are now seeing and hearing** to mean the Holy Spirit is enabling the believers to speak in foreign languages that the people were now observing and understanding?
+**The Holy Spirit is causing the things that you are now seeing and hearing** Peter is referring to the believers speaking in foreign languages. This was a miracle. They were speaking languages that they did not previously understand. Peter explains that the Holy Spirit gives the believers the power to do this. The people in the city of Jerusalem were observing and hearing this as it happened. How would you express **The Holy Spirit is causing the things that you are now seeing and hearing** to mean the Holy Spirit is enabling the believers to speak in foreign languages that the people were now observing and understanding?
 
 #### 43-09
 
-**know for certain that** Peter tells the people a fact that is true. He wants them to know that God affirmed that Jesus is Lord and Messiah. He does not want people to doubt this fact. How would you express **know for certain that** as a command to understand a fact to be proven true without any doubt?
+**know for certain that** Peter tells the people a true fact. He wants them to know that God affirmed that Jesus is Lord and Messiah. He does not want people to doubt this fact. How would you express **know for certain that** as a command to understand a fact to be proven true without any doubt?
 
-**God has caused** Jesus to become both the Lord of everything and the Messiah Jesus is fully equal with God the Father. Since Jesus is eternal, he always has been Lord and Messiah. Jesus is sovereign over all things and he is the deliverer God promised to send to save people from their sin. God made it clear to people that Jesus is Lord and Messiah by raising him from the dead and establishing him at his right side. This is always Jesus’ rightful place. How would you express **God has caused** Jesus to become both the Lord of everything and the Messiah to mean God the Father confirmed that Jesus is sovereign Lord and the promised Messiah by raising him from the dead and honoring him to the highest place at his right hand?
+**God has caused** Jesus to become both the Lord of everything and the Messiah. Jesus is fully equal with God the Father. Since Jesus is eternal, he always has been Lord and Messiah. Jesus is sovereign over all things, and he is the deliverer God promised to send to save people from their sin. God made it clear to people that Jesus is Lord and Messiah by raising him from the dead and establishing him at his right side. This is always Jesus’ rightful place. How would you express **God has caused** Jesus to become both the Lord of everything and the Messiah to mean God the Father confirmed that Jesus is the sovereign Lord and the promised Messiah by raising him from the dead and honoring him to the highest place at his right hand?
 
 #### 43-10
 
 **deeply moved by** The people felt very strong emotions when they heard Peter’s speech. They were very troubled by their own guilt before God. How would you express **deeply moved by** to mean the people felt very sad when they heard Peter’s words?
 
-**So they asked** The people felt strong emotions when they heard Peter’s speech. As a result, they people asked Peter how they should respond. How would you express **So they asked** to mean the result of the people feeling strong emotions of conviction was to asked Peter and the disciples what they should do?
+**So they asked** The people felt strong emotions when they heard Peter’s speech. As a result, the people asked Peter how they should respond. How would you express **So they asked** to mean the result of the people feeling strong emotions of conviction was to ask Peter and the disciples what they should do?
 
 #### 43-11
 
-**So repent and be baptized** Peter explained that the people needed God to forgive their sins. Based on this truth, the people needed to repent (turn from their sin) and be baptized (have water applied to them in a ritual way the symbolized purification and initiation into the community of faith). In short, the people should repent and be baptized because they want to be forgiven of their sins. How would you express **So repent and be baptized** to mean the result/outcome of the people needing God to forgive their sin was for them to turn from their sin and be baptized with water?
+**So repent and be baptized** Peter explained that the people needed God to forgive their sins. Based on this truth, the people needed to repent (turn from their sin) and be baptized (have water applied to them in a ritual way that symbolized purification and initiation into the community of faith). In short, people should repent and be baptized because they want to be forgiven of their sins. How would you express **So repent and be baptized** to mean the result/outcome of the people needing God to forgive their sin was for them to turn from their sin and be baptized with water?
 
-**in the name of Jesus Christ** Peter told the people to be repent and be baptized in Jesus’ name. This means those who were baptized were confirmed as believers by Jesus’ authority and put themselves under Jesus authority. How would you express **in the name of Jesus Christ** to mean to be baptized in the authority of Jesus Christ?
+**in the name of Jesus Christ** Peter told the people to be repent and be baptized in Jesus’ name. This means those who were baptized were confirmed as believers by Jesus’ authority and put themselves under Jesus’ authority. How would you express **in the name of Jesus Christ** to mean to be baptized in the authority of Jesus Christ?
 
-**Then God will also give you the Holy Spirit as a gift** If the people repented, God would give them the Holy Spirit. How would you express **Then God will also give you the Holy Spirit as a gift** to mean the result of people repenting of their sin and being baptized was that God would give the people the Holy Spirit as a gift?
+**Then God will also give you the Holy Spirit as a gift** If the people repent, God will give them the Holy Spirit. How would you express **Then God will also give you the Holy Spirit as a gift** to mean the result of people repenting of their sin and being baptized was that God would give the people the Holy Spirit as a gift?
 
 #### 43-12
 
-**They were baptized and became part of the church at Jerusalem** Baptism with water was a symbol of purification. It was also an initiation ritual which brought members into a community of other believers. How would you express **They were baptized and became part of the church at Jerusalem** to mean the people were baptized with water and joined the community of believers in the city of Jerusalem?
+**They were baptized and became part of the church at Jerusalem** Baptism with water was a symbol of purification. It was also an initiation ritual that brought members into a community of other believers. How would you express **They were baptized and became part of the church at Jerusalem** to mean the people were baptized with water and joined the community of believers in the city of Jerusalem?
 
 #### 43-13
 
 **The believers continually listened as the apostles taught them** The believers paid attention to the teaching of the apostles and obeyed what they taught. This was a habit that they regularly did. How would you express **The believers continually listened as the apostles taught them** to mean the followers of Jesus heard what the apostles taught and obeyed the teaching?
 
-**thought well of them** The people who lived in the city had respect for the Christians. The Christians had a good reputation. How would you express **thought well of them** to mean had a positive opinion of them?
+**thought well of them** The people who lived in the city had respect for the Christians. The Christians had a good reputation. How would you express **thought well of them** to mean they had a positive opinion of them?
 
 <!-- page break -->
 
 ## Theological Dialogue: Discussing the Meaning of the Story
 
-Take time to explore the meaning of this story together as a community. Use the following discussions as a way to grasp what truth the story teaches.
+Take time to explore the meaning of this story together as a community. Use the following discussions to grasp the truth the story teaches.
 
 ### Discourse Questions
 
@@ -429,11 +429,11 @@ Use the following discourse questions to understand the meaning of the story. Pa
 
 ##### How did the Holy Spirit come upon the believers at Pentecost? (43-01, 43-02, 43-03, 43-04, 43-05)
 
-Waiting: Jesus returned to heaven to be with God the Father. After this, the disciples remained in Jerusalem. Jesus commanded them to do this. They waiting in Jerusalem for God to send the Holy Spirit. (43-01)
+Waiting: Jesus returned to heaven to be with God the Father. After this, the disciples remained in Jerusalem. Jesus commanded them to do this. They were waiting in Jerusalem for God to send the Holy Spirit. (43-01)
 
-Celebration of Harvest: The Holy Spirit came on the day of Pentecost. This was a special holy day that Jews celebrated the firstfruits of the wheat harvest. It came 50 days after Passover. On the year Jesus died, Pentecost took place about a week after Jesus went back to heaven. Pentecost celebrated God’s blessing that God provided the harvest. This represented God providing for his people. God would provide for his people by sending the Holy Spirit. (43-02, 43-03)
+Celebration of Harvest: The Holy Spirit came on the day of Pentecost. This was a special holy day the Jews celebrated the first fruits of the wheat harvest. It came fifty days after Passover. On the year Jesus died, Pentecost occurred about a week after Jesus returned to heaven. Pentecost celebrated God’s blessing that God provided the harvest. This represented God providing for his people. God would provide for his people by sending the Holy Spirit. (43-02, 43-03)
 
-Power to Speak Foreign Languages: When the Holy Spirit came, he filled the believers and they spoke foreign languages that they previously did not know. A loud noise like a strong wind filled the house. Something like flames appeared over the heads of the believers. The Holy Spirit gave the disciples the power to speak foreign languages. (43-03)
+Power to Speak Foreign Languages: When the Holy Spirit came, he filled the believers who spoke foreign languages they previously did not know. A loud noise, like a strong wind, filled the house. Something like flames appeared over the heads of the believers. The Holy Spirit gave the disciples the power to speak foreign languages. (43-03)
 
 Worship, Praise, and Astonishment: The people in the city of Jerusalem were astonished that Jews from Jerusalem were speaking in the native languages of people who were from other countries. The believers told about the great things God had done as they spoke in other languages. The people were amazed and astonished. (43-03, 43-04)
 
@@ -441,9 +441,9 @@ Abundant Provision: The people did not fully understand what was happening. They
 
 ##### What were the main parts/contents of Peter’s message to the people? (43-06, 43-07, 43-08, 43-09)
 
-Miracles and Ministry: Peter preached that Jesus performed miracles and and did amazing things by God’s power. These miracles healed people who were sick, set people free from demons, or helped people in difficult situations. One reason Jesus did miracles was to show that he was the Messiah. (43-06)
+Miracles and Ministry: Peter preached that Jesus performed miracles and did amazing things through God’s power. These miracles healed people who were sick, set people free from demons, or helped people in difficult situations. One reason Jesus did miracles was to show that he was the Messiah. (43-06)
 
-Crucifixion: Peter preached that Jesus was crucified on a cross. Peter specially told the people that they were responsible for Jesus dying on the cross. Even though the people did not actually nail Jesus to the cross, many rejected him as the Messiah. Also, Jesus died on the cross to forgive sin. Since all people are sinners, we are part of the reason Jesus died on the cross. (43-06, 43-07, 43-09)
+Crucifixion: Peter preached that Jesus was crucified on a cross. Peter told the people they were responsible for Jesus dying on the cross. Even though the people did not actually nail Jesus to the cross, many rejected him as the Messiah. Also, Jesus died on the cross to forgive sin. Since all people are sinners, we are part of the reason Jesus died on the cross. (43-06, 43-07, 43-09)
 
 Resurrection: Peter preached that Jesus rose again from the dead. The Old Testament Scriptures (and prophets) predicted that the Messiah would come back to life. (43-07)
 
@@ -473,9 +473,9 @@ Teaching: The believers listened to the teaching of the apostles. They also did 
 
 Worship/Praise: The believers worshipped God together. They praised God for the great things he did. (43-13)
 
-Good Reputation: The believers had a good reputation with those who were not Christians. This does not mean that Christians acted in sinful ways to make unbelievers like them. Instead, Christians lived upright and respectable lives and this caused the other people to respect them. (43-13)
+Good Reputation: The believers had a good reputation with those who were not Christians. This does not mean Christians acted sinfully to make unbelievers like them. Instead, Christians lived upright and respectable lives, and this caused the other people to respect them. (43-13)
 
-New Christians: Other people became believers on a daily basis. Jesus’ disciples were witnesses of Jesus’ resurrection to others. Also, the way Christians lived together as a community was really attractive to others. Many people came to believe in Jesus, repent of their sin, get baptized, and become part of the church community. (43-07, 43-13)
+New Christians: Other people became believers on a daily basis. Jesus’ disciples were witnesses of Jesus’ resurrection to others. Also, how Christians lived together as a community was really attractive to others. Many people came to believe in Jesus, repent of their sin, get baptized, and become part of the church community. (43-07, 43-13)
 
 <!-- page break -->
 
@@ -483,7 +483,7 @@ New Christians: Other people became believers on a daily basis. Jesus’ discipl
 
 Answer the following theology questions as a community. Discuss what truths this story teaches.
 
-1.  Who is the Holy Spirit and what important role does he have in God’s work? What does the story of Pentecost teach us about the person and work of the Holy Spirit?
+1.  Who is the Holy Spirit, and what important role does he have in God’s work? What does the story of Pentecost teach us about the person and work of the Holy Spirit?
 2.  What is the core content of the gospel message? How does Peter’s speech provide a summary of the gospel message?
 3.  What is the appropriate response to the gospel message? How do people become believers/disciples? What does this story teach us about how people became followers of Jesus and joined the church?
 4.  What does it mean to be the church? How does this story give a picture of what it means for believers to be a part of a faith community?
