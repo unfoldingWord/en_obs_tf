@@ -9,7 +9,7 @@ What are the 2-3 biggest improvements you felt you made to this story? taking jo
 
 
 This report could feed back into: 
-**Quarterly Newsletter**: after OBS course block summary/letter to church/network explaining content in this report
+**Quarterly Newsletter**: after OBS course block summary/letter to church/network explaining the content in this report.
 **Translation Brief**: 
 
 In the final movement of this class, you will use these observations to give an account (i.e., chronicle/narrate) of how your translation improved through the checking process.# OBS Quality Assurance Check
@@ -21,7 +21,7 @@ After answering the checking questions (see above), discuss what you learned abo
 What are the 2-3 biggest improvements you felt you made to this story? taking joy in the correction/revision process
 
 This report could feed back into:
-**Quarterly Newsletter**: after OBS course block summary/letter to church/network explaining content in this report
+**Quarterly Newsletter**: after OBS course block summary/letter to church/network explaining the content in this report.
 **Translation Brief**:
 
 In the final movement of this class, you will use these observations to give an account (i.e., chronicle/narrate) of how your translation improved through the checking process.

@@ -41,7 +41,7 @@ As the boys grew up, Jacob loved to stay at home, but Esau loved to hunt animals
 
 ![](.\assets\images\image73.jpeg)
 
-One day, when Esau came back from hunting, he was very hungry. Esau said to Jacob, “Give me some of the food you have made.” Jacob responded, “First, promise me that everything you should receive because you were born first, you will give it all to me.” So Esau promised to give to Jacob all those things. Then Jacob gave him some food.
+One day, when Esau came back from hunting, he was very hungry. Esau said to Jacob, “Give me some of the food you have made.” Jacob responded, “First, promise me that everything you should receive because you were born first, you will give it all to me.” So Esau promised to give Jacob all those things. Then Jacob gave him some food.
 
 ##### 07-03
 
@@ -145,7 +145,7 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 07-01
 
@@ -175,10 +175,10 @@ Everything Esau should have received as the older son, he gave Jacob in exchange
 #### 07-03
 
 To whom did Isaac want to give his formal blessing?  
-He wanted to give it to Esau.
+Isaac wanted to give it to Esau.
 
 How did Jacob trick Isaac into giving him the blessing?  
-He pretended to be Esau by wearing goatskins so that Isaac would think he was Esau.
+Jacob pretended to be Esau by wearing goatskins so that Isaac would think he was Esau.
 
 #### 07-04
 
@@ -186,7 +186,7 @@ What did Jacob say to his father, Isaac?
 Jacob told his father, Isaac, he was Esau. Jacob also said that he came to receive a blessing from his father.
 
 Who did Isaac think was speaking with him?  
-When Isaac felt the goat hair and smelled the clothes, he thought it was Esau.
+When Isaac felt the goat hair and smelled the clothes, Isaac thought it was Esau.
 
 What did Isaac do to Jacob?  
 Isaac blessed Jacob thinking that it was Esau.
@@ -207,7 +207,7 @@ They sent Jacob far away to live with Rebekah’s relatives.
 #### 07-07
 
 What happened to Jacob during the next twenty years?  
-He married, had 12 sons and a daughter, and God made him wealthy.
+Jacob married, had 12 sons and a daughter, and God made him wealthy.
 
 #### 07-08
 
@@ -220,18 +220,18 @@ Jacob returned to his family with all of his servants and animals.
 #### 07-09
 
 Why was Jacob afraid when he returned to Canaan?  
-He thought Esau would kill him.
+Jacob thought Esau would kill him.
 
 What did Jacob do in order to soothe Esau’s anger?  
-He sent herds of animals to Esau as a gift.
+Jacob sent herds of animals to Esau as a gift.
 
 #### 07-10
 
 Was Esau still angry with Jacob?  
-No, he no longer wanted to harm Jacob.
+No, Esau no longer wanted to harm Jacob.
 
 Where did Jacob settle to live?  
-He settled in Canaan and lived peacefully with his brother.
+Jacob settled in Canaan and lived peacefully with his brother.
 
 After Isaac’s death, who received the covenant promises that God originally gave to Abraham?  
 Jacob received them.
@@ -270,11 +270,11 @@ Use the following translation questions to understand specific details of the pa
 
 #### 07-05
 
-**rights as oldest son** This refers to the the extra blessing and inheritance that belonged to Esau because he was the firstborn son. Jacob found a way to get the larger portion of their father’s wealth that should have gone to Esau as the older son. How would you express **rights as oldest son** to mean the extra blessing and inheritance the belonged to the firstborn son?
+**rights as oldest son** This refers to the extra blessing and inheritance that belonged to Esau because he was the firstborn son. Jacob found a way to get the larger portion of their father’s wealth that should have gone to Esau as the older son. How would you express **rights as oldest son** to mean the extra blessing and inheritance that belonged to the firstborn son?
 
 **because** Jacob had stolen The connecting word **because** connects the reason, Jacob stole Esau’s rights and blessing, with the result, Esau hated Jacob. How would you express **because** Jacob had stolen to mean the reason Esau hated Jacob was **because** Jacob had stolen his rights to the inheritance?
 
-**So he planned to kill** Jacob The word So connects the result, Esau planned to kill Jacob, with the reason, Esau hated Jacob. How would you express so he planned to kill Jacob to mean Esau determined to kill Jacob because he hated him?
+**So he planned to kill Jacob** The word So connects the result, Esau planned to kill Jacob, with the reason, Esau hated Jacob. How would you express **so he planned to kill Jacob** to mean Esau determined to kill Jacob because he hated him?
 
 #### 07-06
 
@@ -282,7 +282,7 @@ Use the following translation questions to understand specific details of the pa
 
 **Esau’s plan** This refers to the plan that Esau had decided to do. **Esau’s plan** was to kill Jacob after his father died. How would you express **Esau’s plan** to mean the intent or decision Esau made to kill Jacob after their father died?
 
-**far away to live with her relatives** Since Abraham’s brother was Rebekah’s grandfather, her relatives were also Isaac’s relatives. How would you express **far away to live with her relatives** to mean the family members who lived in in the same land where she used to live?
+**far away to live with her relatives** Since Abraham’s brother was Rebekah’s grandfather, her relatives were also Isaac’s relatives. How would you express **far away to live with her relatives** to mean the family members who lived in the same land where she used to live?
 
 #### 07-07
 
@@ -294,7 +294,7 @@ Use the following translation questions to understand specific details of the pa
 
 **After 20 years** After twenty years living in the land where his relatives were Jacob returned home. Jacob had lived for twenty years in the land where his mother was from. How would you express **After 20 years** to mean Jacob returned home at the end of twenty years living with Rebekah’s relatives?
 
-**all his flocks and herds of animals** This refers to ownership—all the groups of animals that belonged to him. How would you express **all his flocks and herds of animals** to mean all the flocks and herds that belonged to Jacob as his possession?
+**all his flocks and herds of animals** This refers to ownership—all the groups of animals that belonged to Jacob. How would you express **all his flocks and herds of animals** to mean all the flocks and herds that belonged to Jacob as his possession?
 
 #### 07-09
 
@@ -308,7 +308,7 @@ Use the following translation questions to understand specific details of the pa
 
 **lived peacefully** This refers to the fact that Esau and Jacob were not angry at each other and did not fight with each other. How would you express **lived peacefully** to mean Esau and Jacob were no longer angry with each other and no longer fought with each other?
 
-**covenant promises** These were the promises that God made in his covenant with Abraham. How would you express **covenant promises** to mean the things God guaranteed his would do (promises) for Abraham as a result of the formal agreement (covenant) he made with him?
+**covenant promises** These were the promises that God made in his covenant with Abraham. How would you express **covenant promises** to mean the things God guaranteed he would do (promises) for Abraham as a result of the formal agreement (covenant) he made with him?
 
 **passed on from Isaac to Jacob** The promises went from Abraham to his son Isaac, and now to Isaac’s son Jacob. Esau did not receive the promises. How would you express **passed on from Isaac to Jacob** to mean that the promises God made to Abraham continued to the descendants of Jacob not the descendants of Esau?
 
@@ -344,11 +344,11 @@ After twenty years, Jacob returned home with his family and possessions. Jacob r
 
 Jacob was afraid of Esau. He thought Esau wanted to kill him. Sins we commit have have effects later in life. Jacob had to realize the consequences of his sin. (07-09)
 
-Jacob sent a gift to his brother. He was hoping that the gift would cause his brother to no longer want to kill him. (07-10)
+Jacob sent a gift to his brother. Jacob was hoping that the gift would cause his brother to no longer want to kill him. (07-10)
 
 When they met, Esau no longer wanted to kill Jacob. They lived peacefully in the land. (07-10)
 
-##### How did keep his covenant promises to the next generation? (07-10)
+##### How did God keep his covenant promises to the next generation? (07-10)
 
 The younger son gained the rights of the firstborn. In that culture, the firstborn son would be the preferred choice for the greater inheritance. God was doing what many people did not expect. (07-02).
 
@@ -358,7 +358,7 @@ God caused Jacob to become wealthy. Jacob did not become wealthy on his own. God
 
 God protected Jacob from his brother. The restored relationship between Jacob and Esau was not something that Jacob. God had made it possible for Esau and Jacob to live peacefully with one another. (07-09)
 
-God caused the covenant promises to continued to the descendants of Jacob. God chose to which descendants he wanted his covenant promises to continue. (07-10)
+God caused the covenant promises to continue to the descendants of Jacob. God chose to which descendants he wanted his covenant promises to continue. (07-10)
 
 <!-- page break -->
 
@@ -368,7 +368,7 @@ Answer the following theology questions as a community. Discuss what truths this
 
 1.  What causes conflict in human relationships? How does the story of Jacob and Esau help us understand why human relationships can have conflict?
 2.  How are the promises of God’s blessing undeserved (an act of grace)? How do we see God blessing Jacob despite Jacob’s wrongdoing?
-3.  How can human relationships be restored to peace? How does the story of Jacob and Esau show us what restored relationship looks like?
+3.  How can human relationships be restored to peace? How does the story of Jacob and Esau show us what a restored relationship looks like?
 
 ### Translation Draft
 
@@ -380,7 +380,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -409,20 +409,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -469,7 +469,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -531,7 +531,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -543,7 +543,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

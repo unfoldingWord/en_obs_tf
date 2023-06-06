@@ -149,7 +149,7 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 05-01
 
@@ -213,8 +213,8 @@ Abraham obeyed God and prepared Issac as a sacrifice.
 
 #### 05-07
 
-What did Isaac asked his father when they walked to the place of sacrifice?  
-He asked his father where they lamb for the sacrifice was.
+What did Isaac ask his father when they walked to the place of sacrifice?  
+Isaac asked his father where the lamb for the sacrifice was.
 
 What did Abraham tell Isaac was the reason they did not have a lamb for the sacrifice?  
 Abraham said God would provide the lamb for the sacrifice.
@@ -228,12 +228,12 @@ What did God tell Abraham as he was about to sacrifice Isaac?
 God told Abraham to stop and not hurt his son. God now saw that Abraham was willing to obey God.
 
 Did God want Abraham to kill Isaac?  
-No, he only wanted to see if Abraham would obey him.
+No, God only wanted to see if Abraham would obey him.
 
 #### 05-09
 
 What did God provide as a sacrifice instead of Isaac?  
-He provided a ram stuck in a bush.
+God provided a ram stuck in a bush.
 
 What did Abraham do with the ram?  
 Abraham happily offered the ram as the sacrifice instead of his son Isaac.
@@ -241,7 +241,7 @@ Abraham happily offered the ram as the sacrifice instead of his son Isaac.
 #### 05-10
 
 What did God promise to do for Abraham because Abraham had obeyed him?  
-He promised that Abraham’s descendants would be more than the stars in the sky, and that all the families of the world would be blessed through his family.
+God promised that Abraham’s descendants would be more than the stars in the sky, and that all the families of the world would be blessed through his family.
 
 ### Translation Questions
 
@@ -263,7 +263,7 @@ Use the following translation questions to understand specific details of the pa
 
 **Almighty** This means that God is the strongest and the most powerful. There is no one greater or stronger or more powerful than God. What words in your language mean **Almighty** as in the most powerful? Does this mean that God is the supreme God above all?
 
-**I will be their** God This means that God would be the God that they will worship. How would you express **I will be their** God to mean that God would be the God they serve?
+**I will be their God** This means that God would be the God that they will worship. How would you express **I will be their God** to mean that God would be the God they serve?
 
 **circumcise every male** To circumcise means to cut the foreskin off of a man or male child. It is often associated with a religious rite or ritual. How would you express **circumcise every male** to mean to cut off the foreskin of a man or male child?
 
@@ -285,13 +285,13 @@ Use the following translation questions to understand specific details of the pa
 
 **your only son** It is implied that God knows that Abraham has another son, Ishmael. This emphasizes that Isaac is the son that God promised to give Abraham. How would you express **your only son** to mean Isaac was the only son God promised?
 
-**prepared to sacrifice his son** Abraham got ready to sacrifice his son. God stopped him before he killed his son. How would you express **prepared to sacrifice his son** to mean Abraham got his son ready to be killed as a sacrifice?
+**prepared to sacrifice his son** Abraham got ready to sacrifice his son. God stopped him before Abraham killed his son. How would you express **prepared to sacrifice his son** to mean Abraham got his son ready to be killed as a sacrifice?
 
 #### 05-07
 
 **the lamb** A young sheep or goat would be the normal animal for a sacrifice. What words in your language mean **the lamb** as in a sheep or a goat?
 
-**provide the lamb** Abraham may have believed that Isaac was the lamb that God provided, although God fulfilled Abraham’s words by providing a ram to sacrifice in Isaac’s place. How would you express **provide the lamb** to mean God would supply the lamb the was needed for the sacrifice?
+**provide the lamb** Abraham may have believed that Isaac was the lamb that God provided, although God fulfilled Abraham’s words by providing a ram to sacrifice in Isaac’s place. How would you express **provide the lamb** to mean God would supply the lamb that was needed for the sacrifice?
 
 #### 05-08
 
@@ -299,7 +299,7 @@ Use the following translation questions to understand specific details of the pa
 
 **about to kill his son** God did not want human sacrifice. God wanted to see that Abraham loved God more than he loved his son and would obey God even when God told him to give his son back to God. How would you express **about to kill his son** to mean that Abraham was in the act of killing his son when God told him to stop?
 
-**you fear me** Abraham feared God, which included respect and reverence for God. Because of those things, he obeyed God. How would you express **you fear me** to mean that Abraham and a respect and reverence for God to obey his commands?
+**you fear me** Abraham feared God, which included respect and reverence for God. Because of those things, Abraham obeyed God. How would you express **you fear me** to mean that Abraham had a respect and reverence for God to obey his commands?
 
 #### 05-09
 
@@ -313,7 +313,7 @@ Use the following translation questions to understand specific details of the pa
 
 **willing to give me everything** Abraham showed that he was ready to give everything to God, even sacrifice his son. This showed his devotion to God. How would you express **willing to give me everything** to mean Abraham was ready to dedicate everything to God without withholding what mattered most to him?
 
-**all the families of the world** Families are larger distinct groups of people. It refers to the other people groups who are not descendants of Abraham. How would you express **all the families of the world** to mean distinct people groups from different kinds ethnicity or culture
+**all the families of the world** Families are larger distinct groups of people. It refers to the other people groups who are not descendants of Abraham. How would you express **all the families of the world** to mean distinct people groups from different kinds of ethnicity or culture
 
 <!-- page break -->
 
@@ -345,7 +345,7 @@ God told Abram again that he would have many descendants and dwell in the land o
 
 God told Abraham to circumcise the males in his household. This was a sign that God’s promise would come true. Abram obeyed God and circumcised all the males in his household. (05-03, 05-05)
 
-God changed Abram’s name to Abraham. Abraham means father of many. He changed Sarai’s name to Sarah. Sarah means princess. God was showing Abraham that his promise would come true. Abraham would have many descendants. Abraham would even have kings among his descendants. (05-04)
+God changed Abram’s name to Abraham. Abraham means father of many. God changed Sarai’s name to Sarah. Sarah means princess. God was showing Abraham that his promise would come true. Abraham would have many descendants. Abraham would even have kings among his descendants. (05-04)
 
 When Abraham was 100 years old and Sarah was 90 years old, Sarah gave birth to Isaac. God provided a son for Abram and Sarah when they were really old (beyond normal child-bearing years). (05-05)
 
@@ -355,11 +355,11 @@ God told Abram to circumcise all the males in his household. Abram obeyed God an
 
 God told Abraham to offer his son Isaac as a sacrifice to God. God did not want Abraham to kill his son. He told Abraham to do this to see if Abraham would trust him and obey his command. Abraham obeyed God and prepared to sacrifice Isaac. (05-06)
 
-Isaac asked his father where the lamb for the sacrifice would was. Abraham told him that God would provide the lamb. Abraham did not know how God would provide the lamb but he trusted God. (05-07)
+Isaac asked his father where the lamb for the sacrifice was. Abraham told him that God would provide the lamb. Abraham did not know how God would provide the lamb but he trusted God. (05-07)
 
 Abraham tied up his son, laid him on the altar, and was ready to kill him. Abraham trusted God and was willing to sacrifice his only son to God. (05-08)
 
-Abraham was willing to give God everything. He did not even withhold his only son from God. Abraham’s faith and obedience showed that he trusted God. (05-10)
+Abraham was willing to give God everything. Abraham did not even withhold his only son from God. Abraham’s faith and obedience showed that he trusted God. (05-10)
 
 ##### How did God provide a sacrifice for Abram? (05-07, 05-08, 05-09, 05-10)
 
@@ -391,7 +391,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -420,20 +420,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -480,7 +480,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -542,7 +542,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -554,7 +554,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

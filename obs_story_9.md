@@ -201,10 +201,10 @@ How many years were the Israelites in Egypt?
 The Israelites were in Egypt for hundreds of years. They had become very large in number.
 
 Why were the Egyptians afraid of the Israelites?  
-They were afraid because there were so many Israelites. They were no longer grateful for all that Joseph had done for them.
+The Egyptians were afraid because there were so many Israelites. The Egyptians were no longer grateful for all that Joseph had done for them.
 
 What did Pharaoh do to the Israelites because he was afraid of them?  
-He made them slaves to the Egyptians.
+Pharaoh made them slaves to the Egyptians.
 
 #### 09-03
 
@@ -212,12 +212,12 @@ What kind of work did the Egyptians force the Israelites to do?
 The Egyptians forced the Israelites to build many buildings and cities.
 
 What was life like for the Israelites?  
-The work was hard and life was miserable. However, God blessed them and they bore many children.
+The work was hard and life was miserable. However, God blessed the Israelites and they bore many children.
 
 #### 09-04
 
 How did Pharaoh try to keep the Israelites from increasing in number?  
-He ordered all Israelite baby boys to be thrown into the Nile River.
+Pharaoh ordered all Israelite baby boys to be thrown into the Nile River.
 
 #### 09-05
 
@@ -227,7 +227,7 @@ After she gave birth to her baby boy, she hid him for as long as she could.
 #### 09-06
 
 What did the woman do after she could no longer hide her baby?  
-The woman put him in a floating basket and place the basket in the Nile River.
+The woman put him in a floating basket and placed the basket in the Nile River.
 
 Who was watching the basket to see what would happen?  
 The older sister of the baby boy watched to see what would happen.
@@ -248,26 +248,26 @@ Pharaoh’s daughter named the baby boy Moses.
 
 #### 09-08
 
-When Moses had grown up, what did he do when he say an Egyptian beating an Israelite slave?  
-Moses was an Israelite. When Moses saw the Egyptian beating an Israelite slave, he tried to save his fellow Israelite.
+When Moses had grown up, what did he do when he saw an Egyptian beating an Israelite slave?  
+Moses was an Israelite. When Moses saw the Egyptian beating an Israelite slave, Moses tried to save his fellow Israelite.
 
 #### 09-09
 
 What did Moses do in order to save a fellow Israelite?  
-He killed an Egyptian who was beating him, and buried the Egyptian’s body.
+Moses killed an Egyptian who was beating him, and buried the Egyptian’s body.
 
 #### 09-10
 
 Why did Moses have to flee from Egypt?  
-When Pharaoh found out that he killed the Egyptian, he wanted to kill Moses.
+When Pharaoh found out that Moses killed the Egyptian, Pharaoh wanted to kill Moses.
 
 Where did Moses go to escape from Pharaoh?  
-He went to the wilderness.
+Moses went to the wilderness.
 
 #### 09-11
 
 What did Moses do in the wilderness?  
-Moses became a shepherd. He lived far away from Egypt.
+Moses became a shepherd. Moses lived far away from Egypt.
 
 When did Moses have a family?  
 Moses eventually married a woman from that place and had two sons.
@@ -275,7 +275,7 @@ Moses eventually married a woman from that place and had two sons.
 #### 09-12
 
 What unusual thing did Moses see while taking care of his sheep in the wilderness?  
-He saw a bush that was on fire, but it did not burn up.
+Moses saw a bush that was on fire, but it did not burn up.
 
 What did God tell Moses as he approached the burning bush?  
 God said, “Moses, take off your shoes. You are standing on holy ground.”
@@ -289,7 +289,7 @@ What did God send Moses to do for the Israelites?
 God told him to go to Pharaoh and bring the Israelites out of their slavery in Egypt.
 
 What land did God say he would give to the Israelites?  
-God would give him the land of Canaan, the land God had promised to Abraham, Isaac, and Jacob.
+God would give the Israelites the land of Canaan, the land God had promised to Abraham, Isaac, and Jacob.
 
 #### 09-14
 
@@ -297,7 +297,7 @@ Who sent Moses to the Israelites?
 God sent Moses to the Israelites. He is I AM Who I AM.
 
 What name did God say would be his forever?  
-He said his name would be Yahweh.
+God said his name would be Yahweh.
 
 #### 09-15
 
@@ -329,13 +329,13 @@ Use the following translation questions to understand specific details of the pa
 
 **because there were so many of them** The word because tells the reason the Egyptians were afraid. The reason the Egyptians were afraid was that there were so many Israelites. How would you express **because there were so many of them** to mean the reason the Egyptians were afraid was that there were so many Israelites?
 
-**Pharaoh** **Pharaoh** is an Egyptian word that refers to their king. This **Pharaoh** was probably the son of a former **Pharaoh** who had died, who may have been a descendant of the **Pharaoh** that Joseph knew. How would you express **Pharaoh** as in the Egyptian king who ruled in the land of Egypt?
+**Pharaoh** Pharaoh is an Egyptian word that refers to their king. This **Pharaoh** was probably the son of a former **Pharaoh** who had died, who may have been a descendant of the **Pharaoh** that Joseph knew. How would you express **Pharaoh** as in the Egyptian king who ruled in the land of Egypt?
 
 **made the Israelites slaves** The Egyptians forced the Israelites to do hard labor against their will and treated them very harshly. How would you express **made the Israelites slaves** to mean the Egyptians forced the Israelites to do hard labor against their will and treated them very harshly?
 
 #### 09-03
 
-**made their lives miserable** The Israelites suffered terribly because of how harshly they were treated and how hard they were forced to work. They also felt very discouraged. How would you express **made their lives miserable** to mean the Egyptians treated the Israelites so harshly that they caused the Israelites to be sorrowful and painful?
+**made their lives miserable** The Israelites suffered terribly because of how harshly they were treated and how hard they were forced to work. The Israelites also felt very discouraged. How would you express **made their lives miserable** to mean the Egyptians treated the Israelites so harshly that they caused the Israelites to be sorrowful and painful?
 
 **but God blessed them** The word but contrasts the misery of the Israelites with God blessing them. One would expect that the Israelites’ affliction/misery meant that God was punishing them. God blessing the Israelites is the opposite of what one would expect toward an enslaved people. How would you express **but God blessed them** to mean that God blessing the Israelites is the opposite/contrast to the hard work that made their lives miserable?
 
@@ -380,14 +380,15 @@ Use the following translation questions to understand specific details of the pa
 
 #### 09-10
 
-**Pharaoh learned what Moses had done** Pharaoh was not there when Moses killed the Egyptian but he had heard about the fact that Moses killed an Egyptian. How would express **Pharaoh learned what Moses had done** to mean Pharaoh heard about the fact that Moses killed an Egyptian?
+**Pharaoh learned what Moses had done** Pharaoh was not there when Moses killed the Egyptian but he had heard about the fact that Moses killed an Egyptian. How would you express **Pharaoh learned what Moses had done** to mean Pharaoh heard about the fact that Moses killed an Egyptian?
+
 **but Moses fled from Egypt** The word but contrasts Pharaoh trying to kill Moses with Moses escaping into the wilderness. How would you express **but Moses fled from Egypt** to mean Moses fleeing to Egypt is opposite/different from Pharaoh trying to kill Moses?
 
 **wilderness** The wilderness was a large area that was rocky and dry. The land there was not good for growing food and few people lived there. What words in your language mean **wilderness** as in a large area that was rocky and dry?
 
 #### 09-11
 
-**Moses became a shepherd** Moses was not a shepherd before this time. How would you express **Moses became a shepherd** to mean that Moses began work as a shepherd during his time in the wilderness and this was not something did before?
+**Moses became a shepherd** Moses was not a shepherd before this time. How would you express **Moses became a shepherd** to mean that Moses began work as a shepherd during his time in the wilderness and this was not something Moses did before?
 
 **a woman from that place** The woman Moses married was from the place he lived and worked in the wilderness. How would you express **a woman from that place** to mean a woman who lived in the area Moses was living and working as a shepherd?
 
@@ -397,15 +398,17 @@ Use the following translation questions to understand specific details of the pa
 
 **a bush on fire, burning without being destroyed** God made the bush full of fire, but the fire did not damage the bush. How would you express **a bush on fire, burning without being destroyed** to mean the bush was full of flames of fire but the fire did not damage the bush?
 
-**God spoke to him** God spoke, but he did not see God. How would you translate **God spoke to him** to mean God talked aloud to Moses even though Moses did not see God?  
-**take off your shoes** God commanded Moses to take off his shoes or sandals that he was wearing on his feet. How would express take off your shoes as a command that tells someone to remove the shoes or sandals from their feet?  
-**holy ground** God wanted Moses to take off his shoes to show that he greatly respected God. The place was holy in the sense that God set it apart from the ordinary land and made it to be a special place where He would reveal Himself. How would you express **holy ground** as a place set it apart from the ordinary land and made it to be a special place where He would reveal Himself?
+**God spoke to him** God spoke, but he did not see God. How would you translate **God spoke to him** to mean God talked aloud to Moses even though Moses did not see God?
+
+**take off your shoes** God commanded Moses to take off his shoes or sandals that he was wearing on his feet. How would express take off your shoes as a command that tells someone to remove the shoes or sandals from their feet?
+
+**holy ground** God wanted Moses to take off his shoes to show that he greatly respected God. The place was holy in the sense that God set it apart from the ordinary land and made it to be a special place where God would reveal Himself. How would you express **holy ground** as a place set apart from the ordinary land and made it to be a special place where God would reveal Himself?
 
 #### 09-13
 
 **the suffering of my people** This refers to the the very harsh treatment that God’s people were experiencing. This suffering happened because the Egyptians were causing God’s people terrible pain. How would you express **the suffering of my people** to mean the harsh treatment and terrible pain that the Israelites were experiencing because of how Egyptians were treating them?
 
-**my people** This refers to the Israelites. God had made a covenant with Abraham and his descendants that he would bless them and make them into a great nation. Through this covenant, the Israelites became God’s own people. How would you express **my people** to mean the Israelites were God’s people whom he had come into relationship with through a covenant?
+**my people** This refers to the Israelites. God had made a covenant with Abraham and his descendants that God would bless them and make them into a great nation. Through this covenant, the Israelites became God’s own people. How would you express **my people** to mean the Israelites were God’s people whom he had come into relationship with through a covenant?
 
 **so that you can bring the Israelites** The words so that explain that the purpose/goal of God sending Moses to Pharaoh was to bring the Israelites out of slavery. How would you express **so that you can bring the Israelites** to mean that the purpose or goal of God sending Moses to Pharaoh was to bring the Israelites out of slavery?
 
@@ -433,11 +436,11 @@ Use the following discourse questions to understand the meaning of the story. Pa
 
 ##### What was life like for Israel in Egypt? (09-01, 09-02, 09-03, 09-04)
 
-Multiplied in Foreign Land: The Israelites lived in Egypt for hundreds of years. They had many children and become a numerous people. The family of Jacob had multiplied to become a large people group called the Israelites. The Israelites became a large people living in a foreign land, not the land of Canaan. (09-01, 09-02)
+Multiplied in Foreign Land: The Israelites lived in Egypt for hundreds of years. They had many children and became a numerous people. The family of Jacob had multiplied to become a large people group called the Israelites. The Israelites became a large people living in a foreign land, not the land of Canaan. (09-01, 09-02)
 
 Enslaved: The Egyptians were no longer grateful for what Joseph had done for them. The Egyptians grew afraid of the Israelites because they were so many of them. The Egyptians made the Israelites slaves. (09-02)
 
-Hard Labor, Miserable Life: The Egyptians forced the Israelites to to hard work. They made them build buildings and cities. This made their life miserable. (09-03)
+Hard Labor, Miserable Life: The Egyptians forced the Israelites to do hard work. They made them build buildings and cities. This made their life miserable. (09-03)
 
 Kill Baby Boys: Pharaoh ordered all Israelite baby boys to be killed by throwing them into the Nile River. He did this because he saw that the Israelites were growing in number. (09-04)
 
@@ -468,11 +471,11 @@ Rescuer: God heard the suffering of his people and planned to rescue them. God c
 
 Faithful: God planned to fulfill his promises to Abraham, Isaac, and Jacob by causing the Israelites to enter the promise land of Canaan. God was fulfilling his promises hundreds of years after made the promises. (09-13)
 
-Eternal: God told Moses that he was I AM WHO I AM. This meant that God has always existed. God also told Moses his name is Yahweh. This name relates to the idea that “God is.” He has no beginning or end. He exists from himself. He also would be present with his people. (09-14)
+Eternal: God told Moses that he was I AM WHO I AM. This meant that God has always existed. God also told Moses his name is Yahweh. This name relates to the idea that “God is.” God has no beginning or end. God exists from himself. God also would be present with his people. (09-14)
 
-Covenant: God told Moses his name was Yahweh. This was God’s special name for his relationship with his people. God said he was the God of Abraham, Isaac, and Jacob. God’s name is Yahweh: the God would makes and keeps covenant promises with his people for all time. (09-14)
+Covenant: God told Moses his name was Yahweh. This was God’s special name for his relationship with his people. God said he was the God of Abraham, Isaac, and Jacob. God’s name is Yahweh: the God who makes and keeps covenant promises with his people for all time. (09-14)
 
-Patient/Kind: Moses was afraid to go to Pharaoh. He thought that he could not speak well. God sent Moses’ brother, Aaron to go with him. God was gracious to send Aaron to help Moses in his work. (09-15)
+Patient/Kind: Moses was afraid to go to Pharaoh. Moses thought that he could not speak well. God sent Moses’ brother, Aaron to go with him. God was gracious to send Aaron to help Moses in his work. (09-15)
 
 ##### How did God call Moses? How (09-12, 09-13, 09-14, 09-15)
 
@@ -492,7 +495,7 @@ God sent Aaron with Moses to support him in his work. (09-15)
 
 Answer the following theology questions as a community. Discuss what truths this story teaches.
 
-1.  What are some of causes of suffering and hardship? How does the story of Moses teach us about suffering and hardship in the world?
+1.  What are some of the causes of suffering and hardship? How does the story of Moses teach us about suffering and hardship in the world?
 2.  What should we believe about God? How does this story help us understand who God is and what it looks like to relate to God?
 3.  How does God work to bring about the rescue of his people? How did God work in this story to protect and rescue his people?
 
@@ -506,7 +509,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -535,20 +538,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -595,7 +598,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -657,7 +660,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -669,7 +672,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

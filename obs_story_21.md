@@ -196,10 +196,10 @@ Answer the following observation questions to gain a basic understanding of the 
 #### 21-01
 
 When did God first decide to send the Messiah?  
-He decided this before he created the world.
+God decided this before he created the world.
 
 What did God promise Adam and Eve?  
-God promised Adam and Eve that he would send the Messiah. He told them a descendant would come from Eve who would crush the snake’s head.
+God promised Adam and Eve that he would send the Messiah. God told them a descendant would come from Eve who would crush the snake’s head.
 
 What would the Messiah do to Satan?  
 The Messiah would defeat Satan completely.
@@ -209,8 +209,8 @@ The Messiah would defeat Satan completely.
 What did God promise Abraham?  
 God promised Abraham that through him all the people groups of the world would receive a blessing.
 
-Who would God sent to fulfill his promise that all people groups will be blessed through Abraham?  
-He would send the Messiah.
+Who would God send to fulfill his promise that all people groups will be blessed through Abraham?  
+God would send the Messiah.
 
 What would the Messiah do?  
 The Messiah would save people from their sin out of every people group in the world.
@@ -220,7 +220,7 @@ The Messiah would save people from their sin out of every people group in the wo
 What did God promise Moses?  
 God promised Moses that in the future he would send another prophet like Moses.
 
-In what way would the Messiah like Moses?  
+In what way would the Messiah be like Moses?  
 The Messiah would be a prophet like Moses.
 
 #### 21-04
@@ -256,7 +256,7 @@ The Messiah would hear God’s messages perfectly, understand them perfectly, an
 #### 21-07
 
 Why did priests do?  
-Priests offered sacrifices to God to so God’s people did not get punished for their sin. Priests prayed to God for the people.
+Priests offered sacrifices to God so God’s people did not get punished for their sin. Priests prayed to God for the people.
 
 How would the Messiah be the perfect high priest?  
 The Messiah would offer himself as a perfect sacrifice to God on behalf of the people. No other sacrifice would be necessary because the Messiah was perfect, he never sinned.
@@ -305,7 +305,7 @@ According to the prophets, how would the Messiah die?
 The Messiah would be mistreated and pierced, and would die in great suffering.
 
 Did the Messiah do anything wrong to deserve death?  
-No. The Messiah did not do anything wrong. He died so that he could save his people from their sin.
+No. The Messiah did not do anything wrong. The Messiah died so that he could save his people from their sin.
 
 #### 21-13
 
@@ -357,9 +357,9 @@ Use the following translation questions to understand specific details of the pa
 
 #### 21-04
 
-**one of his own descendants** God promised David that the Messiah would be born in his family line. He would be a particular offspring born in David’s lineage. How would you express **one of his own descendants** to mean a direct descendant of David himself?
+**one of his own descendants** God promised David that the Messiah would be born in his family line. The Messiah would be a particular offspring born in David’s lineage. How would you express **one of his own descendants** to mean a direct descendant of David himself?
 
-**rule over** God’s people The Messiah would be king. He would govern God’s people for all time. How would you express **rule over** God’s people to mean to exercise authority to govern a people?
+**rule over** God’s people The Messiah would be king. The Messiah would govern God’s people for all time. How would you express **rule over** God’s people to mean to exercise authority to govern a people?
 
 #### 21-05
 
@@ -371,7 +371,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 21-06
 
-**the perfect prophet** The Messiah was free from any sin or defeat. He would be a prophet who would be perfect in obedience to God, giving every word God would speak to the people. He would present God perfectly to the people, helping them to know and understand God. How would you express **the perfect prophet** to mean a messenger of God who always obeyed God in every way and always spoke truly about God in every way?
+**the perfect prophet** The Messiah was free from any sin or defeat. The Messiah would be a prophet who would be perfect in obedience to God, giving every word God would speak to the people. The Messiah would present God perfectly to the people, helping them to know and understand God. How would you express **the perfect prophet** to mean a messenger of God who always obeyed God in every way and always spoke truly about God in every way?
 
 #### 21-07
 
@@ -409,7 +409,7 @@ Use the following translation questions to understand specific details of the pa
 
 **30 silver coins** At the time, each of these coins was worth the amount of money a person could earn in four days. How would you express **30 silver coins** to mean thirty coins made out of silver?
 
-**gamble for his clothes** Those who killed the Messiah played a game of betting to win his clothes. How would you express **gamble for his clothes** to mean to play a game of chance to determine who would win his clothes?
+**gamble for his clothes** Those who killed the Messiah played a game of betting to win his clothes. How would you express **gamble for his clothes** to mean playing a game of chance to determine who would win his clothes?
 
 #### 21-12
 
@@ -437,7 +437,7 @@ Use the following translation questions to understand specific details of the pa
 
 **at exactly the right time** God knew the perfect time to send the Messiah into the world. God sent the Messiah into the world at a time of human history that was not too late or too early. How would you express **at exactly the right time** to mean God sent the Messiah to come into the world at a time in human history that would perfectly fulfill God’s plan?
 
-**into the world** God sent the Messiah to the people of the world. The Messiah existed before he lived in the world. He would come **into the world** not only for the Jews, but for all people. How would you express **into the world** to mean to the people who lived in the world?
+**into the world** God sent the Messiah to the people of the world. The Messiah existed before he lived in the world. The Messiah would come **into the world** not only for the Jews, but for all people. How would you express **into the world** to mean to the people who lived in the world?
 
 <!-- page break -->
 
@@ -453,7 +453,7 @@ Use the following discourse questions to understand the meaning of the story. Pa
 
 Even before God created the world, God planned to send the Messiah. This was a part of God’s eternal plan (plan for all time). (21-01)
 
-God promised Adam and Eve that he would later send the Messiah. The Messiah would be born into the world as one of Eve’s descendants and complete defeat Satan. (21-01)
+God promised Adam and Eve that he would later send the Messiah. The Messiah would be born into the world as one of Eve’s descendants and completely defeat Satan. (21-01)
 
 God promised Abraham that he would later send the Messiah. The Messiah would be one of Abraham’s descendants, he would bring blessing to all people groups in the world, and he would save people from their sin out of every people group. (21-02)
 
@@ -465,7 +465,7 @@ God promised David that he would later send the Messiah. The Messiah would be on
 
 God spoke to Jeremiah and told him that he would make a New Covenant with his people. The Messiah would make this New Covenant possible. (21-05)
 
-In the New Covenant, God would know his people personally. He would establish new way of relating to his people. (21-05)
+In the New Covenant, God would know his people personally. He would establish a new way of relating to his people. (21-05)
 
 In the New Covenant, God’s people would love him and want to obey his laws. God’s people would not see obedience as a burden. (21-05)
 
@@ -530,7 +530,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -559,20 +559,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -619,7 +619,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -681,7 +681,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -693,7 +693,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

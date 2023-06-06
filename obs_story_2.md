@@ -154,7 +154,7 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 02-01
 
@@ -162,7 +162,7 @@ What kind of life did Adam and his wife have in the garden?
 Adam and his wife were happy and naked.
 
 Why were Adam and Eve not ashamed that they were naked?  
-There was no sin in the world.God created everything.
+There was no sin in the world. God created everything.
 
 #### 02-02
 
@@ -177,7 +177,7 @@ He asked, “Did God really tell you not to eat the fruit from any of the trees 
 
 #### 02-03
 
-From which tree were Adam and and his wife not allowed to eat?  
+From which tree were Adam and his wife not allowed to eat?  
 They were not to eat from the tree of the knowledge of good and evil.
 
 What did God say would happen if Adam and his wife ate from the tree of the knowledge of good and evil?  
@@ -202,7 +202,7 @@ No, they freely chose to eat the fruit and disobey God.
 #### 02-06
 
 What happened when the man and woman ate the fruit?  
-After the man and woman ate the fruit, their eyes were opened and they realized they were naked.
+After the man and woman ate the fruit, their eyes were opened, and they realized they were naked.
 
 What did the man and the woman do when they realized they were naked?  
 They sewed leaves together to make clothes.
@@ -216,15 +216,15 @@ What did God say to them?
 God asked them where they were.
 
 How did Adam answer God?  
-He told God that they hid because they heard his sound and were afraid.
+Adam told God that they hid because they heard his sound and were afraid.
 
 #### 02-08
 
 What were the next questions God asked the humans?  
-He asked who told them that they were naked and whether they ate the fruit God had forbidden.
+God asked who told them that they were naked and whether they ate the fruit God had forbidden.
 
 How did the man respond when God confronted him about his sin?  
-He blamed the woman.
+The man blamed the woman.
 
 How did the woman respond when God confronted her about her sin?  
 She blamed the snake.
@@ -240,12 +240,12 @@ There would be hatred between humans and snakes.
 #### 02-10
 
 What was God’s curse on the woman?  
-You will have painful childbirth, and although your desire will be for your husband, he will rule over you.
+The woman will have painful childbirth, and although her desire will be for her husband, the husband will rule over her.
 
 #### 02-11
 
 What was God’s curse on the man?  
-You will work hard to grow food, and you will die and return to the soil.
+The man will work hard to grow food, and he will die and return to the soil.
 
 What name did the man give to his wife?  
 He named her Eve because she would be the mother of all humans.
@@ -256,7 +256,7 @@ God clothed Adam and Eve with animal skins.
 #### 02-12
 
 How did God prevent Adam and Eve from living forever?  
-He sent them out of the garden containing the tree of life and guarded the entrance with powerful angels.
+God sent them out of the garden containing the tree of life and guarded the entrance with powerful angels.
 
 ### Translation Questions
 
@@ -266,27 +266,27 @@ Use the following translation questions to understand specific details of the pa
 
 **garden** This **garden** refers to a special collection of trees and plants that God prepared for Adam and Eve to enjoy and from which to eat. How would you speak of a **garden** as an area of land planted with trees and plants that produces food and provides beauty?
 
-**shame** Shame is the feeling that comes with knowing we have sinned or that we fall short in some way. What word in your language mean **shame** as in disgrace or dishonor?
+**shame** Shame is the feeling that comes with knowing we have sinned or that we fall short in some way. What word in your language means **shame** as in disgrace or dishonor?
 
 **sin** Sin involves actions, thoughts, and words that are against God’s will and laws. What word in your language means **sin** as in disobeying God by doing something that God does not want us to do?
 
 #### 02-02
 
-**snake** A **snake** is an elongated, legless creature that now moves by wiggling on its belly. How would you refer to a **snake** as in a legless reptile that slithers/crawls on the ground?
+**snake** A **snake** is an elongated, legless creature that now moves by wiggling on its belly. How would you refer to a **snake** as a legless reptile that slithers/crawls on the ground?
 
 **crafty** To be **crafty** means to be clever and sly, with the intent to deceive. What words in your language mean **crafty** as in being skillful at deceiving others?
 
-**Did God really tell you not to eat the fruit from any of the trees in the garden?** The snake asks this question but already knows the answer to it. He was asking this question to create doubt in the woman’s mind and question God’s goodness. How would you phrase the question **Did God really tell you not to eat the fruit from any of the trees in the garden?** in a way that clarifies that the serpent is trying to cause the woman to doubt what God actually said?
+**Did God really tell you not to eat the fruit from any of the trees in the garden?** The snake asks this question but already knows the answer to it. The snake was asking this question to create doubt in the woman’s mind and question God’s goodness. How would you phrase the question **Did God really tell you not to eat the fruit from any of the trees in the garden?** in a way that clarifies that the serpent is trying to cause the woman to doubt what God actually said?
 
 #### 02-03
 
 **fruit** This is a general word for food that grows on trees. The specific **fruit** is not mentioned here. What general word in your language means **fruit** as in the food that a tree produces?
 
-**If you eat that fruit or even touch it, you will die.** The woman says that eating or touching the fruit will cause one to die. She does not repeat God’s command correctly. God said not to eat the fruit. He did not say not to touch it. How would you phrase you will die as in the end of one’s physical life?
+**If you eat that fruit or even touch it, you will die.** The woman says that eating or touching the fruit will cause one to die. She does not repeat God’s command correctly. God said not to eat the fruit. God did not say not to touch it. How would you phrase you will die as in the end of one’s physical life?
 
 #### 02-04
 
-**like God** The man and the woman were already made in the likeness of God. The snake is suggesting that the woman would be more **like God** if she understood evil. However, God never intended for her to have this knowledge. How would you phrase **like God** to mean sharing characteristics or being similar to God?
+**like God** The man and the woman were already made in the likeness of God. The snake suggests that the woman would be more **like God** if she understood evil. However, God never intended for her to have this knowledge. How would you phrase **like God** to mean sharing characteristics or being similar to God?
 
 **understand good and evil** The snake is suggesting that eating the fruit will cause the humans to know from personal experience what things are good and what things are bad. How would you phrase **understand good and evil** to mean knowing things that are pleasing to God and things that are not pleasing to God?
 
@@ -306,9 +306,9 @@ Use the following translation questions to understand specific details of the pa
 
 **God walking** Although God is spirit, it seems that God regularly came to the garden to walk and talk with the man and the woman. We do not know what this looked like, but it could mean that God appeared in some form as he walked through the garden. How would you say **God walking** as would be used to talk about a person walking?
 
-**Where are you?** God already knew the answer to this question. The purpose of the question was to force the man and the woman to explain why they were hiding and to acknowledge God was speaking to them. How would say **Where are you?** to ask someone to identify their whereabouts in order to call their attention?
+**Where are you?** God already knew the answer to this question. The purpose of the question was to force the man and the woman to explain why they were hiding and to acknowledge God was speaking to them. How would you say **Where are you?** to ask someone to identify their whereabouts in order to call their attention?
 
-**because I was naked** The word because explains that the reason Adam and Eve were afraid was that they were naked. Adam and Eve were fearful **because** they had come to know that they were naked and they were ashamed of their nakedness. How would you express **because I was naked** to mean the reason Adam and Eve were afraid was that they were naked?
+**because I was naked** The word because explains that the reason Adam and Eve were afraid was they were naked. Adam and Eve were fearful **because** they had come to know that they were naked, and they were ashamed of their nakedness. How would you express **because I was naked** to mean the reason Adam and Eve were afraid was that they were naked?
 
 **So I hid** The word so explains the result/outcome of Adam and Eve realizing they were naked. When Adam and Eve realized they were naked, they hid. How would you express **So I hid** to mean the result of Adam and Eve realizing they were naked was to hide?
 
@@ -336,9 +336,9 @@ Use the following translation questions to understand specific details of the pa
 
 **the ground is cursed** As punishment for Adam’s disobedience, the earth would no longer be fruitful. Adam would have to work very hard to raise enough food to eat. How would you express **the ground is cursed** to mean that the ground would not be fruitful in producing food?
 
-**you will die** The ultimate punishment for their disobedience was death. How would you phrase **you will die** to mean that life would come to an end?
+**you will die** The ultimate punishment for Adam and Eve’s disobedience was death. How would you phrase **you will die** to mean that life would come to an end?
 
-**life-giver** God gave life to Adam and Eve, and it is passed on to every person through childbirth. Eve would be the female ancestor of all later generations. How would you express that Eve is the **life-giver** as in the one through whom human life would be passed on to future generations?
+**life-giver** God gave life to Adam and Eve, and life is passed on to every person through childbirth. Eve would be the female ancestor of all later generations. How would you express that Eve is the **life-giver** as in the one through whom human life would be passed on to future generations?
 
 #### 02-12
 
@@ -366,9 +366,9 @@ The snake was very crafty and caused the woman to doubt what God had said. (02-0
 
 The snake also suggested that God commanded them not to eat from any of the trees in the garden. This was a lie. God told them they could eat from all the trees in the garden except one tree: the tree of the knowledge of good and evil. (02-02)
 
-The woman did not accurately repeat God’s command. The woman said God commanded them not to eat or touch the fruit. God did not command them not to touch it. He told them if they ate it, they would die. (02-03)
+The woman did not accurately repeat God’s command. The woman said God commanded them not to eat or touch the fruit. God did not command them not to touch it. God told them if they ate it, they would die. (02-03)
 
-The snake denied God’s word. He said that they would not die if they disobeyed God’s command. (02-04)
+The snake denied God’s word. The snake said that they would not die if they disobeyed God’s command. (02-04)
 
 The snake made it seem that God was withholding good things from the man and the woman. He told the woman that eating the fruit would make them like God. (02-04)
 
@@ -378,17 +378,17 @@ The woman saw that the fruit looked good to eat. She chose to satisfy her desire
 
 The woman wanted to be wise. She listened to the lie of the snake. She ate the fruit to become like God and know good and evil. (02-05)
 
-The woman gave some of the fruit to her husband and he also ate it. (02-05)
+The woman gave some of the fruit to her husband, and he also ate it. (02-05)
 
 ##### What happened after the woman and the man ate the fruit? (02-06, 02-07, 02-08)
 
 The woman and the man came to realize they were naked for the first time. (02-06)
 
-They felt shame over their nakedness and tried to cover it by sewing leaves together. They had a feeling of disgrace for doing wrong. (02-06)
+The mand and the woman felt shame over their nakedness and tried to cover it by sewing leaves together. The man and the woman had a feeling of disgrace for doing wrong. (02-06)
 
-They were afraid of God and they hid from him. Instead of enjoying God’s presence (cf. 02-01), they now feared him and tried to hide from him. (02-07)
+The man and the woman were afraid of God, and they hid from him. Instead of enjoying God’s presence (cf. 02-01), the mand the woman now feared him and tried to hide from him. (02-07)
 
-When God asked them if they ate the fruit, they each blamed someone else. The man blamed the woman. The woman blamed the snake. Neither took responsibility for disobeying God. (02-08)
+When God asked the man and the woman if they ate the fruit, the man and the woman each blamed someone else. The man blamed the woman. The woman blamed the snake. Neither took responsibility for disobeying God. (02-08)
 
 ##### How would God’s curse effect creation? (02-09, 02-10, 02-11)
 
@@ -398,7 +398,7 @@ Humans and snakes would hate each other. Instead of ruling over the animals (cf.
 
 Childbirth would be extremely painful. Now, obeying God’s command to fill the earth (cf. 01-15) would be painful. (02-10)
 
-The woman would desire the man and the man would rule over her. Rather than man and woman enjoying a peaceful and cooperative relationship (cf. 01-14, 01-15), each would seek power and authority over the other. (02-10).
+The woman would desire the man, and the man would rule over her. Rather than man and woman enjoying a peaceful and cooperative relationship (cf. 01-14, 01-15), each would seek power and authority over the other. (02-10).
 
 The ground would not be fruitful. The man was supposed to take care of the garden (cf. 01-11). Now, it would be hard for the man to work the ground and grow food. (02-11)
 
@@ -421,7 +421,7 @@ God promised that a descendant of the snake would crush the head of the serpent.
 Answer the following theology questions as a community. Discuss what truths this story teaches.
 
 1.  What does this story teach us about sin? What does the temptation and disobedience of Adam and Eve teach us about sin?
-2.  What are consequences/effects of sin? What takes place after Adam and Eve disobeyed God that teaches us about the negative results of sin?
+2.  What are the consequences/effects of sin? What takes place after Adam and Eve disobeyed God that teaches us about the negative results of sin?
 3.  How is God able to deal with sin? What did God do in this story that showed his intention to deal with sin?
 
 ### Translation Draft
@@ -434,7 +434,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -462,20 +462,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -522,7 +522,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -584,7 +584,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -596,7 +596,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

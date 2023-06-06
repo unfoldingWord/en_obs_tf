@@ -170,7 +170,7 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 26-01
 
@@ -189,10 +189,10 @@ Everyone said good things about Jesus.
 #### 26-02
 
 What was the name of the city where Jesus lived as a child?  
-He lived in Nazareth.
+Jesus lived in Nazareth.
 
 Where did Jesus go on the Sabbath?  
-He went to the place of worship.
+Jesus went to the place of worship.
 
 Why did the people in the place of worship hand Jesus the scroll of Isaiah?  
 They wanted Jesus to read from it.
@@ -205,7 +205,7 @@ Jesus opened up the scroll and read part of it to the people.
 What did the scroll say was the reason God gave this person the Spirit of God?  
 God gave this person the Spirit of God to proclaim good news to the poor.
 
-Why did the scroll say about the person in the passage of Isaiah?  
+What did the scroll say about the person in the passage of Isaiah?  
 God sent this person to set prisoners free, make the blind see, and free those whom others are oppressing.
 
 What did the passage of Isaiah say the Lord would do at a certain time?  
@@ -220,7 +220,7 @@ The passage of Scripture that Jesus read was about what person?
 It was about the Messiah.
 
 What did Jesus say about the Scripture that he had just read?  
-He said those things were happening right then.
+Jesus said those things were happening right then.
 
 How did the people of Jesus’ hometown react to his words?  
 They were amazed and asked, “Isn’t this the son of Joseph?”
@@ -269,7 +269,7 @@ Jesus healed them.
 #### 26-09
 
 What did Jesus do to people who had demons?  
-Jesus commanded demons to come out of people and the demons came out.
+Jesus commanded demons to come out of people, and the demons came out.
 
 Who did the demons acknowledge Jesus to be when he commanded them to come out of people?  
 They said Jesus was the Son of God.
@@ -286,7 +286,7 @@ What did Jesus call these special representatives?
 Jesus called these 12 special representatives apostles.
 
 What did the apostles do?  
-They apostles traveled with Jesus and learned from him.
+The apostles traveled with Jesus and learned from him.
 
 ### Translation Questions
 
@@ -296,7 +296,7 @@ Use the following translation questions to understand specific details of the pa
 
 **After Jesus refused Satan’s temptations** In the previous story, Satan tried to convince Jesus to disobey God. Jesus rejected and resisted these temptations by Satan. Following that story, Jesus returned to the region of Galilee. How would you express **After Jesus refused Satan’s temptations** to mean Jesus returned to the region of Galilee subsequent to the time he resisted Satan’s attempts to get him to disobey God in the wilderness?
 
-**went from place to place** Jesus traveled to around and visited various towns in the region. How would you express **went from place to place** to mean Jesus traveled to different towns and other places?
+**went from place to place** Jesus traveled around and visited various towns in the region. How would you express **went from place to place** to mean Jesus traveled to different towns and other places?
 
 **Everyone** Those who saw and heard Jesus spoke well of him. How would you express **Everyone** to mean all the people who knew him or heard about Jesus?
 
@@ -306,13 +306,13 @@ Use the following translation questions to understand specific details of the pa
 
 **scroll** At that time, people wrote on long sheets of paper or leather. These long sheets could be rolled up. How would you express **scroll** to mean a long sheet of paper or leather that was rolled up and had writing on it?
 
-**a scroll with the messages of the prophet Isaiah** Isaiah had written on a scroll hundreds of years before. This was a copy of that scroll. How would you express **a scroll with the messages of the prophet Isaiah** to mean a scroll that had the words that the prophet Isaiah had written?
+**a scroll with the messages of the prophet Isaiah** Isaiah wrote on a scroll hundreds of years before. This was a copy of that scroll. How would you express **a scroll with the messages of the prophet Isaiah** to mean a scroll that had the words that the prophet Isaiah had written?
 
 **opened up the scroll** Jesus unrolled the scroll so he could read what was written on it. How you express **opened up the scroll** to mean Jesus rolled open the scroll or unrolled the scroll?
 
 #### 26-03
 
-**proclaim good news to the poor** This passage written by the prophet Isaiah says that the person whom this passage spoke about would announce to good news that would benefit those who were poor and needy. How would you express **proclaim good news to the poor** to mean to tell poor and needy people the good message that God will help them?
+**proclaim good news to the poor** This passage written by the prophet Isaiah says that the person whom this passage spoke about would announce good news that would benefit those who were poor and needy. How would you express **proclaim good news to the poor** to mean to tell poor and needy people the good message that God will help them?
 
 **to set prisoners free** God sent the person spoken of in this passage to cause prisoners to be released. He would tell people who are wrongfully in prison that they will be released. How would you express **to set prisoners free** to mean to bring people out of prison and into freedom?
 
@@ -324,7 +324,7 @@ Use the following translation questions to understand specific details of the pa
 
 **The things** I just read to you, they are happening right now Jesus read from the scroll of Isaiah. Isaiah wrote these things hundreds of years before Jesus. Jesus told the people that the things Isaiah said would happen in the future were being fulfilled at that moment. **The things** Jesus read to the people who were gathered came true at the time they heard them. How would you express **The things** I just read to you, they are happening right now to mean the things the people just heard Jesus read were being fulfilled at that very moment?
 
-**Isn’t this the son of Joseph?** The people were not asking if he was Joseph’s son or not. This question surprise at what Jesus said. They were wondering how he could be the Messiah since they thought he was only the son of an ordinary man. How would you express **Isn’t this the son of Joseph?** to mean this man is only the son of Joseph or everyone knows Jesus is just Joseph’s son?
+**Isn’t this the son of Joseph?** The people were not asking if he was Joseph’s son or not. They were wondering how he could be the Messiah since they thought he was only the son of an ordinary man. How would you express **Isn’t this the son of Joseph?** to mean this man is only the son of Joseph or everyone knows Jesus is just Joseph’s son?
 
 #### 26-05
 
@@ -334,7 +334,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 26-06
 
-**during the time of the prophet Elisha** Elisha was God’s prophet who came after Elijah. Like Elijah, Elisha confronted Israelite kings who were sinning against God and he did miracles that God gave him power to do. How would you express **during the time of the prophet Elisha** to mean at the time when Elisha lived and served as a prophet of God?
+**during the time of the prophet Elisha** Elisha was God’s prophet who came after Elijah. Like Elijah, Elisha confronted Israelite kings who were sinning against God and he did miracles that God gave him the power to do. How would you express **during the time of the prophet Elisha** to mean at the time when Elisha lived and served as a prophet of God?
 
 **a commander of Israel’s enemies** Naaman was a military leader who served in a foreign nation. The people of this nation were enemies with the people of Israel. How would you express **a commander of Israel’s enemies** to mean a military leader who served in the army of a different nation which opposed Israel?
 
@@ -342,7 +342,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 26-07
 
-**seized** Jesus The people of Nazareth grabbed Jesus with force. They took hold of Jesus with their hands so they could take him where they wanted him to go. How would you express **seized** Jesus to mean grabbed hold of Jesus with their hands?
+**seized** The people of Nazareth grabbed Jesus with force. They took hold of Jesus with their hands so they could take him where they wanted him to go. How would you express **seized** Jesus to mean grabbed hold of Jesus with their hands?
 
 **dragged him** The people who seized Jesus pulled him with force out of the place of worship. How would you express **dragged him** to mean to roughly pull Jesus to a different location with force?
 
@@ -356,7 +356,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 26-09
 
-**who had demons in them** Some people were possessed by spirits which were evil and opposed to God. How would you express **who had demons in them** to mean people who were controlled by evil spirits?
+**who had demons in them** Some people were possessed by spirits that were evil and opposed to God. How would you express **who had demons in them** to mean people who were controlled by evil spirits?
 
 **Jesus commanded the demons** Jesus spoke and told the demons to leave people. How would you express **Jesus commanded the demons** to mean Jesus spoke with authority and ordered the evil spirits to leave the people and the demons did what Jesus commanded them to do?
 
@@ -366,7 +366,7 @@ Use the following translation questions to understand specific details of the pa
 
 **special representatives** The 12 men would serve Jesus in other places. Jesus specifically chose them for this role. They would do things and say things for Jesus. How would you express **special representatives** to mean people Jesus specifically chose to speak and act on his behalf?
 
-**apostles** Jesus called the 12 men **apostles**. Apostles were went out for a specific purpose and had the same authority as the one who sent them. How would you express **apostles** to mean people send out by Jesus for a specific purpose who have the same authority as the one who sent them?
+**apostles** Jesus called the 12 men **apostles**. Apostles went out for a specific purpose and had the same authority as the one who sent them. How would you express **apostles** to mean people send out by Jesus for a specific purpose who have the same authority as the one who sent them?
 
 **learned from him** The 12 men Jesus chose traveled with Jesus as students/disciples. They gained understanding from all that Jesus taught. How would you express **learned from him** to mean acquired knowledge and understanding from all that Jesus said and did?
 
@@ -394,15 +394,15 @@ Healing: One of the major activities of Jesus’ ministry was healing the sick, 
 
 Jews: Jesus taught Jews in the place of worship. Jesus is the Messiah promised to the Jews. Jesus ministered to the Jewish people. (26-02, 26-03, 26-04, 26-06)
 
-Foreigners: Jesus gave the example of Elijah helping out a widow who was from a different/foreign nation. Jesus gave the example of Elisha healing Naaman of his skin disease. Naaman was a commander in a foreign army which were enemies of Israel. These examples emphasized that Jesus would minister to Jewish and non-Jewish people. (26-05, 26-06)
+Foreigners: Jesus gave the example of Elijah helping out a widow who was from a different/foreign nation. Jesus gave the example of Elisha healing Naaman from his skin disease. Naaman was a commander in a foreign army which were enemies of Israel. These examples emphasized that Jesus would minister to Jewish and non-Jewish people. (26-05, 26-06)
 
 All Peoples: Jesus ministers to all different kinds of people: people from different ethnicities, people who lived in different geographies, and people who had different problems/challenges/difficulties. (26-01, 26-05, 26-06, 26-08, 26-09)
 
 ##### What does Jesus’ ministry teach us about who Jesus is (his identity)? (26-01, 26-04, 26-09, 26-10)
 
-Good: People recognized that Jesus was good. He gained popularity among the people and people recognized that he brought a good impact in the world and their lives. (26-01)
+Good: People recognized that Jesus was good. Jesus gained popularity among the people and people recognized that he brought a good impact in the world and their lives. (26-01)
 
-Messiah: When Jesus said that the words of Isaiah were being fulfilled today, Jesus was claiming that the was the Messiah. Jesus was the promised deliverer God sent to proclaim good news, freedom, sight, and deliverance. (26-04)
+Messiah: When Jesus said that the words of Isaiah were being fulfilled today, Jesus was claiming that he was the Messiah. Jesus was the promised deliverer God sent to proclaim the good news, freedom, sight, and deliverance. (26-04)
 
 Human: Jesus was born of Mary by the power of the Holy Spirit. Although Joseph did not father Jesus, Joseph functioned as the earthly father of Jesus. Jesus is God’s enteral Son and also was born as a human. (26-04)
 
@@ -434,7 +434,7 @@ Answer the following theology questions as a community. Discuss what truths this
 
 1.  How should we correctly understand who Jesus is (i.e., his identity)? What does the story of Jesus starting his ministry teach us about his identity?
 2.  How did Jesus fulfill God’s promise to send the Messiah? How does this story confirm that Jesus is God’s promised Messiah?
-3.  What does it mean to be a follower of Jesus? How can Jesus’ ministry serve as an example for how we can serve Jesus?
+3.  What does it mean to be a follower of Jesus? How can Jesus’ ministry serve as an example of how we can serve Jesus?
 
 ### Translation Draft
 
@@ -446,7 +446,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -475,20 +475,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -535,7 +535,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -597,7 +597,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -609,7 +609,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

@@ -163,7 +163,7 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 23-01
 
@@ -174,7 +174,7 @@ Was the baby Joseph’s baby?
 No. When he heard that Mary was pregnant, he knew it was not his baby.
 
 What did Joseph plan to do with Mary since she was pregnant?  
-He planned to divorce Mary quietly because he did not want to shame her.
+Joseph planned to divorce Mary quietly because he did not want to shame her.
 
 Who appeared to Joseph in a dream?  
 An angel appeared to Joseph in a dream.
@@ -191,7 +191,7 @@ What is the meaning of the name Jesus?
 It means ‘Yahweh saves.’
 
 Why was the baby to be named Jesus?  
-The baby was to be named Jesus because he would save people from their sins.
+The baby was to be named Jesus because Jesus would save people from their sins.
 
 #### 23-03
 
@@ -207,7 +207,7 @@ Where did Joseph and Mary go when the time was near for Mary to give birth?
 Joseph and Mary made a long journey to the town of Bethlehem when it was time for Mary to give birth.
 
 Why did Joseph and Mary make the long journey to Bethlehem?  
-They had to go there because the Roman government told everyone to go to where their ancestors had lived in order to be counted.
+Joseph and Mary had to go there because the Roman government told everyone to go to where their ancestors had lived in order to be counted.
 
 Why was Bethlehem important?  
 King David was born in Bethlehem, and he was the ancestor of both Mary and Joseph.
@@ -215,10 +215,10 @@ King David was born in Bethlehem, and he was the ancestor of both Mary and Josep
 #### 23-05
 
 What problem did Joseph and Mary encounter when they arrived in Bethlehem?  
-When Joseph and Mary arrived in Bethlehem there was no place for them to stay except a place were animals stayed.
+When Joseph and Mary arrived in Bethlehem there was no place for them to stay except a place where animals stayed.
 
 In what kind of place was Jesus born?  
-He was born in a place where animals stayed.
+Jesus was born in a place where animals stayed.
 
 What did Mary do when Jesus was born?  
 Mary laid the baby in a feeding trough since there was no bed.
@@ -240,7 +240,7 @@ The angel told them, “Do not be afraid, because I have some good news for you.
 #### 23-07
 
 What instructions did the angel give the shepherds?  
-The angel told the shepherds go search for the baby.
+The angel told the shepherds to go search for the baby.
 
 How would the shepherds know it was the baby?  
 The baby would be wrapped in pieces of cloth and lying in a feeding trough.
@@ -294,19 +294,19 @@ Use the following translation questions to understand specific details of the pa
 
 #### 23-02
 
-**do not be afraid to take Mary as your wife** The angel gave Joseph a command. He told him not to fear marrying Mary. This instruction ordered Joseph to not hesitate to have Mary as his wife or to stop thinking that you shouldn’t marry Mary. How would you express **do not be afraid to take Mary as your wife** as a command to not fear/hesitate marrying Mary?
+**do not be afraid to take Mary as your wife** The angel gave Joseph a command. He told him not to fear marrying Mary. This instruction ordered Joseph not to hesitate to have Mary as his wife or to stop thinking that he shouldn’t marry Mary. How would you express **do not be afraid to take Mary as your wife** as a command to not fear/hesitate to marry Mary?
 
 **The baby that is in her is from the Holy Spirit** The Holy Spirit caused Mary to become pregnant with this child. There was no physical or sexual contact. This was a miracle. How would you express **The baby that is in her is from the Holy Spirit** to mean the baby in Mary’s womb was conceived by a miracle of the Holy Spirit?
 
 **Name him Jesus** The angel instructs Joseph to call the baby Jesus. This is a command from God telling Joseph exactly what to name the baby. How would you express **Name him Jesus** as a command that instructs Joseph to give the baby the name Jesus?
 
-**because he will save the people from their sins** The angel ordered Joseph to name the baby Jesus. The reason the baby was given this name was he would save people from their sins. How would you express **because he will save the people from their sins** to mean the reason Joseph was to name the baby Jesus was he would rescue people from the punishment of their sins?
+**because he will save the people from their sins** The angel ordered Joseph to name the baby Jesus. The reason the baby was given this name was he would save people from their sins. How would you express **because he will save the people from their sins** to mean the reason Joseph was to name the baby Jesus because he would rescue people from the punishment of their sins?
 
 #### 23-03
 
-**So Joseph married Mary** Joseph planned to divorce Mary so that she would not be publicly ashamed. The angel told Joseph to marry Mary, the angel explained that the Holy Spirit caused Mary to become pregnant, and the angel told Joseph to name the baby Jesus because he would save people from their sins. The result of this message was Joseph agreed to marry Mary. How would you express **So Joseph married Mary** to mean the result of the angel’s message was Joseph changed his plan to divorce Mary quietly and, instead, kept their engagement and married her?
+**So Joseph married Mary** Joseph planned to divorce Mary so that she would not be publicly shamed. The angel told Joseph to marry Mary, the angel explained that the Holy Spirit caused Mary to become pregnant, and the angel told Joseph to name the baby Jesus because he would save people from their sins. The result of this message was Joseph agreed to marry Mary. How would you express **So Joseph married Mary** to mean the result of the angel’s message was Joseph changed his plan to divorce Mary quietly and, instead, kept their engagement and married her?
 
-**but he did not sleep with her** Joseph married Mary. Normally, after marriage a husband and wife have sexual intercourse. It would be expected that a man would sleep with the woman he took as his wife, but Joseph did the unexpected/opposite. Joseph did not have sexual relations with Mary and kept her a virgin until the birth of the baby. How would you politely express **but he did not sleep with her** to mean Joseph did not have sexual intercourse with Mary until after the baby was born?
+**but he did not sleep with her** Joseph married Mary. Normally, after marriage, a husband and wife have sexual intercourse. It would be expected that a man would sleep with the woman he took as his wife, but Joseph did the unexpected/opposite. Joseph did not have sexual relations with Mary and kept her a virgin until the birth of the baby. How would you politely express **but he did not sleep with her** to mean Joseph did not have sexual intercourse with Mary until after the baby was born?
 
 #### 23-04
 
@@ -318,7 +318,7 @@ Use the following translation questions to understand specific details of the pa
 
 **no place for them to stay** When Mary and Joseph arrived in Bethlehem, there was no usual place for them to stay. Because Bethlehem was so crowded at that time, the usual rooms for guests were already full of people. How would you express **no place for them to stay** to mean the usual places where people stayed were all full and not available?
 
-**where some animals were kept** There was no room in the normal places where people could stay. So, Mary and Joseph stayed in a place for sheltering animals, not a place where people lived. How would you express **where some animals were kept** to mean a place where animals are sheltered and are cared for?
+**where some animals were kept** There was no room in the normal places where people could stay. So, Mary and Joseph stayed in a place for sheltering animals, not a place where people lived. How would you express **where some animals were kept** to mean a place where animals are sheltered and cared for?
 
 **a feeding trough** Mary laid her baby in an animal feedbag. The box could have been filled with hay to provide a padded surface for the baby to lie on. How would you express **a feeding trough** to mean a wooden or stone box for feeding animals?
 
@@ -376,21 +376,21 @@ Use the following discourse questions to understand the meaning of the story. Pa
 
 ##### What were the circumstances of Jesus’ birth? How did Jesus’ birth come about? What does this teach us about Jesus? (23-01, 23-02, 23-04, 23-05, 23-06)
 
-Sinless: Jesus was born by Mary. She was a virgin. The Holy Spirit caused Mary to become pregnant. Jesus birth was a miracle. He was not born sinful like other humans are. (23-01, 23-02)
+Sinless: Jesus was born by Mary. She was a virgin. The Holy Spirit caused Mary to become pregnant. Jesus’ birth was a miracle. Jesus was not born sinful like other humans are. (23-01, 23-02)
 
 Savior: Joseph was to name Mary’s baby Jesus. The name Jesus means Yahweh saves. Jesus would save people from their sins. (23-02)
 
 King: The census caused Joseph and Mary to travel to Bethlehem. Jesus was born in Bethlehem. Jesus was born in the lineage of King David. Jesus was the promised king that God promised to David in the Old Testament. Jesus was born in the same town David was born and he was a direct ancestor of David. (23-04)
 
-Humble: Jesus was born in a place where animals lived. He was born in a very humble and meek way. (23-05)
+Humble: Jesus was born in a place where animals lived. Jesus was born in a very humble and meek way. (23-05)
 
 Messiah/Master: The birth of Jesus was announced by an angel to shepherds. They said that the Messiah, the Master, was born. Jesus is the promised deliverer/Messiah and final authority/Master of all. (23-06)
 
-##### What role did Joseph as a faithful servant? (23-01, 23-02, 23-03)
+##### What role did Joseph fulfill as a faithful servant? (23-01, 23-02, 23-03)
 
-Righteous: Joseph was a righteous man. He wanted to quietly divorce Mary rather than causing her shame. His plan to do this showed mercy and compassion. (23-01)
+Righteous: Joseph was a righteous man. Joseph wanted to quietly divorce Mary rather than causing her shame. His plan to do this showed mercy and compassion. (23-01)
 
-Obedience: Joseph obeyed the angel. He married Mary and did not follow through on his plan to quietly divorce her. (23-02, 23-03)
+Obedience: Joseph obeyed the angel. Joseph married Mary and did not follow through on his plan to quietly divorce her. (23-02, 23-03)
 
 Self-Control: Joseph practiced self-control. Joseph married Mary but did not have sexual relations with her until the baby was born. This shows that Joseph was godly in character and had self-restraint. (23-03)
 
@@ -412,7 +412,7 @@ Answer the following theology questions as a community. Discuss what truths this
 
 1.  Who is Jesus and what has he come to do? What does the story of the birth of Jesus tell us about who Jesus is and what he has come to do?
 2.  What does it look like to faithfully serve Jesus? How is Joseph a godly example for us to follow?
-3.  What are appropriates responses to Jesus? How do the responses of people to Jesus in this story teach us about proper responses to Jesus?
+3.  What are appropriate responses to Jesus? How do the responses of people to Jesus in this story teach us about proper responses to Jesus?
 
 ### Translation Draft
 
@@ -424,7 +424,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -453,20 +453,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -513,7 +513,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -575,7 +575,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -587,7 +587,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

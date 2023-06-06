@@ -8,7 +8,7 @@ story_num: 15
 
 ### Key Idea
 
-The story of the promised land teaches us how fulfills his promises to bring his people into the land of promise.
+The story of the promised land teaches us how God fulfills his promises to bring his people into the land of promise.
 
 ### Creedal Verse
 
@@ -197,12 +197,12 @@ Answer the following observation questions to gain a basic understanding of the 
 #### 15-01
 
 When it was time to enter the Promised Land, what did Joshua do first?  
-He sent two spies to Jericho.
+Joshua sent two spies to Jericho.
 
 Who helped the two Israelite spies?  
 A prostitute named Rahab hid the two Israelite spies and helped them escape. She did this because she believed in God.
 
-What did the spies promise to do for Rahab the prostitute?  
+What did the spies promise to do for Rahab, the prostitute?  
 They promised to protect Rahab and her family when the Israelites destroyed the city.
 
 #### 15-02
@@ -242,8 +242,8 @@ The other people living in the land were terrified that the Israelites would als
 
 #### 15-06
 
-What did God forbid Israel to do with the peoples living in the land?  
-God commanded the Israelites not to make a peace treaty with any of the peoples living in the land of Canaan.
+What did God forbid Israel to do with the people living in the land?  
+God commanded the Israelites not to make a peace treaty with any of the people living in the land of Canaan.
 
 How did the Gibeonites trick the Israelites into making a peace treaty with them?  
 The Gibeonites lied to the Israelites. They said they were from a place far from Canaan.
@@ -270,12 +270,12 @@ Joshua gathered the Israelite army, march to the Gibeonites, and attacked the Am
 #### 15-09
 
 How else did God fight for the Israelites against the Amorites?  
-He confused the Amorites and sent large hailstones on them.
+God confused the Amorites and sent large hailstones on them.
 
 #### 15-10
 
 How else did God fight for the Israelites against the Amorites?  
-He caused the sun to stay in one place so the Israelites had enough time to completely defeat them.
+God caused the sun to stay in one place so the Israelites had enough time to completely defeat them.
 
 Who won the battle?  
 God won a great victory for the Israelites.
@@ -296,7 +296,7 @@ God gave Israel peace along all of its borders.
 #### 15-13
 
 Why did Joshua call the Israelites together when he was old?  
-He called them together to remind them of their obligation to obey the covenant that God had made with them.
+Joshua called them together to remind them of their obligation to obey the covenant that God had made with them.
 
 How did the Israelites answer Joshua?  
 They promised to remain faithful to God and to follow his laws.
@@ -307,7 +307,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 15-01
 
-**At last it was time for** After the Israelites had wandered in the desert for 40 years, God finally permitted to enter the land of Canaan. How would you express **At last it was time for** to mean the time finally came after a long wait?
+**At last it was time for** After the Israelites had wandered in the desert for 40 years, God finally permitted them to enter the land of Canaan. How would you express **At last it was time for** to mean the time finally came after a long wait?
 
 **It had strong walls around it to protect it** The city was completely surrounded by thick, strong walls made of stone to protect the city from enemies. How would you express **It had strong walls around it to protect it** to mean the city of Jericho was surrounded by thick, strong walls that would keep the inhabitants of the city safe from enemies?
 
@@ -369,7 +369,7 @@ Use the following translation questions to understand specific details of the pa
 
 **marched all night** The Israelites traveled in an organized way as an army. It took them the whole night to reach the Gibeonites. How would you express **marched all night** to mean the Israelite army traveled the whole night to arrive where the Gibeonites lived?
 
-**to reach the Gibeonites** The Israelites marched to get to the Gibeonites and arrived at where the Gibeonites lived. The Gibeonites lived in Canaan, but Canaan is big enough that it took all night for the Israelite army to travel from their camp to where the Gibeonites were. How would you express **to reach the Gibeonites** to mean the Israelites traveled from their camp to arrive at the place where the Gibeonites lived?
+**to reach the Gibeonites** The Israelites marched to get to the Gibeonites and arrived at where the Gibeonites lived. The Gibeonites lived in Canaan, but Canaan was big enough that it took all night for the Israelite army to travel from their camp to where the Gibeonites were. How would you express **to reach the Gibeonites** to mean the Israelites traveled from their camp to arrive at the place where the Gibeonites lived?
 
 **they surprised the Amorite armies** The Amorites did not know that the Israelites were coming to attack them. How would you express **they surprised the Amorite armies** to mean the Israelites attacked the Amorites suddenly and unexpectedly?
 
@@ -379,7 +379,7 @@ Use the following translation questions to understand specific details of the pa
 
 **caused the Amorites** to be confused God made the Amorites panic so that the Amorites were unable to fight together well. How would you express **caused the Amorites to be confused** to mean God made the Amorites panic so that the Amorites were unable to fight together well?
 
-**large hailstones** Very large balls of ice to come down from the sky. How would you express **large hailstones** to mean very large balls of ice to come down from the sky?
+**large hailstones** Are very large balls of ice to come down from the sky. How would you express **large hailstones** to mean very large balls of ice to come down from the sky?
 
 #### 15-10
 
@@ -423,17 +423,17 @@ The first city in the land of Canaan which Israel attacked was Jericho. Jericho 
 
 Joshua sent two spies into the city of Jericho. (15-01)
 
-A prostitute named Rahab lived in Jericho. She had come to believe in God. Because she believed in God Rahab protected the Israelite spies. (15-01)
+A prostitute named Rahab lived in Jericho. Rahab had come to believe in God. Because she believed in God Rahab protected the Israelite spies. (15-01)
 
 Because Rahab believed in God and protected the spies, the spies promised to protect Rahab and her family when the Israelites destroyed Jericho. (15-01)
 
 The Israelites crossed the Jordan River on dry land. The priests stepped into the river first and the water stopped flowing. The Israelites crossed the Jordan River on dry ground. (15-02)
 
-##### How God allow Israel to defeat Jericho? (15-03, 15-04, 15-05)
+##### How did God allow Israel to defeat Jericho? (15-03, 15-04, 15-05)
 
 God told the Israelite to march around Jericho once a day for six days in a row. (15-03)
 
-God told the Israelites to marched around Jericho seven times on the seventh day. The priests were to blow their trumpets and the people were to shout loudly. (15-04)
+God told the Israelites to march around Jericho seven times on the seventh day. The priests were to blow their trumpets and the people were to shout loudly. (15-04)
 
 The Israelites obeyed God and the walls of Jericho fell down. (15-05)
 
@@ -445,14 +445,14 @@ The Israelites spared Rahab and her family and she became a part of the Israelit
 
 When the other people who lived in Canaan heard about how the Israelites destroyed Jericho, they were very afraid of the Israelites. (15-05)
 
-God commanded the Israelites destroy the other people living in Canaan.
-God told the Israelites not to make a a peace treaty with any of the Canaanite peoples. (15-06)
+God commanded the Israelites to destroy the other people living in Canaan.
+God told the Israelites not to make a peace treaty with any of the Canaanite peoples. (15-06)
 
 The Gibeonites deceived Joshua and said they were from outside of Canaan. They tricked the Israelites into making a peace treaty with them. The Israelites did not ask God what they were supposed to do and made a peace treaty with them. (15-06)
 
-The Israelites were angry when they discovered that the Gibeonites lied to them. They Israelites could not break the peace treaty because it was a promise before God. So, when the Gibeonites were attacked by the Amorites, Joshua fought against the Amorites (15-07, 15-08)
+The Israelites were angry when they discovered that the Gibeonites had lied to them. The Israelites could not break the peace treaty because it was a promise before God. So, when the Gibeonites were attacked by the Amorites, Joshua fought against the Amorites (15-07, 15-08)
 
-God fought for the Israelites. He confused the Amorites. He sent hailstones that killed many Amorites. He caused the sun to stay in one place so the Israelites could completely defeat the Amorites. (15-09, 15-10)
+God fought for the Israelites. God confused the Amorites. God sent hailstones that killed many Amorites. God caused the sun to stay in one place so the Israelites could completely defeat the Amorites. (15-09, 15-10)
 
 ##### How was God’s covenant/promises realized in the taking of the land? (15-11, 15-12, 15-13)
 
@@ -484,7 +484,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -513,20 +513,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -573,7 +573,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -635,7 +635,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -647,7 +647,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

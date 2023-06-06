@@ -166,7 +166,7 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 24-01
 
@@ -174,7 +174,7 @@ What did John grow up to become?
 John, the son of Zechariah and Elizabeth, grew up and became a prophet.
 
 Where did John live when he grew up?  
-He lived in the wilderness.
+John lived in the wilderness.
 
 What food did John eat and what clothes did John wear?  
 John ate wild honey and locusts, and wore clothes made from camel hair
@@ -185,7 +185,7 @@ How many people came to listen to John preach?
 Many people came out to the wilderness to listen to John preach.
 
 What message did John preach to the people?  
-He said, “Repent, for the kingdom of God is near!”
+John said, “Repent, for the kingdom of God is near!”
 
 #### 24-03
 
@@ -193,7 +193,7 @@ How did many people respond positively to John’s message?
 Many people heard John’s message and repented from their sins.
 
 What did John do to the people who repented from their sins?  
-He baptized them.
+John baptized them.
 
 How did many of the religious leaders respond to John’s message?  
 Many religious leaders also came to see John, but they did not repent or confess their sins.
@@ -215,9 +215,9 @@ John was the messenger the prophets spoke about whom God would send ahead of the
 #### 24-05
 
 What was John’s answer when the Jews asked him if he was the Messiah?  
-He said he was not the Messiah, but the Messiah was coming after him.
+John said he was not the Messiah, but the Messiah was coming after him.
 
-How did John describe himself in relationship with the Messiah?  
+How did John describe himself in his relationship with the Messiah?  
 John said that the Messiah is so great and John was not even worthy to untie his sandals.
 
 #### 24-06
@@ -226,7 +226,7 @@ Why did Jesus come to John?
 Jesus came to John so that John would baptize him.
 
 What title did John use for Jesus when he saw him coming to be baptized?  
-He called him the Lamb of God who will take away the sin of the world.
+John called him the Lamb of God who will take away the sin of the world.
 
 #### 24-07
 
@@ -234,7 +234,7 @@ How did John initially respond to Jesus wanting to be baptized by John?
 Initially, John told Jesus that he was not worthy to baptize Jesus and that Jesus should baptize him instead.
 
 Why did Jesus say that John should baptize him?  
-He said John should baptize him because it was the right thing to do, even though Jesus never sinned.
+Jesus said John should baptize him because it was the right thing to do, even though Jesus never sinned.
 
 Why did Jesus not need to repent of his sins before John baptized him?  
 Jesus did not need to repent because he had never sinned.
@@ -245,7 +245,7 @@ Who came to rest on Jesus after he was baptized?
 The Spirit of God appeared in the form of a dove and rested on Jesus.
 
 What did God say after Jesus was baptized?  
-He said, “This is my Son. I love him, and I am very pleased with him.”
+God said, “This is my Son. I love him, and I am very pleased with him.”
 
 #### 24-09
 
@@ -294,11 +294,11 @@ Use the following translation questions to understand specific details of the pa
 
 **You poisonous snakes** John compares the religious leaders to poisonous snakes. Poisonous snakes are dangerous and represent evil. John said that these religious leaders represented evil and dangerous. How would you express **You poisonous snakes** to mean dangerous and evil like venomous snakes?
 
-**God will cut down every tree that does not bear good fruit** John is not really talking about trees. John speaks of the religious leaders as if they were trees that bear bad fruit. The bad fruit represents bad actions of sining and disobeying God. As a person gets his axe ready to cut down and burn a tree that grows bad fruit, God is ready to punish people for their sins. This means God is ready to punish sinners. How would you express **God will cut down every tree that does not bear good fruit** to mean God has his axe and he is ready to cut down and burn any tree that grows bad fruit?
+**God will cut down every tree that does not bear good fruit** John is not really talking about trees. John speaks of the religious leaders as if they were trees that bear bad fruit. The bad fruit represents bad actions of sinning and disobeying God. As a person gets his axe ready to cut down and burn a tree that grows bad fruit, God is ready to punish people for their sins. This means God is ready to punish sinners. How would you express **God will cut down every tree that does not bear good fruit** to mean God has his axe and he is ready to cut down and burn any tree that grows bad fruit?
 
-**he will throw them into the fire** John compares God’s judgment of sinners as throwing trees that bear bad fruit into the fire. Just as the fire would destroy the bad trees, God would punish those whose actions and attitudes did not come from God. How would you express **he will throw them into the fire** to mean God will judge each person who does not do follow God’s ways and punish by destroying them like would happen if someone threw a tree into a fire?
+**he will throw them into the fire** John compares God’s judgment of sinners as throwing trees that bear bad fruit into the fire. Just as the fire would destroy the bad trees, God would punish those whose actions and attitudes did not come from God. How would you express **he will throw them into the fire** to mean God will judge each person who does not follow God’s ways and punish by destroying them like would happen if someone threw a tree into a fire?
 
-**John fulfilled** Prophets said that God would send a messenger who would come ahead of the Messiah in order to prepare the way for the Messiah. John was this messenger whom the prophets spoke about. He did what the prophets said the messenger would do. How would you express **John fulfilled** to mean John was doing what the prophet said God’s messenger would do?
+**John fulfilled** Prophets said that God would send a messenger who would come ahead of the Messiah in order to prepare the way for the Messiah. John was this messenger whom the prophets spoke about. John did what the prophets said the messenger would do. How would you express **John fulfilled** to mean John was doing what the prophet said God’s messenger would do?
 
 **See** The prophets told people to look and see what God would do. How would you express **See** to mean look and pay attention?
 
@@ -324,9 +324,9 @@ Use the following translation questions to understand specific details of the pa
 
 **I am not worthy to baptize you** John said that he was not good enough to baptize Jesus. John recognized that he was sinful and did not think he should baptize Jesus. He thought Jesus should baptize him. How would you express **I am not worthy to baptize you** to mean John saw himself as sinful and did not think he was fit to baptize Jesus?
 
-**because it is the right thing to do** Jesus never sinned. He was not baptized to repent from his sin. Jesus did not need to repent from sin because he never committed sin. Instead, Jesus was baptized to show what it means to be truly right. How would you express **because it is the right thing to do** to mean it is the proper thing that God wanted him to do?
+**because it is the right thing to do** Jesus never sinned. Jesus was not baptized to repent from his sin. Jesus did not need to repent from sin because he never committed sin. Instead, Jesus was baptized to show what it means to be truly right. How would you express **because it is the right thing to do** to mean it is the proper thing that God wanted him to do?
 
-**even though** Jesus had never sinned Baptism is sign of repentance. Some might think that Jesus’ baptism meant that Jesus was repenting from his own sin. But Jesus never sinned, so he had no need to repent. Other people were baptized and repented from their sin. Jesus was baptized to show that he always did what was right. How would you express **even though** Jesus had never sinned to mean Jesus was baptized to do what was right before God and this was a different reason sinful people were baptized when they repented from their sin?
+**even though** Jesus had never sinned Baptism is a sign of repentance. Some might think that Jesus’ baptism meant that Jesus was repenting from his own sin. But Jesus never sinned, so he had no need to repent. Other people were baptized and repented from their sin. Jesus was baptized to show that he always did what was right. How would you express **even though** Jesus had never sinned to mean Jesus was baptized to do what was right before God and this was a different reason sinful people were baptized when they repented from their sin?
 
 #### 24-08
 
@@ -356,9 +356,9 @@ Use the following discourse questions to understand the meaning of the story. Pa
 
 Prophet: John grew and became a prophet. God used John to speak God’s messages to people. (24-01)
 
-Faithful Follower/Servant: John lived in the wilderness. He ate wild honey and locusts. He wore clothes that were made from tough animal hair of a camel. He lived a simple and devoted life that was focused on serving God and speaking his truth. John showed people what it looks like to follow and serve God. His lifestyle was an example for people to follow. (24-01)
+Faithful Follower/Servant: John lived in the wilderness. John ate wild honey and locusts. John wore clothes that were made from the tough animal hair of a camel. He lived a simple and devoted life that was focused on serving God and speaking his truth. John showed people what it looks like to follow and serve God. His lifestyle was an example for people to follow. (24-01)
 
-Preacher: Many people came out to hear John. John spoke God’s messages and many people wanted to hear God’s messages. John instructed people to repent from their sins. He told them that God’s kingdom has nearly arrived. (24-02)
+Preacher: Many people came out to hear John. John spoke God’s messages and many people wanted to hear God’s messages. John instructed people to repent from their sins. John told them that God’s kingdom has nearly arrived. (24-02)
 
 Baptizer: John baptized people who repented of their sin. This act of baptism formed people into a community of faithful servants of God. (24-03)
 
@@ -368,7 +368,7 @@ Preparer: John prepared the way for Jesus to come. He also prepared the way for 
 
 ##### How did people respond to John’s ministry and message? (24-03, 24-04)
 
-Hearers: Many people came out to hear John’s message. They wanted to hear from God. True followers of God want to hear truth from God. (24-03)
+Hearers: Many people came out to hear John’s message. They wanted to hear from God. True followers of God want to hear the truth from God. (24-03)
 
 Repentance: Many people repented of their sins. People stopped disobeying God and turned away from sin. (24-03)
 
@@ -380,9 +380,9 @@ Change Behavior: John commanded the religious leaders to change their behavior. 
 
 Bear Fruit: Like a tree that bears good fruit, people who truly repented of their sin would show their repentance by living godly lives before God. (24-04)
 
-##### How did John understand himself in relationship to Jesus? (24-05, 24-06, 24-07)
+##### How did John understand himself in his relationship to Jesus? (24-05, 24-06, 24-07)
 
-Humility: John knew that Jesus was very important. He did not consider himself worthy to even be Jesus’ slave. Jesus was so great that John did not consider himself important enough to untie Jesus’ sandals. When Jesus told John baptize him, John thought that he should be baptized by Jesus. (24-05, 24-07)
+Humility: John knew that Jesus was very important. John did not consider himself worthy to even be Jesus’ slave. Jesus was so great that John did not consider himself important enough to untie Jesus’ sandals. When Jesus told John to baptize him, John thought that he should be baptized by Jesus. (24-05, 24-07)
 
 Preparer: John knew that his ministry was to point people to Jesus. Even though John was popular, he realized that Jesus was of greatest importance and pointed people to Jesus. (24-06)
 
@@ -398,7 +398,7 @@ Sinless/Righteous: Jesus never sinned. Jesus told John to baptize him because is
 
 Son of God: After Jesus was baptized, the Holy Spirit descended upon Jesus and remained on him. God the Father spoke out loud and said that Jesus was his Son. God loved his Son and was pleased with him. God told John that the Holy Spirit would descend upon someone he baptized and this person would be the Son of God. (24-08, 24-09)
 
-Trinity: Jesus if fully God. There is one God who exists as three persons: God the Father, God the Son, and God the Holy Spirit. John heard the voice of God the Father. He saw Jesus, who is God’s Son. And, John saw the Holy Spirit defend on Jesus. (24-09)
+Trinity: Jesus is fully God. There is one God who exists as three persons: God the Father, God the Son, and God the Holy Spirit. John heard the voice of God the Father. He saw Jesus, who is God’s Son. And, John saw the Holy Spirit descend on Jesus. (24-09)
 
 <!-- page break -->
 
@@ -406,10 +406,10 @@ Trinity: Jesus if fully God. There is one God who exists as three persons: God t
 
 Answer the following theology questions as a community. Discuss what truths this story teaches.
 
-1.  What does it mean to faithfully serve and follow God? How is John’s life and ministry and example of what it means to be faithful to God?
+1.  What does it mean to faithfully serve and follow God? How is John’s life and ministry an example of what it means to be faithful to God?
 2.  How can people come to follow God and be in right relationship with God? How do the various responses to John’s ministry teach us about how people can come to be right before God and follow him?
 3.  What is baptism important? What role does baptism have in disciples following God/Christ?
-4.  What should be believe about Jesus? What does John’s ministry and Jesus’ baptism teach us about who Jesus is?
+4.  What should we believe about Jesus? What do John’s ministry and Jesus’ baptism teach us about who Jesus is?
 
 ### Translation Draft
 
@@ -421,7 +421,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -451,20 +451,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -511,7 +511,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -573,7 +573,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -585,7 +585,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

@@ -8,7 +8,7 @@ story_num: 27
 
 ### Key Idea
 
-The story of the Good Samaritan teaches us that loving our neighbor as ourself is a fulfilment of God’s law.
+The story of the Good Samaritan teaches us that loving our neighbor as ourselves is a fulfillment of God’s law.
 
 ### Creedal Verse
 
@@ -193,7 +193,7 @@ He wanted to show everyone that Jesus was teaching wrongly.
 What question did the expert in the Jewish law ask Jesus?  
 He asked Jesus, “Teacher, what must I do to inherit eternal life?”  
 What question did Jesus ask the expert in response?  
-He asked him, “What is written in God’s law?”
+Jesus asked him, “What is written in God’s law?”
 
 #### 27-02
 
@@ -227,7 +227,7 @@ Who was the first person to see the wounded man?
 The first person was a Jewish priest.
 
 What did the priest do when he saw the wounded man?  
-When the Jewish priest saw the man lying the road, he moved to the other side, passed by him, and ignored the man.
+When the Jewish priest saw the man lying on the road, he moved to the other side, passed by him, and ignored the man.
 
 #### 27-07
 
@@ -249,7 +249,7 @@ What was the relationship between Jews and Samaritans?
 They hated each other.
 
 What did the Samaritan do when he saw the wounded man?  
-The Samaritan had very strong compassion for the wounded man and bandaged his wounds.
+The Samaritan had a very strong compassion for the wounded man and bandaged his wounds.
 
 #### 27-09
 
@@ -262,12 +262,12 @@ On the next day, what did the Samaritan give to the person in charge of the inn?
 On the next day, the Samaritan gave some money to the person in charge of the inn.
 
 What did the Samaritan tell the person in charge of the inn?  
-He told him to take care of the man, and he would repay him for those expenses when he returned.
+The Samaritan told him to take care of the man, and that he would repay him for those expenses when he returned.
 
 #### 27-11
 
 What did Jesus ask the Jewish law expert after telling this story?  
-Jesus asked the Jewish law expert who he though was a neighbor to the man who was beaten.
+Jesus asked the Jewish law expert who he thought was a neighbor to the man who was beaten.
 
 Which of the three men acted like a neighbor to the man who was robbed and beaten?  
 The Samaritan who was merciful to the man was a neighbor to him.
@@ -283,7 +283,7 @@ Use the following translation questions to understand specific details of the pa
 
 **an expert in the Jewish law** This man was someone who studied and taught the laws God had given the Israelites, as well as other Jewish laws. How would you express **an expert in the Jewish law** to mean a person who studied and has specialist/specialized knowledge in the Jewish laws?
 
-**to inherit eternal life** The Jewish law expert asked Jesus how he could have life with God forever. The law expert was asking how he could be worthy to receive eternal life as an inheritance from God the Father. Eternal life refers to life forever with God even after the mortal body dies. How would you translate **to inherit eternal life** to mean God will give me life with him forever?
+**to inherit eternal life** The Jewish law expert asked Jesus how he could have life with God forever. The law expert asked how he could be worthy to receive eternal life as an inheritance from God the Father. Eternal life refers to life forever with God even after the mortal body dies. How would you translate **to inherit eternal life** to mean God will give me life with him forever?
 
 **What is written in God’s law?** Jesus asked this question because he wanted the man to think about what God’s law really teaches. Jesus asked the man what God said in his law that would answer his question. How would you express **What is written in God’s law?** as a question that asks what does God’s law teach about this?
 
@@ -291,9 +291,9 @@ Use the following translation questions to understand specific details of the pa
 
 **Love the Lord your God** The man tells what the law says by quoting the law. The Jewish law commands people to love God. How would you express **Love the Lord your God** to mean we must love the Lord our God?
 
-**with all your heart, soul, strength, and mind** The list identifies different aspects of humans. The heart refers to the part of a person that has desires and emotions. The soul refers to the nonphysical, spiritual part of a person. Strength refers to the physical body and all of its abilities. The mind refers to the part of a person that thinks, plans, and has ideas. The focus is not on each of these parts, but on the concepts that make up the whole person. The law commands people to love God with the whole self and with with every part of our person. How would you express **with all your heart, soul, strength, and mind** to mean with every part of yourself (emotions, spirit, body, and thoughts)?
+**with all your heart, soul, strength, and mind** The list identifies different aspects of humans. The heart refers to the part of a person that has desires and emotions. The soul refers to the nonphysical, spiritual part of a person. Strength refers to the physical body and all of its abilities. The mind refers to the part of a person that thinks, plans, and has ideas. The focus is not on each of these parts, but on the concepts that make up the whole person. The law commands people to love God with the whole self and with every part of their person. How would you express **with all your heart, soul, strength, and mind** to mean with every part of yourself (emotions, spirit, body, and thoughts)?
 
-**love your neighbor as yourself** Although the word neighbor normally refers to a person who lives near us, the Jews applied the term to everyone except close relatives, foreigners, and enemies. The man tells Jesus that the law teaches that people must show genuine concern for those around us the way we would show genuine concern for ourselves. People must love others around us to the same extent that we loves ourselves. How would you express **love your neighbor as yourself** as a command to have deep concern for others and show great care for others as we would have toward ourselves?
+**love your neighbor as yourself** Although the word neighbor normally refers to a person who lives near us, the Jews applied the term to everyone except close relatives, foreigners, and enemies. The man tells Jesus that the law teaches that people must show genuine concern for those around them the way we would show genuine concern for ourselves. People must love others around them to the same extent that they love themselves. How would you express **love your neighbor as yourself** as a command to have a deep concern for others and show great care for others as we would have toward ourselves?
 
 #### 27-03
 
@@ -313,17 +313,17 @@ Use the following translation questions to understand specific details of the pa
 
 **everything he had** The robbers took of the Jewish man’s possessions. How would you express **everything he had** to mean **everything he had** with him, including the clothes he was wearing?
 
-**until he was almost dead** The robbers attacked and beat the Jewish man. They kept beating him until he was close to dying. The robbers stopped beating him before his died and left. How would you express **until he was almost dead** to mean the robbers beat the Jewish man up to the point when he nearly died?
+**until he was almost dead** The robbers attacked and beat the Jewish man. They kept beating him until he was close to dying. The robbers stopped beating him before he died and left. How would you express **until he was almost dead** to mean the robbers beat the Jewish man up to the point when he nearly died?
 
 #### 27-06
 
 **happened to walk down** A Jewish priest was going to another city and used the same road the Jewish man had used. The priest was not just walking on the road but was traveling to get to another city. The priest was not going to see the injured man. He saw the injured man unexpectedly as he was on a journey to another place. How would you express **happened to walk down** to mean the Jewish man unexpectedly saw the injured man as he was traveling to another city?
 
-**When he saw him, he moved to the other side of the road** The Jewish priest saw the injured man. At this time, he moved to the other side of the road. Instead of going to help the injured man, the the Jewish priest went the opposite direction to avoid walking near him. How would you express **When he saw him, he moved to the other side of the road** to mean at the time the Jewish priest saw the injured man, the priest went to the other side of the road and continued traveling?
+**When he saw him, he moved to the other side of the road** The Jewish priest saw the injured man. At this time, he moved to the other side of the road. Instead of going to help the injured man, the Jewish priest went in the opposite direction to avoid walking near him. How would you express **When he saw him, he moved to the other side of the road** to mean at the time the Jewish priest saw the injured man, the priest went to the other side of the road and continued traveling?
 
 **kept on going** The Jewish priest did not stop to help the injured man. He continued on his journey without paying attention or showing care for the injured man. How would you express **kept on going** to mean the Jewish priest continued traveling down the road without caring for the injured man?
 
-**He completely ignored that man** The Jewish priest did not pay attention to the injured man nor did he help him. This was surprising because the priests were very religious, and would have been expected to help their fellow Jew. How would you express **He completely ignored that man** to mean the Jewish priest did not help that man and showed no concern for that man?
+**He completely ignored that man** The Jewish priest did not pay attention to the injured man nor did he help him. This was surprising because the priests were very religious, and would have been expected to help their fellow Jews. How would you express **He completely ignored that man** to mean the Jewish priest did not help that man and showed no concern for that man?
 
 #### 27-07
 
@@ -333,7 +333,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 27-08
 
-**but he still had very strong compassion for him** The injured man was Jewish. The third person traveling down the road was a Samaritan. At this time, Samaritans and Jews did not get along. By showing compassion on the injured Jewish man, the Samaritan did the opposite to what would be expected. The Samaritan showed compassion for him rather than hatred. How would you express **but he still had very strong compassion for him** to mean the Samaritan did the opposite than would have been expected and showed great care for the injured man?
+**but he still had very strong compassion for him** The injured man was Jewish. The third person traveling down the road was a Samaritan. At this time, Samaritans and Jews did not get along. By showing compassion for the injured Jewish man, the Samaritan did the opposite of what would be expected. The Samaritan showed compassion for him rather than hatred. How would you express **but he still had very strong compassion for him** to mean the Samaritan did the opposite than would have been expected and showed great care for the injured man?
 
 **very strong compassion** The Samaritan had a deep feeling of pity and concern for the injured man. This feeling of concern caused the Samaritan to care for and help the injured man. How would you express **very strong compassion** to mean a deep feeling of pity and concern that causes one to care for someone who is suffering or experiencing great misfortune/difficulty/pain?
 
@@ -347,9 +347,9 @@ Use the following translation questions to understand specific details of the pa
 
 **the person in charge of** The Samaritan gave money to the manager of the inn. How would you express **the person in charge of** to mean the person who owned and managed the lodging place where the injured man was staying?
 
-**Take care of this man** The Samaritan makes a polite request, not an order, that the manager of the inn care for the injured man. How would you express **Take care of this man** as a polite request for the inn manager to look after the injured man and provide for his needs as his heals?
+**Take care of this man** The Samaritan makes a polite request, not an order, that the manager of the inn care for the injured man. How would you express **Take care of this man** as a polite request for the inn manager to look after the injured man and provide for his needs as he heals?
 
-**If you spend any more money than this I will repay those expenses,** The Samaritan already gave money to the inn manager to care of the injured Jewish man while the Samaritan continued on his journey. It was possible that the inn manager would have used all of this money in caring for the injured man and would have needed to use his own money to continue his care during the time the Samaritan was away. The Samaritan told the inn manager that he would pay back the inn manager any money he How would you express **If you spend any more money than this, I will repay those expenses** to mean the Samaritan would pay back the inn manager in the event he need to use his own money to continue care of the injured man while the Samaritan was away on his journey?
+**If you spend any more money than this I will repay those expenses,** The Samaritan already gave money to the inn manager to care for the injured Jewish man while the Samaritan continued on his journey. It was possible that the inn manager would have used all of this money in caring for the injured man and would have needed to use his own money to continue his care during the time the Samaritan was away. The Samaritan told the inn manager that he would pay back the inn manager any money he owed. How would you express **If you spend any more money than this, I will repay those expenses** to mean the Samaritan would pay back the inn manager in the event he need to use his own money to continue care of the injured man while the Samaritan was away on his journey?
 
 #### 27-11
 
@@ -418,7 +418,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -447,20 +447,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -507,7 +507,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -569,7 +569,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -581,7 +581,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

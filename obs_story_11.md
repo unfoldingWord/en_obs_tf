@@ -139,12 +139,12 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 11-01
 
 What did God say he would do to the Egyptians if Pharaoh did not let the Israelites go?  
-He would kill all the firstborn males of both people and animals.
+God would kill all the firstborn males of both people and animals.
 
 What did Pharaoh do when he heard that God would kill all the male firstborn people and animals if he did not let the Israelites go free?  
 Pharaoh refused to believe and obey God.
@@ -163,14 +163,14 @@ What did God tell the Israelites to do with the blood of the lamb?
 God told them to put the blood of the lamb around the door of their house.
 
 What specific food did God tell the Israelites to eat with the roasted lamb?  
-They were to eat bread that was made without yeast.
+The Israelites were to eat bread that was made without yeast.
 
 What were the Israelites to be ready to do when they ate?  
-They were to be ready to leave Egypt.
+The Israelites were to be ready to leave Egypt.
 
 #### 11-04
 
-How did the Israelites respond to God’s commands ?  
+How did the Israelites respond to God’s commands?  
 The Israelites did everything that God commanded.
 
 What did God do in the middle of the night?  
@@ -178,10 +178,10 @@ God went throughout Egypt killing the firstborn son of every family that did not
 
 #### 11-05
 
-What did God do at the houses that had the blood around the doors?  
-He passed over those houses with blood around the doors.
+What did God do at the houses with blood around the doors?  
+God passed over those houses with blood around the doors.
 
-What happened to the people inside of houses with lamb’s blood around the doors?  
+What happened to the people inside of the houses with lamb’s blood around the doors?  
 Everybody inside the houses with blood around the doors were safe because of the lamb’s blood.
 
 #### 11-06
@@ -190,7 +190,7 @@ How did the Egyptians respond to God’s commands?
 The Egyptians did not believe God or obey his commands.
 
 What did God do at every Egyptian house?  
-God did not pass over the Egyptians houses. He killed the firstborn sons.
+God did not pass over the Egyptians’ houses. God killed the firstborn sons.
 
 #### 11-07
 
@@ -215,7 +215,7 @@ Use the following translation questions to understand specific details of the pa
 
 **the firstborn males of Egypt’s people and animals** God warned Pharaoh that if he did not let the Israelites go, God would kill the eldest son in every Egyptian family and the first male offspring of any of their animals. How would you express **the firstborn males of Egypt’s people and animals** to mean the eldest son in every Egyptian family and the first male offspring of any of their animals?
 
-**if he did not let them go** The word if means that something will happen in the event that something else happens first. God would kill the firstborn males in Egyptian in the event that Pharaoh did not let the Israelites go free. How would you express **if he did not let them go** to mean God would kill the firstborn males in Egyptian in the event that Pharaoh did not let the Israelites go free?
+**if he did not let them go** The word if means that something will happen in the event that something else happens first. God would kill the firstborn males in Egypt in the event that Pharaoh did not let the Israelites go free. How would you express **if he did not let them go** to mean God would kill the firstborn males in Egyptian in the event that Pharaoh did not let the Israelites go free?
 
 **believe** Pharaoh did not trust that what God said was true. What words in your language mean **believe** as in to trust that something is true?
 
@@ -237,7 +237,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 11-04
 
-**God went throughout Egypt** God in to every place in the land of Egypt where the people lived to bring judgment on the families who did not follow his command. How would you express **God went throughout Egypt** to mean God went in to every place in the land of Egypt where the people?
+**God went throughout Egypt** God went into every place in the land of Egypt where the people lived to bring judgment on the families who did not follow his command. How would you express **God went throughout Egypt** to mean God went into every place in the land of Egypt where the people lived?
 
 **every firstborn son** This means **every firstborn son** of families who had not made the blood sacrifice, that is, the Egyptians. Every Egyptian firstborn son. The firstborn of the Israelite families lived because they had put the blood on their doorposts. This is explained in 11-05. How would you express **every firstborn son** to clearly mean that God killed the firstborn of the families who did not follow his command to put the lamb’s blood around the door?
 
@@ -251,7 +251,7 @@ Use the following translation questions to understand specific details of the pa
 
 **did not believe God or obey his commands** The Egyptians did not trust God and so they did not follow his commands. How would you express **did not believe God or obey his commands** to mean the Egyptians did not trust God and so they did not follow his commands?
 
-**did not pass over** God did not pass by the Egyptian houses. Rather, he stopped at each house and killed their eldest son because they did not have the lamb’s blood around their doors. How would you express **did not pass over** to mean God did not move by the Egyptian houses but stopped at each house and killed their firstborn males?
+**did not pass over** God did not pass by the Egyptian houses. Rather, God stopped at each house and killed their eldest son because they did not have the lamb’s blood around their doors. How would you express **did not pass over** to mean God did not move by the Egyptian houses but stopped at each house and killed their firstborn males?
 
 #### 11-07
 
@@ -279,7 +279,7 @@ Use the following discourse questions to understand the meaning of the story. Pa
 
 Warning: God sent Moses and Aaron to Pharaoh to tell him to let the Israelites go free. They warned Pharaoh that God would kill all the firstborn males of Egypt if he did not let them go. God brought a warning of judgment to Pharaoh. (11-01)
 
-Unbelief and Disobedience: Pharaoh refused to believe and obey God. His heart was hard and stubborn. He chose to disobey God and did not listen to the warning of judgment. (11-01)
+Unbelief and Disobedience: Pharaoh refused to believe and obey God. His heart was hard and stubborn. Pharaoh chose to disobey God and did not listen to the warning of judgment. (11-01)
 
 ##### How could people escape God’s judgment and have their firstborn males saved?
 
@@ -289,7 +289,7 @@ Belief: To save their male firstborn, people had to believe in God. Only if peop
 
 Sacrifice: God told the Israelites that they had to sacrifice a perfect lamb. They had to put the blood from the lamb around the door of their houses. (11-02, 11-03)
 
-Haste: God told the Israelites to east roasted meat and unleavened bread. God would bring them out of Egypt quickly. They should be ready to leave as soon as they left the meal. (11-03)
+Haste: God told the Israelites to eat roasted meat and unleavened bread. God would bring them out of Egypt quickly. They should be ready to leave as soon as they left the meal. (11-03)
 
 Obedience: The Israelites not only believed in God, but they did all that God commanded them to do. (11-04)
 
@@ -305,7 +305,7 @@ Sadness and Grief: The people of Egypt cried and wailed loudly. They were deeply
 
 Passover: God passed over the houses with the lamb’s blood around the door. God killed the male firstborn of the houses without the lamb’s blood around the door. (11-05, 11-06)
 
-Freedom: The same night, Pharaoh told the Israelites to leave Egypt. He told them to leave immediately. In fact, the Egyptians urged the Israelites to leave right away. God caused the Israelites to be free swiftly. (11-08)
+Freedom: The same night, Pharaoh told the Israelites to leave Egypt. Pharaoh told them to leave immediately. In fact, the Egyptians urged the Israelites to leave right away. God caused the Israelites to be free swiftly. (11-08)
 
 <!-- page break -->
 
@@ -327,7 +327,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -343,7 +343,7 @@ Take a moment to allow this story to evaluate your own life and to consider how 
 
 Prayerfully think about the following personal reflection questions. Write/Record your answers and/or discuss them as a group.
 
-1.  How are you growing in your understanding about how God saves and frees his people?
+1.  How are you growing in your understanding of how God saves and frees his people?
 2.  What things keep you from (make it hard) believing and obeying God?
 3.  How would your life be different if you knew God’s judgment would pass over you?
 
@@ -355,20 +355,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -415,7 +415,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -477,7 +477,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -489,7 +489,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

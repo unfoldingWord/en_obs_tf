@@ -134,7 +134,7 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 04-01
 
@@ -161,13 +161,13 @@ God thought building the tower was evil and if they kept working together they w
 #### 04-03
 
 What did God do to cause the people to spread out all over the world?  
-He changed their language into many different languages.
+God changed their language into many different languages.
 
 What was the name of the city that they were building?  
-It was named Babel.
+The city was named Babel.
 
 What does the name Babel mean?  
-It means ‘confused.’
+Babel means ‘confused.’
 
 #### 04-04
 
@@ -183,12 +183,12 @@ How did Abram respond to God’s command?
 Abram obeyed God.
 
 To which land did Abram go?  
-He went to the land of Canaan.
+Abram went to the land of Canaan.
 
 #### 04-06
 
 What promise did God make to Abram about Canaan?  
-God would give it to Abram and his descendants would always possess it.
+God would give Canaan to Abram and his descendants would always possess Canaan.
 
 Where did Abram settle?  
 Abram settled in the land of Canaan.
@@ -196,16 +196,16 @@ Abram settled in the land of Canaan.
 #### 04-07
 
 Who was Melchizedek?  
-He was the priest of God Most High.
+Melchizedek was the priest of God Most High.
 
 When did Abram and Melchizedek meet?  
-They met one day after Abram had been in battle.
+Abram and Melchisedek met one day after Abram had been in battle.
 
 What did Melchizedek do for Abram?  
-He blessed Abram.
+Melchizedek blessed Abram.
 
 What did Abram give to Melchizedek?  
-He gave him a tenth of all he owned.
+Melchizedek gave him a tenth of all he owned.
 
 #### 04-08
 
@@ -216,7 +216,7 @@ What did Abram think of God’s promise?
 Abram believed God’s promise.
 
 Why did God say Abram was righteous?  
-He said this because Abram believed God’s promise.
+God said this because Abram believed God’s promise.
 
 #### 04-09
 
@@ -254,13 +254,13 @@ Use the following translation questions to understand specific details of the pa
 
 **changed their language** In an instant, God miraculously gave them different languages to speak so that, suddenly, they were no longer able to understand each other. How would you express **changed their language** to mean God made the people speak in different languages?
 
-**spread the people** When God changed their languages, he caused these groups of people to scatter out on the earth. Each group moved to its own area. How would you express **spread the people** to mean God caused the people to move and live in different places?
+**spread the people** When God changed their languages, God caused these groups of people to scatter out on the earth. Each group moved to its own area. How would you express **spread the people** to mean God caused the people to move and live in different places?
 
-**confused** The name of the city was called Babel. This word in Hebrew sounds like the word for **confused**. To be **confused** means to be unable to understand what someone is saying. When God changed the languages of the people, they were unable to understand each other. What words in your language mean **confused** as in to mixed-up or unable to understand?
+**confused** The name of the city was called Babel. This word in Hebrew sounds like the word for **confused**. To be **confused** means to be unable to understand what someone is saying. When God changed the languages of the people, they were unable to understand each other. What words in your language mean **confused** as in to be mixed up or unable to understand?
 
 #### 04-04
 
-**bless** To **bless** someone or something means to cause good and beneficial things to happen to the person or thing that is being **bless**ed. When God **bless**es someone, they prosper. How words in your language mean **bless** as in to cause good and beneficial things to happen?
+**bless** To **bless** someone or something means to cause good and beneficial things to happen to the person or thing that is being **bless**ed. When God **bless**es someone, they prosper. What words in your language mean **bless** as in to cause good and beneficial things to happen?
 
 **make you a great nation** God would cause Abram to have many descendants, and they would become a large and important nation or country. How would you express a great nation to mean God would cause Abram’s descendants to be a large and important people or country?
 
@@ -268,13 +268,13 @@ Use the following translation questions to understand specific details of the pa
 
 #### 04-05
 
-**obeyed** To obey means to follow someone’s commands. Abram did what God told him to. What words in your language me **obeyed** as in to follow the orders or instructions of someone else?
+**obeyed** To obey means to follow someone’s commands. Abram did what God told him to. What words in your language mean **obeyed** as in to follow the orders or instructions of someone else?
 
 **God showed him** Somehow God made it clear to Abram where he was to go. The text doesn’t tell how **God showed him**. How would you express **God showed him** to mean that God made it clear and obvious where Abram should go?
 
 #### 04-06
 
-**possess** To **possess** the land means to own the land and dwell in it. God promised to give the land to Abram and also to his descendants. He promised they would own it and dwell in it forever. How would you express **possess** to mean that they would own the land of Canaan as a place to live?
+**possess** To **possess** the land means to own the land and dwell in it. God promised to give the land to Abram and also to his descendants. God promised they would own it and dwell in it forever. How would you express **possess** to mean that they would own the land of Canaan as a place to live?
 
 **settled** Abram and his family lived in the land of Canaan. To settle means to stay in a place where one lives. What words in your language mean **settled** as in to live in a place by dwelling there?
 
@@ -296,7 +296,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 04-09
 
-**covenant** God had already said he would give Canaan to Abram’s descendants (cf. 04:06). Now God stated the same thing again to Abram as an official promise. A **covenant** is a formal agreement between two parties which makes a promise official. What words in your language mean **covenant** as in a formal, binding agreement between two parties that one or both parties must fulfill?
+**covenant** God had already said he would give Canaan to Abram’s descendants (cf. 04:06). Now God stated the same thing again to Abram as an official promise. A **covenant** is a formal agreement between two parties that makes a promise official. What words in your language mean **covenant** as in a formal, binding agreement between two parties that one or both parties must fulfill?
 
 **from your own body** With his own body, Abram would cause his wife to become pregnant, so that, together, they would have their own, natural son. This was an amazing promise, since Abram and Sarai were very old. How would you express **from your own body** to mean Abram would have a son of his very own by his wife becoming pregnant?
 
@@ -316,7 +316,7 @@ Years after the flood, there were many people on the earth. Noah and his family 
 
 People still disobeyed God and sinned against each other. God started his creation over with Noah. But humans were still sinful and continued to disobey God. (04-01)
 
-All people spoke one language. Instead of spreading out over the earth like God commanded, the people gathered together and built a city. People were more interested honoring themselves than honoring God. (04-01)
+All people spoke one language. Instead of spreading out over the earth like God commanded, the people gathered together and built a city. People were more interested in honoring themselves than honoring God. (04-01)
 
 People were also very proud. They thought they were great and did not need to follow God’s commands. (04-02)
 
@@ -324,7 +324,7 @@ Humans tried to show how great they were by building a tower that reached up to 
 
 As long as humans were gathered together, they would do more and more evil. When humans don’t follow God’s commands, it also encourages others to not follow his commands. (04-02)
 
-God was not pleased with people. He changed the languages of people so they could not understand each other and spread out over the earth. The place where this happened was called Babel. This means confused. The proud acts of people failed and brought confusion. (04-03)
+God was not pleased with people. God changed the languages of people so they could not understand each other and spread out over the earth. The place where this happened was called Babel. This means confused. The proud acts of people failed and brought confusion. (04-03)
 
 ##### How did God plan to restore his world? What promises did God give to Abram? (04-04, 04-05, 04-06, 04-08)
 
@@ -332,9 +332,9 @@ God made a promise to a man named Abram. His promise to Abram would be a way of 
 
 God promised that he would give Abram the land of Canaan. God would lead Abram to this land. (04-04, 04-05, 04-06)
 
-God promised that Abram would have a son. Through this son Abram would have many descendants. His descendants would become as many as the stars in the sky. (04-04, 04-08)
+God promised that Abram would have a son. Through this son, Abram would have many descendants. His descendants would become as many as the stars in the sky. (04-04, 04-08)
 
-God promised that Abram would become become a great nation and have a great name/honor. Instead of people making themselves great like the humans did at Babel, only God can make people great. (04-04)
+God promised that Abram would become a great nation and have a great name/honor. Instead of people making themselves great like the humans did at Babel, only God can make people great. (04-04)
 
 God promised to bless Abram. God also promised that he would bless the whole world because of Abram. (04-04)
 
@@ -342,7 +342,7 @@ God promised to bless Abram. God also promised that he would bless the whole wor
 
 God told Abram to leave his country and family and travel to another land. Abram trusted God and obeyed his command. He left his land, traveled to Canaan, and settled there. (04-04, 04-05, 04-06)
 
-God gave Abram victory in battle. Abram gave Melchizedek a tenth of what he won in battle. Abram learned that all that he had came from God. He responded by generously giving a gift to Melchizedek. (04-07)
+God gave Abram victory in battle. Abram gave Melchizedek a tenth of what he won in battle. Abram learned that all that he had came from God. Abram responded by generously giving a gift to Melchizedek. (04-07)
 
 God promised Abram that he would give him a son. Abraham believed God’s promise and God saw him as righteous. (04-08)
 
@@ -354,7 +354,7 @@ God made a covenant with Abram as a way of showing that his promise would come t
 
 Answer the following theology questions as a community. Discuss what truths this story teaches.
 
-1.  How are humans sinful and disobedient of God? What are ways this story shows us ways in which people are sinful?
+1.  How are humans sinful and disobedient to God? What are ways this story shows us ways in which people are sinful?
 2.  How much can we trust God’s promises? What kinds of promises does God give in this story that teaches us about God’s promises?
 3.  What does it mean to believe (or trust) in God’s promises? What does Abram teach us about the nature of faith?
 
@@ -368,7 +368,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -396,20 +396,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -456,7 +456,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -518,7 +518,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -530,7 +530,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

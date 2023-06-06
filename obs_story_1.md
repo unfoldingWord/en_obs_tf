@@ -165,7 +165,7 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 01-01
 
@@ -173,9 +173,9 @@ Where did everything in the universe come from?
 God created everything.
 
 How long did it take God to create everything?  
-He took six days.
+God took six days.
 
-Before God formed his world what was it like?  
+Before God formed his world, what was it like?  
 The earth was dark and empty.
 
 Who was over the water?  
@@ -189,23 +189,23 @@ On the first day, God created light.
 How did God create the light?  
 God created light by speaking. He said, “Let there be light.”
 
-When God separated light and darkness what did he call them?  
+When God separated light and darkness, what did he call them?  
 God called the light “day” and the darkness “night.”
 
 What was God’s response to the day and night he created on the first day?  
-He said they were good.
+God said they were good.
 
 #### 01-03
 
 What did God create on the second day?  
-On the second day, God created sky.
+On the second day, God created the sky.
 
 #### 01-04
 
 What did God create on the third day?  
 On the third day, God created dry land.
 
-What did names did God give to the dry land and the gathered waters?  
+What names did God give to the dry land and the gathered waters?  
 God named the dry land “earth” and the gathered waters “seas.”
 
 What was God’s response to the earth and the seas he created on the third day?  
@@ -236,7 +236,7 @@ What did God create on the fifth day?
 On the fifth day, God made living creatures that swam in the water and flew in the sky.
 
 What was God’s response to the things in the seas and the birds he created on the fifth day?  
-He said they were good and he blessed them.
+He said they were good, and he blessed them.
 
 #### 01-08
 
@@ -247,7 +247,7 @@ What kind of land animals did God create?
 God made farm animals, crawling animals, and wild animals.
 
 What was God’s response to the land animals he created on the sixth day?  
-He said they were good.
+God said they were good.
 
 #### 01-09
 
@@ -255,7 +255,7 @@ What else did God create on the sixth day?
 On the sixth day, God also created humans.
 
 In what way did God make man different than the animals?  
-He made man in his image and in his likeness.
+God made man in his image and in his likeness.
 
 What did God say would be the responsibility of the human beings?  
 They would have authority over the earth and over the animals, and would care for them.
@@ -272,15 +272,15 @@ What was the name of the man?
 His name was Adam.
 
 Where did God put Adam?  
-He put Adam in a garden that God planted to care for it.
+God put Adam in a garden that God planted for Adam to care for the garden.
 
 #### 01-11
 
 From which special tree was Adam not allowed to eat?  
-He could not eat from the tree of the knowledge of good and evil.
+Adam could not eat from the tree of the knowledge of good and evil.
 
 What would happen if Adam ate from the tree of the knowledge of good and evil?  
-He would die.
+Adam would die.
 
 #### 01-12
 
@@ -290,15 +290,15 @@ The animals were not able to be a helper for Adam.
 #### 01-13
 
 How did God make the woman?  
-He formed her from Adam’s rib.
+God formed the woman from Adam’s rib.
 
 #### 01-14
 
 What did the name woman mean to Adam?  
-It meant that she was made from man.
+The name woman meant that she was made from man.
 
 What happens when a man and woman become husband and wife?  
-They become one and start a family.
+The man and the woman become one and start a family.
 
 #### 01-15
 
@@ -309,12 +309,12 @@ What did God say when he blessed humans?
 God blessed humans and told them to have many children and fill the earth.
 
 What did God say about his creation when he finished it?  
-He said it was very good.
+God said it was very good.
 
 #### 01-16
 
 What did God do on the seventh day?  
-He finished all his work and blessed the seventh day and made it holy.
+God finished all his work, blessed the seventh day, and made it holy.
 
 ### Translation Questions
 
@@ -330,7 +330,7 @@ Use the following translation questions to understand specific details of the pa
 
 **dark and empty** At this time the earth had no light and was empty. How would you say that the earth was **dark** to mean the earth was completely dark without light? How would you say that the earth was **empty** as in God had not yet created anything except for the bare earth covered by water?
 
-**God’s** Spirit The Spirit of God, sometimes called the Holy Spirit, was present in the beginning. He is God and not a lesser spirit. He was moving freely over the earth in order to create all that he had planned to do. How would you say **God’s** Spirit as in he who is equal to God and not a lesser spirit?
+**God’s** Spirit The Spirit of God, sometimes called the Holy Spirit, was present in the beginning. He is God and not a lesser spirit. The Holy Spirit was moving freely over the earth in order to create all that The Holy Spirit had planned to do. How would you say **God’s** Spirit as in he who is equal to God and not a lesser spirit?
 
 #### 01-02
 
@@ -338,7 +338,7 @@ Use the following translation questions to understand specific details of the pa
 
 **there was light** When God commanded the light to exist, it came into existence. How would you say **there was light** to mean that light came into existence as a result of God’s command?
 
-**separated** When God **separated** light from darkness he made a distinction between them. What words in your language mean **separated** as in to distinguish or make a distinction between things?
+**separated** When God **separated** light from darkness God made a distinction between them. What words in your language mean **separated** as in to distinguish or make a distinction between things?
 
 **God saw that the light was good** When God created things, they were pleasing to him and accomplished his plan and purpose. How would you phrase **God saw that the light was good** to mean God was pleased with the light he created?
 
@@ -352,21 +352,21 @@ Use the following translation questions to understand specific details of the pa
 
 #### 01-04
 
-**Let the water come together in one place and the dry land appear** God created the dry land by commanding the waters to gather together. When this happened, dry land became visible. How would express the command **Let the water come together in one place and the dry land appear** to mean God ordered the waters to gather together and he ordered the dry land to become visible?
+**Let the water come together in one place and the dry land appear** God created the dry land by commanding the waters to gather together. When this happened, dry land became visible. How would you express the command **Let the water come together in one place and the dry land appear** to mean God ordered the waters to gather together and he ordered the dry land to become visible?
 
 #### 01-05
 
-**Let the earth produce all kinds of trees and plants** God commanded the earth to produce tress and plants. How would you express the command **Let the earth produce all kinds of trees and plants** to mean God ordered the earth to sprout many different kinds of trees and plants?
+**Let the earth produce all kinds of trees and plants** God commanded the earth to produce trees and plants. How would you express the command **Let the earth produce all kinds of trees and plants** to mean God ordered the earth to sprout many different kinds of trees and plants?
 
 #### 01-06
 
-**Let there be lights in the sky** God commanded lights to exist in the sky. These lights are shining objects that give light to the earth. These lights are the sun, the moon, and the stars. How would you express the phrase **Let there be lights in the sky** to mean God created shining objects in the sky giving a command?
+**Let there be lights in the sky** God commanded lights to exist in the sky. These lights are shining objects that give light to the earth. These lights are the sun, the moon, and the stars. How would you express the phrase **Let there be lights in the sky** to mean God created shining objects in the sky by giving a command?
 
 #### 01-07
 
 **Let living things fill the waters, and birds fly in the sky** God created water creatures and birds by commanding them to exist. How would you express **Let living things fill the waters, and birds fly in the sky** as a command in which God orders living creatures to fill waters and birds to fly in the sky?
 
-**blessed** When God **blessed** the living creatures, he spoke his intent that these creatures prosper and that things would go well for them in the world in which he had placed them. What words in your language mean **blessed** as in to cause to prosper or to intend that good things happen?
+**blessed** When God **blessed** the living creatures, God spoke his intent that these creatures prosper and that things would go well for them in the world in which he had placed them. What words in your language mean **blessed** as in to cause to prosper or to intend that good things happen?
 
 #### 01-08
 
@@ -384,7 +384,7 @@ Use the following translation questions to understand specific details of the pa
 
 **formed** God created man by personally fashioning the man in the same way that a person shapes something with his hands. This is a different word than create. What words in your language mean **formed** as in to shape or fashion something?
 
-**to care for it** God put Adam in the garden maintain it by preparing soil, planting, tending, and harvesting. What words in your language me **to care for it** as in to look after and tend to as a farmer would cultivate his land?
+**to care for it** God put Adam in the garden to maintain it by preparing soil, planting, tending, and harvesting. What words in your language me **to care for it** as in to look after and tend to as a farmer would cultivate his land?
 
 #### 01-11
 
@@ -392,7 +392,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 01-12
 
-**helper** None of the animals was similar enough to Adam to be able to help Adam do what God wanted him to do. A **helper** is someone who can assist someone else in fulfilling a purpose or a task. What words in your language mean **helper** as in someone who can help someone else accomplish a task or a purpose?
+**helper** None of the animals were similar enough to Adam to be able to help Adam do what God wanted him to do. A **helper** is someone who can assist someone else in fulfilling a purpose or a task. What words in your language mean **helper** as in someone who can help someone else accomplish a task or a purpose?
 
 #### 01-13
 
@@ -400,15 +400,15 @@ Use the following translation questions to understand specific details of the pa
 
 #### 01-14
 
-**like me** Woman was created from Adam’s rib. She was like Adam but not identical. How would you phrase **like me** to mean the woman was the same kind of being as Adam, even though she was not exactly the same as he was?
+**like me** Woman was created from Adam’s rib. She was like Adam but not identical. How would you phrase **like me** to mean the woman was the same kind of being as Adam, even though she was not exactly the same as Adam was?
 
 #### 01-15
 
-**very good** After the creation of humans God finished making everything. At this time God considered it **very good** because he had completed his creation. How would you phrase **very good** to mean God was very pleased with his creation?
+**very good** After the creation of humans, God finished making everything. At this time, God considered it **very good** because he had completed his creation. How would you phrase **very good** to mean God was very pleased with his creation?
 
 #### 01-16
 
-**made it holy** God set the seventh day apart from the other days. He did not want people to use it the same way as the other six days of the week. What words in your language mean **made it holy** to mean God set it apart or called it his own?
+**made it holy** God set the seventh day apart from the other days. God did not want people to use it the same way as the other six days of the week. What words in your language mean **made it holy** to mean God set it apart or called it his own?
 
 <!-- page break -->
 
@@ -422,13 +422,13 @@ Use the following discourse questions to understand the meaning of the story. Pa
 
 ##### How did God create all things? What repeated things happened in creation? (01-01, 01-02)
 
-God made everything. He caused everything to exist. God existed for all time: he has no beginning and no end. God brought all things into existence. (01-01)
+God made everything. God caused everything to exist. God existed for all time: God has no beginning and no end. God brought all things into existence. (01-01)
 
 God made all things in six days. (01-01)
 
 When God created the earth, the Spirit was over the water. God has control and authority over all his creation. (01-01)
 
-God created by speaking. God’s word was so powerful that when he spoke things came into existence. (01-02)
+God created by speaking. God’s word was so powerful that when God spoke, things came into existence. (01-02)
 
 God saw that his creation was good. Everything that God made was beautiful, good, and perfect. God was pleased with what he made. (01-02)
 
@@ -438,9 +438,9 @@ God separated some created things from other created things so that there was or
 
 ##### What is important about the order of creation? (01-02, 01-03, 01-04, 01-05, 01-06, 01-07, 01-08)
 
-When God created the earth it was dark, empty, and unformed. On the first day of creation, God created light. On the first three days of creation God shaped/formed the earth. One the next three days of creation God filled the earth. (01-02, 01-03, 01-04, 01-05, 01-06, 01-07, 01-08)
+When God created the earth, it was dark, empty, and unformed. On the first day of creation, God created light. On the first three days of creation, God shaped/formed the earth. On the next three days of creation, God filled the earth. (01-02, 01-03, 01-04, 01-05, 01-06, 01-07, 01-08)
 
-On day 1, God separated light and darkness. On day 2, God separated sky and water. On day 3, God separated dry land and seas. On day 3, God filled his earth with plants and trees. On day 4, God filled the sky with the sun, moon, and stars. On day 5, God filled the waters with water animals and the sky with flying animals. On day 6, God filled the earth with land animals and humans. (01-02, 01-03, 01-04, 01-05, 01-06, 01-07, 01-08)
+On day 1, God separated light and darkness. On day 2, God separated the sky and water. On day 3, God separated dry land and seas. On day 3, God filled his earth with plants and trees. On day 4, God filled the sky with the sun, moon, and stars. On day 5, God filled the waters with water animals and the sky with flying animals. On day 6, God filled the earth with land animals and humans. (01-02, 01-03, 01-04, 01-05, 01-06, 01-07, 01-08)
 
 ##### What was special/unique about how God created humans? (01-09, 01-10, 01-11, 01-12, 01-13, 01-14, 01-15)
 
@@ -450,13 +450,13 @@ God made humans in his image. Humans were created to be God’s special represen
 
 God created humans to rule over the created world. (01-09)
 
-God made humans out of dust of the ground. He fashioned man like a potter would fashion clay into a piece of pottery. (01-10)
+God made humans out of the dust of the ground. He fashioned man like a potter would fashion clay into a piece of pottery. (01-10)
 
-God made a special garden for man. He put man in the garden and put him there to take care of it. God gave man a purpose on the earth. (01-10)
+God made a special garden for man. He put the man in the garden and put him there to take care of it. God gave the man a purpose on the earth. (01-10)
 
 God placed two special trees in the garden: the tree of the knowledge of good and evil and the tree of life. God told Adam that he could eat from any tree in the garden except the tree of the knowledge of good and evil. God created humans to follow God’s commands. Life works best when we follow God’s commands. (01-11)
 
-At first man was alone. No animal could be man’s helper. God created woman from man’s rib. Woman was man’s special companion. God created humans to enjoy fellowship with other humans. When God created man and woman he considered it very good. (01-12, 01-13, 01-14, 01-15)
+At first, the man was alone. No animal could be man’s helper. God created woman from man’s rib. The woman was the man’s special companion. God created humans to enjoy fellowship with other humans. When God created man and woman he considered it very good. (01-12, 01-13, 01-14, 01-15)
 
 God told man and woman to have children and grandchildren and fill the earth. God made humans to spread across the earth. (01-15)
 
@@ -486,7 +486,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -516,20 +516,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -576,7 +576,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -638,7 +638,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -650,7 +650,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

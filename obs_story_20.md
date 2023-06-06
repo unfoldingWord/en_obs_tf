@@ -8,7 +8,7 @@ story_num: 20
 
 ### Key Idea
 
-The story of the exile and return teaches us what is is like to live as God’s people in a foreign land that is not our final home.
+The story of the exile and return teaches us what it is like to live as God’s people in a foreign land that is not our final home.
 
 ### Creedal Verse
 
@@ -194,15 +194,16 @@ How did the kingdom of Israel and Judah sin against God?
 The kingdom of Israel and Judah broke the covenant God had made with them at Sinai.
 
 What was the warning that the prophets spoke to the people?  
-They told them to repent and worship God again.
+The prophets told them to repent and worship God again.
 
-How did the people respond to the message from cthe prophets?  
+How did the people respond to the message from the prophets?  
 The people refused to obey.
 
 #### 20-02
 
 How did God punish both kingdoms?  
-God punished both kingdoms by allowing their enemies to destroy them?  
+God punished both kingdoms by allowing their enemies to destroy them.
+
 Who were the Assyrians?  
 The Assyrians were a powerful nation who were cruel to other nations.
 
@@ -210,7 +211,7 @@ What enemy destroyed the kingdom of Israel?
 The Assyrians destroyed the kingdom of Israel.
 
 How did the Assyrians attack the kingdom of Israel?  
-The Assyrians killed many people in the kingdom fo Israel, took away everything they wanted, and burned much of the country.
+The Assyrians killed many people in the kingdom of Israel, took away everything they wanted, and burned much of the country.
 
 #### 20-03
 
@@ -223,8 +224,9 @@ The Assyrians left some of the very poor Israelites in the land of Israel.
 #### 20-04
 
 Whom did the Assyrians bring into the land of Israel?  
-The Assyrians brought foreigners to live in the land of Israel?  
-What ddi the foreigners do in the land of Israel?  
+The Assyrians brought foreigners to live in the land of Israel.
+
+What did the foreigners do in the land of Israel?  
 The foreigners rebuilt the cities and intermarried with the Israelites who were left in the land.
 
 Who were the Samaritans?  
@@ -258,7 +260,8 @@ Did the king of Judah continue to serve Nebuchadnezzar?
 No. After a few years, the king of Judah rebelled abasing the king of Babylon.
 
 How did the Babylonians respond to this rebellion?  
-The Babylonians came back and attacked the kingdom of Judah?  
+The Babylonians came back and attacked the kingdom of Judah.
+
 How successfully did the Babylonians defeat the kingdom of Judah?  
 The Babylonians captured the city of Jerusalem, destroyed the Temple, and took away all the treasures of the city and Temple.
 
@@ -297,13 +300,13 @@ At this time, most of the Israelites lived their whole lives in Babylon and only
 #### 20-12
 
 What were the Persians like?  
-The Persians were very strong but had mercy on they people they conquered.
+The Persians were very strong but had mercy on the people they conquered.
 
 What order did King Cyrus give concerning the Jews?  
-He ordered that any Jew who wanted to return to Judah could go there.
+King Cyrus ordered that any Jew who wanted to return to Judah could go there.
 
 How else did King Cyrus help the Israelites?  
-King Cyrus also gave money for the Israelites to rebuild the Temple.
+King Cyrus also gave money to the Israelites to rebuild the Temple.
 
 Who returned to the land of Israel?  
 After 70 years of exile, a small group of Jews returned to the city of Jerusalem.
@@ -317,7 +320,7 @@ At this time were the Jews completely free?
 No. Even though they were back in the land, the Persians still ruled over them.
 
 Why were things okay for the Jews under Persian rule?  
-The Jews lived in the Promised land and worshiped at the temple.
+The Jews lived in the Promised Land and worshiped at the temple.
 
 ### Translation Questions
 
@@ -327,7 +330,7 @@ Use the following translation questions to understand specific details of the pa
 
 **broke the covenant** The kingdom of Israel and the kingdom of Judah defied God’s commands. How would you translate **broke the covenant** to mean disobeyed the commands God had given them in his covenant with them at Mount Sinai?
 
-**warn them to repent and worship him again** God sent prophets to tell caution Israel that thy would be punished if they did not change their ways. They must to stop sinning, cease worshiping false gods, and start worshiping Yahweh again. How would you translate **warn them to repent and worship him again** to mean to tell the Israelites to stop sinning and to worship Yahweh instead of other gods, or terrible things would happen to them?
+**warn them to repent and worship him again** God sent prophets to caution Israel that they would be punished if they did not change their ways. They must stop sinning, cease worshiping false gods, and start worshiping Yahweh again. How would you translate **warn them to repent and worship him again** to mean to tell the Israelites to stop sinning and to worship Yahweh instead of other gods, or terrible things would happen to them?
 
 **but they refused to obey** God sent prophets to warn the Israelites of the need to repent of their sin and worship Yahweh alone. The Israelites did the opposite of this. They were not willing to obey God. How would you translate **but they refused to obey** to mean the refusal to obey God is the opposite/contrary to the warning the prophets gave the people?
 
@@ -357,25 +360,25 @@ Use the following translation questions to understand specific details of the pa
 
 #### 20-05
 
-**for not believing and obeying him** The reason God punished the kingdom of Israel was the Israelites did not trust God or follow his commands. How would you express **for not believing and obeying him** to mean the reason God punished the kingdom of Israel was because they did not trust God and did not follow his commands?
+**for not believing and obeying him** The reason God punished the kingdom of Israel was the Israelites did not trust God or follow his commands. How would you express **for not believing and obeying him** to mean the reason God punished the kingdom of Israel was that they did not trust God and did not follow his commands?
 
-**But they still worshiped idols** The kingdom of Judah saw how God punished the kingdom of Israel. Rather than changing their ways, the kingdom of Judah continue to worship idols. This is the opposite of what they should have done. How would you translate **But they still worshiped idols** to mean the people continued to worship idols despite seeing Israel’s punishment when they refused to obey?
+**But they still worshiped idols** The kingdom of Judah saw how God punished the kingdom of Israel. Rather than changing their ways, the kingdom of Judah continued to worship idols. This is the opposite of what they should have done. How would you translate **But they still worshiped idols** to mean the people continued to worship idols despite seeing Israel’s punishment when they refused to obey?
 
 **warn** The prophets told the people the bad things that would happen in the future if they did not stop sinning. They told the people that God would punish them if they did not stop sinning. God’s coming punishment How would you translate **warn** to mean to tell to stop sinning or terrible things would happen to them?
 
-**they refused to listen** The kingdom of Judah was unwilling to obey God and they defied God’s command to stop their evil behavior? How would you translate **they refused to listen** to mean the kingdom of Judah stubbornly defied God’s command and was unwilling to do what he said?
+**they refused to listen** The kingdom of Judah was unwilling to obey God and they defied God’s command to stop their evil behavior. How would you translate **they refused to listen** to mean the kingdom of Judah stubbornly defied God’s command and was unwilling to do what he said?
 
 #### 20-06
 
-**God sent Nebuchadnezzar** God used Nebuchadnezzar to punish the kingdom of Judah. God caused Nebuchadnezzar and the Babylonians to attack the kingdom fo Judah. God used this attack as his punishment against his people. How would you express **God sent Nebuchadnezzar** to mean God caused Nebuchadnezzar and his armies to attack the kingdom of Judah?
+**God sent Nebuchadnezzar** God used Nebuchadnezzar to punish the kingdom of Judah. God caused Nebuchadnezzar and the Babylonians to attack the kingdom of Judah. God used this attack as his punishment against his people. How would you express **God sent Nebuchadnezzar** to mean God caused Nebuchadnezzar and his armies to attack the kingdom of Judah?
 
-**agreed to be** Nebuchadnezzar’s servant The king of Judah was forced to either serve the Babylonian king or be destroyed. The king of Judah decided so that he would not be killed. How would you express **agreed to be** Nebuchadnezzar’s servant to mean to govern Judah under Nebuchadnezzar’s command?
+**agreed to be** Nebuchadnezzar’s servant The king of Judah was forced to either serve the Babylonian king or be destroyed. The king of Judah decided to serve Nebuchadnezzar that he would not be killed. How would you express **agreed to be** Nebuchadnezzar’s servant to mean to govern Judah under Nebuchadnezzar’s command?
 
 **pay him a lot of money every year** The king of Judah also gave Nebuchadnezzar a lot of money. The king of Judah did this to keep himself from being destroyed. It was a part of being Nebuchadnezzar’s servant. How would you translate **pay him a lot of money every year** to mean to give a high quantity of money every year?
 
 #### 20-07
 
-**So, the Babylonians came back and attacked** The king of Judah became disloyal to the king of Judah. He stopped serving him. The result of this was the Babylonians came to Judah again and attacked the kingdom of Judah. How would you translate **So, the Babylonians came back and attacked** to mean result of the the king of Judah rebelling against Babylon was the Babylonians returned and attacked them?
+**So, the Babylonians came back and attacked** The king of Judah became disloyal to the king of Judah. He stopped serving him. The result of this was the Babylonians came to Judah again and attacked the kingdom of Judah. How would you translate **So, the Babylonians came back and attacked** to mean the result of the the king of Judah rebelling against Babylon was the Babylonians returned and attacked them?
 
 **captured the city** The Babylonians took control of the city and the people there. How would you express **captured the city** to mean the Babylonians took the city of Jerusalem by force and brought the people living there under their control?
 
@@ -393,15 +396,15 @@ Use the following translation questions to understand specific details of the pa
 
 #### 20-09
 
-**leaving only the poorest people behind** The Babylonians took most of the people of the kingdom of Judah to Babylon. They left only the poorest people in Judah? How would you express **leaving only the poorest people behind** to mean letting/allowing only the poorest people stay in Judah?
+**leaving only the poorest people behind** The Babylonians took most of the people of the kingdom of Judah to Babylon. They left only the poorest people in Judah. How would you express **leaving only the poorest people behind** to mean letting/allowing only the poorest people stay in Judah?
 
 **This period of time** The time being referred to is the time of the exile. This time lasted 70 years. How would you express **This period of time** the long 70-year period the Israelites were in exile?
 
-**the Exile** The word exile means someone is removed from the country by force. The Exile is the term for this 70-year period when the Israelites were forced to live in Babylon. How would you express **the Exile** to mean a long, 70-year period of time when the Israelites were forcefully removed form their country and caused to live in another country?
+**the Exile** The word exile means someone is removed from the country by force. The Exile is the term for this 70-year period when the Israelites were forced to live in Babylon. How would you express **the Exile** to mean a long, 70-year period of time when the Israelites were forcefully removed from their country and caused to live in another country?
 
 #### 20-10
 
-**did not forget** God punished his people by removing them from the Promised Land. This did not mean God neglected his promises to his people. God continued to honor his commitment to his people and his promises. How would you express **did not forget** to mean God did not ignore or did not neglect his promises he made to his people?
+**did not forget** God punished his people by removing them from the Promised Land. This did not mean God neglected his promises to his people. God continued to honor his commitment to his people and his promises. How would you express **did not forget** to mean God did not ignore or did not neglect the promises he made to his people?
 
 **watch over** During the time of the Exile, God continued to take care of his people. How would you express **watch over** to mean to protect and take care of someone?
 
@@ -417,13 +420,13 @@ Use the following translation questions to understand specific details of the pa
 
 **but they had mercy on the people they conquered** The Persians were strong. The Persians were not cruel and brutal to the people they conquered. Rather, they showed them mercy and kindness. How would you express **but they had mercy on the people they conquered** to mean the mercy and kindness which the Persians showed on the people they defeated was in contrast to how strong the Persians were?
 
-**He even gave them money to rebuild the Temple!** Cyrus not only send Israelites back to the land. He did an amazing thing. He even gave them money to rebuild the Temple. How would you express **He even gave them money to rebuild the Temple!** to be a strong statement that emphasizes the surprising fact that King Cyrus of the Persians would give the Jews money to rebuild their Temple?
+**He even gave them money to rebuild the Temple!** Cyrus not only send Israelites back to the land. Cyrus did an amazing thing. Cyrus even gave them money to rebuild the Temple. How would you express **He even gave them money to rebuild the Temple!** to be a strong statement that emphasizes the surprising fact that King Cyrus of the Persians would give the Jews money to rebuild their Temple?
 
 #### 20-13
 
 **the wall** This wall was very thick (2.5 meters) and was built to protect the city from attackers. How would you express **the wall** to mean a thick wall that is used to provide protection from attackers?
 
-**once again** At this time, Israelites who were in exile were now living to the land of Judah. This was the land God promised to give to his people. Now, they were living there again as the Israelites had done before the Exile. How would you express **once again** to mean those who returned to the land of Judah lived in the Promised Land as they ancestors had done before the Exile?
+**once again** At this time, Israelites who were in exile were now living in the land of Judah. This was the land God promised to give to his people. Now, they were living there again as the Israelites had done before the Exile. How would you express **once again** to mean those who returned to the land of Judah lived in the Promised Land as their ancestors had done before the Exile?
 
 **worshiping at the Temple** The people had rebuilt the Temple which was destroyed in the exile. This was the place where God’s people were supposed to worship him before the exile. How would you express **worshiping at the Temple** to mean the people worshiped Yahweh, the One True God, at the Temple they rebuilt their devotion to God?
 
@@ -441,11 +444,11 @@ Use the following discourse questions to understand the meaning of the story. Pa
 
 Sinned: The kingdom of Israel and the kingdom of Judah both sinned against God. The Israelites did not follow God’s commands. (20-01)
 
-Covenant Unfaithfulness: When the Israelites sinned they violated the covenant God made with his people at Sinai. The commands God gave to his people were a means of maintaining relationship with his people. When the Israelites broke these commands they broke covenant relationship with God. (20-01)
+Covenant Unfaithfulness: When the Israelites sinned they violated the covenant God made with his people at Sinai. The commands God gave to his people were a means of maintaining the relationship with his people. When the Israelites broke these commands they broke the covenant relationship with God. (20-01)
 
 Stubborn Disobedience: The Israelites disobeyed God’s commands. Even though God sent prophets to warn them and call them to repent, Israel continued to sin. The Israelites refused to repent and obey God. They were stubborn in their sin. (20-01)
 
-Unbelief and Disobedience: The people who lived in the kingdom of Judah saw how God punished the kingdom of Israel. GOd punished the kingdom of Israel for not believing and obeying God. (20-05).
+Unbelief and Disobedience: The people who lived in the kingdom of Judah saw how God punished the kingdom of Israel. God punished the kingdom of Israel for not believing and obeying God. (20-05).
 
 Idolatry: Despite seeing what happened to the kingdom of Israel, the people of the kingdom of Judah worshiped idols and refused to listen to the prophets. (20-05)
 
@@ -477,11 +480,11 @@ Exile: Nebuchadnezzar took many of the people of Judah to Babylon and left the p
 
 Exile: Because God’s people sinned against God, they were forced to leave the Promised Land. God exiled his people from the land because of their sin. Only God could restore them to the land. (20-09)
 
-Promises: While God’s people were in exile, God did not forget his promises to his people. He promised his people that they would return to the land after 70 years. God stays true to his promises even when he punishes his people. (20-10)
+Promises: While God’s people were in exile, God did not forget his promises to his people. God promised his people that they would return to the land after 70 years. God stays true to his promises even when he punishes his people. (20-10)
 
-Protection: During the exile, God continued to watch over his people. He protected them and send prophets to deliver messages from God. (20-10)
+Protection: During the exile, God continued to watch over his people. God protected them and send prophets to deliver messages from God. (20-10)
 
-Persia: God used the nation of Persia to bring the Israelites back into the land. The Persians defeated the Babylonians. They had mercy on the people they conquered. The king of Persia, Cyrus, sent God’s people back to the land and even gave them money to rebuild the temple. God used foreign nations to punish Israel (Assyrian and Babylon) and God used a foreign nation to restore Israel to the land (Persia). God is in control of all circumstances and used historical/political situations to accomplish his purposes. (20-11, 20-12)
+Persia: God used the nation of Persia to bring the Israelites back into the land. The Persians defeated the Babylonians. The Persians had mercy on the people they conquered. The king of Persia, Cyrus, sent God’s people back to the land and even gave them money to rebuild the temple. God used foreign nations to punish Israel (Assyrian and Babylon), and God used a foreign nation to restore Israel to the land (Persia). God is in control of all circumstances and used historical/political situations to accomplish his purposes. (20-11, 20-12)
 
 Restoration: The Israelites who returned to the land rebuilt the Temple and the wall around the city. They were living in the Promised Land and worshiped at the Temple. God did what he promised and restored his people to the land. (20-13)
 
@@ -491,7 +494,7 @@ Restoration: The Israelites who returned to the land rebuilt the Temple and the 
 
 Answer the following theology questions as a community. Discuss what truths this story teaches.
 
-1.  Why does God punish/discipline his people? Based on this story, why does God bring consequences on his people for their sin?
+1.  Why does God punish/discipline his people? Based on this story, why does God bring consequences to his people for their sin?
 2.  How does God punish people for sin from which they refuse to repent? How do the exiles by Assyria and Babylon teach us about how God disciplines/punishes his people for unrepentant sin?
 3.  How does God stay faithful to his own promises when his people are not faithful? What does the story of the exile and return teach us about God’s faithfulness to his own promises?
 
@@ -505,7 +508,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -533,20 +536,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -593,7 +596,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -655,7 +658,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -667,7 +670,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

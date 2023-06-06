@@ -176,7 +176,7 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 28-01
 
@@ -187,7 +187,7 @@ How did Jesus respond to the rich young ruler calling Jesus “Good teacher”?
 Jesus said that there is only one who is good, and that is God.
 
 What did Jesus tell the young man to do in order to have eternal life?  
-He told him to obey God’s laws.
+Jesus told him to obey God’s laws.
 
 #### 28-02
 
@@ -218,7 +218,7 @@ Jesus told him to come and follow him.
 
 #### 28-05
 
-How did the the rich young ruler feel about Jesus’ words?  
+How did the rich young ruler feel about Jesus’ words?  
 When the young man heard what Jesus said, he became very sad.
 
 Why did the young ruler become sad?  
@@ -262,7 +262,7 @@ What did Jesus say would be their reward?
 Jesus explained that everyone who leaves houses, brothers, sisters, father, mother, children, or property for the sake of Jesus’ name would receive 100 times more in the next world, and also eternal life.
 
 What did Jesus say about who is first and last?  
-Many who are first will be last, and many who are last will be first?
+Many who are first will be last, and many who are last will be first.
 
 ### Translation Questions
 
@@ -276,15 +276,15 @@ Use the following translation questions to understand specific details of the pa
 
 **Good teacher** The rich young ruler addressed Jesus as morally upright and respectable. He was not saying that Jesus was simply a skilled teacher. How would you express **Good teacher** to mean righteous teacher?
 
-**There is only one who is good, and that is** God Jesus does not deny that he himself is good. Jesus simply asked the rich young ruler why he called Jesus good. Jesus explained that the only one who is truly good is God. How would you express **There is only one who is good, and that is** God to mean God is the only one who is truly good?
+**There is only one who is good, and that is God** Jesus does not deny that he himself is good. Jesus simply asked the rich young ruler why he called Jesus good. Jesus explained that the only one who is truly good is God. How would you express **There is only one who is good, and that is God** to mean God is the only one who is truly good?
 
-**if you want to have eternal life, obey** God’s laws Eternal life means to live forever with God, even after this present life. Jesus explained that people can receive eternal life if they obey God’s commands. How would you express **if you want to have eternal life, obey** God’s laws to mean you must obey God’s commands in order to live forever with God?
+**if you want to have eternal life, obey God’s laws** Eternal life means to live forever with God, even after this present life. Jesus explained that people can receive eternal life if they obey God’s commands. How would you express **if you want to have eternal life, obey God’s laws** to mean you must obey God’s commands in order to live forever with God?
 
 #### 28-02
 
 **Which ones do I need to obey?** The rich young ruler asked Jesus which commands he needed to obey in order to have eternal life. How would you express **Which ones do I need to obey?** as a question which asks which laws does one need to obey in order to live forever with God?
 
-**love your neighbor as you love yourself** Jesus explained that one of the laws people needed to obey was to love one’s neighbor as much as one loves himself. This means that people are to show genuine concern for others the way they would care for their own wellbeing. How would you express **love your neighbor as you love yourself** to mean to show genuine concern for others to the same degree that you would yourself?
+**love your neighbor as you love yourself** Jesus explained that one of the laws people needed to obey was to love one’s neighbor as much as one loves himself. This means that people are to show genuine concern for others the way they would care for their own well-being. How would you express **love your neighbor as you love yourself** to mean to show genuine concern for others to the same degree that you would yourself?
 
 #### 28-03
 
@@ -380,9 +380,10 @@ Humility: Jesus explained to his disciples that following Jesus will involve hum
 
 ##### What did Jesus promise to those who genuinely followed Jesus? (28-01, 28-03, 28-04, 28-06, 28-07, 28-08, 28-09, 28-10)
 
-Eternal LIfe: People who genuinely follow Jesus gain eternal life and live forever. (28-01, 28-03, 28-10)
+Eternal Life: People who genuinely follow Jesus gain eternal life and live forever. (28-01, 28-03, 28-10)
 
 Treasure in Heaven/Reward: People who genuinely follow Jesus will have treasure in heaven. Those who give up their possessions now to follow Jesus will become richly blessed and rewarded in the future. (28-04, 28-09, 28-10)
+
 Kingdom Citizen: People who genuinely follow Jesus will become citizens of God’s kingdom. (28-06)
 
 Saved: People who genuinely follow Jesus will be saved/rescued from God’s wrath and judgment of their sin. (28-07, 28-08)
@@ -407,7 +408,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -425,8 +426,8 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 1.  What have you given up to follow Jesus?
 2.  What people or things make it a challenge to follow Jesus?
-3.  How can you even more make Jesus most important in your life?
-4.  What hope do you have of the future life? How do these future promises/rewards encourage and motivate you in your Christian life?
+3.  How can you, even more, make Jesus the most important in your life?
+4.  What hope do you have for the future life? How do these future promises/rewards encourage and motivate you in your Christian life?
 
 ### Team Check
 
@@ -436,20 +437,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -496,7 +497,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -558,7 +559,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -570,7 +571,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

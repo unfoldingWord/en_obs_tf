@@ -125,7 +125,7 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 06-01
 
@@ -133,7 +133,7 @@ How old were Abraham and Isaac at the beginning of this story?
 Abraham was very old and Isaac had grown to be a man.
 
 Why did Abraham send his servant back to the land of Abraham’s relatives?  
-He sent him to bring back a wife for his Abraham’s son, Isaac.
+Abraham sent him to bring back a wife for his son, Isaac.
 
 #### 06-02
 
@@ -146,9 +146,9 @@ Rebekah was the granddaughter of Abraham’s brother.
 #### 06-03
 
 Was Rebekah forced to go with the servant to marry Isaac?  
-No, she agreed to go.
+No, Rebekah agreed to go.
 
-What happened when Rebekah arrived to Isaacs home and met Isaac?  
+What happened when Rebekah arrived at Isaacs home and met Isaac?  
 Isaac married Rebekah.
 
 #### 06-04
@@ -178,16 +178,16 @@ They would become two nations, and the older son will serve the younger one.
 #### 06-07
 
 What was the name of the older son?  
-His name was Esau.
+The older son’s name was Esau.
 
 What did Esau look like?  
 Esau was red and hairy.
 
 What was the name of the younger son?  
-His name was Jacob.
+The younger son’s name was Jacob.
 
 What was Jacob doing when he was born?  
-He was holding on to Esau’s heel.
+Jacob was holding on to Esau’s heel.
 
 ### Translation Questions
 
@@ -195,19 +195,19 @@ Use the following translation questions to understand specific details of the pa
 
 #### 06-01
 
-**sent one of his servants back** Abraham told the servant to return to the same place where Abraham used to live long ago before he came to Canaan. This was the place where his relatives lived. How would express **sent one of his servants back** to mean Abraham told his servant to return to the place he used to live before living in Canaan?
+**sent one of his servants back** Abraham told the servant to return to the same place where Abraham used to live long ago before he came to Canaan. This was the place where Abraham’s relatives lived. How would you express **sent one of his servants back** to mean Abraham told his servant to return to the place Abraham used to live before living in Canaan?
 
-**to bring back a wife** Abraham told the servant to bring back an unmarried woman for his son, Isaac, to marry. How would you express **to bring back a wife** to mean to find an unmarried woman for Isaac to marry and to cause her to return with him to Isaac?
+**to bring back a wife** Abraham told the servant to bring back an unmarried woman for his son, Isaac, to marry. How would you express **to bring back a wife** to mean to find an unmarried woman for Isaac to marry and cause her to return with him to Isaac?
 
 #### 06-02
 
 **God led the servant** God specifically directed the servant to Rebekah. How would you express **God led the servant** to mean God guided the servant and showed him that Rebekah was the unmarried woman Isaac was supposed to marry?
 
-**the granddaughter of** Abraham’s brother Rebekah was the daughter of Abraham’s brother’s son. Her grandfather was Abraham’s brother. How would you express **the granddaughter of** Abraham’s brother to mean Abraham was the brother of Rebekah’s grandfather?
+**the granddaughter of** Abraham’s brother Rebekah was the daughter of Abraham’s brother’s son. Rebekah’s grandfather was Abraham’s brother. How would you express **the granddaughter of** Abraham’s brother to mean Abraham was the brother of Rebekah’s grandfather?
 
 #### 06-03
 
-**Rebekah agreed** Even though Rebekah’s parents were arranging her marriage, they did not force her to go marry Isaac. How would you express **Rebekah agreed** to mean Rebekah decided that she would go with the servant to marry Isaac and that she was not forced to go?
+**Rebekah agreed** Even though Rebekah’s parents were arranging her marriage, they did not force her to go marry Isaac. How would you express **Rebekah agreed** to mean Rebekah decided that she would go with the servant to marry Isaac and that Rebekah was not forced to go?
 
 **as soon as she arrived** Isaac married Rebekah when she came to Isaac’s home. How would you express **as soon as she arrived** to mean Isaac married Rebekah at the time she met Isaac and came to his home?
 
@@ -221,7 +221,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 06-05
 
-**Isaac prayed for** Rebekah Isaac talked to God and asked for God to help Rebekah. How would you express **Isaac prayed for** Rebekah to mean Isaac asked God to help Rebekah?
+**Isaac prayed for Rebekah** Isaac talked to God and asked for God to help Rebekah. How would you express **Isaac prayed for Rebekah** to mean Isaac asked God to help Rebekah?
 
 **God allowed her to get pregnant** Rebekah could not have children. God answered Isaac’s prayer. God made it possible for her to have children. How would you express **God allowed her to get pregnant** to mean God made it possible for Rebekah to become pregnant?
 
@@ -257,13 +257,13 @@ Take time to explore the meaning of this story together as a community. Use the 
 
 Use the following discourse questions to understand the meaning of the story. Pay attention to how the story itself addresses each question or theme.
 
-##### How did provide a wife for Isaac? (06-01, 06-02, 06-03)
+##### How did God provide a wife for Isaac? (06-01, 06-02, 06-03)
 
 Abraham sent one of his servants back to the land of his relatives to find a wife for his son Isaac. Abraham wanted Isaac to marry someone who would share his faith and values. God used Abraham’s faithfulness to provide for Isaac. (06-01)
 
 God led Abraham’s servant to Rebekah. The servant did not discover Rebekah himself. God guided the servant to find Rebekah. (06-02)
 
-Rebekah was the granddaughter of Abraham’s brother. One way the servant knew that this choice was from God was because Rebekah was a part of Abraham’s extended family. God honored Abraham’s desire to find an appropriate wife for Isaac and provided a woman from his extended family. (06-02)
+Rebekah was the granddaughter of Abraham’s brother. One way the servant knew this choice was from God was because Rebekah was a part of Abraham’s extended family. God honored Abraham’s desire to find an appropriate wife for Isaac and provided a woman from his extended family. (06-02)
 
 Rebekah agreed to go back with the servant to Isaac’s home. God worked in Rebekah to agree to go. She was not forced to go. (06-03)
 
@@ -295,7 +295,7 @@ The two sons and their descendants would be in conflict with one another. God wo
 
 Answer the following theology questions as a community. Discuss what truths this story teaches.
 
-1.  How does God provide for his people? What do we learn about how God provides for his people form this story?
+1.  How does God provide for his people? What do we learn about how God provides for his people from this story?
 2.  What does it mean to pray to God? What does this story teach us about prayer?
 3.  How does God keep the promises of his covenant? What do we learn about God’s promises and his covenant in this story?
 
@@ -309,7 +309,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -328,7 +328,7 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 1.  How have you experienced God providing for you?
 2.  What specific needs would you hope God provides for you or for someone else? How would you pray to God to meet personal needs or the needs of others?
 3.  Which part of Isaac’s story is most interesting to you? Why?
-4.  How should respond to God as he fulfills his promises?
+4.  How should you respond to God as he fulfills his promises?
 
 ### Team Check
 
@@ -338,20 +338,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -398,7 +398,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -460,7 +460,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -472,7 +472,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

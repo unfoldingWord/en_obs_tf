@@ -216,12 +216,13 @@ Who was God sending to the Israelite?
 God was always sending prophets to the Israelites.
 
 What did the prophets do?  
-The prophets heard the messages from God and spoke them to the people?  
+The prophets heard the messages from God and spoke them to the people.  
 \#### 19-02  
 Who was prophet during the reign of King Ahab?  
-Eliah was a prophet when Ahab was king over the kingdom of Israel?  
+Eliah was a prophet when Ahab was king over the kingdom of Israel.
+
 What kind of king was Ahab?  
-Ahab was an evil man. He tried to make the people worship a false god named Baal.
+Ahab was an evil man. Ahab tried to make the people worship a false god named Baal.
 
 What did Elijah say that God was going to do to punish the people?  
 Elijah said that God will withhold rain and dew in the kingdom of Israel until Elijah says it will rain again.
@@ -260,7 +261,7 @@ Elijah stayed there for three years.
 #### 19-05
 
 What did God tell Elijah after three and a half years?  
-God told Elijah that he would make it rain again. He told Elijah to return to the kingdom of Israel and speak with Ahab.
+God told Elijah that he would make it rain again. God told Elijah to return to the kingdom of Israel and speak with Ahab.
 
 What did Elijah and Ahab say to each other when they met?  
 Ahab called Elijah a troublemaker. Elijah told Ahab that he was the troublemaker because he abandoned Yahweh.
@@ -288,7 +289,7 @@ What did Elijah tell the prophets of Baal to do?
 Elijah told the prophets of Baal to kill a bull, divide its meat in pieces, and put it on an altar for sacrifice without lighting a fire.
 
 What did Elijah tell the prophets of Baal that he would do?  
-Elijah told the prophets of Baal that the would do the same thing later on a different altar.
+Elijah told the prophets of Baal that they would do the same thing later on a different altar.
 
 How would the people know who was the real God?  
 The people would know the real God by which altar was lit up by fire.
@@ -338,18 +339,18 @@ The rain showed that Yahweh was ending the drought and that he is the true God.
 #### 19-14
 
 Who was the prophet after Elijah?  
-Elisha was prophet after Elijah.
+Elisha was a prophet after Elijah.
 
 Who was Naaman?  
 Naaman was a commander of an enemy army who heard about Elisha and went to him to be healed.
 
-What did Elisha tell Naaman to do to in order to heal his skin disease?  
-He told him to dip himself seven times in the Jordan River.
+What did Elisha tell Naaman to do in order to heal his skin disease?  
+Elisha told him to dip himself seven times in the Jordan River.
 
 #### 19-15
 
 What did Naaman do after he heard Elisha’s instructions?  
-At first he was angry and would not do it because it seemed foolish, but later he changed his mind and did it, and was completely healed.
+At first Naaman was angry and would not do it because it seemed foolish, but later he changed his mind and did it, and was completely healed.
 
 #### 19-16
 
@@ -384,17 +385,17 @@ Use the following translation questions to understand specific details of the pa
 
 #### 19-01
 
-**prophets** Prophets receive messages from God and tell these messages people. These messengers are chosen by God. Sometimes **prophets** told messages of things that would happen in the future. Sometimes **prophets** announced God’s judgment and called God’s people to repent of their sin. Sometimes **prophets** proclaimed God’s promise to deliver his people. How would you express **prophets** to mean a person who receives messages from God and tells these messages to people?
+**prophets** Prophets receive messages from God and tell these messages to people. These messengers are chosen by God. Sometimes **prophets** told messages of things that would happen in the future. Sometimes **prophets** announced God’s judgment and called God’s people to repent of their sin. Sometimes **prophets** proclaimed God’s promise to deliver his people. How would you express **prophets** to mean a person who receives messages from God and tells these messages to people?
 
-**God was always sending prophets to the Israelites** God sent many prophets to the Israelites. He did this for many years and over many generations. How would you express **God was always sending prophets to the Israelites** to mean God sent prophets to the Israelites
+**God was always sending prophets to the Israelites** God sent many prophets to the Israelites. God did this for many years and over many generations. How would you express **God was always sending prophets to the Israelites** to mean God sent prophets to the Israelites
 
 #### 19-02
 
-**So Elijah told King Ahab that God was going to punish the people** Ahab tried to make the people worship Baal. This was very evil because Baal was a false god. As a result of this evil, God planned to punish the people. Would would you express **So Elijah told King Ahab that God was going to punish the people** to mean the result of Ahab trying to make the people worship Baal was God planning to punish the people?
+**So Elijah told King Ahab that God was going to punish the people** Ahab tried to make the people worship Baal. This was very evil because Baal was a false god. As a result of this evil, God planned to punish the people. How would you express **So Elijah told King Ahab that God was going to punish the people** to mean the result of Ahab trying to make the people worship Baal was God planning to punish the people?
 
 **until I say it will rain again** Elijah told Ahab that there would be no rain until he commanded the rain and dew to come again. How would you express **until I say it will rain again** to mean rain would only come again at the time Elijah gave the command for it to return?
 
-**This made Ahab so angry** God was going to punish the people. There would be no more rain for a long time. This news made Ahab very angry. How would you express **This made Ahab so angry** to mean the news of God’s punishment to not send rain caused Ahab to become extremely upset and angry? the people and would be no rain
+**This made Ahab so angry** God was going to punish the people. There would be no more rain for a long time. This news made Ahab very angry. How would you express **This made Ahab so angry** to mean the news of God’s punishment not to send rain caused Ahab to become extremely upset and angry?
 
 #### 19-03
 
@@ -416,17 +417,17 @@ Use the following translation questions to understand specific details of the pa
 
 **jar of flour** The woman used a clay jar in which she kept her supply of flour. How would you express **jar of flour** to mean a container made of clay to store flour?
 
-**bottle of oil** In Israel, olive oil is used for cooking. This bottle was a container of cooking oil. The widow used the flour and the oil for making bread. How would you express **bottle of oil** to mean a container of cooking oil?
+**bottle of oil** In Israel, olive oil is used for cooking. This bottle was a container of cooking oil. The widow used flour and oil to make bread. How would you express **bottle of oil** to mean a container of cooking oil?
 
-**God provided for her and her son.** Her jar of flour and her bottle of oil never became empty God took care of the widow and her son. God prevented their flour jar and their bottle of oil from becoming empty. How would you express **God provided for her and her son.** Her jar of flour and her bottle of oil never became empty to mean God caused their flour jar and their bottle of oil to never become empty?
+**God provided for her and her son.** Her jar of flour and her bottle of oil never became empty God took care of the widow and her son. God prevented their flour jar and their bottle of oil from becoming empty. How would you express **God provided for her and her son** to mean God caused their flour jar and their bottle of oil to never become empty?
 
 #### 19-05
 
-**you troublemaker** Ahab called Elijah troublemaker. A troublemaker is someone who causes mischief and problems. Ahab was accusing Elijah of causing trouble by telling the king that he was doing wrong and also by stopping the rain. How would you express **you troublemaker** to mean Ahab called Elijah person who caused mischief and difficulty?
+**you troublemaker** Ahab called Elijah a troublemaker. A troublemaker is someone who causes mischief and problems. Ahab was accusing Elijah of causing trouble by telling the king that he was doing wrong and also by stopping the rain. How would you express **you troublemaker** to mean Ahab called Elijah a person who caused mischief and difficulty?
 
-**It is you who are the troublemaker!** Elijah responded to Ahab with a strong statement rebuke. He told Ahab that he was really the person who was causing trouble and mischief. How would you express **It is you who are the troublemaker!** to be a strong statement in which Elijah rebukes Ahab as the one who was really causing trouble/mischief?
+**It is you who are the troublemaker!** Elijah responded to Ahab with a strong statement of rebuke. Elijah told Ahab that he was really the person who was causing trouble and mischief. How would you express **It is you who are the troublemaker!** to be a strong statement in which Elijah rebukes Ahab as the one who was really causing trouble/mischief?
 
-**You have abandoned** Yahweh Ahab had led Israel to stop worshiping and obeying Yahweh. Ahab’s worship of Baal was a rejection of Yahweh. How would you express **You have abandoned** Yahweh to mean Ahab had forsaken God by worshipping a false god?
+**You have abandoned Yahweh** Ahab had led Israel to stop worshiping and obeying Yahweh. Ahab’s worship of Baal was a rejection of Yahweh. How would you express **You have abandoned Yahweh** to mean Ahab had forsaken God by worshipping a false god?
 
 **all the people of the kingdom of Israel** Not every person in the land of Israel came to Mount Carmel. This is a generalization to refer to the leaders and people who represent the ten tribes of the northern kingdom. How would you express **all the people of the kingdom of Israel** to mean the leaders and people who represent the ten tribes of the northern kingdom came to Mount Carmel?
 
@@ -434,13 +435,13 @@ Use the following translation questions to understand specific details of the pa
 
 **Baal’s prophets** The prophets that served the god Baal came to Mount Carmel. How would you express **Baal’s prophets** to mean the prophets who served the god Baal?
 
-**How long will you keep changing your mind?** Elijah rebuked the people for not worshiping Yahweh. He used a question to reprimand them. This is not a real question asking for information. Elijah was rebuking the Israelites for repeatedly changing their minds about whether they would serve Yahweh or Baal. How would you express **How long will you keep changing your mind?** to mean stop changing your minds about whom you will worship?
+**How long will you keep changing your mind?** Elijah rebuked the people for not worshiping Yahweh. Elijah used a question to reprimand them. This is not a real question asking for information. Elijah was rebuking the Israelites for repeatedly changing their minds about whether they would serve Yahweh or Baal. How would you express **How long will you keep changing your mind?** to mean stop changing your minds about whom you will worship?
 
-**If Yahweh is God, worship him! But if Baal is God, worship him!** Elijah made a strong statement that the people should decide once for all who they would worship. This does not mean that Elijah was undecided. He knew that Yahweh is the real God. He wanted the people to understand that when they worship false gods, they are rejecting Yahweh as the only true God. He was telling the people that they had to make a choice. How would you express **If Yahweh is God, worship him! But if Baal is God, worship him!** as a strong statement that told the people to decide who the real God is and serve him?
+**If Yahweh is God, worship him! But if Baal is God, worship him!** Elijah made a strong statement that the people should decide once for all who they would worship. This does not mean that Elijah was undecided. Elijah knew that Yahweh is the real God. He wanted the people to understand that when they worship false gods, they are rejecting Yahweh as the only true God. Elijah was telling the people that they had to make a choice. How would you express **If Yahweh is God, worship him! But if Baal is God, worship him!** as a strong statement that told the people to decide who the real God is and serve him?
 
 #### 19-07
 
-**if God sends fire on the altar** Elijah told the people that they would know that God is the true God when they saw him send fire on the altar. If God sends fire, then it proves that he is real. Elijah knows that Yahweh is the true God. He is not doubting or questioning this. He is tell the people how God would show the people that he is the true God. How would you express **if God sends fire on the altar** to mean God causing fire to come on the altar would show that he is the real God?
+**if God sends fire on the altar** Elijah told the people that they would know that God is the true God when they saw him send fire on the altar. If God sends fire, then it proves that he is real. Elijah knows that Yahweh is the true God. Elijah is not doubting or questioning this. Elijah tells the people how God would show the people that he is the true God. How would you express **if God sends fire on the altar** to mean God causing fire to come on the altar would show that he is the real God?
 
 **the real God** Elijah told the people that they would know that Yahweh is the true God and Baal is a false god. How would you express **the real God** to mean the one and only true God?
 
@@ -458,13 +459,13 @@ Use the following translation questions to understand specific details of the pa
 
 **After that** Elijah prepared the sacrifice, and then had people pour 12 pots of water over it. How would you express **After that** to mean Elijah had the people pour water over the sacrifice only subsequent to Elijah preparing the sacrifice?
 
-**until the meat, the wood, and even the ground around the altar were completely wet** Elijah told the people to pour water on the sacrifice. He told them to do this up to the point that the meat, wood, and ground were wet. How would you express **until the meat, the wood, and even the ground around the altar were completely wet** to mean Elijah instructed the people to pour water on the sacrifice up to the point the meat, wood, and ground were totally wet?
+**until the meat, the wood, and even the ground around the altar were completely wet** Elijah told the people to pour water on the sacrifice. Elijah told them to do this up to the point that the meat, wood, and ground were wet. How would you express **until the meat, the wood, and even the ground around the altar were completely wet** to mean Elijah instructed the people to pour water on the sacrifice up to the point the meat, wood, and ground were totally wet?
 
 #### 19-10
 
 **show us** Elijah asked God to send fire on the sacrifice as proof that Yahweh was the one and only true God. How would you express **show us** to mean to demonstrate or to give evidence/proof that something is true/real?
 
-**I am your servant** As a prophet, Elijah was served God. This means God used Elijah to deliver his messages to the Israelites. Elijah also prayed that God would demonstrate to the people that God had given Elijah authority to serve God and do these things. How would you express **I am your servant** to mean Elijah was devoted to God and God chose Elijah to carry out/perform God’s instructions/commands?
+**I am your servant** As a prophet, Elijah served God. This means God used Elijah to deliver his messages to the Israelites. Elijah also prayed that God would demonstrate to the people that God had given Elijah authority to serve God and do these things. How would you express **I am your servant** to mean Elijah was devoted to God and God chose Elijah to carry out/perform God’s instructions/commands?
 
 **Answer me** Elijah asked God to respond to his prayer. Specifically, Elijah asked God to send fire on the sacrifice. How would you express **Answer me** to mean Elijah asked God to respond to his prayer and send the fire he asked God for?
 
@@ -494,7 +495,7 @@ Use the following translation questions to understand specific details of the pa
 
 **Return immediately to your home** Elijah commanded King Ahab to go back to his house that very moment. Elijah spoke with authority as a prophet of God. How would you express **Return immediately to your home** as a command to go back to your house that very moment?
 
-**the sky became black** The sky became very dark. Heavy rainclouds covered the sky, making it look dark grey or black. How would you express **the sky became black** to mean the sky became very dark from rainclouds that covered the sky?
+**the sky became black** The sky became very dark. Heavy rain clouds covered the sky, making it look dark grey or black. How would you express **the sky became black** to mean the sky became very dark from rain clouds that covered the sky?
 
 **drought** There was no rain for a long time. The absence of rain for a long time is a **drought**. How would you express **drought** to mean a long dry time with no rain?
 
@@ -508,7 +509,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 19-15
 
-**because it seemed foolish** Naaman would not do what Elisha said because he knew that washing alone could not heal his disease. How would you express **because it seemed foolish** to mean the reason of Naaman refused to obey Elisha an dip in the water of the Jordan River was it seemed foolish to him?
+**because it seemed foolish** Naaman would not do what Elisha said because he knew that washing alone could not heal his disease. How would you express **because it seemed foolish** to mean the reason Naaman refused to obey Elisha and dip in the water of the Jordan River was it seemed foolish to him?
 
 **he changed his mind** At first, Naaman refused to obey Elisha and dip in the water of the Jordan River. Later on, Naaman decided to do what Elisha had told him to do. How would you express **he changed his mind** to mean Naaman decided that he would obey what Elisha told him to do?
 
@@ -516,7 +517,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 19-16
 
-**If the people did not do this** The prophets told the Israelites to stop doing evil and obey God. In the event that people did not do this, God would punish them. How would you translate **If the people did not do this** to mean God would punish God said that, if they did not stop doing evil, he would punish them?
+**If the people did not do this** The prophets told the Israelites to stop doing evil and obey God. In the event that people did not do this, God would punish them. How would you translate **If the people did not do this** to mean God would punish God said that, if they did not stop doing evil, God would punish them?
 
 **Instead, people should act justly with each other and have mercy on each other** The prophets told people to stop worshiping idols. The better way to live was to behave with justice and show mercy to others? How would you express **Instead, people should act justly with each other and have mercy on each other** to mean acting justly and showing mercy is opposite to worshiping idols?
 
@@ -548,11 +549,11 @@ Use the following discourse questions to understand the meaning of the story. Pa
 
 Purpose of Prophets: God sent prophets to his people. The prophets received messages from God and told these messages to the people. (19-01)
 
-Message of Punishment for Sin: The prophets told the people of the punishment that would come because of their evil and idolatry. Elijah was one of God’s prophets. He went to King Ahab. Ahab was an evil king would practiced idolatry. Elijah told Ahab that God was punishing the people by sending no dew or rain for a long time. (19-02)
+Message of Punishment for Sin: The prophets told the people of the punishment that would come because of their evil and idolatry. Elijah was one of God’s prophets. He went to King Ahab. Ahab was an evil king who practiced idolatry. Elijah told Ahab that God was punishing the people by sending no dew or rain for a long time. (19-02)
 
 ##### How did God provide for his prophet Elijah in the wilderness and through the widow? (19-03, 19-04)
 
-King Ahab wanted to kill Elijah. God told Elijah to go to the wilderness. This would be a place where Elijah would hide from King Ahab.(19-03)
+King Ahab wanted to kill Elijah. God told Elijah to go to the wilderness. This would be a place where Elijah would hide from King Ahab. (19-03)
 
 God directed Elijah to a stream. This stream would provide water for Elijah. (19-03)
 
@@ -568,9 +569,9 @@ There was a famine and the woman and her son had almost run out of food. During 
 
 Revelation of Truth: God told Elijah that he would make it rain again. God revealed his truth to prophets. (19-05)
 
-Confront Sin: Elijah confronted Ahab about his sin. He told Ahab he was a troublemaker, he abandoned God, and he worshiped false God called Baal. (19-05)
+Confront Sin: Elijah confronted Ahab about his sin. Elijah told Ahab he was a troublemaker, he abandoned God, and he worshiped a false god called Baal. (19-05)
 
-Call People to Worship: Elijah rebuked the people for changing their minds about whom they would worship. He told the people that they needed to make a choice about who the real God is and worship him. (19-06)
+Call People to Worship: Elijah rebuked the people for changing their minds about whom they would worship. Elijah told the people that they needed to make a choice about who the real God is and worship him. (19-06)
 
 Show Yahweh Is the True God: Elijah set up a contest between Yahweh and Baal. Two altars were prepared. The prophets of Baal prepared a sacrifice for Ball. Elijah prepared a sacrifice for Yahweh. Each was to pray that God would send fire. The one who send fire would prove to be the real God. The prophets of Baal prayed all day but Baal did not answer. As soon as Elijah prayed, God sent fire and consumed the sacrifice (and even the water poured on the altar). In this act, Elijah demonstrated that Yahweh is the one and only true God. (19-07, 19-08, 19-09, 19-10, 19-11)
 
@@ -588,7 +589,7 @@ Healing: Naaman listed to Elisha’s instructions and dipped in the Jordan River
 
 ##### How did other prophets serve God? (19-16, 19-17, 19-18)
 
-Many Messengers: God sent many prophets to Israel. The prophets told people to stop their idolatry. They told people to act justly and mercifully. They told them to stop evil. They called God’s people to repent. They warned people about punishment and judgment for doing evil. They called God’s people to return to obedience. God uses human messengers to deliver truth to his people. (19-16, 19-18)
+Many Messengers: God sent many prophets to Israel. The prophets told people to stop their idolatry. They told people to act justly and mercifully. They told them to stop evil. They called God’s people to repent. They warned people about punishment and judgment for doing evil. They called God’s people to return to obedience. God uses human messengers to deliver the truth to his people. (19-16, 19-18)
 
 Suffering: God’s people often rejected the prophets and did not listen to their message. They often mistreated the prophets and killed them. One prophet named Jeremiah was tossed into a dry well and left to die. (19-17)
 
@@ -601,7 +602,7 @@ Messiah: The prophets told people that God promised to send a Messiah who would 
 Answer the following theology questions as a community. Discuss what truths this story teaches.
 
 1.  What does the work of the prophets teach us about the character of God (what God is like)?
-2.  How does the messages of the prophets teach us about sin and its consequences?
+2.  How do the messages of the prophets teach us about sin and its consequences?
 3.  What do the prophets teach God’s people about what it means to faithfully serve God?
 
 ### Translation Draft
@@ -614,7 +615,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -643,20 +644,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -703,7 +704,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -765,7 +766,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -777,7 +778,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

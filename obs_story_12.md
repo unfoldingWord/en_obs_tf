@@ -179,10 +179,10 @@ Answer the following observation questions to gain a basic understanding of the 
 #### 12-01
 
 Why were the Israelites happy to leave Egypt?  
-The Israelites were happy to leave Egypt. They were longer slaves and were going to the Promised Land.
+The Israelites were happy to leave Egypt. They were no longer slaves and were going to the Promised Land.
 
 What did the Egyptians give the Israelites as they left Egypt?  
-They gave them whatever they asked for, even gold and silver and other valuable things.
+The Egyptians gave the Israelites whatever they asked for, even gold and silver and other valuable things.
 
 Who else left Egypt with the Israelites?  
 Some people from other nations who believed in God left with them.
@@ -190,7 +190,7 @@ Some people from other nations who believed in God left with them.
 #### 12-02
 
 How did God lead the Israelites?  
-He led them in a pillar of cloud during the day and a pillar of fire at night.
+God led them in a pillar of cloud during the day and a pillar of fire at night.
 
 How did the Israelites follow God?  
 All the Israelites had to do was follow the pillar of cloud and pillar of fire.
@@ -198,13 +198,13 @@ All the Israelites had to do was follow the pillar of cloud and pillar of fire.
 #### 12-03
 
 What happened after the Egyptians changed their minds about letting the Israelites go free?  
-After only a short time, Pharaoh and the Egyptians changed their minds and wanted to make the Israelites salves again. They chased after the Israelites.
+After only a short time, Pharaoh and the Egyptians changed their minds and wanted to make the Israelites slaves again. They chased after the Israelites.
 
 Who changed the minds of the Egyptians?  
 God changed the minds of the Egyptians.
 
 Why did God cause Pharaoh to be stubborn and chase the Israelites?  
-God did this to show that he is is the One True God who is more powerful than Pharaoh and his gods.
+God did this to show that he is the One True God who is more powerful than Pharaoh and his gods.
 
 #### 12-04
 
@@ -212,12 +212,12 @@ Between what two things were the Israelis trapped?
 The Israelites were trapped between Pharaoh’s army and the Red Sea.
 
 How did the Israelites react when they were trapped between the sea and Pharaoh’s army?  
-They were afraid said, “Why did we leave Egypt? We are going to die!”
+They were afraid and said, “Why did we leave Egypt? We are going to die!”
 
 #### 12-05
 
 What did Moses say to the Israelites to calm their fear?  
-He told them to stop being afraid! God would fight for them that day and save them.
+Moses told them to stop being afraid! God would fight for them that day and save them.
 
 What did God tell Moses to tell the people?  
 God told Moses to tell the people to move toward the Red Sea.
@@ -225,12 +225,12 @@ God told Moses to tell the people to move toward the Red Sea.
 #### 12-06
 
 How did God prevent the Egyptians from coming near the Israelites as they started to escape?  
-He placed the pillar of cloud between them.
+God placed the pillar of cloud between them.
 
 #### 12-07
 
 What did God tell Moses to do in order to make a path of escape for the Israelites?  
-God told him to raise his hand over the sea so that the waters would divide.
+God told Moses to raise his hand over the sea so that the waters would divide.
 
 What did God do to the waters of the Red Sea?  
 God caused a wind to push the water to the right and left so that there was a path for the Israelites to cross the Red Sea.
@@ -251,7 +251,7 @@ Where did the Egyptians chase the Israelites?
 The Egyptians followed the Israelites onto the path through the sea.
 
 What happened to the Egyptians as they chased the Israelites through the sea?  
-He caused the Egyptians to panic and their chariots to get stuck.
+God caused the Egyptians to panic and their chariots to get stuck.
 
 What did the Egyptians do when their chariots got stuck?  
 They ran away because God was fighting for the Israelites.
@@ -270,7 +270,7 @@ The water covered the Egyptian army so that they drowned.
 #### 12-12
 
 How did the Israelites react when they saw that the Egyptians were dead?  
-They trusted in God and believed that Moses was a prophet of God.
+The Israelites trusted in God and believed that Moses was a prophet of God.
 
 #### 12-13
 
@@ -283,7 +283,7 @@ They sang songs to celebrate their new freedom. They sang to praise God for savi
 #### 12-14
 
 What did God tell the Israelites to do in order to remember his victory over the Egyptians?  
-He commanded them to celebrate the Passover every year.
+God commanded them to celebrate the Passover every year.
 
 How were the Israelites supposed to celebrate the Passover?  
 The Israelites celebrated the Passover by killing a healthy lamb, roasting it, and eating it with unleavened bread.
@@ -318,11 +318,11 @@ Use the following translation questions to understand specific details of the pa
 
 **chased** The Egyptians pursued the Israelites to catch up to them. What words in your language mean **chased** as in to pursue someone to catch up to them?
 
-**So they chased** The word So explains that the result of the Egyptians wanted the Israelites to be their slaves again was the Egyptians chased after the Israelites. How would you express **So they chased** to mean the result of the Egyptians wanted the Israelites to be their slaves again was the Egyptians chased after the Israelites?
+**So they chased** The word So explains that the result of the Egyptians wanting the Israelites to be their slaves again was the Egyptians chased after the Israelites. How would you express **So they chased** to mean the result of the Egyptians wanting the Israelites to be their slaves again was the Egyptians chased after the Israelites?
 
 #### 12-04
 
-**they were trapped between Pharaoh’s army and the Red Sea** There was nowhere they could go to escape since the Egyptians were behind them and the Red Sea was in front of them. How would you express **they were trapped between Pharaoh’s army and the Red Sea** to mean there was nowhere they could go to escape since the Egyptians were behind them and the Red Sea was in front of them?
+**they were trapped between Pharaoh’s army and the Red Sea** There was nowhere the Israelites could go to escape since the Egyptians were behind them and the Red Sea was in front of them. How would you express **they were trapped between Pharaoh’s army and the Red Sea** to mean there was nowhere they could go to escape since the Egyptians were behind them and the Red Sea was in front of them?
 
 **Why did we leave Egypt?** The Israelites were not asking for reasons. This question does not expect an answer. Because they were afraid, in this moment they were wishing they had not left Egypt (even though it had been very difficult for them there). Even though they are asking a question, the Israelites mean they should not have left Egypt. How would you express the question **Why did we leave Egypt?** to mean the Israelites thought that they should not have left Egypt?
 
@@ -352,7 +352,7 @@ Use the following translation questions to understand specific details of the pa
 
 **marched** The Israelites walked through the sea on dry ground to get to the other side. What words in your language mean **marched** as in to walk in an orderly fashion to a destination or with a purpose?
 
-**a wall of water on either side of them** The water was both sides of Israelites and stood up tall and straight like a wall. How would you express **a wall of water on either side of them** to mean the water was both sides of Israelites and stood up tall and straight like a wall?
+**a wall of water on either side of them** The water was on both sides of Israelites and stood up tall and straight like a wall. How would you express **a wall of water on either side of them** to mean the water was on both sides of the Israelites and stood up tall and straight like a wall?
 
 #### 12-09
 
@@ -394,7 +394,7 @@ Use the following translation questions to understand specific details of the pa
 
 **free to worship and obey him** God freed, or rescued, the Israelites from being slaves in Egypt so that they could serve him and obey him. How would you express **free to worship and obey him** to mean the outcome of the Israelite freedom was the Israelites would worship and obey God?
 
-**to praise God** The Israelites lifted up God’s name and said that God was great. What words in your language mean **to praise God** as in to lift up God’s name and said that God was great?
+**to praise God** The Israelites lifted up God’s name and said that God was great. What words in your language mean **to praise God** as in to lift up God’s name and say that God was great?
 
 #### 12-14
 
@@ -416,7 +416,7 @@ Use the following discourse questions to understand the meaning of the story. Pa
 
 ##### What was life like for the Israelites after they left Egypt? (12-01, 12-02)
 
-Freedom: The Israelites were happy to leave Egypt. They were no longer slaves. God rescued his people from slavery and brought them into freedom. (12-01)
+Freedom: The Israelites were happy to leave Egypt. They were no longer slaves. God rescued his people from slavery and brought them to freedom. (12-01)
 
 Promised Land: The Israelites were not only set free from slavery but were also traveling to the Promised Land. God was bringing the Israelites out of slavery and into a land of promise and fullness. (12-01)
 
@@ -424,13 +424,13 @@ Provision: When the Israelites were freed, the Egyptians gave the Israelites wha
 
 Multicultural: Those from other nations believed in God and came along with the Israelites out of Egypt. Freedom was provided for people from different ethnic, cultural, and national groups. (12-01)
 
-Guidance: God guided his people with a pillar of cloud during the daytime and a pillar of fire during the nighttime. God leads his people in their freedom and travels to the Promised Land. (12-02)
+Guidance: God guided his people with a pillar of cloud during the daytime and a pillar of fire during the nighttime. God leads his people to their freedom and travels to the Promised Land. (12-02)
 
 ##### How did God act on behalf of his people to save them from the Egyptians? (12-03, 12-04, 12-05, 12-06, 12-07, 12-08, 12-09, 12-10, 12-11, 12-12)
 
 Changed Minds: Pharaoh and the Egyptians changed their minds about letting the Israelites go free. They chased after them to make them slaves again. God caused them to change their minds to show he was more powerful than all the other Egyptian gods. (12-03)
 
-No Fear: The Israelites were afraid when they were trapped between the Red Sea and the Egyptians. Moses told the Israelites to stop being afraid. He told the Israelites that God would fight for them. He would save them. (12-04, 12-05)
+No Fear: The Israelites were afraid when they were trapped between the Red Sea and the Egyptians. Moses told the Israelites to stop being afraid. Moses told the Israelites that God would fight for them. God would save them. (12-04, 12-05)
 
 Protection: The Israelites moved toward the Red Sea. The pillar of cloud was between the Israelites and Egyptians all night. The Egyptians could not get near the Israelites. (12-05, 12-06)
 
@@ -444,7 +444,7 @@ Defeat Enemies: When Moses lifted his hand over the water again, the water fell 
 
 Fear, Doubt: When they were trapped between the Red Sea and the Egyptian army, the Israelites were afraid. They thought they were going to die and thought that leaving Egypt was a bad idea. (12-04)
 
-Trust God: When they saw God defeated the Egyptians, the Israelites trusted God. They saw with their own eyes God defeat the Egyptian army. (12-12)
+Trust God: When they saw God defeat the Egyptians, the Israelites trusted God. They saw with their own eyes God had defeated the Egyptian army. (12-12)
 
 Trust Moses: The Israelites believed that Moses was a prophet of God. They trusted that God sent Moses to do God’s work. (12-12)
 
@@ -458,7 +458,7 @@ Passover Celebration: The Israelites celebrated a yearly festival during which t
 
 Answer the following theology questions as a community. Discuss what truths this story teaches.
 
-1.  How does save his people? How can this story teach us about how God saves and frees his people?
+1.  How does God save his people? How can this story teach us about how God saves and frees his people?
 2.  What does it mean to trust God? How does the story of the Exodus teach us about what faith/trust looks like?
 3.  How should followers of God practice their faith? What can we learn about living a life of freedom from the story of the Exodus?
 
@@ -472,7 +472,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -501,20 +501,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -561,7 +561,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -623,7 +623,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -635,7 +635,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

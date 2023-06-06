@@ -179,12 +179,12 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 14-01
 
 Where did God lead the Israelites after they left Mount Sinai?  
-He led them towards Canaan, the Promised Land.
+God led them toward Canaan, the Promised Land.
 
 How did God lead the Israelites to Canaan?  
 God went ahead of the Israelites in the pillar of cloud. The Israelites followed the pillar of cloud.
@@ -200,7 +200,7 @@ The Canaanites did not worship or obey God. They worshiped false Gods. They did 
 #### 14-03
 
 What did God tell the Israelites to do to the Canaanites?  
-He told them to get rid of all of them, not to make peace with them, not to marry them, and to destroy all of their idols.
+God told them to get rid of all of them, not to make peace with them, not to marry them, and to destroy all of their idols.
 
 What did God say would happen if the Israelites did not get rid of the Canaanites and destroy their idols?  
 If the Israelites disobeyed God and did not remove the Canaanites and destroy their idols, the Israelites would end up worshipping the Canaanite idols instead of God.
@@ -208,7 +208,7 @@ If the Israelites disobeyed God and did not remove the Canaanites and destroy th
 #### 14-04
 
 When the Israelites reached the border of Canaan, who did Moses choose as spies?  
-Moses chose twelve men. He chose a man from each tribe of Israel.
+Moses chose twelve men. Moses chose a man from each tribe of Israel.
 
 What were these men supposed to do?  
 These men were supposed to spy on the land to see what it was like. They were also supposed to see if the Canaanites were strong or weak.
@@ -240,7 +240,7 @@ They wanted to choose another leader and go back to Egypt.
 #### 14-08
 
 What did God think of the Israelites’ refusal to enter the land?  
-Go was very angry with the people. He said that they had rebelled against God.
+God was very angry with the people. God said that they had rebelled against God.
 
 How did God say he would punish the people for their disobedience?  
 They would wander in the wilderness until everyone twenty years or older, except Caleb and Joshua, died.
@@ -267,7 +267,7 @@ How long did the Israelites wander in the wilderness?
 They wandered for 40 years.
 
 How did God provide for the Israelites in the wilderness?  
-He gave them manna, sent flocks of quail, and kept their clothes and shoes from wearing out.
+God gave them manna, sent flocks of quail, and kept their clothes and shoes from wearing out.
 
 #### 14-12
 
@@ -282,7 +282,7 @@ God was still faithful to his promises to Abraham, Isaac, and Jacob.
 
 #### 14-13
 
-What did God tell Moses to do to provide water out of a rock a later time?  
+What did God tell Moses to do to provide water out of a rock at a later time?  
 God told Moses to speak to the rock and water would come out of it.
 
 Why was God angry when Moses struck the rock?  
@@ -294,13 +294,13 @@ God said that Moses would not enter the Promised Land.
 #### 14-14
 
 What happened after Israel wandered in the wilderness for 40 years?  
-After Israel wandered in the wilderness for 40 years, all the rebellious generation had died.
+After Israel wandered in the wilderness for 40 years, all the rebellious generation died.
 
-When Israel reach the edge of the Promised Land again, who did God choose to replace Moses?  
+When Israel reached the edge of the Promised Land again, who did God choose to replace Moses?  
 God chose Joshua to lead the people into the land of Canaan.
 
 Who did God promise to send one day in the future?  
-He would send another prophet like Moses.
+God would send another prophet like Moses.
 
 #### 14-15
 
@@ -308,10 +308,10 @@ What did God tell Moses to do before Moses died?
 God told Moses to go up on a mountain to see the Promised Land. Moses saw the Promised land but God did not allow him to enter it.
 
 What happened after Moses died?  
-The Israelis mourned for 30 days after Moses died. Joshua became their new leader.
+The Israelites mourned for 30 days after Moses died. Joshua became their new leader.
 
 What kind of leader was Joshua?  
-He was a good leader because he trusted and obeyed God.
+Joshua was a good leader because he trusted and obeyed God.
 
 ### Translation Questions
 
@@ -319,15 +319,15 @@ Use the following translation questions to understand specific details of the pa
 
 #### 14-01
 
-**all the laws that they must obey** God gave the Israelites many more commands in addition to the Ten Commandments. The Israelites were expected to obey all these laws, not just some of them. How would you express **all the laws that they must obey** to mean all the commands God gave the Israelites which they were supposed to obey?
+**all the laws that they must obey** God gave the Israelites many more commands in addition to the Ten Commandments. The Israelites were expected to obey all these laws, not just some of them. How would you express **all the laws that they must obey** to mean all the commands God gave the Israelites that they were supposed to obey?
 
-**because of his covenant with them** The word because explains the reason the Israelites must obey the God’s laws was they were in a covenant relationship with God. How would you express **because of his covenant with them** to mean the reason the Israelites must obey all the laws God told them was the covenant God made with them?
+**because of his covenant with them** The word because explains the reason the Israelites must obey God’s laws was they were in a covenant relationship with God. How would you express **because of his covenant with them** to mean the reason the Israelites must obey all the laws God told them was the covenant God made with them?
 
 #### 14-02
 
-**God had promised** God made a promise to Abraham, Isaac, and Jacob to give their descendants the Promised Land. This promises was made many years ago and not at the time of this story. God would fulfill this promise to Abraham’s descendants. The Israelites are Abraham’s descendants. This statement gives background that summarizes what has already happened in previous stories. How would you express **God had promised** to mean God already made the promise years ago to give the Promised Land to Abraham’s descendants?
+**God had promised** God made a promise to Abraham, Isaac, and Jacob to give their descendants the Promised Land. This promise was made many years ago and not at the time of this story. God would fulfill this promise to Abraham’s descendants. The Israelites are Abraham’s descendants. This statement gives background that summarizes what has already happened in previous stories. How would you express **God had promised** to mean God already made the promise years ago to give the Promised Land to Abraham’s descendants?
 
-**They were called Canaanites** The Canaanites were the people groups who lived in the Promised Land, the land of Canaan. They are introduced in the story. We learn that they did not worship or obey God. The worshiped false gods and did many evil things. How would you express **They were called Canaanites** to clearly indicate the Canaanites as those who lived in the Promised Land and did not follow God?
+**They were called Canaanites** The Canaanites were the people groups who lived in the Promised Land, the land of Canaan. They are introduced in the story. We learn that they did not worship or obey God. They worshiped false gods and did many evil things. How would you express **They were called Canaanites** to clearly indicate the Canaanites as those who lived in the Promised Land and did not follow God?
 
 #### 14-03
 
@@ -345,7 +345,7 @@ Use the following translation questions to understand specific details of the pa
 
 **go and spy** The Israelites chosen for this mission were to leave the place where they were camped, enter the land of Canaan, and secretly gain information about the land. How would you express **go and spy** to mean as a command telling the twelve Israelites to leave the place where they were camped, enter the land of Canaan, and secretly gain information about the land?
 
-**to see if they were strong or weak** The spies were supposed to find out how powerful the Canaanite armies were. They wanted to know if the Canaanites were prepared to fight against them. How would you express **to see if they were strong or weak** to mean the spies were to go in the land to discover, or find out, if the Canaanite armies were powerful or not powerful?
+**to see if they were strong or weak** The spies were supposed to find out how powerful the Canaanite armies were. They wanted to know if the Canaanites were prepared to fight against them. How would you express **to see if they were strong or weak** to mean the spies were to go into the land to discover, or find out, if the Canaanite armies were powerful or not powerful?
 
 #### 14-05
 
@@ -391,7 +391,7 @@ Use the following translation questions to understand specific details of the pa
 
 **God would not go with them** God would not be with them to help them. Because of the Israelites’ disobedience, God withdrew from them his presence, protection, and power. How would you express **God would not go with them** to mean God refused to help the Israelites fight the Canaanites?
 
-**but they did not listen to him** The Israelites did not obey Moses. They went to attack the Canaanites anyway. The word but indicates that the Israelites deciding to attack the Canaanites is opposite/different than what Moses had warned them. How would you express **but they did not listen to him** to mean the Israelites decision to attack the Canaanites was opposite/different than what Moses warned them?
+**but they did not listen to him** The Israelites did not obey Moses. They went to attack the Canaanites anyway. The word but indicates that the Israelites decision to attack the Canaanites is opposite/different than what Moses had warned them. How would you express **but they did not listen to him** to mean the Israelites decision to attack the Canaanites was opposite/different than what Moses warned them?
 
 #### 14-10
 
@@ -417,9 +417,9 @@ Use the following translation questions to understand specific details of the pa
 
 #### 14-13
 
-**he dishonored God** Moses disobeyed God and disrespected God. God had a specific way He wanted Moses to show the people God’s power to provide for them. When Moses disobeyed God by doing it in a different way, he showed a lack of respect for God. HOw would you express **he dishonored God** to mean Moses disrespected God by disobeying God’s command?
+**he dishonored God** Moses disobeyed God and disrespected God. God had a specific way He wanted Moses to show the people God’s power to provide for them. When Moses disobeyed God by doing it in a different way, he showed a lack of respect for God. How would you express **he dishonored God** to mean Moses disrespected God by disobeying God’s command?
 
-**Because you did this** The words Because explains Moses’ disobedience as the reason God would not allow him into the Promised Land. How would you express **Because you did this** to mean the reason the reason God would not allow Moses into the Promised Land was because of Moses’ disobedience?
+**Because you did this** The word Because explains Moses’ disobedience as the reason God would not allow him into the Promised Land. How would you express **Because you did this** to mean the reason God would not allow Moses into the Promised Land was because of Moses’ disobedience?
 
 #### 14-14
 
@@ -433,7 +433,7 @@ Use the following translation questions to understand specific details of the pa
 
 **God did not permit him to enter** Moses was able to see the Promised Land even though God did not allow him to enter it. How would you express **God did not permit him to enter** to mean God did not allow Moses to enter the Promised Land?
 
-**because he trusted and obeyed God** The word because indicates Joshua’s trust in and obedience to God is the reason he was a good leader. How would you express **because he trusted and obeyed God** to mean the reason Joshua was a good lead was his faith in and obedience to God?
+**because he trusted and obeyed God** The word because indicates Joshua’s trust in and obedience to God is the reason Joshua was a good leader. How would you express **because he trusted and obeyed God** to mean the reason Joshua was a good lead was his faith in and obedience to God?
 
 <!-- page break -->
 
@@ -447,7 +447,7 @@ Use the following discourse questions to understand the meaning of the story. Pa
 
 ##### How did God prepare the Israelites to enter the Promised Land, the land of Canaan? (14-1, 14-2)
 
-God made a covenant with Israel at Mount Sinai. He gave the Israelites laws to obey. (14-1)
+God made a covenant with Israel at Mount Sinai. God gave the Israelites laws to obey. (14-1)
 
 God led his people the long distance from Mount Sinai to the Promised Land. God went ahead of them in a pillar of cloud. The Israelites followed him. (14-1)
 
@@ -489,7 +489,7 @@ God provided meat for the Israelites to eat. God sent quail into their camps for
 
 God provided clothing for the Israelites. During their years in the wilderness, the sandals and clothing of the Israelites did not wear out. (14-11)
 
-God provided water for the Israelites to drink. One time, God miraculously caused water to come out a rock. Another time, God told Moses to speak to a rock for water to come out. Moses disobeyed God by hitting the rock, but water still came out. (14-12)
+God provided water for the Israelites to drink. One time, God miraculously caused water to come out of a rock. Another time, God told Moses to speak to a rock for water to come out. Moses disobeyed God by hitting the rock, but water still came out. (14-12)
 
 God was faithful to fulfill his promises. Even when the Israelites grumbled and complained against God, God kept the promise he made to Abraham, Isaac, and Jacob. (14-12)
 
@@ -499,7 +499,7 @@ Moses disobeyed God’s command. God told him to speak to a rock and water would
 
 After forty years of wandering in the wilderness, God led the Israelites to the Promised Land again. At this time, the first generation of Israelites who rebelled against God had died in the wilderness. God was the primary leader of Israel. (14-14)
 
-Moses was very old and near his death. God allowed Moses to see the Promised Land but he did not allow Moses to enter it. God showed kindness to Moses even though Moses had to bear consequences for his disobedience. (14-14, 14-15)
+Moses was very old and near his death. God allowed Moses to see the Promised Land but he did not allow Moses to enter it. God showed kindness to Moses even though Moses had to bear the consequences for his disobedience. (14-14, 14-15)
 
 God chose Joshua to replace Moses as Israel’s leader. After Moses died, Joshua became Israel’s new leader. He was a godly leader who trusted and obeyed God. God raises up godly and faithful leaders for his work. (14-14, 14-15)
 
@@ -511,9 +511,9 @@ God promised that one day he would send a prophet like Moses. This promise would
 
 Answer the following theology questions as a community. Discuss what truths this story teaches.
 
-1.  Why do people disobey God? What does Israel’s failure to take Promised Land tell us about causes of disobedience?
+1.  Why do people disobey God? What does Israel’s failure to take Promised Land tell us about the causes of disobedience?
 2.  How can people mature their faith in God? How can God’s discipline of and provision for Israel help mature the faith in God?
-3.  Why are godly leadership important for God’s people to grow in their faith? What examples of godly and ungodly leadership do we see in this story?
+3.  Why is godly leadership important for God’s people to grow in their faith? What examples of godly and ungodly leadership do we see in this story?
 
 ### Translation Draft
 
@@ -525,7 +525,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -545,20 +545,20 @@ Take a moment to allow this story to evaluate your own life and to consider how 
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -605,7 +605,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -667,7 +667,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -679,7 +679,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

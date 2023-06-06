@@ -178,26 +178,26 @@ Answer the following observation questions to gain a basic understanding of the 
 #### 03-01
 
 How many people were living in the world at this time?  
-Many people were living in the world
+Many people were living in the world.
 Why did God decide to destroy the world?  
 People had become very wicked and violent.
 
 How did God plan to destroy the world?  
-He would send a huge flood.
+God would send a huge flood.
 
 #### 03-02
 
 What did God think of Noah?  
 God was pleased with Noah.
 
-Why kind of man was Noah?  
-He was a righteous man.
+What kind of man was Noah?  
+Noah was a righteous man.
 
 What did God tell Noah he was going to do?  
 God told Noah that he was going to make a big flood.
 
 What did God tell Noah to do?  
-God told him to build a huge boat.
+God told Noah to build a huge boat.
 
 #### 03-03
 
@@ -210,10 +210,10 @@ The boat would keep Noah, his family, and the animals safe during the flood.
 #### 03-04
 
 How did Noah respond to God’s instructions?  
-Noah obeyed God. He built the boat as God commanded.
+Noah obeyed God. Noah built the boat as God commanded.
 
 How did the other people react when Noah told them that the flood would come?  
-They did not believe him.
+The other people did not believe him.
 
 #### 03-05
 
@@ -237,7 +237,7 @@ How long did it rain?
 It rained for 40 days and 40 nights.
 
 How high did the water of the flood reach?  
-It covered everything in the whole world, even the highest mountains.
+The water covered everything in the whole world, even the highest mountains.
 
 #### 03-08
 
@@ -253,7 +253,7 @@ How long did the boat float on the water for after the rain stopped?
 The boat floated on the water for five months.
 
 Where did the boat eventually rest?  
-The boat eventually rested top of a mountain.
+The boat eventually rested on top of a mountain.
 
 When did the mountain tops become visible?  
 After three more months, the tops of the mountains became visible.
@@ -272,41 +272,41 @@ What was the next bird Noah sent out of the ark?
 Noah sent a dove out of the ark to look for dry land.
 
 Did the dove find dry land?  
-No. On its first trip the dove did not find dry land.
+No. On its first trip, the dove did not find dry land.
 
 What happened on the dove’s second trip?  
-After a week, Noah sent the dove out again and it came back with an olive branch.
+After a week, Noah sent the dove out again, and the dove came back with an olive branch.
 
 #### 03-12
 
 How did Noah know the water had dried up?  
-He sent out a dove and it did not return.
+Noah sent out a dove and the dove did not return.
 
 #### 03-13
 
 What did God tell Noah and his family to do when they left the boat?  
-He told them to have many children and grandchildren and to fill the earth.
+God told them to have many children and grandchildren and to fill the earth.
 
 #### 03-14
 
 How did Noah worship God after he got off the boat?  
-He built an altar and sacrificed some of the animals.
+Noah built an altar and sacrificed some of the animals.
 
 What was God’s response to Noah’s sacrifice?  
-God was pleased with sacrifice and blessed Noah and his family.
+God was pleased with the sacrifice and blessed Noah and his family.
 
 #### 03-15
 
 What did God promise he would never do again?  
-He would never again curse the ground or destroy the world with a flood.
+God would never again curse the ground or destroy the world with a flood.
 
 #### 03-16
 
 What did God make as a sign of his promise?  
-He made a rainbow in the sky.
+God made a rainbow in the sky.
 
 What did the rainbow signify?  
-The rainbow was a sign that God would remember his promise to never destroy the world with a flood.
+The rainbow was a sign that God would remember his promise never to destroy the world with a flood.
 
 ### Translation Questions
 
@@ -314,17 +314,17 @@ Use the following translation questions to understand specific details of the pa
 
 #### 03-01
 
-**very wicked** At this time human beings had become evil and did things that disobeyed God’s command. In what kind of situations would describe someone as **very wicked**? How would express **very wicked** to mean humans were extremely sinful and disobeyed God a lot?
+**very wicked** At this time human beings had become evil and did things that disobeyed God’s command. In what kind of situations would you describe someone as **very wicked**? How would you express **very wicked** to mean humans were extremely sinful and disobeyed God a lot?
 
-**violent** At this time human beings were mistreating each other and causing each other harm. How would would express **violent** to mean humans were sinful and harmed one another?
+**violent** At this time, human beings were mistreating each other and causing each other harm. How would you express **violent** to mean humans were sinful and harmed one another?
 
-**God decided to destroy** This does not mean that the earth would be destroyed completely. Rather God planned to destroy all the people who had rebelled against him and who had caused such evil and violence. This flood would also kill all the land animals and the birds. How would you express **God decided to destroy** to mean God determined to bring the earth to ruin as punishment for human evil?
+**God decided to destroy** This does not mean that the earth would be destroyed completely. Rather God planned to destroy all the people who had rebelled against him and caused such evil and violence. This flood would also kill all the land animals and birds. How would you express **God decided to destroy** to mean God determined to bring the earth to ruin as punishment for human evil?
 
 **a huge flood** This flood was very deep water that would cover the earth, even in places where the ground was normally dry, and even covering the tops of the highest mountains. God planned to cause deep water to cover the earth by sending a lot of rain. How would you translate **a huge flood** to mean that very deep water covered the earth?
 
 #### 03-02
 
-**God was pleased with Noah** **God was pleased with Noah** because he feared and obeyed God. So even though Noah was not sinless, God was gracious to him and made a plan to rescue his family from the devastating flood. This does not mean Noah was lucky or that he just happened to escape. How would you express **God was pleased with Noah** to mean God approved of the way Noah lived?
+**God was pleased with Noah** because he feared and obeyed God. So even though Noah was not sinless, God was gracious to him and made a plan to rescue his family from the devastating flood. This does not mean Noah was lucky or that he just happened to escape. How would you express **God was pleased with Noah** to mean God approved of the way Noah lived?
 
 **a righteous man** The term righteous describes a person who obeys God and is morally good. However, because all people have sinned, no one except God is completely righteous. How would you translate **a righteous man** to mean Noah was a man who was upright and obeyed God?
 
@@ -336,7 +336,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 03-04
 
-**Noah warned the people** To warn means to tell someone about danger thing that is going to happen so that they can escape. Noah told everyone that God planned to destroy the world because of sin. How would you translate **Noah warned the people** to mean told the people about the destruction of the flood before it happened?
+**Noah warned the people** To warn means to tell someone about a dangerous thing that is going to happen so that they can escape. Noah told everyone that God planned to destroy the world because of sin. How would you translate **Noah warned the people** to mean told the people about the destruction of the flood before it happened?
 
 **to turn to God** This means that they should stop sinning and start obeying God. How would you phrase **to turn to God** to mean the people stopped disobeying God and starting obeying him?
 
@@ -346,7 +346,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 03-06
 
-**God sent** Noah did not need to find the animals. **God sent** them to him. How would you express **God sent** to mean that God caused the animals to come to Noah?
+**God sent** Noah did not need to find the animals. **God sent** the animals to him. How would you express **God sent** to mean that God caused the animals to come to Noah?
 
 **every kind of animal and bird** God sent a male and female of every kind of land animal and bird that could not live in the water. Water animals did not need to go onto the boat. How would you say **every kind of animal and bird** to mean animals that lived on land and in the sky?
 
@@ -364,7 +364,7 @@ Use the following translation questions to understand specific details of the pa
 
 **died** All the people and animals on the earth **died**. Only the people and animals on the boat were kept alive. What words in your language mean **died** as in to no longer be physically alive?
 
-**floated to float means to stay on top of water without sinking.** What words in your language mean floated as in to stay on the surface of water without sinking?
+**floated** to float means to stay on top of water without sinking. What words in your language mean floated as in to stay on the surface of water without sinking?
 
 #### 03-09
 
@@ -372,21 +372,21 @@ Use the following translation questions to understand specific details of the pa
 
 **the boat rested** There was so much water from the rain that it covered the mountains. The ship floated over the mountains, and when the water started to go down, the ship went down with the water and settled on a mountain. How would you express **the boat rested** to mean the boat stayed on the top of a mountain?
 
-**visible** After three months, the tops of the mountains appeared and were able to be seen because the water had gone down enough so that Noah and his family could clearly see the tops of the mountains. How words in your language mean **visible** to mean something that is able to be seen?
+**visible** After three months, the tops of the mountains appeared and were able to be seen because the water had gone down enough so that Noah and his family could clearly see the tops of the mountains. What words in your language mean **visible** to mean something that is able to be seen?
 
 #### 03-10
 
 **a raven** This is a black bird that flies and eats a variety of plant and animal foods, including the rotting flesh of dead animals. What words in your language mean **a raven** as in a black bird that tends to be a scavenger?
 
-**water had dried up** Noah sent the raven to see if the water had gone done enough for the dry land to appear. How would you phrase water had dried to mean water going down enough to see the dry ground?
+**water had dried up** Noah sent the raven to see if the water had gone down enough for the dry land to appear. How would you phrase water had dried to mean water going down enough to see the dry ground?
 
 #### 03-11
 
 **a dove** This is a small white or gray flying bird that eats seeds or fruit and makes a cooing sound. What words in your language mean dove as in a small white or gray bird that eats seeds and fruit?
 
-**an olive branch** An olive in a small, round fruit that has a sharp and bitter taste and a hard pit. An olive tree’s fruit contains oil which people use for cooking or putting on their skin. What words in your language mean **an olive branch** as in a branch from a tree that produces olives?
+**an olive branch** An olive is a small, round fruit that has a sharp and bitter taste and a hard pit. An olive tree’s fruit contains oil that people use for cooking or putting on their skin. What words in your language mean **an olive branch** as in a branch from a tree that produces olives?
 
-**The water was going down** At this time, the water was getter lower. How would you express in your language the water was going down to mean the water was going away?
+**The water was going down** At this time, the water was getting lower. How would you express in your language the water was going down to mean the water was going away?
 
 #### 03-12
 
@@ -442,11 +442,11 @@ People are sinful since the time they are children. (03-15)
 
 God was pleased with how Noah lived. (03-02)
 
-Noah was righteous. He did what was morally right and did not do wicked things like other people. (03-02)
+Noah was righteous. Noah did what was morally right and did not do wicked things like other people. (03-02)
 
 God commanded Noah to do things and Noah obeyed. Noah did things just the way God told him to. (03-02, 03-03, 03-04)
 
-Noah warned other people about God’s judgment. He believed God enough to warn others of the flood that was coming. (03-04)
+Noah warned other people about God’s judgment. Noah believed God enough to warn others of the flood that was coming. (03-04)
 
 Noah gathered enough food for himself and the animals. (03-05)
 
@@ -463,7 +463,7 @@ All the people and animals that lived on dry land died. (03-08)
 
 ##### How did God protect and provide for Noah and his family? (03-03, 03-04, 03-06, 03-08, 03-09, 03-11, 03-12, 03-13)
 
-God had Noah build a huge boat that would keep him, his family, and the animals safe during the flood. While everything else on earth died God kept Noah, his family, and the animals safe in the huge boat. (03-03, 03-04, 03-08)
+God had Noah build a huge boat that would keep him, his family, and the animals safe during the flood. While everything else on earth died, God kept Noah, his family, and the animals safe in the huge boat. (03-03, 03-04, 03-08)
 
 God caused the animals to come into the boat. This would have been impossible for Noah to do without God’s help. (03-06)
 
@@ -473,13 +473,13 @@ The deep water started to go down. At one point, the boat rested on the top of a
 
 The water eventually went down so that plants started growing. God had destroyed living things on the earth. Now he was giving his creation a new start. (03-11, 03-12)
 
-God sent Noah, his family, and the animals out of the boat. He told them have children and grandchildren. (03-13). This is a similar command God gave to the first humans when they were created (cf. 01-15)
+God sent Noah, his family, and the animals out of the boat. God told them have children and grandchildren. (03-13). This is a similar command God gave to the first humans when they were created (cf. 01-15)
 
 ##### What was the purpose of God’s promise? (03-15, 03-16)
 
-God promised to never destroy the earth again with a flood. God established a relationship with his people based on his promise. God always keeps his promises. (03-15)
+God promised never to destroy the earth again with a flood. God established a relationship with his people based on his promise. God always keeps his promises. (03-15)
 
-God put a rainbow in the sky as a sign that he would always remember his promise to never destroy the earth with a flood the same way again. God gave the rainbow to remind people that God keeps his promises. (03-16)
+God put a rainbow in the sky as a sign that he would always remember his promise never to destroy the earth with a flood the same way again. God gave the rainbow to remind people that God keeps his promises. (03-16)
 
 <!-- page break -->
 
@@ -501,7 +501,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -530,20 +530,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -590,7 +590,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -652,7 +652,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -664,7 +664,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

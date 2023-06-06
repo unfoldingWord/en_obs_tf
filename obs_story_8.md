@@ -182,7 +182,7 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 08-01
 
@@ -217,7 +217,7 @@ What kind of place was Egypt?
 Egypt was a large, powerful country located along the Nile River.
 
 What did Joseph do in Egypt?  
-Joseph served as a slave to a wealthy government official. Joseph served his master well
+Joseph served as a slave to a wealthy government official. Joseph served his master well.
 
 Did God abandon Joseph in Egypt?  
 No, in everything Joseph did, God blessed him.
@@ -244,7 +244,7 @@ One night Pharaoh had two dreams. No one was able to tell the meaning of the dre
 #### 08-07
 
 What ability had God given Joseph?  
-He gave him the ability to interpret dreams.
+God gave him the ability to interpret dreams.
 
 Who did Pharaoh use to interpret his dreams?  
 Pharaoh brought Joseph out of prison to interpret his dreams.
@@ -255,7 +255,7 @@ God was going to send seven years of plentiful harvests followed by seven years 
 #### 08-08
 
 How did Pharaoh reward Joseph after Joseph interpreted his dream?  
-He made Joseph the second most powerful man in Egypt.
+Pharaoh made Joseph the second most powerful man in Egypt.
 
 #### 08-09
 
@@ -265,7 +265,7 @@ Joseph told the Egyptians to store up large amounts of food during the seven goo
 #### 08-10
 
 How severe was the famine?  
-The famine was very severe. It not only affected Egypt but the place where Joseph was from, Canaan.
+The famine was very severe. It affected not only Egypt but the place where Joseph was from, Canaan.
 
 #### 08-11
 
@@ -281,10 +281,10 @@ The brothers did not recognize Joseph. Joseph did recognize his brothers.
 #### 08-12
 
 Before Joseph told his brothers who he was, why did he test them?  
-He tested them to see if they had changed.
+Joseph tested them to see if they had changed.
 
 What did Joseph tell his brothers?  
-He told them not to be afraid of him. He explained that what they meant for evil, God used for good. He also told them to come to live in Egypt so he could provide food for them and their families.
+Joseph told them not to be afraid of him. Joseph explained that what they meant for evil, God used for good. Joseph also told them to come to live in Egypt so he could provide food for them and their families.
 
 How did God cause good to come from Joseph’s brothers selling him as a slave?  
 Joseph became a powerful ruler in Egypt, and God used him to provide food for his family and many other people during the famine.
@@ -297,7 +297,7 @@ Jacob was very happy when he heard that his son Joseph was still alive.
 #### 08-14
 
 What did Jacob do after he found out that Joseph was alive?  
-He moved his whole family to Egypt.
+Jacob moved his whole family to Egypt.
 
 What did Jacob do before he died?  
 Jacob blessed each of his sons before he died.
@@ -316,21 +316,21 @@ Use the following translation questions to understand specific details of the pa
 
 #### 08-01
 
-**Many years later, when** Jacob was an old man This begins a new event in the story. This story happens many years later when Jacob has become an old man. How would you express **Many years later, when** Jacob was an old man to mean that this story takes place many years later when Jacob has become an old man?
+**Many years later, when Jacob was an old man** This begins a new event in the story. This story happens many years later when Jacob becomes an old man. How would you express **Many years later, when Jacob was an old man** to mean that this story takes place many years later when Jacob has become an old man?
 
-**his favorite son** This phase refers to a social relationship—the favorite son who was born to him. Joseph was the son he loved more than any of his other children. This does not mean Jacob hated his others sons. It means that Jacob loved Joseph most of all, more than his other sons. How would you express **his favorite son** to mean Joseph was the son he loved more than any of his other children?
+**his favorite son** This phase refers to a social relationship—the favorite son who was born to him. Joseph was the son he loved more than any of his other children. This does not mean Jacob hated his other sons. It means that Jacob loved Joseph most of all, more than his other sons. How would you express **his favorite son** to mean Joseph was the son he loved more than any of his other children?
 
-**check on** This means that Joseph is to go and see if everything is all right with his brothers. Jacob sent Jospeh to see about his brothers’ well-being. How words in your language mean **check on** as in to go see if everything is all right and learn about one’s well-being?
+**check on** This means that Joseph is to go and see if everything is all right with his brothers. Jacob sent Jospeh to see about his brothers’ well-being. What words in your language mean **check on** as in to go see if everything is all right and learn about one’s well-being?
 
 #### 08-02
 
-**because their father loved him most** The word because tells the reason Joseph’s brothers hated him. One reason the brothers hated Joseph was the fact that Jacob loved Joseph more than his other sons. How would you express **because their father loved him most** to mean one reason the brothers hated Joseph was Jacob loved Joseph more than his others sons?
+**because their father loved him most** The word because tells the reason Joseph’s brothers hated him. One reason the brothers hated Joseph was the fact that Jacob loved Joseph more than his other sons. How would you express **because their father loved him most** to mean one reason the brothers hated Joseph was Jacob loved Joseph more than his other sons?
 
-**because Joseph had dreamed** The word because tells another reason Joseph’s brothers hated him. Another reason the brothers hated Joseph was the fact that Joseph dreamed that he would be their ruler. How would you express **because** Joseph had dreamed to mean another reason the brothers hated Joseph was Joseph dreamed that he would be their ruler?
+**because Joseph had dreamed** The word because tells another reason Joseph’s brothers hated him. Another reason the brothers hated Joseph was the fact that Joseph dreamed that he would be their ruler. How would you express **because Joseph had dreamed** to mean another reason the brothers hated Joseph was Joseph dreamed that he would be their ruler?
 
 **When Joseph came** The word When indicates the order of events. After Joseph came the brothers took him captive and sold him. How would you express **When Joseph came** to mean the brothers took Joseph captive and sold him after Jospeh came to check on them?
 
-**slave traders** These were people who made a business of buying people from one owner and selling them as slaves to another owner. What words in your language mean **slave traders** as in those people who buy people form one own and sell them as slaves to another owner?
+**slave traders** These were people who made a business of buying people from one owner and selling them as slaves to another owner. What words in your language mean **slave traders** as in those people who buy people from one owner and sell them as slaves to another owner?
 
 #### 08-03
 
@@ -338,11 +338,11 @@ Use the following translation questions to understand specific details of the pa
 
 **goat’s blood** This blood is from the goat. The brothers wanted Jacob to think that the blood on the clothes was Joseph’s blood but it was the blood of a goat. How would you express **goat’s blood** to mean blood that came from a goat?
 
-**so he would think that a wild animal** The word so connects the reason (showing Jacob the torn robe dipped in blood), with the desired result (Jacob thinking a wild animal killed Joseph). How would you express **so he would think that a wild animal** to mean the desired result of showing the torn and bloody robe to Jacob was that he would think Jacob was killed by a wild animal?
+**so he would think that a wild animal** The word so connects the reason (showing Jacob the torn robe dipped in blood), with the desired result (Jacob thinking a wild animal killed Joseph). How would you express **so he would think that a wild animal** to mean the desired result of showing the torn and bloody robe to Jacob was that he would think Joseph was killed by a wild animal?
 
 #### 08-04
 
-**Egypt was a large, powerful country located along the Nile River** This is background information about the country of Egypt where the slave traders took Joseph. How would you express **large, powerful country** to mean Egypt was a big and strong nation? How would you express located along the Nile River to mean Egypt was the land where the Nile River flowed?
+**Egypt was a large, powerful country located along the Nile River** This is background information about the country of Egypt where the slave traders took Joseph. How would you express **large, powerful country** to mean Egypt was a big and strong nation? How would you express **located along the Nile River** to mean Egypt was the land where the Nile River flowed?
 
 **a wealthy government official** This was a person who was part of the Egyptian government. He was a leader in Egypt’s government. How would you express **a wealthy government official** to mean a rich leader in the Egyptian government?
 
@@ -364,7 +364,7 @@ Use the following translation questions to understand specific details of the pa
 
 **disturbed him greatly** This means that the king felt very afraid and confused (because of what he had seen in the dreams). How would you express **disturbed him greatly** to mean the dreams upset the king and caused the king to be very afraid and without peace?
 
-**advisors** These were men with special powers and knowledge who could sometimes tell what dreams meant. Some translations refer to them as ‘wise men.’ What words in your language mean **advisors** as in wise men who had ability to tell what dreams mean?
+**advisors** These were men with special powers and knowledge who could sometimes tell what dreams meant. Some translations refer to them as ‘wise men.’ What words in your language mean **advisors** as in wise men who could tell what dreams mean?
 
 **the meaning of the dreams** People in Egypt believed that dreams were messages from the gods telling them about what would happen in the future. God used Pharaoh’s dreams to tell him what would happen. How would you express **the meaning of the dreams** to mean the importance or significance of the dreams?
 
@@ -374,7 +374,7 @@ Use the following translation questions to understand specific details of the pa
 
 **to interpret dreams** To interpret is to tell what something means. So Joseph was able to tell people what their dreams meant. How would you express **to interpret dreams** to mean to explain the meaning or significance of dreams?
 
-**Pharaoh had Joseph brought to him** Pharaoh ordered his servants to bring Joseph to him. How would you express **Pharaoh had Joseph brought to him** to mean Pharaoh instructed his servants bring Joseph to him?
+**Pharaoh had Joseph brought to him** Pharaoh ordered his servants to bring Joseph to him. How would you express **Pharaoh had Joseph brought to him** to mean Pharaoh instructed his servants to bring Joseph to him?
 
 **God is going to send** God was planning on doing something in the future. The dream told what God was going to do in the future. This event did not happen yet. How would you express **God is going to send** to mean God would send the years of plenty and years of famine sometime after the time Joseph interpreted the dreams?
 
@@ -402,11 +402,11 @@ Use the following translation questions to understand specific details of the pa
 
 #### 08-11
 
-**So, Jacob sent his older sons to Egypt to buy food** The word So tells the result of the famine being so severe. The result of the famine also being severe in Canaan was Jacob sent his sons to buy food in Egypt. How would you express **So, Jacob sent his older sons to Egypt to buy food** to mean the reason Jacob sent his sons to buy food in Egypt was because the famine was also very severed in Canaan?
+**So, Jacob sent his older sons to Egypt to buy food** The word So tells the result of the famine being so severe. The result of the famine also being severe in Canaan was Jacob sent his sons to buy food in Egypt. How would you express **So, Jacob sent his older sons to Egypt to buy food** to mean the reason Jacob sent his sons to buy food in Egypt was because the famine was also very severe in Canaan?
 
 **recognize** To **recognize** is to know what something really is or to know who someone really is. The brothers did not know that the man was their brother, Joseph. Joseph knew that they were his brothers. What words in your language mean **recognize** as in to know who someone really is?
 
-**But Joseph recognized them** The connecting word But indicates a contrast relationship. It contrasts Joseph’s brothers not recognizing him with Joseph recognizing them. Joseph knew things opposite/different from his brothers. Joseph knew he was speaking to his brothers. His brothers did not know they were speaking with Joseph. How would you express **But Joseph recognized them** to mean that Joseph recognizing his brothers was the opposite/different to his brothers (they did not recognize Joseph)?
+**But Joseph recognized them** The connecting word But indicates a contrast relationship. It contrasts Joseph’s brothers not recognizing him with Joseph recognizing them. Joseph knew things opposite/different from his brothers. Joseph knew he was speaking to his brothers. His brothers did not know they were speaking with Joseph. How would you express **But Joseph recognized them** to mean that Joseph recognized his brothers was the opposite/different to his brothers (they did not recognize Joseph)?
 
 #### 08-12
 
@@ -414,7 +414,7 @@ Use the following translation questions to understand specific details of the pa
 
 **if they had changed** Joseph tested his brothers to see if they were different than they used to be. Years ago Joseph’s brothers sold him into slavery. Joseph wanted to find out if they would now do what was right. How would you express **if they had changed** to mean Joseph wanted to see if his brothers were different than they used to be when they sold him into slavery?
 
-**Do not be afraid** Joseph gave this command to his brothers who were afraid because they had greatly wronged Joseph. Now, as a great ruler, he had the power to punish them. Joseph could refuse to sell them food, or could even put them in prison or kill them. He was telling his brothers that they did not need to fear any punishment from Joseph. How would you express **Do not be afraid** as a command that tells someone not to fear?
+**Do not be afraid** Joseph gave this command to his brothers who were afraid because they had greatly wronged Joseph. Now, as a great ruler, Joseph had the power to punish them. Joseph could refuse to sell them food, or could even put them in prison or kill them. Joseph was telling his brothers that they did not need to fear any punishment from Joseph. How would you express **Do not be afraid** as a command that tells someone not to fear?
 
 **evil for good** Joseph’s brothers did an evil thing when they sold Joseph as a slave and he was taken to Egypt. But God allowed this so that Joseph could save thousands of people, including his own family, from starving during the famine. This was a very good thing. How would you express **evil for good** to mean God caused the evil of the brothers selling Jospeh into slavery to turn out to be good by causing the whole family to survive the famine?
 
@@ -424,7 +424,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 08-14
 
-**Even though Jacob was an old man, he moved to Egypt** The word even suggests that something happened that is different than what normally would happened or something that is expected to happen. Egypt was a great distance away from Canaan, and it would have been difficult for an elderly man to walk or ride a cart that far. How would you express **Even though Jacob was an old man, he moved to Egypt** to emphasize that Jacob moved to Egypt despite being old and despite the fact that Egypt was far away?
+**Even though Jacob was an old man, he moved to Egypt** The word even suggests that something happened that is different than what normally would happen or something that is expected to happen. Egypt was a great distance away from Canaan, and it would have been difficult for an elderly man to walk or ride a cart that far. How would you express **Even though Jacob was an old man, he moved to Egypt** to emphasize that Jacob moved to Egypt despite being old and despite the fact that Egypt was far away?
 
 **Before Jacob died** The word before tells something that happens prior to something else. Jacob died in Egypt. He did not get to return to Canaan, the land God had promised to give to him and his descendants. How would you express **Before Jacob died** to mean Jacob blessed each of his sons prior to his death?
 
@@ -456,7 +456,7 @@ Joseph was sold to Egypt as a slave. Egypt was a large and powerful country. Jos
 
 Joseph’s master tried to seduce Joseph to sleep with her. Joseph was only a servant. It would have been hard to refuse his master’s wife. However, Joseph did not sleep with her. He did not give in to her request or his own desires. (08-05)
 
-The master’s wife false accused Joseph. Joseph did not sleep with her but she accused Joseph of wrongdoing. Joseph was innocent and he was placed in prison. Joseph was was not treated fairly or justly. (08-05)
+The master’s wife falsely accused Joseph. Joseph did not sleep with her, but she accused Joseph of wrongdoing. Joseph was innocent, and he was placed in prison. Joseph was not treated fairly or justly. (08-05)
 
 Joseph spent two years in prison. He was innocent. He was not guilty of any crimes. The mistreatment against Joseph lasted a long time. (08-07)
 
@@ -468,7 +468,7 @@ Joseph served his Egyptian master well. Even though he was a slave in a foreign 
 
 Joseph followed God above all. When the master’s wife tried to get Joseph to sleep with him, Joseph refused to sin against God. Joseph did what would please God. He followed God’s commands before the commands of anyone else (08-05)
 
-Even though Joseph was innocent, he was put in prison. While he was in prison, Joseph did not stop trusting God. Joseph continued to be faithful to God even in prison. (08-05)
+Even though Joseph was innocent, he was put in prison. While Joseph was in prison, Joseph did not stop trusting God. Joseph continued to be faithful to God even in prison. (08-05)
 
 Joseph used his ability to interpret Pharaoh’s dreams. (08-07)
 
@@ -476,17 +476,17 @@ Joseph was a very wise leader. During the years of plenty, he had the people sto
 
 When the famine came, Joseph sold the food so the people would have enough to eat. This made Egypt gain money and provided food for the people. (08-09)
 
-Joseph did not take revenge on his brothers. He tested them to see if they changed. Then, he told them to come to Egypt so he could provide food for his family. (08-12)
+Joseph did not take revenge on his brothers. Joseph tested them to see if they changed. Then, Joseph told them to come to Egypt so he could provide food for his family. (08-12)
 
 ##### How did God cause good things to happen to Joseph and his family through bad/difficult situations? (08-02, 08-04, 08-05, 08-06, 08-07, 08-08, 08-10 08-11, 08-12, 08-13)
 
-Youngest Will Rule: Joseph’s was the youngest brother. God gave him a dream that said he would be ruler over his old brothers. Normally, older brothers would be in charge of younger brothers. God was doing the opposite of what humans normal think. God was showing that his choice is most important. (08-02)
+Youngest Will Rule: Joseph was the youngest brother. God gave him a dream that said he would be ruler over his old brothers. Normally, older brothers would be in charge of younger brothers. God was doing the opposite of what humans normally think. God was showing that his choice is the most important. (08-02)
 
-Slave of Important Official: Even though Joseph was a slave in Egypt, God made him a slave to a wealthy government official. God was arranging the situation so that Joseph would be put in a position of authority. Even though Joseph was a (08-04)
+Slave of Important Official: Even though Joseph was a slave in Egypt, God made him a slave to a wealthy government official. God was arranging the situation so that Joseph would be put in a position of authority. Even though Joseph was a slave. (08-04)
 
-Blessed as Slave In Egypt: Even though Joseph was a slave in a foreign land, God blessed Joseph. (08-04)
+Blessed as a slave In Egypt: Even though Joseph was a slave in a foreign land, God blessed Joseph. (08-04)
 
-Blessed as Prisoner: God blessed Joseph when he was in prison. God caused things to go well for Joseph even when he was wrongly sent to prison. (08-05)
+Blessed as a Prisoner: God blessed Joseph when he was in prison. God caused things to go well for Joseph even when he was wrongly sent to prison. (08-05)
 
 Prisoner to Interpreter: God gave Joseph the ability to interpret dreams. Pharaoh’s advisors/wise men could not interpret the dreams. God used Joseph to interpret Pharaoh’s dreams. Pharaoh had Joseph taken out of prison to interpret his dreams. (08-06, 08-07)
 
@@ -496,19 +496,19 @@ Powerful Leader: Pharaoh was so impressed with Joseph that he made him the secon
 
 God used the famine to cause Jacob and his family to come to Egypt. (08-10, 08-11)
 
-Changed Brothers: Joseph tested his brothers to see if they changed. The brothers who once hated him had become different than they were before. (08-11)
+Changed Brothers: Joseph tested his brothers to see if they had changed. The brothers who once hated him had become different than they were before. (08-11)
 
-Forgiveness and Reconciliation: God brought reconciliation between Joseph and his brothers. Joseph did not take revenge on them. He told them not to be afraid. (08-12)
+Forgiveness and Reconciliation: God brought reconciliation between Joseph and his brothers. Joseph did not take revenge on them. Joseph told them not to be afraid. (08-12)
 
 Belief: Joseph believed that God used the bad things that people intended to bring about good things. (08-12)
 
 Sadness to Joy: Jacob’s sadness was turned to joy when he learned that Joseph was alive. (08-13)
 
-##### How did keep his covenant promises to the next generation? (08-14, 08-15)
+##### How did God keep his covenant promises to the next generation? (08-14, 08-15)
 
 Jacob moved his whole family to Egypt. God protected this family by Joseph providing food for them during the famine. (08-14)
 
-Before he died, Jacob blessed each of his sons. Jacob spoke his intent that God would cause good things to happen to each of them. (08-14)
+Before Jacob died, Jacob blessed each of his sons. Jacob spoke his intent that God would cause good things to happen to each of them. (08-14)
 
 God continued his covenant promises from Jacob to his twelve sons. The covenant promises continued even after Jacob died. (08-15)
 
@@ -518,9 +518,9 @@ God continued his covenant promises from Jacob to his twelve sons. The covenant 
 
 Answer the following theology questions as a community. Discuss what truths this story teaches.
 
-1.  What are some of causes of suffering and hardship? How does the story of Joseph teach us about suffering and hardship in the world?
+1.  What are some of the causes of suffering and hardship? How does the story of Joseph teach us about suffering and hardship in the world?
 2.  What does it look like to trust God and live faithfully in hardship? How does Joseph provide an example of faithful living before God?
-3.  How does God use evil things to bring about good things? How does the story of Joseph show us God bringing good things out of hard circumstances?
+3.  How does God use evil things to bring about good things? How does the story of Joseph show us God brings good things out of hard circumstances?
 
 ### Translation Draft
 
@@ -532,7 +532,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -549,7 +549,7 @@ Take a moment to allow this story to evaluate your own life and to consider how 
 Prayerfully think about the following personal reflection questions. Write/Record your answers and/or discuss them as a group.
 
 1.  What kind of suffering have you experienced in life? How can you relate to Joseph’s experiences?
-2.  How might you have responded if you were in Joseph’s situations? How does his faithful example show areas of your life in which you need to grow?
+2.  How might you have responded if you were in Joseph’s situation? How does his faithful example show areas of your life in which you need to grow?
 3.  What broken relationships are in your life? How can Joseph’s story teach you how to reconcile (be at peace) with those who have wronged you?
 4.  How can you trust God more with your life?
 
@@ -561,20 +561,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -621,7 +621,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -683,7 +683,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -695,7 +695,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

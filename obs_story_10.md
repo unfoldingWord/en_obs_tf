@@ -8,7 +8,7 @@ story_num: 10
 
 ### Key Idea
 
-The story of the Ten Plagues teaches us of God’s judgment against his enemies.
+The story of the Ten Plagues teaches us about God’s judgment against his enemies.
 
 ### Creedal Verse
 
@@ -165,7 +165,7 @@ Answer the following observation questions to gain a basic understanding of the 
 #### 10-01
 
 How did God say that Pharaoh would respond?  
-God cared Moses and Aaron that Pharaoh would be stubborn.
+God told Moses and Aaron that Pharaoh would be stubborn.
 
 What was God’s message that Moses and Aaron gave to Pharaoh?  
 God’s message to Pharaoh was, “Let my people go!”
@@ -175,15 +175,15 @@ Pharaoh did not listen to them. He forced the Israelites to work even harder.
 #### 10-02
 
 What did God do when Pharaoh refused to let the Israelites go?  
-He sent ten terrible plagues on Egypt.
+God sent ten terrible plagues on Egypt.
 
 What did God show Pharaoh through these plagues?  
-He showed that he is more powerful than Pharaoh and all of Egypt’s gods.
+God showed that he is more powerful than Pharaoh and all of Egypt’s gods.
 
 #### 10-03
 
 What was the first plague? What did God do to the water in the Nile River?  
-God turned water in the Nile River into blood.
+God turned the water in the Nile River into blood.
 
 #### 10-04
 
@@ -191,21 +191,21 @@ What happened in the second plague?
 God sent frogs all over Egypt.
 
 What did Pharaoh do after this plague?  
-Pharaoh hardened his heart and would not the the Israelites go free.
+Pharaoh hardened his heart and would not let the Israelites go free.
 
 #### 10-05
 
-What happened in the third and fourth plague?  
-God sent gnats. Then God sent flies
+What happened in the third and fourth plagues?  
+God sent gnats. Then God sent flies.
 
 What did Pharaoh tell Moses and Aaron to do?  
-Pharaoh told Moses and Aaron that if the plagued stopped he would let the Israelites go free.
+Pharaoh told Moses and Aaron that if the plague stopped he would let the Israelites go free.
 
 What did Moses and Aaron do?  
 Moses and Aaron prayed to God. God removed all the flies from Egypt.
 
 What did Pharaoh do after this plague?  
-Pharaoh hardened his heart and would not the the Israelites go free.
+Pharaoh hardened his heart and would not let the Israelites go free.
 
 #### 10-06
 
@@ -213,7 +213,7 @@ What happened in the fifth plague?
 God caused the farm animals that belonged to the Egyptians to get sick and die.
 
 What did Pharaoh do after this plague?  
-Pharaoh hardened his heart and would not the the Israelites go free.
+Pharaoh hardened his heart and would not let the Israelites go free.
 
 #### 10-07
 
@@ -224,7 +224,7 @@ Who was affected by the plague of the painful skin sores?
 The sores appeared on the Egyptians, but not on the Israelites.
 
 What did Pharaoh do after this plague?  
-God hardened Pharaoh’s heart and would not the the Israelites go free.
+God hardened Pharaoh’s heart and would not let the Israelites go free.
 
 #### 10-08
 
@@ -232,12 +232,12 @@ What happened in the seventh plague?
 God sent hail that destroyed most of the Egyptian crops and killed people who went outside.
 
 What did Pharaoh do after this plague?  
-Pharaoh said he sinned. He told the Israelites they could go free and the hail stopped falling form the sky.
+Pharaoh said he sinned. Pharaoh told the Israelites they could go free and the hail stopped falling from the sky.
 
 #### 10-09
 
 How did Pharaoh change his mind about letting the Israelites go free?  
-Pharaoh sinned, hardened his heart, and would not the the Israelites go free.
+Pharaoh sinned, hardened his heart, and would not let the Israelites go free.
 
 #### 10-10
 
@@ -258,7 +258,7 @@ No, it was dark where the Egyptians lived, but there was light where the Israeli
 #### 10-12
 
 How did Pharaoh respond to each of the first nine plagues?  
-He refused to let the people go free.
+Pharaoh refused to let the people go free.
 
 What did God do after Pharaoh did not respond to the first nine plagues?  
 God planned to send one last plague.
@@ -274,9 +274,9 @@ Use the following translation questions to understand specific details of the pa
 
 **stubborn** Pharaoh refused to obey God. What words in your language mean **stubborn** as in to refuse to change or listen/obey someone?
 
-**the God of Israel** This phrase refers to the God whom the Israelites worship. It refers God as the one who chose and rules the Israelites and the God whom the Israelites serve. How would you express **the God of Israel** to mean the God whom the Israelites serve and worship?
+**the God of Israel** This phrase refers to the God whom the Israelites worship. It refers to God as the one who chose and rules the Israelites and the God whom the Israelites serve. How would you express **the God of Israel** to mean the God whom the Israelites serve and worship?
 
-**Let my people go!** God commands Pharaoh to allow his people to go free. This command tells/orders Pharaoh to free God’s people to leave Egypt. How would you express **Let my people go!** as a command in which God is telling Pharaoh to let his people to go free and leave Egypt?
+**Let my people go!** God commands Pharaoh to allow his people to go free. This command tells/orders Pharaoh to free God’s people to leave Egypt. How would you express **Let my people go!** as a command in which God is telling Pharaoh to let his people go free and leave Egypt?
 
 **listen to** This means to heed or obey. What words in your language mean **listen to** as in to heed or obey?
 
@@ -294,7 +294,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 10-03
 
-**turned the Nile River into blood** God turned the water in the Nile River into blood. There was blood in the river instead of water, so the fish died and the people had no water to drink. How would you express **turned the Nile River into blood** to mean God caused the water of the Nile River to become blood such that the fish died and the people had no water to drink?
+**turned the Nile River into blood** God turned the water in the Nile River into blood. There was blood in the river instead of water, so the fish died, and the people had no water to drink. How would you express **turned the Nile River into blood** to mean God caused the water of the Nile River to become blood such that the fish died and the people had no water to drink?
 
 **but Pharaoh still** The word but contrasts God turning the river to blood with Pharaoh not letting the Israelites go. This is not the first time Pharaoh refused to let the Israelites go. How would you express **but Pharaoh still** to mean Pharaoh continued to refuse to let the Israelites go?
 
@@ -302,7 +302,7 @@ Use the following translation questions to understand specific details of the pa
 
 **Pharaoh begged** Moses Pharaoh pleaded with Moses to take the frogs away. How would you express **Pharaoh begged** Moses to mean Pharaoh earnestly pleaded with Moses to take the frogs away?
 
-**hardened his heart** Pharaoh became stubborn again and refused to obey God. Pharaoh’s stubborn attitude is spoken of as if his heart were hard. Something that is hard is not easily changed. How would you express **hardened his heart** to mean Pharaoh caused his own heart to be stubborn and he refused to change his heart like something that is hard is difficult to change?
+**hardened his heart** Pharaoh became stubborn again and refused to obey God. Pharaoh’s stubborn attitude is spoken of as if his heart were hard. Something that is hard is not easily changed. How would you express **hardened his heart** to mean Pharaoh caused his own heart to be stubborn and refused to change his heart like something that is hard is difficult to change?
 
 #### 10-05
 
@@ -320,7 +320,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 10-07
 
-**to throw ashes into the air** Ashes are the leftover soot from a fire. God told Moses to throw leftover soot from a fire up into the air. He did this in front of Pharaoh so he could see. This action was a sign or symbol that showed Pharaoh what God was about to do. How would you express **to throw ashes into the air** to mean toss leftover soot from a fire upward into the air?
+**to throw ashes into the air** Ashes are the leftover soot from a fire. God told Moses to throw leftover soot from a fire up into the air. Moses did this in front of Pharaoh so he could see. This action was a sign or symbol that showed Pharaoh what God was about to do. How would you express **to throw ashes into the air** to mean toss leftover soot from a fire upward into the air?
 
 **God hardened Pharaoh’s heart** God caused Pharaoh to continue to be stubborn. Before this Pharaoh had made his own heart stubborn and refused to change and listen to God. Now, God is making Pharaoh’s heart hard and stubborn. How would you express **God hardened Pharaoh’s heart** to mean God caused Pharaoh’s heart to be stubborn and refuse to listen to God’s command?
 
@@ -334,7 +334,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 10-09
 
-**sinned again** To sin is to disobey God’s commands. This is not the first time Pharaoh disobeyed God’s command. How would you express **sinned again** to mean Pharaoh disobeyed God’s commands yet another time?
+**sinned again** To sin is to disobey God’s commands. This was not the first time Pharaoh disobeyed God’s command. How would you express **sinned again** to mean Pharaoh disobeyed God’s commands yet another time?
 
 #### 10-10
 
@@ -348,9 +348,9 @@ Use the following translation questions to understand specific details of the pa
 
 #### 10-12
 
-**Since** Pharaoh would not listen The word **Since** tells the reason God sent one last plague. The reason God sent one last plague was Pharaoh refused to let the Israelites go free. Pharaoh would not do what God was telling him to do. He refused to obey God. How would you express **Since** Pharaoh would not listen to mean God was sending one last plague because Pharaoh would not listen?
+**Since Pharaoh would not listen** The word **Since** tells the reason God sent one last plague. The reason God sent one last plague was Pharaoh refused to let the Israelites go free. Pharaoh would not do what God was telling him to do. He refused to obey God. How would you express **Since Pharaoh would not listen** to mean God was sending one last plague because Pharaoh would not listen?
 
-**This would change Pharaoh’s mind** This last plague would cause Pharaoh to change how he thought about God and, as a result, he would let the Israelites go free. How would you express **This would change Pharaoh’s mind** to mean this would be this last plague would cause Pharaoh to change how he thought about God and, as a result, he would let the Israelites go free?
+**This would change Pharaoh’s mind** This last plague would cause Pharaoh to change how he thought about God and, as a result, Pharaoh would let the Israelites go free. How would you express **This would change Pharaoh’s mind** to mean this would be the last plague that would cause Pharaoh to change how he thought about God and, as a result, he would let the Israelites go free?
 
 <!-- page break -->
 
@@ -370,11 +370,11 @@ God turned the water of the Nile River into blood. God took away the Egyptian so
 
 God sent frogs all over Egypt. The frogs were everywhere. This made it really hard to do normal things in life. (10-04)
 
-God sent gnats and flies in the land. The gnats and flies swarmed everywhere. This also made it really hard to live. (10-05)
+God sent gnats and flies into the land. The gnats and flies swarmed everywhere. This also made it really hard to live. (10-05)
 
-God caused the farm animals of the Egyptians to get sick and die. God took away the Egyptians work animals and source of food. (10-06)
+God caused the farm animals of the Egyptians to get sick and die. God took away the Egyptians work animals and sources of food. (10-06)
 
-God caused Egyptians to have painful skin sores. This affected the Egyptians health. (10-07)
+God caused Egyptians to have painful skin sores. This affected the Egyptians’ health. (10-07)
 
 God sent hail. This destroyed crops and killed people. God then sent locusts. These locusts ate up the crops of the Egyptians. (10-08, 10-10)
 
@@ -384,31 +384,31 @@ God would send a final plague that would change Pharaoh’s mind. (10-12)
 
 ##### How did Pharaoh respond throughout the time God sent the ten plagues?
 
-Stubborn: God told Moses and Aaron that Pharaoh’s would be stubborn. Pharaoh would do what Pharaoh wanted to do not what God wanted to do. It would be difficult to change Pharaoh’s mind. (10-01, 10-12)
+Stubborn: God told Moses and Aaron that Pharaoh’s heart would be stubborn. Pharaoh would do what Pharaoh wanted to do, not what God wanted to do. It would be difficult to change Pharaoh’s mind. (10-01, 10-12)
 
 Contrary: Pharaoh would not listen to God or obey his commands. (10-01, 10-10)
 
-Oppressive: Instead of obeying God’s commands, Pharaoh caused the Israelites to work harder. Pharaoh’s stubborn and disobedient heart caused him be even more defiant of God and oppressive of God’s people. (10-01)
+Oppressive: Instead of obeying God’s commands, Pharaoh caused the Israelites to work harder. Pharaoh’s stubborn and disobedient heart caused him to be even more defiant of God and oppressive of God’s people. (10-01)
 
-Persistent Refusal : Pharaoh continued to be stubborn. He kept refusing to listen to God’s commands. He persisted in his disobedience and defiance. (10-02)
+Persistent Refusal: Pharaoh continued to be stubborn. Pharaoh kept refusing to listen to God’s commands. Pharaoh persisted in his disobedience and defiance. (10-02)
 
-Temporary Request: At times, Pharaoh asked Moses and Aaron to take away the plagues. Pharaoh asked Moses to take away the frogs. Moses prayed for the flies to go away, the hail to stop (10-04, 10-05, 10-08)
+Temporary Request: At times, Pharaoh asked Moses and Aaron to take away the plagues. Pharaoh asked Moses to take away the frogs. Moses prayed for the flies to go away, the hail to stop. (10-04, 10-05, 10-08)
 
 Unpersuadable: Even though God sent many plagues that caused disaster in Egypt, Pharaoh still did listen to God’s voice. (10-03, 10-04, 10-05, 10-06, 10-07, 10-09, 10-12)
 
-Pharaoh Hardened: Pharaoh hardened his heart. He would not change his mind and grew even more defiant of God. His caused his heart to become like something that is hard and difficult to change. (10-04, 10-05, 10-06, 10-09)
+Pharaoh Hardened: Pharaoh hardened his heart. Pharoah would not change his mind and grew even more defiant of God. Pharaoh caused his heart to become like something that is hard and difficult to change. (10-04, 10-05, 10-06, 10-09)
 
 God Hardened: Eventually, God hardened Pharaoh’s heart. God caused Pharaoh to continue in his stubborn refusal to listen to God’s commands. (10-07)
 
-Changed His Mind: When God sent hail that destroyed crops and killed people, Pharaoh admitted that he sinned. At first, he let the Israelites go free. However, he sinned again, hardened his heart, and refused to let the Israelites go free. (10-08, 10-09)
+Changed His Mind: When God sent hail that destroyed crops and killed people, Pharaoh admitted that he sinned. At first, Pharaoh let the Israelites go free. However, Pharaoh sinned again, hardened his heart, and refused to let the Israelites go free. (10-08, 10-09)
 
 ##### How was God acting on behalf of his people? (10-01, 10-02, 10-0??)
 
 Freedom: God commanded that Pharaoh let the Israelites go free. God sent Moses and Aaron to bring the Israelites out of slavery. (10-01)
 
-Judgment: God sent disaster upon the Egyptians. They Egyptians forced the Israelites into harsh slave work. God was defending his people by judging the Egyptians. (10-02)
+Judgment: God sent disaster upon the Egyptians. The Egyptians forced the Israelites into harsh slave work. God was defending his people by judging the Egyptians. (10-02)
 
-True God: God showed the Egyptians that he was the true God and the false gods were not real gods. The plagues that God sent showed that God was more powerful than the false gods the Egyptians worshiped. (10-02)
+True God: God showed the Egyptians that he was the true God and that the false gods were not real gods. The plagues that God sent showed that God was more powerful than the false gods the Egyptians worshiped. (10-02)
 
 Distinction: God made a distinction between the Israelites and the Egyptians. We learn that some of the plagues did not affect the Israelites. The Israelites did not get painful skin sores. Darkness came upon the land of Egypt but did not come upon the land where the Israelites were living. God was showing that the Israelites were his people. He would protect them and defend them. (10-07, 10-11)
 
@@ -432,7 +432,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -461,20 +461,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -521,7 +521,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -583,7 +583,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -595,7 +595,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

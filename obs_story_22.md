@@ -160,7 +160,7 @@ What were Zechariah and Elizabeth like?
 Zechariah and Elizabeth honored God.
 
 What problem did Elizabeth, Zechariah’s wife, have?  
-She was very old, and had never born any children.
+Elizabeth was very old, and had never born any children.
 
 #### 22-02
 
@@ -193,7 +193,7 @@ What did the angel say was going to happen to Mary?
 She would become pregnant and give birth to a son and was to name him Jesus.
 
 Who did the angel say Jesus was going to be?  
-He would be the Son of the Most High God.
+Jesus would be the Son of the Most High God.
 
 #### 22-05
 
@@ -251,7 +251,7 @@ Use the following translation questions to understand specific details of the pa
 
 **John will get the people ready to accept the Messiah** God would empower John for a specific work. John’s responsibility would be to prepare people to trust and serve the Messiah. How would you express **John will get the people ready to accept the Messiah** to mean John would prepare people to acknowledge and follow the Messiah when he comes?
 
-**My wife and I are too old to have children!** Zechariah and Elizabeth were far too old to have children by natural means. That would require God to work a miracle. Zechhariah was surprised by the angel’s message and doubted that it could be true. How would you express **My wife and I are too old to have children!** as a strong statement that emphasizes Zechariah’s surprise and doubt that an old couple like them could bear children?
+**My wife and I are too old to have children!** Zechariah and Elizabeth were far too old to have children by natural means. That would require God to work a miracle. Zechariah was surprised by the angel’s message and doubted that it could be true. How would you express **My wife and I are too old to have children!** as a strong statement that emphasizes Zechariah’s surprise and doubt that an old couple like them could bear children?
 
 **How can I know you are telling me the truth?** Zechariah doubted the angel’s message. Zechariah was asking for a sign as proof that what the angel said was true. How would you express **How can I know you are telling me the truth?** as a question that means “What can you do to prove to me that this will happen?”
 
@@ -259,7 +259,7 @@ Use the following translation questions to understand specific details of the pa
 
 **Because you did not believe me, you will not be able to speak until the child is born** Zechariah did not believe the angel’s message. This doubt was the cause of Zechariah not being able to speak until John would be born. How would you express **Because you did not believe me, you will not be able to speak until the child is born** to mean the reason Zechariah would not be able to speak until the baby was born was Zechariah did not believe the good news of the angel’s message?
 
-**Immediately,** Zechariah was unable to speak First the angel said Zechariah would not be able to speak, and the next thing that happened was Zechariah could not speak. How would you express **Immediately,** Zechariah was unable to speak to mean Zechariah was unable to speak as soon as the angel told him that this would be so?
+**Immediately, Zechariah was unable to speak** First the angel said Zechariah would not be able to speak, and the next thing that happened was Zechariah could not speak. How would you express **Immediately, Zechariah was unable to speak** to mean Zechariah was unable to speak as soon as the angel told him that this would be so?
 
 #### 22-04
 
@@ -309,7 +309,7 @@ Use the following discourse questions to understand the meaning of the story. Pa
 
 ##### How did God miraculously provide a child for Zechariah and Elizabeth? (22-01, 22-02, 22-03)
 
-For 400 years, God did not speak to his people through prophets as he did in the past. Then, God sent an angel to a priest named Zechariah. He and his wife honored and respected God. (22-01)
+For 400 years, God did not speak to his people through prophets as he did in the past. Then, God sent an angel to a priest named Zechariah. Zechariah and his wife honored and respected God. (22-01)
 
 The angel told Zechariah that his wife would bear a child. Zechariah and Elizabeth were old and Elizabeth had never given birth to a child. God would do this miraculously. (22-01, 22-02)
 
@@ -329,14 +329,14 @@ The angel explained that the Holy Spirit would powerfully come to her and make h
 
 Mary trusted God and believed what the angel said. (22-04, 22-05)
 
-How did people respond to the news of these miraculous births?
+**How did people respond to the news of these miraculous births?**
 When Mary visited Elizabeth, the baby suddenly moved inside of Elizabeth’s womb. Both Mary and Elizabeth rejoiced that God miraculously had caused both of them to have children. In Elizabeth’s case, God caused an old, barren woman to have a child. In Mary’s case, God caused a virgin to become pregnant. (22-06)
 
 When Elizabeth gave birth to her baby, Zechariah and Elizabeth named him John. They obeyed what God told Zechariah in naming him John. (22-07)
 
 After they named him John, Zechariah could speak again. He praised God for taking care of his people. (22-07)
 
-Zechariah stated that John would we a prophet of God and would tell people how they can have their sins forgiven. Zechariah showed great faith in acknowledging this about John. (22-07)
+Zechariah stated that John would be a prophet of God and would tell people how they can have their sins forgiven. Zechariah showed great faith in acknowledging this about John. (22-07)
 
 <!-- page break -->
 
@@ -346,7 +346,7 @@ Answer the following theology questions as a community. Discuss what truths this
 
 1.  Who is John and what role did he have in God’s plan? What does this story teach us about the role John had in God’s plan?
 2.  Who is Jesus and what did he come to earth to do? What is a faithful response to God’s plan to send his Son? What does this story teach us about who Jesus is and what he came to do?
-3.  What is real and genuine faith in God? How does the responses of the characters in this story teach us about genuine faith?
+3.  What is real and genuine faith in God? How do the responses of the characters in this story teach us about genuine faith?
 
 ### Translation Draft
 
@@ -358,7 +358,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -376,8 +376,8 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 1.  Which of the characters can you most identify with in this story? Why do you most identify with this character?
 2.  How is God preparing your heart to accept/trust/receive Jesus as God’s Messiah?
-3.  How have you express genuine faith in God? What would it look like to express genuine faith in God?
-4.  How can God use you, like John, to prepare other people to meet accept Jesus?
+3.  How have you expressed genuine faith in God? What would it look like to express genuine faith in God?
+4.  How can God use you, like John, to prepare other people to meet and accept Jesus?
 
 ### Team Check
 
@@ -387,20 +387,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -447,7 +447,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -509,7 +509,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -521,7 +521,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

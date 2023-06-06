@@ -155,7 +155,7 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 25-01
 
@@ -166,7 +166,7 @@ Who led Jesus into the wilderness?
 The Holy Spirit led him.
 
 What did Jesus do in the wilderness?  
-He fasted there for 40 days and 40 nights.
+Jesus fasted there for 40 days and 40 nights.
 
 Who came to tempt Jesus to sin?  
 Satan came to Jesus in the wilderness and tempted him to sin.
@@ -177,7 +177,7 @@ What did Satan tempt Jesus to prove about himself?
 Satan tempted Jesus to prove that he was the Son of God.
 
 What did Satan tempt Jesus to do with the rocks?  
-He told Jesus to turn the rocks into bread so he could eat.
+Satan told Jesus to turn the rocks into bread so he could eat.
 
 #### 25-03
 
@@ -196,7 +196,7 @@ What did Satan tempt Jesus to prove about himself?
 Satan tempted Jesus to prove that he was the Son of God.
 
 What did Satan tempt Jesus to do next?  
-He told Jesus to throw himself down from the Temple.
+Satan told Jesus to throw himself down from the Temple.
 
 Who did Satan say would protect Jesus?  
 God would command his angels to protect Jesus.
@@ -260,13 +260,13 @@ Use the following translation questions to understand specific details of the pa
 
 **the wilderness** Jesus went into a remote, barren place with few people. This place probably had very few trees or other plants, so most people would not be able to live there. How would you express **the wilderness** to mean a remote, desert-like place where few people lived?
 
-**tempted him to sin** Satan tried to persuade Jesus to disobey God. Since Jesus did not sin, this word does not imply that Satan succeeded in convincing Jesus to sin, only that he tried to get Jesus to sin. How would you express **tempted him to sin** to mean tried to convince him to sin?
+**tempted him to sin** Satan tried to persuade Jesus to disobey God. Since Jesus did not sin, this word does not imply that Satan succeeded in convincing Jesus to sin, only that he tried to get Jesus to sin. How would you express **tempted him to sin** to mean Satan tried to convince him to sin?
 
 #### 25-02
 
 **If you are the Son of God** Satan knew that Jesus was indeed the Son of God. Jesus also knew he was indeed the Son of God. Satan was saying this to try to get Jesus to prove he is truly the Son of God in a way that would cause Jesus to sin. How would you express **If you are the Son of God** to mean since it is true that you are the Son of God?
 
-**turn these rocks into bread** Satan tempted Jesus to prove he is the Son of God by supernaturally changing rocks into bread. In the Jews’ culture, bread was the main/staple food. How would you express **turn these rocks into bread** to mean make these rocks become bread/food?
+**turn these rocks into bread** Satan tempted Jesus to prove he is the Son of God by supernaturally changing rocks into bread. In the Jews culture, bread was the main/staple food. How would you express **turn these rocks into bread** to mean make these rocks become bread/food?
 
 **so you can eat** Satan asked Jesus to turn rocks into bread. During Jesus’ time in the wilderness, he was fasting and grew hungry. The purpose of turning rocks into bread would be for Jesus to eat and satisfy his hunger. So, Satan tempted Jesus to prove he was the Son of God by making food for himself out of rocks and satisfying his hunger. How would you express **so you can eat** to mean the purpose of turning rocks into bread was that Jesus could satisfy his hunger by eating food?
 
@@ -282,7 +282,7 @@ Use the following translation questions to understand specific details of the pa
 
 **jump off to the ground** Satan tempted Jesus to leap off of the top of the Temple toward the ground. How would you express **jump off to the ground** to mean to leap off the building to the ground?
 
-**so your foot does not hit a stone** Satan quotes a passage of God’s word. This passage says God would send angels to protect a person from injury. In this passage the angels would carry him so that even your foot will not strike against a stone and would not be injured. How would you express **so your foot does not hit a stone** to mean so that you will not be hurt at all and not even your foot will be injured on a stone?
+**so your foot does not hit a stone** Satan quotes a passage of God’s word. This passage says God would send angels to protect a person from injury. In this passage the angels would carry him so that even his foot will not strike against a stone and would not be injured. How would you express **so your foot does not hit a stone** to mean so that you will not be hurt at all and not even your foot will be injured on a stone?
 
 #### 25-05
 
@@ -290,15 +290,15 @@ Use the following translation questions to understand specific details of the pa
 
 **Do not test the Lord your God** God prohibits people from challenging God to take care of them when they do not even obey God. How would you express **Do not test the Lord your God** as a command to not challenge the Lord your God to prove himself to you?
 
-**the Lord your God** Yahweh is the one and only God. Even if people do not believe and follow Yahweh, he is still Lord and God. Yahweh is Lord and God of all peoples and places. However, Yahweh is specifically the Lord of his people when **the**y trust and obey him. How would you express **the Lord your God** to mean Yahweh, your God who has authority over you?
+**the Lord your God** Yahweh is the one and only God. Even if people do not believe and follow Yahweh, he is still Lord and God. Yahweh is Lord and God of all peoples and places. However, Yahweh is specifically the Lord of his people when they trust and obey him. How would you express **the Lord your God** to mean Yahweh, your God who has authority over you?
 
 #### 25-06
 
 **the kingdoms of the world** Satan showed Jesus all the domains of power and human government on the earth. How would you express **the kingdoms of the world** to mean all the greatest cities, countries, and other territories of the world where humans exercise authority/government?
 
-**I will give you all this** Satan told Jesus that he would make Jesus the ruler over all these countries, cities and people if Jesus worshiped Satan. How would you express **I will give you all this** to mean to give him all the wealth and power of these kingdoms on the earth?
+**I will give you all this** Satan told Jesus that he would make Jesus the ruler over all these countries, cities, and people if Jesus worshiped Satan. How would you express **I will give you all this** to mean to give him all the wealth and power of these kingdoms on the earth?
 
-**bow down** Satan asked Jesus to lower himself to the ground. This act symbolized reverence, honor, and devotion. Satan wanted Jesus to worship him. How would you express **bow down** to mean to lower oneself to the ground in act of worship and devotion?
+**bow down** Satan asked Jesus to lower himself to the ground. This act symbolized reverence, honor, and devotion. Satan wanted Jesus to worship him. How would you express **bow down** to mean to lower oneself to the ground in an act of worship and devotion?
 
 #### 25-07
 
@@ -334,7 +334,7 @@ Protection: Satan tempted Jesus to show how God would protect him. He asked Jesu
 
 Wealth and Power/False Worship: Satan tempted Jesus with wealth and power. Satan offered to give Jesus the kingdoms of the earth if Jesus worshiped him. Satan tried to get Jesus to sin by desiring money and authority as more important than worshiping God alone. (25-06)
 
-Wrongly Using God’s Word: Satan tempted Jesus by quoting from God’s word. Satan did not understand or use God’s word correctly. He quoted it to tried to twist it to get Jesus to sin. (25-04)
+Wrongly Using God’s Word: Satan tempted Jesus by quoting from God’s word. Satan did not understand or use God’s word correctly. Satan quoted it to try to twist it to get Jesus to sin. (25-04)
 
 ##### How did Jesus respond to/resist Satan’s temptations? (25-03, 25-05, 25-07, 25-08)
 
@@ -376,7 +376,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -405,20 +405,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -465,7 +465,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -527,7 +527,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -539,7 +539,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

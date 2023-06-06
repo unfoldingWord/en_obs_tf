@@ -183,12 +183,12 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 13-01
 
 Where did God lead the Israelites after they crossed the Red Sea?  
-He lead them through the wilderness to a mountain called Sinai.
+God led them through the wilderness to a mountain called Sinai.
 
 Why was this mountain important?  
 This was the same mountain where Moses saw the burning bush.
@@ -218,18 +218,18 @@ Moses went by himself up to the mountain.
 #### 13-04
 
 What did God say to the Israelites when he made a covenant with them?  
-God told the Israelites that he was Yahweh, their God. He told them that he was the one who saved them from being slaves in Egypt.
+God told the Israelites that he was Yahweh, their God. God told them that he was the one who saved them from being slaves in Egypt.
 
 What did God command the Israelites about other gods?  
-God commanded the Israelites to not worship any other god.
+God commanded the Israelites not to worship any other god.
 
 #### 13-05
 
 What did God command the Israelites about other worship?  
-God commanded the Israelites to not make any idols and not to worship any idols.
+God commanded the Israelites not to make any idols or worship any idols.
 
 What did God command the Israelites about God’s name?  
-God commanded the Israelites to not treat God’s name in a disrespectful way.
+God commanded the Israelites not to treat God’s name in a disrespectful way.
 
 What did God command the Israelites about the Sabbath day?  
 God commanded the Israelites to work for six days and rest on the seventh day.
@@ -237,7 +237,7 @@ God commanded the Israelites to work for six days and rest on the seventh day.
 #### 13-06
 
 What did God command the Israelites about how they should treat one another?  
-God commanded the Israelites to honor their parents. He commanded them to not murder, not steal, not lie, and not covet what other people have.
+God commanded the Israelites to honor their parents. God commanded them not to murder, not steal, not lie, and not covet what other people have.
 
 #### 13-07
 
@@ -247,7 +247,7 @@ The people agreed to obey God’s commands. They agreed to only worship God.
 #### 13-08
 
 What did God tell the Israelites to build for him?  
-He told them to make the Tent of Meeting.
+God told them to make the Tent of Meeting.
 
 What did God tell the Israelites to make to separate the two rooms of the tent?  
 God told the Israelites to make a large curtain to separate the two rooms.
@@ -267,7 +267,7 @@ What did the sacrifice do to the people’s sin?
 The blood of the sacrifice would cover their sin. God would no longer see their sin and the person would become clean in God’s sight.
 
 Who did God choose to be his priests?  
-He chose Aaron and his descendants.
+God chose Aaron and his descendants.
 
 #### 13-10
 
@@ -275,10 +275,10 @@ How did God record his commands to his people?
 God wrote the Ten Commandments on two stone tablets and gave the tablets to Moses. God also gave the people other laws and rules to follow.
 
 What would God do to the Israelites if they obeyed God’s commandments?  
-He would bless them and protect them.
+God would bless them and protect them.
 
 What would God do to the Israelites if they disobeyed his commandments?  
-He would punish them.
+God would punish them.
 
 #### 13-11
 
@@ -289,30 +289,30 @@ What did the people do when they got tired of waiting for Moses to return from M
 They asked Aaron to make a gold idol that they could worship.
 
 Was it good or bad for the Israelites to ask Aaron to make a gold idol?  
-The people sinned greatly against God in doing this.
+The people sinned greatly against God when they asked Aaron to make a gold idol.
 
 #### 13-12
 
 What did the Israelites do with the gold idol that Aaron made?  
-The Israelites worshiped it and made sacrifices to it.
+The Israelites worshiped gold idol and made sacrifices to the gold idol.
 
 What did God think of the Israelites worshiping the gold idol?  
-God was angry with the Israelites. He told Moses he wanted to destroy them.
+God was angry with the Israelites. God told Moses he wanted to destroy them.
 
 Why did God not destroy the Israelites when they disobeyed?  
-He did not destroy them because Moses prayed for them.
+God did not destroy them because Moses prayed for them.
 
 #### 13-13
 
 What happened to the stones on which God had written the Ten Commandments?  
-Moses saw the idol when he came down the mountain. He was angry and smashed the stone tablets.
+Moses saw the idol when he came down the mountain. Moses was angry and smashed the stone tablets.
 
 #### 13-14
 
 What did Moses do to the idol?  
 Moses burned the idol and ground it into powder, and then he made the people drink it in water.
 
-What did God do the Israelites?  
+What did God do to the Israelites?  
 God sent a plague that caused many to die.
 
 #### 13-15
@@ -321,7 +321,7 @@ What did God tell Moses to do to replace the stone tablets?
 God told Moses to make new stone tablets to replace the old ones he had broken.
 
 What did Moses do to ask God to forgive the people?  
-Moses climbed the mountain again. He prayed that God would forgive the people. God listened to Moses’ prayer and forgave the people.
+Moses climbed the mountain again. Moses prayed that God would forgive the people. God listened to Moses’ prayer and forgave the people.
 
 Where did the Israelites go after Mount Sinai?  
 God led the Israelites toward the Promised Land.
@@ -332,7 +332,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 13-01
 
-**After God led the Israelites through the Red Sea** This introduces a new event to the story. This explains that the events of this story begin following God leading the Israelites through the Red Sea. How would you express **After God led the Israelites through the Red Sea** to mean the events of this story took place subsequent to God leading the Israelites through the Red Sea?
+**After God led the Israelites through the Red Sea** This introduces a new event to the story. This explains that the events of this story begin following God leading the Israelites through the Red Sea. How would you express **After God led the Israelites through the Red Sea** to mean the events of this story took place after God led the Israelites through the Red Sea?
 
 **This was the same mountain where Moses had seen the burning bush** This is background information about the mountain to which the Israelites traveled. This information is told in an earlier story. How would you express **This was the same mountain where Moses had seen the burning bush** to explain that the mountain to which God led the Israelites is the same mountain Moses saw the burning bush?
 
@@ -348,13 +348,13 @@ Use the following translation questions to understand specific details of the pa
 
 **prized possession** If the Israelites obeyed God’s covenant God commands, they would be God’s possession that he valued most. The would be God’s own precious people. How would you express **prized possession** to mean the Israelites would be the people that God treasured more than any other group of people?
 
-**a kingdom of priests** God speaks of his people as if they were priests. If the Israelites obeyed God, he would make them a kingdom of people who are like priests or a kingdom of people who do what priests do. The Israelites were supposed to teach the other nations about God and be a mediator between God and the nations just as there were priests in the nation of Israel to go between God and the Israelites. How would you express **a kingdom of priests** to mean a kingdom of people who are like priests or do what priests do?
+**a kingdom of priests** God speaks of his people as if they were priests. If the Israelites obeyed God, God would make them a kingdom of people who are like priests or a kingdom of people who do what priests do. The Israelites were supposed to teach the other nations about God and be a mediator between God and the nations just as there were priests in the nation of Israel to go between God and the Israelites. How would you express **a kingdom of priests** to mean a kingdom of people who are like priests or do what priests do?
 
 **a holy nation** If the Israelites obeyed God’s covenant commands, God would make them a nation set apart for himself. How would you express **a holy nation** to mean a people set apart for God and separated from all that is sinful or imperfect?
 
 #### 13-03
 
-**For three days** Three days after they arrived at Mount Sinai and God first spoke to them the people made themselves ready to meet with God. How would you express **For three days** to mean the Israelites took three days to get themselves read to meet with God?
+**For three days** Three days after they arrived at Mount Sinai and God first spoke to them the people made themselves ready to meet with God. How would you express **For three days** to mean the Israelites took three days to get themselves ready to meet with God?
 
 **made themselves ready for God to come near to them** This refers to ceremonial cleansing in preparation to meet with God. The Israelites got ready to meet with God. How would you express **made themselves ready for God to come near to them** to mean the Israelites prepared themselves to meet with God?
 
@@ -366,17 +366,17 @@ Use the following translation questions to understand specific details of the pa
 
 **made a covenant with the people** A covenant is a formal, binding agreement between two parties that one or both parties must fulfill. God made a formal agreement with the Israelites. The terms of this covenant are explained in what God says next in the story. How would you express **made a covenant with the people** to mean God made a formal, binding agreement with the Israelites by telling the Israelites the things they must obey?
 
-**Yahweh, your God** The Israelites worshiped the one true God. whose name is Yahweh. The name of the the true God whom the Israelites worshiped is Yahweh. How would you express **Yahweh, your God** to mean Yahweh, who is your God or your God, whose name is Yahweh?
+**Yahweh, your God** The Israelites worshiped the one true God, whose name is Yahweh. The name of the true God whom the Israelites worshiped is Yahweh. How would you express **Yahweh, your God** to mean Yahweh, who is your God or your God, whose name is Yahweh?
 
 **who saved you from being slaves** God rescued the Israelites from slavery when he brought them out of Egypt. How would you express **who saved you from being slaves** to mean God rescued and freed the Israelites from slavery?
 
-**Do not worship any other god** God forbids the Israelites from worshiping any other god? This command orders the Israelites to only worship the true God, whose name is Yahweh. How would you express **Do not worship any other god** as a command that forbids Israel worshiping other gods and commands them to only worship Yahweh, the true God?
+**Do not worship any other god** God forbids the Israelites from worshiping any other god? This command orders the Israelites to only worship the true God, whose name is Yahweh. How would you express **Do not worship any other god** as a command that forbids Israel from worshiping other gods and commands them to only worship Yahweh, the true God?
 
 #### 13-05
 
-**Do not make idols** An idol is an object that people make to worship. God forbids the Israelites from making idols. This is a command from God to all of the Israelites. God also forbids the Israelites using idols to worship the true God or false Gods. The Israelites are to only worship God alone. They must only worship God and do so without the use of idols. How would you express **Do not make idols** as a command which forbids the Israelites for making objects or images to worship?
+**Do not make idols** An idol is an object that people make to worship. God forbids the Israelites from making idols. This is a command from God to all of the Israelites. God also forbids the Israelites from using idols to worship the true God or false Gods. The Israelites are to only worship God alone. They must only worship God and do so without the use of idols. How would you express **Do not make idols** as a command which forbids the Israelites for making objects or images to worship?
 
-**because** The word **because** indicates the reason the Israelites were not to make idols or worship them was Yahweh was jealous of their worship. Yahweh was not like the false gods people worshiped. Many false gods did not care if the people worshiped other gods. The true God, Yahweh, wants his people to only worship him. How would you express **because** to mean the reason God commanded the Israelites to not make idols or worship them was God wanted the Israelites to only worship him?
+**because** The word **because** indicates the reason the Israelites were not to make idols or worship them was Yahweh was jealous of their worship. Yahweh was not like the false gods people worshiped. Many false gods did not care if the people worshiped other gods. The true God, Yahweh, wants his people to only worship him. How would you express **because** to mean the reason God commanded the Israelites not to make idols or worship them was God wanted the Israelites to only worship him?
 
 **Do not use my name in a disrespectful way** God forbids the Israelites from talking about God in a way that does not show respect and honor. This is a command from God to all of the Israelites. God commands his people to talk about him in a way that gives him proper respect and honor. How would you express **Do not use my name in a disrespectful way** as a command which forbids the Israelites from talking about God or saying his name in a way that does not show respect and honor?
 
@@ -414,7 +414,7 @@ Use the following translation questions to understand specific details of the pa
 
 **God would not see that sin any longer** God knows all things. Nothing is hidden from God’s knowledge. When someone’s sin is covered by a sacrifice, God no longer counts that sin against the person. How would you express **God would not see that sin any longer** to mean God no longer counts sin against the person whose sin is covered by sacrifice?
 
-**clean in God’s sight** The person who is **clean in God’s sight** is as if he did not have the sin according to God. Because the person is viewed as not guilty of sin before God, they are free of the punishment for breaking God’s law. How would you express **clean in God’s sight** to mean someone is viewed by God as if he ddi not have the sin and is free of the punishment of breaking God’s law?
+**clean in God’s sight** The person who is **clean in God’s sight** is as if he did not have the sin according to God. Because the person is viewed as not guilty of sin before God, they are free of the punishment for breaking God’s law. How would you express **clean in God’s sight** to mean someone is viewed by God as if he did not have the sin and is free of the punishment of breaking God’s law?
 
 #### 13-10
 
@@ -446,9 +446,9 @@ Use the following translation questions to understand specific details of the pa
 
 #### 13-13
 
-**When Moses saw the idol** The word when explains that Moses became angry at the time he saw the the people worshiping to the idol. How would you express **When Moses saw the idol** to mean Moses became angry at the time he saw the the people worshiping to the idol?
+**When Moses saw the idol** The word when explains that Moses became angry at the time he saw the people worshiping the idol. How would you express **When Moses saw the idol** to mean Moses became angry at the time he saw the people worshiping the idol?
 
-**smashed the tablets** Moses threw the stone tablets down on the ground and they broke up into little pieces. How would you express **smashed the tablets** to mean Moses threw the stone tablets down on the ground and they broke up into little pieces?
+**smashed the tablets** Moses threw the stone tablets down on the ground and they broke up into little pieces. How would you express **smashed the tablets** to mean Moses threw the stone tablets down on the ground, and they broke up into little pieces?
 
 #### 13-14
 
@@ -456,7 +456,7 @@ Use the following translation questions to understand specific details of the pa
 
 **ground it into powder** Moses utterly destroyed the idol by pounding it into fine particles. How would you express **ground it into powder** to mean Moses crushed the gold idol he burned into fine grains/particles?
 
-**plague** This **plague** may have been a serious illness which made the people very sick. The **plague**d caused people to die. What words in your language mean **plague** as in a serious illness or disease that causes many people to get very sick and die?
+**plague** This **plague** may have been a serious illness that made the people very sick. The plague caused people to die. What words in your language mean **plague** as in a serious illness or disease that causes many people to get very sick and die?
 
 #### 13-15
 
@@ -480,17 +480,17 @@ God made a covenant with the Israelites at Sinai. This was the same mountain whe
 
 God commanded the Israelites to obey him. Following God’s commands would be the way the Israelites kept the covenant. (13-02)
 
-God made the Israelites his people. God made Israel his prized possession: valuable treasure God cherished. God made Israel a kingdom of priests: royal representatives who representing God to other people. God made Israel a holy nation: a chosen and purified people set apart to God. (13-02)
+God made the Israelites his people. God made Israel his prized possession: a valuable treasure God cherished. God made Israel a kingdom of priests: royal representatives representing God to other people. God made Israel a holy nation: a chosen and purified people set apart to God. (13-02)
 
 The Israelites prepared for three days to meet with God. Moses went up on the mountain alone to meet with God. The Israelites had to prepare themselves to meet with God. (13-03)
 
-God came down on the mountain with thunder, lightning, smoke, and trumpet sounds.. God met with his people in power, glory, and strength. (13-03)
+God came down on the mountain with thunder, lightning, smoke, and trumpet sounds. God met with his people in power, glory, and strength. (13-03)
 
 He made the covenant by telling Israel that he was Yahweh, the God who rescued them from Egypt. God’s covenant commands were given to his people that God had already freed by his grace. (13-04)
 
 ##### What commands did God give in his covenant with the Israelites? (13-04, 13-05, 13-06)
 
-God commanded the Israelites to obey his commands. God’s commanded the people whom he had freed to obey him. Obedience to God’s commands came after God’s gracious liberation. God’s commands were how the Israelites lived as God’s freed people (not how they gained their freedom). (13-04)
+God commanded the Israelites to obey his commands. God commanded the people whom he had freed to obey him. Obedience to God’s commands came after God’s gracious liberation. God’s commands were how the Israelites lived as God’s freed people (not how they gained their freedom). (13-04)
 
 God gave the Israelites ten commandments. The first four commands told Israel how to relate to God. The next six commands told Israel how to relate to others. (13-04 ,13-05, 13-06)
 
@@ -500,7 +500,7 @@ The next six commands told Israel how to relate to others. God told the Israelit
 
 ##### What were the Israelites supposed to do to keep the covenant? (13-07, 13-08, 13-09, 13-10)
 
-Obedience: The Israelites agreed to obey God’s laws.To keep the covenant, Israel would follow God’s ways. (13-07)
+Obedience: The Israelites agreed to obey God’s laws. To keep the covenant, Israel would follow God’s ways. (13-07)
 
 Belonging: The Israelites agreed to belong to God alone. To keep the covenant, Israel would not serve any other gods. (13-07)
 
@@ -514,7 +514,7 @@ Stone Tablets: God recorded his commandments on tablets of stone. Like stone is 
 
 ##### How well did the Israelites keep the covenant while Moses was on Mount Sinai? (13-11, 13-12, 13-13)
 
-Impatience: The Israelites became impatient waiting for Moses while he was meeting with God on Mount Sinai. Disobedience comes from impatience and lack of trust in God. (13-11).
+Impatience: The Israelites became impatient waiting for Moses while he was meeting with God on Mount Sinai. Disobedience comes from impatience and a lack of trust in God. (13-11).
 
 False Worship: The Israelites sinned terribly by having Aaron make a gold idol to worship. The gold idol was shaped like a calf. The people worshiped the idol and made sacrifices to it. The Israelites disobeyed the very first two commandments God had given. Disobeying God’s commands begins with false worship. (13-11, 13-12)
 
@@ -534,7 +534,7 @@ Consequences: God brought a plague on the people and many died. Even though God 
 
 Forgiveness: Moses asked God to forgive the Israelites. God listened to Moses’ prayer and forgave his disobedient people. (13-15)
 
-Restoration: Moses made new stone tablets. The relationship with God and the Israelites was restored. (13-15)
+Restoration: Moses made new stone tablets. The relationship between God and the Israelites was restored. (13-15)
 
 <!-- page break -->
 
@@ -557,7 +557,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -586,20 +586,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -646,7 +646,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -708,7 +708,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -720,7 +720,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

@@ -162,7 +162,7 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 29-01
 
@@ -175,7 +175,7 @@ How many times did Jesus say he should forgive his brother?
 Jesus said he must forgive him 70 times seven.
 
 What did Jesus mean when he said, 70 times seven?  
-He meant that we should always forgive.
+Jesus meant that we should always forgive.
 
 #### 29-02
 
@@ -247,7 +247,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 29-01
 
-**how many times should I forgive** To forgive means to pardon or cancel a debt that is owed. Someone forgives another person when they no longer hold that person as guilty or culpable for the wrong they have done/committed. How would you express **how many times should I forgive** to mean how often should I pardon others for things they have done against me?
+**how many times should I forgive** To forgive means to pardon or cancel a debt that is owed. Someone forgives another person when they no longer hold that person guilty or culpable for the wrong they have done/committed. How would you express **how many times should I forgive** to mean how often should I pardon others for things they have done against me?
 
 **my brother** This term sometimes included people who were not actually siblings, but who shared another very strong connection such as religion, ethnic background, etc. How would you express **my brother** to mean a sibling or fellow member of one’s family but can also include someone viewed as brotherly because of common beliefs or shared group identity?
 
@@ -267,7 +267,7 @@ Use the following translation questions to understand specific details of the pa
 
 **Sell this man and his family as slaves** The king commanded that the man and his family be made slaves and sold for money so that he could repay his debt to the king. How would you express **Sell this man and his family as slaves** as a command hand over the man and his family to become slavery (forced servitude) in exchange for money?
 
-**to pay his debt** The reason the man would be sold was so that the money received from selling him could pay part of what he owed to they king. How would you express **to pay his debt** to mean to pay back the money he owed to the king?
+**to pay his debt** The reason the man would be sold was so that the money received from selling him could pay part of what he owed to the king. How would you express **to pay his debt** to mean to pay back the money he owed to the king?
 
 #### 29-04
 
@@ -275,7 +275,7 @@ Use the following translation questions to understand specific details of the pa
 
 **felt pity** The king felt compassion on the servant. The king knew that the servant and his family would suffer greatly if they were sold into slavery. How would you express **felt pity** to mean felt sorry for hardship, pain, or misfortune someone would suffer?
 
-**canceled all of his debt** The king said that the servant did not need to pay back any of the money that he owed the king. Because the servant no longer owed the king money, the servant was free to go and would not be sold into slavery. How would you express **canceled all of his debt** to mean the king abolished/eliminated the servants debt and did not make him repay the money he owed the king?
+**canceled all of his debt** The king said that the servant did not need to pay back any of the money that he owed the king. Because the servant no longer owed the king money, the servant was free to go and would not be sold into slavery. How would you express **canceled all of his debt** to mean the king abolished/eliminated the servant’s debt and did not make him repay the money he owed the king?
 
 #### 29-05
 
@@ -287,7 +287,7 @@ Use the following translation questions to understand specific details of the pa
 
 **Please be patient with me** The fellow servant asked for the servant to give him some time so he could pay back the debt in full. That is, How would you express **Please be patient with me** as a polite and humble plea to not punish him but allow him time pay back the full amount of money he owed the other servant?
 
-**threw his fellow servant into prison** The servant had his fellow servant put in prison because of his debt. The servant forcefully put his fellow servant in prison. How would you express **threw his fellow servant into prison** to mean forcefully had the man put into prison.
+**threw his fellow servant into prison** The servant had his fellow servant put in prison because of his debt. The servant forcefully put his fellow servant in prison. How would you express **threw his fellow servant into prison** to mean forcefully had the man put into prison?
 
 #### 29-07
 
@@ -299,7 +299,7 @@ Use the following translation questions to understand specific details of the pa
 
 #### 29-08
 
-**called the servant** The king had authority to command people to do things. They king ordered his guards to bring the servant to him. How would you express **called the servant** to mean commanded the servant to come to him?
+**called the servant** The king had the authority to command people to do things. The king ordered his guards to bring the servant to him. How would you express **called the servant** to mean commanded the servant to come to him?
 
 **You wicked servant!** The king called the servant evil. He made a strong statement to emphasize how unrighteous the servant was. How would you express **You wicked servant!** as a strong statement that emphasizes that the servant is very evil and morally bad?
 
@@ -329,7 +329,7 @@ Sin Against One Another: People can sin against other people when they violate G
 
 Debt: Jesus compared the kingdom of God to a king who wanted to settle accounts with his servants. When we sin against God, we put ourselves into God’s debt. When we sin against others, we put ourselves in others’ debt. (29-02)
 
-Enormous Debt: One servant owed the king a debt worth 200,000 years’ wage. This huge debt would have be impossible to pay. In fact, the servant in the story could not pay his debt to the king. A person’s debt before God is impossible for people to settle or pay back. (29-02, 29-03)
+Enormous Debt: One servant owed the king a debt worth 200,000 years’ wage. This huge debt would have been impossible to pay. In fact, the servant in the story could not pay his debt to the king. A person’s debt before God is impossible for people to settle or pay back. (29-02, 29-03)
 
 Slavery: The servant was unable to pay back his debt to the king. As a result, the king punished the servant. He would be sold as a slave. Just like the servant before the king, human sin before God puts us in debt to God which we cannot repay and makes us deserving of punishment. Our sin makes us slaves. (29-03)
 
@@ -351,7 +351,7 @@ Sin and Punishment: The servant recognized that his debt was impossible to pay b
 
 Humility: After the servant heard the king announce his punishment, the servant humbled himself by falling on his knees. Only those who are willing to humble themselves and plead with God to be merciful can receive forgiveness. (29-04)
 
-Pity: The king showed pity and mercy to the servant. He canceled his debt and let the servant go freely without needed to repay him of the money he borrowed. The king’s pity represents God’s pity and mercy on those he forgives. The only way people can be forgiven of the enormous debt and punishment of sin is to receive God’s mercy and pity. (29-04)
+Pity: The king showed pity and mercy to the servant. He canceled his debt and let the servant go freely without needing to repay him the money he borrowed. The king’s pity represents God’s pity and mercy on those he forgives. The only way people can be forgiven of the enormous debt and punishment of sin is to receive God’s mercy and pity. (29-04)
 
 ##### How does Jesus warn his disciples about not forgiving others when God has forgiven them? (29-05 ,29-02, 29-03, 29-06, 29-07, 29-08, 29-09)
 
@@ -361,7 +361,7 @@ Forceful: The servant who had his debt canceled was forceful and demanding to hi
 
 Unforgiveness: The fellow servant pleaded for mercy, but the one servant did not show him pity. Instead, he threw the servant in prison to pay for his debt. The servant did not cancel the small debt of his fellow servant. People often do not forgive other people of sins done against them even though they have received forgiveness from God for a much larger debt/sin. (29-06)
 
-Punishment: The king learned of the servant’s unforgiveness. The king was angry. The king called the servant a wicked servant and through him in prison. God will punish those who do not forgive others of debts against them. (29-07, 29-08, 29-09)
+Punishment: The king learned of the servant’s unforgiveness. The king was angry. The king called the servant a wicked servant and threw him in prison. God will punish those who do not forgive others of debts against them. (29-07, 29-08, 29-09)
 
 <!-- page break -->
 
@@ -383,7 +383,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -412,20 +412,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -472,7 +472,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -534,7 +534,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -546,7 +546,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

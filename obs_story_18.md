@@ -187,15 +187,15 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 18-01
 
 Who ruled Israel after David died?  
-David died after 40 years as king of Israel. His son, Solomon, was Israel’ next king.
+David died after 40 years as king of Israel. His son, Solomon, was Israel’s next king.
 
 What did Solomon ask God to do for him?  
-He asked God to make him very wise.
+Solomon asked God to make him very wise.
 
 What did God think of Solomon’s request?  
 God was pleased with Solomon’s request for wisdom. God made him the wisest man in the world. God also made him very wealthy.
@@ -206,12 +206,12 @@ How did David prepare for the building of the Temple?
 David planned and gathered materials for the building of the Temple.
 
 What was the purpose of the Temple that Solomon built?  
-It was a place for the people to worship God and offer sacrifices. God was present with his people in the Temple.
+The Temple was a place for the people to worship God and offer sacrifices. God was present with his people in the Temple.
 
 #### 18-03
 
 What serious sins did Solomon commit?  
-Solomon loved women from other countries. He married many foreign women and worshiped their gods in his old age.
+Solomon loved women from other countries. Solomon married many foreign women and worshiped their gods in his old age.
 
 #### 18-04
 
@@ -250,7 +250,7 @@ Ten tribes joined the kingdom of Israel. They were in the northern part of the l
 #### 18-09
 
 What did Jeroboam do to keep his people from going to Judah to worship at the Temple?  
-Jeroboam rebelled against God. He built and placed two idols in the kingdom of Israel for his people to worship.
+Jeroboam rebelled against God. Jeroboam built and placed two idols in the kingdom of Israel for his people to worship.
 
 What effect did Jeroboam’s sin have on the Israelites?  
 The Israelites no longer went to Jerusalem to worship God in the Temple.
@@ -301,9 +301,9 @@ Use the following translation questions to understand specific details of the pa
 
 **instead of at the Tent of Meeting** Since the time of Moses, the Israelites offered sacrifices to God in the Tent of Meeting. The Temple was the new place where Israelites would offer sacrifices and worship God. How would you express **instead of at the Tent of Meeting** to mean the Temple replaced the Tent of Meeting as the place of worship and sacrifice?
 
-**was present in the Temple** God was present in the Temple in a special way. Even though God was also present everywhere else at the same time, he made himself especially available to the people at the Temple. How would you express **was present in the Temple** to mean God was with is people in a special way by being at the Temple (even though he was also present everywhere at the same time)?
+**was present in the Temple** God was present in the Temple in a special way. Even though God was also present everywhere else at the same time, he made himself especially available to the people at the Temple. How would you express **was present in the Temple** to mean God was with his people in a special way by being at the Temple (even though he was also present everywhere at the same time)?
 
-**with his people** The Temple was the dwelling place of God. God does not actually need a house. He is equally present everywhere at the same time. But God dwelled in the Temple in a special way so he could be in the midst of his people. How would you express **with his people** **with his people** to mean God was among his people by being present in the Temple?
+**with his people** The Temple was the dwelling place of God. God does not actually need a house. God is equally present everywhere at the same time. But God dwelled in the Temple in a special way so he could be in the midst of his people. How would you express **with his people** **with his people** to mean God was among his people by being present in the Temple?
 
 #### 18-03
 
@@ -311,17 +311,17 @@ Use the following translation questions to understand specific details of the pa
 
 **brought their gods with them** Solomon married many foreign women. These women worshiped false gods. When they came to Israel, they brought their gods and continued worshiping them as they had in their home countries. How would you express **brought their gods with them** to mean the foreign women Solomon married brought their idols and continued their methods of worshiping idols with them to Israel?
 
-**When Solomon was old** Eventually, Solomon became an old man. At the time he became an old man, he worshiped the false gods that his foreign wives worshiped. How would you express **When Solomon was old** to mean by the time Solomon became an old man, he worshiped the false gods of his foreign wives.
+**When Solomon was old** Eventually, Solomon became an old man. At the time he became an old man, he worshiped the false gods that his foreign wives worshiped. How would you express **When Solomon was old** to mean by the time Solomon became an old man, he worshiped the false gods of his foreign wives?
 
 #### 18-04
 
-**because of this** Solomon’s worship of false God’s displeased God. This made God angry with Solomon. How would you express **because of this** to mean reason God was angry was Solomon worshiped other gods?
+**because of this** Solomon’s worship of false God’s displeased God. This made God angry with Solomon. How would you express **because of this** to mean the reason God was angry was Solomon worshiped other gods?
 
 **by dividing the nation of Israel into two kingdoms** God caused the nation of Israel to become two kingdoms. God did this as punishment for Solomon’s sin. How would you express **by dividing the nation of Israel into two kingdoms** to mean the way God punished Solomon was to split the nation of Israel into two nations?
 
 #### 18-05
 
-**After Solomon died** Solomon died and then Rehoboam became king. How would you express **After Solomon died** to mean Rehoboam became king of Israel subsequent to Solomon’s death?
+**After Solomon died** Solomon died, and then Rehoboam became king. How would you express **After Solomon died** to mean Rehoboam became king of Israel subsequent to Solomon’s death?
 
 **to accept him as their king** The Israelites gathered to tell Rehoboam that they were glad he was king and that they would do what he said. How would you express **to accept him as their king** to mean to approve Rehoboam as the man who ruled the country where they lived?
 
@@ -335,15 +335,15 @@ Use the following translation questions to understand specific details of the pa
 
 **tribes** The descendants of each of Jacob’s 12 sons had become a tribe or very large family group in the nation of Israel. Everyone in Israel belonged to one of the 12 **tribes**. How would you express **tribes** to mean groups of families in the larger community that comes from the same ancestry?
 
-**rebelled against him** Most of the people refused to follow Rehoboam as their king. How would you express **rebelled against him** to mean the revolt against someone in authority and to refuse to listen to them as their leader?
+**rebelled against him** Most of the people refused to follow Rehoboam as their king. How would you express **rebelled against him** to mean a revolt against someone in authority and to refuse to listen to them as their leader?
 
-**remained with him** Two tribes did not rebel against Rehoboam. The continued to follow him as their king. How would you express **remained with him** to mean two Israelite tribes stayed loyal to Rehoboam and continued to support him as king?
+**remained with him** Two tribes did not rebel against Rehoboam. They continued to follow him as their king. How would you express **remained with him** to mean two Israelite tribes stayed loyal to Rehoboam and continued to support him as king?
 
 **the kingdom of Judah** The kingdom fo Judah was the name of the kingdom of Israelites in the southern part of the land. How would you express **the kingdom of Judah** to mean the name of the southern kingdom of Israel?
 
 #### 18-08
 
-**the kingdom of Israel** The kingdom fo Israel was the name of the kingdom of Israelites in the northern part of the land. How would you express **the kingdom of Israel** to mean the name of the northern kingdom of Israel?
+**the kingdom of Israel** The kingdom of Israel was the name of the kingdom of Israel in the northern part of the land. How would you express **the kingdom of Israel** to mean the name of the northern kingdom of Israel?
 
 #### 18-09
 
@@ -383,9 +383,9 @@ Wisdom: Solomon asked God to make him very wise. God made Solomon the wisest man
 
 Wealth: God also made Solomon wealthy. Solomon did not seek this wealth. God blessed him with this wealth because Solomon sought after wisdom first. (18-01)
 
-Worship: Solomon built the Temple. This was permanent building where God would dwell with his people and God’s people would worship God and offer sacrifices to God. (18-02)
+Worship: Solomon built the Temple. This was a permanent building where God would dwell with his people, and God’s people would worship God and offer sacrifices to God. (18-02)
 
-Women: Solomon loved many foreign women. He married many foreign women. These women brought their false worship into Israel and Solomon even worshiped some of their gods. (18-03)
+Women: Solomon loved many foreign women. Solomon married many foreign women. These women brought their false worship into Israel and Solomon even worshiped some of their gods. (18-03)
 
 God was not pleased with Solomon marrying many foreign women and the false worship they brought into Israel. God punished Solomon by dividing his kingdom into two. (18-04)
 
@@ -393,7 +393,7 @@ God was not pleased with Solomon marrying many foreign women and the false worsh
 
 God divided the kingdom of Israel into two kingdoms as punishment for Solomon’s sin. (18-04)
 
-Solomon’s son, Rehoboam, acted very foolishly. The people asked for him to make them work less. Rehoboam said he would make the people work harder and suffer more than the did under Solomon. (18-05, 18-06)
+Solomon’s son, Rehoboam, acted very foolishly. The people asked him to make them work less. Rehoboam said he would make the people work harder and suffer more than they did under Solomon. (18-05, 18-06)
 
 The people rebelled against Rehoboam. Only two tribes remained with Rehoboam. The other ten tribes followed a man named Jeroboam. (18-07, 18-08)
 
@@ -401,9 +401,9 @@ The people rebelled against Rehoboam. Only two tribes remained with Rehoboam. Th
 
 Sin: Jeroboam rebelled against God and caused the Israelites to sin. (18-09)
 
-Idolatry: Jeroboam built idols. The people worshiped the idols instead of God. The people no longer went to the Temple to worship God. (18-09)
+Idolatry: Jeroboam built idols. The people worshiped idols instead of God. The people no longer went to the Temple to worship God. (18-09)
 
-Hostility: The kingdom of Judah and the kingdom fo Israel became enemies and fought against each other. (18-10)
+Hostility: The kingdom of Judah and the kingdom of Israel became enemies and fought against each other. (18-10)
 
 Evil: All the kings of Israel were evil. They worshiped false gods and did evil acts. (18-11, 18-12)
 
@@ -434,7 +434,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -464,20 +464,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -524,7 +524,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -586,7 +586,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -598,7 +598,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 

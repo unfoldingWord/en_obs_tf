@@ -214,7 +214,7 @@ After reading the crafted biblical story, answer the following questions to fami
 
 ### Observation Questions
 
-Answer the following observation questions to gain a basic understanding of the the story. Read the story as a community and answer these questions as a group.
+Answer the following observation questions to gain a basic understanding of the story. Read the story as a community and answer these questions as a group.
 
 #### 16-01
 
@@ -236,7 +236,7 @@ How did God punish the Israelites for their disobedience?
 God allowed their enemies to defeat them. These enemies would steal things from the Israelites, destroy their property, and kill their people.
 
 How did Israel respond after many years of being oppressed?  
-After being oppressed for many years, the Israelites would reprint and ask God to rescue them.
+After being oppressed for many years, the Israelites would repent and ask God to rescue them.
 
 #### 16-03
 
@@ -246,8 +246,8 @@ Each time the Israelite repented, God would rescue his people by sending them a 
 How did the deliverer rescue Israel?  
 The deliverer would fight against Israel’s enemies, defeat them, bring peace in the land, and rule over the Israelites.
 
-How many delivers did God send?  
-God send many deliverers.
+How many deliverers did God send?  
+God sent many deliverers.
 
 Who were the Midianites?  
 The Midianites were an enemy people who lived near the Israelites. God allowed the Midianites to defeat the Israelites.
@@ -255,10 +255,10 @@ The Midianites were an enemy people who lived near the Israelites. God allowed t
 #### 16-04
 
 How did the Midianites attack the Israelites?  
-The Midianites took all of the Israelites’s crops for seven years.
+The Midianites took all of the Israelites’ crops for seven years.
 
 How did the Israelites respond to the Midianite attacks?  
-The Israelites were sacred of the Midianites and hid in caves. Eventually, the Midianites cried out to God to save them.
+The Israelites were scared of the Midianites and hid in caves. Eventually, the Israelites cried out to God to save them.
 
 #### 16-05
 
@@ -269,7 +269,7 @@ Who came to Gideon?
 The angel of Yahweh came to Gideon.
 
 What did the angel say to Gideon?  
-The angel of Yahweh told Gideon that God is with him. He called him a mighty warrior. He told Gideon to and save Israel from the Midianites.
+The angel of Yahweh told Gideon that God was with him. God called him a mighty warrior. God told Gideon to save Israel from the Midianites.
 
 #### 16-06
 
@@ -318,7 +318,7 @@ How did the size of Gideon’s army change?
 When he called for soldiers, 32,000 men came. Then he sent home 22,000 who were afraid to fight. Then he sent more home until he had 300 hundred men.
 
 Why did Gideon send home all except 300 of the soldiers?  
-He sent them home because God told him he had too many men.
+Gideon sent them home because God told him he had too many men.
 
 #### 16-11
 
@@ -329,7 +329,7 @@ What additional sign did God give Gideon so he would not be afraid?
 Gideon heard a Midianite soldier tell of his dream that Gideon’s army would defeat the Midianite army.
 
 What did Gideon do when he heard the Midianite soldier’s dream?  
-He worshiped God.
+Gideon worshiped God.
 
 #### 16-12
 
@@ -361,7 +361,7 @@ After defeating the Midianites, what did the people want to do to Gideon?
 The people wanted to make Gideon their king.
 
 How did Gideon respond?  
-Gideon did not allow them to make him their king. He asked for some gold rings taken from the Midianites.
+Gideon did not allow them to make him their king. Gideon asked for some gold rings taken from the Midianites.
 
 How much gold did the people give Gideon?  
 The people gave a large amount of gold.
@@ -400,19 +400,19 @@ Use the following translation questions to understand specific details of the pa
 
 **began to worship the Canaanite gods** Because the Israelites did not drive out the Canaanites from the land, the Israelites started to worship the Canaanite gods. This was not something that Israel had always done. In fact, God commanded the Israelites to only worship him. How would you express **began to worship the** Canaanite gods to mean the Israelites started serving the gods the Canaanites worshipped?
 
-**the true God** There is only one God, Yahweh. He is the the only real God. Yahweh is the only one that people should worship. All other gods are false and only pretend to be God. They should not be worshipped. How would you express **the true** God to mean the one and only real God?
+**the true God** There is only one God, Yahweh. He is the only real God. Yahweh is the only one that people should worship. All other gods are false and only pretend to be God. They should not be worshipped. How would you express **the true** God to mean the one and only real God?
 
 **everyone did what they thought was right for themselves** This means that the Israelites all did whatever they wanted to do, including many evil things. The people did not have a king to guide them. As a result, the people behaved in any way that they pleased. How would you express **everyone did what they thought was right for themselves** to mean that the Israelites did what they wanted to do?
 
 #### 16-02
 
-**started a pattern that repeated many times** A pattern is a something that repeats itself and happens over and over again. Israel started the following pattern: Israel disobeyed God, God punished Israel by allowing their enemies to attack them, and Israel cried out to God for help, and God would rescue Israel. This sequence happened many times. How would you express **started a pattern that repeated many times** to mean Israel’s disobedience, punishment, repentance, and deliverance happened many times in a repeated ands similar fashion?
+**started a pattern that repeated many times** A pattern is a something that repeats itself and happens over and over again. Israel started the following pattern: Israel disobeyed God, God punished Israel by allowing their enemies to attack them, and Israel cried out to God for help, and God would rescue Israel. This sequence happened many times. How would you express **started a pattern that repeated many times** to mean Israel’s disobedience, punishment, repentance, and deliverance happened many times in a repeated and similar fashion?
 
 **he would punish them by allowing their enemies to defeat them** God punished the Israelites because of their disobedience. The way he punished them was to permit Israel’s enemies to defeat them. How would you express **he would punish them by allowing their enemies to defeat them** to mean the way God punished the Israelites was permitting Israel’s enemies to attack them and allowing them to win the battle?
 
 **ask God to rescue them** The Israelites asked God to deliver them from their enemies. How would you express **ask God to rescue them** to mean Israel prayed that God would help them and to set them free from their enemies?
 
-**repent of their sin** The proper response to sin is to admit that sin is wrong and stop doing the sin. What word in your language mean repent as is to feel remorse that sin is evil and to stop doing it?
+**repent of their sin** The proper response to sin is to admit that sin is wrong and stop doing the sin. What word in your language means repent as is to feel remorse that sin is evil and to stop doing it?
 
 #### 16-03
 
@@ -474,17 +474,17 @@ Use the following translation questions to understand specific details of the pa
 
 **sheepskin** This is the skin of a sheep that has all of the wool on it. Wool is a very thick and curly hair that would hold a lot of water. How would you express **sheepskin** to mean animal skin from a sheep that is covered with thick, soft hair?
 
-**let the morning dew fall only on the sheepskin** Gideon asked God to make the morning dew appear on the sheepskin and not on the ground. Dew refers to the drops of water that that form on cool surfaces at night. Dew naturally covers everything equally. How would you express **let the morning dew fall only on the sheepskin** to mean to make the the dew appear on the sheepskin but not on the ground?
+**let the morning dew fall only on the sheepskin** Gideon asked God to make the morning dew appear on the sheepskin and not on the ground. Dew refers to the drops of water that form on cool surfaces at night. Dew naturally covers everything equally. How would you express **let the morning dew fall only on the sheepskin** to mean to make the dew appear on the sheepskin but not on the ground?
 
 **God did that** God did what Gideon asked him to do. How would you express **God did that** to mean God made the dew appear on the sheepskin and not on the ground as Gideon had asked him?
 
-**Because of these two signs** The reason Gideon believed God wanted to deliver Israel through him was God did the two signs Gideon asked him to do. How would you express **Because of these two signs** to mean the reason Gideon believed God wants him to save Israel from the Midianites was the two signs God did for Gideon?
+**Because of these two signs** The reason Gideon believed God wanted to deliver Israel through him was God did the two signs Gideon asked him to do. How would you express **Because of these two signs** to mean the reason Gideon believed God wants him to save Israel from the Midianites were the two signs God did for Gideon?
 
 #### 16-10
 
 **But God told him** God wanted a different number of soldiers than the number that came to fight. How would you express **But God told him** to mean the number of men who came to fight was different than the number of men God wanted to fight?
 
-**too many men** There were more soldiers than God wanted for this fight. If that many solders fought and won, they would think that they won the battle with their own strength, and they would not know that God did it. How would you express **too many men** to mean Gideon had more soldiers than God wanted for this fight.
+**too many men** There were more soldiers than God wanted for this fight. If that many soldiers fought and won, they would think that they won the battle with their own strength, and they would not know that God did it. How would you express **too many men** to mean Gideon had more soldiers than God wanted for this fight.
 
 **So Gideon sent home 22,000 men** Gideon sent home 22,000 men when God told him that there were too many soldiers. How would you express **So Gideon sent home 22,000 men** to mean the result of God telling Gideon there were too many soldiers was Gideon sent home 22,000 men?
 
@@ -510,7 +510,7 @@ Use the following translation questions to understand specific details of the pa
 
 **shouted** The Israelites yelled with a very loud voice. What words in your language mean **shouted** as in to yell with a very loud voice?
 
-**A sword for Yahweh and for Gideon!** A sword is associated with fighting. The people shouted with a loud voice that they would fight for Yahweh and Gideon. How would you express **A sword for Yahweh and for Gideon!** to mean the people we making a strong statement that they would fight against the Midianites on behalf of Yahweh and Gideon?
+**A sword for Yahweh and for Gideon!** A sword is associated with fighting. The people shouted with a loud voice that they would fight for Yahweh and Gideon. How would you express **A sword for Yahweh and for Gideon!** to mean the people making a strong statement that they would fight against the Midianites on behalf of Yahweh and Gideon?
 
 #### 16-14
 
@@ -552,7 +552,7 @@ Take time to explore the meaning of this story together as a community. Use the 
 
 Use the following discourse questions to understand the meaning of the story. Pay attention to how the story itself addresses each question or theme.
 
-##### What was the pattern of Israelite disobedience? (16-01, 16-02, 16-03, 16-04)
+##### What was the pattern of Israel’s disobedience? (16-01, 16-02, 16-03, 16-04)
 
 The Israelites disobeyed God. (16-01)
 
@@ -578,7 +578,7 @@ The Israelites called out and asked God to save them. God answered the prayers o
 
 God had Gideon destroy his father’s idol. God wanted his own people to stop their idolatry. (16-06)
 
-God used a very small army of 300 soldiers against he Midianites. (16-10)
+God used a very small army of 300 soldiers against the Midianites. (16-10)
 
 The soldiers surrounded the Midianite camp with horns, clay pots, and burning torches. They broker the clay pots, blew their horns, and shouted a battle cry to fight for Yahweh and Gideon. God caused the Midianites to be confused. They started attacking themselves. (16-12, 16-13, 16-14)
 
@@ -588,17 +588,17 @@ God saved Israel from the Midianites. (16-14)
 
 ##### How did God raise up believers to rescue Israel from their enemies? (16-04, 16-05, 16-08, 16-09, 16-11)
 
-God provided a deliverer who would fight against Israel’s enemies. These deliverers would defeat the enemies and bring peace in the land. They would rule over the Israelites. God sent these deliverers to Israel. (16-04)
+God provided a deliverer who would fight against Israel’s enemies. These deliverers would defeat the enemies and bring peace to the land. They would rule over the Israelites. God sent these deliverers to Israel. (16-04)
 
 God sent an angel to Gideon and told him that God was with him and he would be a mighty warrior to rescue Israel from the Midianites. (16-05)
 
 Gideon destroyed his father’s altar to an idol and built a new altar to God. It was important for Gideon to show Israel what true worship was. Israel was only supposed to worship Yahweh. Even Gideon’s father defended what Gideon did. (16-06, 16-07)
 
-Gideon asked God for two signs to confirm he was called by God to rescued the Israelites from the Midianites. God performed both of these signs. (16-08, 16-09)
+Gideon asked God for two signs to confirm he was called by God to rescue the Israelites from the Midianites. God performed both of these signs. (16-08, 16-09)
 
 Gideon was scared. (16-06, 16-11)
 
-God told Gideon to go to the Midianite camp and listen to the Midianites talking. Gideon heard one Midianite’s dream that Gideon’s army would defeat the Midianite army. Gideon worshiped God when he heard this dream. It gave him confidence to no longer be afraid. (16-11)
+God told Gideon to go to the Midianite camp and listen to the Midianites talking. Gideon heard one Midianite’s dream that Gideon’s army would defeat the Midianite army. Gideon worshiped God when he heard this dream. It gave him the confidence to no longer be afraid. (16-11)
 
 ##### How did Gideon and Israel fail to be faithful to God? (16-15, 16-16, 16-17, 16-18)
 
@@ -621,7 +621,7 @@ Answer the following theology questions as a community. Discuss what truths this
 1.  What does it mean to be disobedient to God? How does the unfaithfulness of Gideon and Israel teach us about our own disobedience?
 2.  How does God bring about deliverance for his people? How does the story of Gideon teach us about God’s work to rescue his people?
 3.  What does it mean to be called by God to serve him? How does the story of Gideon teach us about God calling people to serve him?
-4.  What are some of things that cause God’s people to disobey? How did Gideon and Israel fail to live up to God’s standards?
+4.  What are some of the things that cause God’s people to disobey? How did Gideon and Israel fail to live up to God’s standards?
 
 ### Translation Draft
 
@@ -633,7 +633,7 @@ Make a draft for each section of this story.
 
 #### Discuss and Revise
 
-After drafting the story, discuss any translation issues that you think need special explanation.
+After drafting the story, discuss any translation issues that you think need a special explanation.
 
 #### Drafting Summary Reflection
 
@@ -662,20 +662,20 @@ Prayerfully think about the following personal reflection questions. Write/Recor
 
 *Use the following questions to check your translation draft for accuracy, clarity, and naturalness.*
 
-1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they included only added to clarify meaning (such as implied information)?*
+1.  **Accurate**: Has anything been **added** to your translation of this passage that is not a part of the meaning of the source text? *If additions exist, are they only added to clarify meaning (such as implied information)?*
 2.  **Accurate**: Is anything **missing** from your translation of this passage that is a part of the meaning of the source text? *If some part of the meaning is missing from your translation, add it.*
 3.  **Accurate**: Does any meaning in your translation of this passage appear to be **different** than the meaning of the source text? *If the meaning is different, try changing your translation so that the meaning remains the same.*
-4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say it in your language while staying true to the meaning of the source text.*
+4.  **Natural**: Does anything sound **unnatural** to how you would say it in your language? *If portions of the passage sound unnatural in your language, try to make them sound the way you would say them in your language while staying true to the meaning of the source text.*
 5.  **Clear**: Is anything **unclear** or **confusing** in your translation that confuses the meaning of the source text? *If portions of the passage are unclear or confusing, revise them to clearly communicate the meaning of the source text.*
 6.  **Consistent**: How **consistent** is your translation within the passage and with other passages? *If portions of the passage need to be made consistent or if you need to revise translations of other passages, make these adjustments.*
 
 #### Record Feedback
 
-*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention for parts of your translation that are translated well and parts of your translation that need correction.*
+*After discussing the checking questions above as a translation community, record any feedback on your translation draft. Pay attention to parts of your translation that are translated well and parts of your translation that need correction.*
 
 #### Discuss and Revise
 
-*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions in your translation.*
+*After gathering feedback on your draft, discuss it together with your translation community and make appropriate revisions to your translation.*
 
 #### Record Translation Decisions
 
@@ -722,7 +722,7 @@ Reflect on how this story can edify and mature the Christian community. Design a
 
 **Ministry Preparation**: Take time to consider how you could minister this story to others. Record some ministry ideas below.
 
-**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Ministry Implementation**: Minister this story to a group of believers as you had planned. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Ministry Reflection**: Think about what you learned from ministering this story to other believers. Reflect on your experience below.
 
@@ -784,7 +784,7 @@ You can change these into **Checking Questions** like this:
 
 **Witness Preparation**: Take time to consider how you will witness this narrative to unbelievers. Record some ideas below.
 
-**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story to other believers. Record your ministry plan below.
+**Witness Implementation**: Share this story with an unbeliever. Use the information in this study to help develop a teaching/lesson or lead a discussion of this story with other believers. Record your ministry plan below.
 
 **Witness Reflection**: Think about what you learned from ministering this story to unbelievers. Reflect on your experience below.
 
@@ -796,7 +796,7 @@ After sharing this story with the language community, check your translation dra
 
 After witnessing this story to unbelievers, use one of the following methods to check the translation of this story. Consider using the **Observation Questions** to check your translation draft or come up with your own quality checking questions.
 
-**Read-Retell Check:** Read your draft to those the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
+**Read-Retell Check:** Read your draft to those in the community and ask them to retell the passage. Be attentive to any portions of the passage that are unclear, unnatural, or inaccurate.
 
 **Comprehension Questions Checklist:** Read the draft of the passage and ask a list of comprehension questions to make sure the passage is being rightly understood. You can use the **Observation Questions** in this guide or come up with your own questions. Then, record any insights or issues that arise.
 
