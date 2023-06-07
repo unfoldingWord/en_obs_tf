@@ -1,7 +1,7 @@
 ---
 title: Mission Translation Brief
 web_title: Mission Translation Brief
-layout: mission_translation_brief
+layout: mission-translation-brief
 ---
 # Mission-Translation Brief
 
