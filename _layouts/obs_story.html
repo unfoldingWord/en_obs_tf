@@ -2,77 +2,20 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/assets/css/obs-story.css">
     <title>{{ page.subtitle }}</title>
   </head>
-  <style>
-
-    .mtb-content-wrapper {
-        color: black;
-        font-family: kepler-std;
-        font-size: 16px;
-        font-weight: 300;
-        letter-spacing: .8px;
-        line-height: 1.6;
-        padding-left: 200px;
-        padding-right: 200px;
-    }
-
-    .mtb-content-wrapper h1 {
-        color: black;
-        text-align: center;
-        font-family: kepler-std;
-        letter-spacing: 1px;
-        font-size: 30px;
-        font-weight: 800;
-    }
-
-    .mtb-content-wrapper h2 {
-        color: #F48847;
-        font-family: kepler-std;
-        letter-spacing: .8px;
-        font-size: 22px;
-        text-decoration: underline;
-        font-weight: 600;
-    }
-
-    .mtb-content-wrapper ol,
-    .mtb-content-wrapper ul {
-        color: black;
-        font-family: kepler-std;
-     }
-
-     #footer-text {
-        color: black;
-        font-family: kepler-std;
-        font-weight: 200;
-        letter-spacing: .8px;
-        line-height: 1.6;
-     }
-
-     #siteWrapper {
-        display: flex;
-        flex-direction: column;
-        min-height: 0vh;
-    }
-
-</style>
   <body>
-    <div id="mission-translation-brief-container" class="mtb-content-wrapper">
-    <div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1684861113024_8838">
-      <div class="sqs-block-content">
-
-          <div class="sqs-block-button-container sqs-block-button-container--center" data-animation-role="button" data-alignment="center" data-button-size="small" data-button-type="tertiary">
-              <a href="obs.html">OBS Story Index</a>
-          </div>
+    <div class="fe-content-wrapper">
+      <div>
+        <a href="/obs.html">OBS Story Index</a>
       </div>
-  </div>
       <h2><b>Downloads:</b></h2>
-      <a href="./exports/docx/obs_story_{{page.story_num}}.docx" download="obs_story_{{page.story_num}}.docx">obs_story_{{page.story_num}}.docx</a>
-      <a href="./exports/epub/obs_story_{{page.story_num}}.epub" download="obs_story_{{page.story_num}}.epub">obs_story_{{page.story_num}}.epub</a>
-      <a href="./exports/odt/obs_story_{{page.story_num}}.odt" download="obs_story_{{page.story_num}}.odt">obs_story_{{page.story_num}}.odt</a>
-      <a href="./exports/pdf/obs_story_{{page.story_num}}.pdf" download="obs_story_{{page.story_num}}.pdf">obs_story_{{page.story_num}}.pdf</a>
+      <a href="/exports/docx/obs_story_{{page.story_num}}.docx" download="obs_story_{{page.story_num}}.docx">obs_story_{{page.story_num}}.docx</a>
+      <a href="/exports/epub/obs_story_{{page.story_num}}.epub" download="obs_story_{{page.story_num}}.epub">obs_story_{{page.story_num}}.epub</a>
+      <a href="/exports/odt/obs_story_{{page.story_num}}.odt" download="obs_story_{{page.story_num}}.odt">obs_story_{{page.story_num}}.odt</a>
+      <a href="/exports/pdf/obs_story_{{page.story_num}}.pdf" download="obs_story_{{page.story_num}}.pdf">obs_story_{{page.story_num}}.pdf</a>
       {{ content }}
     </div>
   </body>
-
 </html>

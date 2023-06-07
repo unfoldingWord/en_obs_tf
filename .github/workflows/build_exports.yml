@@ -82,10 +82,12 @@ jobs:
           for file in ./transformed_md/*.md; do
             echo "Fixing hashes and image paths in $file..."
             sudo sed -i 's/#########/#####/g' "$file"
-            sudo sed -i 's/\\images/.\\assets\\images/g' "$file"
+            sudo sed -i 's/\\images/\\assets\\images/g' "$file"
           done
 
-          sudo cp ./transformed_md/*.md ./obs_tf_web
+          sudo cp ./transformed_md/*.md ./obs_tf_web/source/obs-stories
+          sudo mv ./obs_tf_web/source/obs-stories/mission-translation-brief.md ./obs_tf_web
+          sudo mv ./obs_tf_web/source/obs-stories/overview.md ./obs_tf_web
           cd ./obs_tf_web
           if [[ -n $(git status --porcelain) ]]; then
             sudo git add -A
