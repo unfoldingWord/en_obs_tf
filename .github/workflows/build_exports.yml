@@ -82,7 +82,7 @@ jobs:
           for file in ./transformed_md/*.md; do
             echo "Fixing hashes and image paths in $file..."
             sudo sed -i 's/#########/#####/g' "$file"
-            sudo sed -i 's/\\images/../../assets/images/g' "$file"
+            sudo sed -i 's/\\images/..\\..\\assets\\images/g' "$file"
           done
 
           sudo cp ./transformed_md/*.md ./obs_tf_web/source/obs-stories
