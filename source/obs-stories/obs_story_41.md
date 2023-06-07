@@ -60,49 +60,49 @@ Three days later, Jesus rose again from the dead.
 
 ##### 41-01
 
-![](\assets\images\image473.jpeg)
+![](..\..\assets\images\image473.jpeg)
 
 After the soldiers crucified Jesus, the Jewish leaders said to Pilate, “That liar, Jesus, said he would rise from the dead after three days. Someone must guard the tomb to make sure that his disciples do not steal the body. If they do, they will say he has risen from the dead.”
 
 ##### 41-02
 
-![](\assets\images\image474.jpeg)
+![](..\..\assets\images\image474.jpeg)
 
 Pilate said, “Take some soldiers and guard the tomb as well as you can.” So they placed a seal on the stone at the entrance of the tomb. They also put soldiers there to make sure no one could steal the body.
 
 ##### 41-03
 
-![](\assets\images\image475.jpeg)
+![](..\..\assets\images\image475.jpeg)
 
 The day after Jesus died was a Sabbath day. No one could work on the Sabbath day, so no friends of Jesus went to his tomb. But on the day after the Sabbath, very early in the morning, several women got ready to go to Jesus’ tomb. They wanted to put more spices on his body.
 
 ##### 41-04
 
-![](\assets\images\image476.jpeg)
+![](..\..\assets\images\image476.jpeg)
 
 Before the women arrived, there was a great earthquake at the tomb. An angel came from heaven. He rolled away the stone that was covering the entrance to the tomb and sat on it. This angel was shining as brightly as lightning. The soldiers at the tomb saw him. They were so terrified that they fell to the ground like dead men.
 
 ##### 41-05
 
-![](\assets\images\image477.jpeg)
+![](..\..\assets\images\image477.jpeg)
 
 When the women arrived at the tomb, the angel told them, “Do not be afraid. Jesus is not here. He has risen from the dead, just like he said he would! Look in the tomb and see.” The women looked into the tomb and saw where Jesus’ body had been laid. His body was not there!
 
 ##### 41-06
 
-![](\assets\images\image478.jpeg)
+![](..\..\assets\images\image478.jpeg)
 
 Then the angel told the women, “Go and tell the disciples, ‘Jesus has risen from the dead and he will go to Galilee ahead of you.’”
 
 ##### 41-07
 
-![](\assets\images\image479.jpeg)
+![](..\..\assets\images\image479.jpeg)
 
 The women were amazed and very joyful. They ran to tell the disciples the good news.
 
 ##### 41-08
 
-![](\assets\images\image480.jpeg)
+![](..\..\assets\images\image480.jpeg)
 
 As the women were on their way to tell the disciples the good news, Jesus appeared to them. They bowed down at his feet. Then Jesus said, “Do not be afraid. Go and tell my disciples to go to Galilee. They will see me there.”
 

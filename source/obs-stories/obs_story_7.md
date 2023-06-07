@@ -33,61 +33,61 @@ God blessed Jacob and his sons, and the blessing continued to the next generatio
 
 ##### 07-01
 
-![](\assets\images\image72.jpeg)
+![](..\..\assets\images\image72.jpeg)
 
 As the boys grew up, Jacob loved to stay at home, but Esau loved to hunt animals. Rebekah loved Jacob, but Isaac loved Esau.
 
 ##### 07-02
 
-![](\assets\images\image73.jpeg)
+![](..\..\assets\images\image73.jpeg)
 
 One day, when Esau came back from hunting, he was very hungry. Esau said to Jacob, “Give me some of the food you have made.” Jacob responded, “First, promise me that everything you should receive because you were born first, you will give it all to me.” So Esau promised to give Jacob all those things. Then Jacob gave him some food.
 
 ##### 07-03
 
-![](\assets\images\image74.jpeg)
+![](..\..\assets\images\image74.jpeg)
 
 Isaac wanted to give his blessing to Esau. But before he did, Rebekah and Jacob tricked him by having Jacob pretend to be Esau. Isaac was old and could no longer see. So Jacob put on Esau’s clothes and put goatskins on his neck and hands.
 
 ##### 07-04
 
-![](\assets\images\image75.jpeg)
+![](..\..\assets\images\image75.jpeg)
 
 Jacob came to Isaac and said, “I am Esau. I have come so that you can bless me.” When Isaac felt the goat hair and smelled the clothes, he thought it was Esau and blessed him.
 
 ##### 07-05
 
-![](\assets\images\image76.jpeg)
+![](..\..\assets\images\image76.jpeg)
 
 Esau hated Jacob because Jacob had stolen his rights as oldest son and also his blessing. So he planned to kill Jacob after their father died.
 
 ##### 07-06
 
-![](\assets\images\image77.jpeg)
+![](..\..\assets\images\image77.jpeg)
 
 But Rebekah heard of Esau’s plan. So she and Isaac sent Jacob far away to live with her relatives.
 
 ##### 07-07
 
-![](\assets\images\image78.jpeg)
+![](..\..\assets\images\image78.jpeg)
 
 Jacob lived with Rebekah’s relatives for many years. During that time he married and had 12 sons and a daughter. God made him very wealthy.
 
 ##### 07-08
 
-![](\assets\images\image79.jpeg)
+![](..\..\assets\images\image79.jpeg)
 
 After 20 years away from his home in Canaan, Jacob returned there with his family, his servants, and all his flocks and herds of animals.
 
 ##### 07-09
 
-![](\assets\images\image80.jpeg)
+![](..\..\assets\images\image80.jpeg)
 
 Jacob was very afraid because he thought Esau still wanted to kill him. So he sent many of his animals to Esau as a gift. The servants who brought the animals said to Esau, “Your servant, Jacob, is giving you these animals. He is coming soon.”
 
 ##### 07-10
 
-![](\assets\images\image81.jpeg)
+![](..\..\assets\images\image81.jpeg)
 
 But Esau no longer wanted to harm Jacob. Instead, he was very happy to see him again., so the brothers lived peacefully in Canaan. Then Isaac died, and Jacob and Esau buried him. The covenant promises God had made to Abraham now passed on from Isaac to Jacob.
 

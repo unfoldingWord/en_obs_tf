@@ -37,73 +37,73 @@ God sent judged the Egyptians with harsh plagues.
 
 ##### 10-01
 
-![](\assets\images\image112.jpeg)
+![](..\..\assets\images\image112.jpeg)
 
 God warned Moses and Aaron that Pharaoh would be stubborn. When they went to Pharaoh, they said, “This is what the God of Israel says, ‘Let my people go!’” But Pharaoh did not listen to them. Instead of letting the Israelites go free, he forced them to work even harder!
 
 ##### 10-02
 
-![](\assets\images\image113.jpeg)
+![](..\..\assets\images\image113.jpeg)
 
 Pharaoh kept refusing to let the people go, so God sent ten terrible plagues on Egypt. Through these plagues, God showed Pharaoh that he is more powerful than Pharaoh and all of Egypt’s gods.
 
 ##### 10-03
 
-![](\assets\images\image114.jpeg)
+![](..\..\assets\images\image114.jpeg)
 
 God turned the Nile River into blood, but Pharaoh still would not let the Israelites go.
 
 ##### 10-04
 
-![](\assets\images\image115.jpeg)
+![](..\..\assets\images\image115.jpeg)
 
 God sent frogs all over Egypt. Pharaoh begged Moses to take away the frogs. But after all the frogs died, Pharaoh hardened his heart and would not let the Israelites leave Egypt.
 
 ##### 10-05
 
-![](\assets\images\image116.jpeg)
+![](..\..\assets\images\image116.jpeg)
 
 So God sent a plague of gnats. Then he sent a plague of flies. Pharaoh called Moses and Aaron and told them that if they stopped the plague, the Israelites could leave Egypt. When Moses prayed, God removed all the flies from Egypt. But Pharaoh hardened his heart and would not let the people go free.
 
 ##### 10-06
 
-![](\assets\images\image117.jpeg)
+![](..\..\assets\images\image117.jpeg)
 
 Next, God caused all the farm animals that belonged to the Egyptians to get sick and die. But Pharaoh’s heart was hardened, and he would not let the Israelites go.
 
 ##### 10-07
 
-![](\assets\images\image118.jpeg)
+![](..\..\assets\images\image118.jpeg)
 
 Then God told Moses to throw ashes into the air in front of Pharaoh. When he did, painful skin sores appeared on the Egyptians, but not on the Israelites. God hardened Pharaoh’s heart, and Pharaoh would not let the Israelites go free.
 
 ##### 10-08
 
-![](\assets\images\image119.jpeg)
+![](..\..\assets\images\image119.jpeg)
 
 After that, God sent hail that destroyed most of the crops in Egypt and killed anybody who went outside. Pharaoh called Moses and Aaron and told them, “I have sinned. You may go.” So Moses prayed, and the hail stopped falling from the sky.
 
 ##### 10-09
 
-![](\assets\images\image120.jpeg)
+![](..\..\assets\images\image120.jpeg)
 
 But Pharaoh sinned again and hardened his heart. He would not let the Israelites go free.
 
 ##### 10-10
 
-![](\assets\images\image121.jpeg)
+![](..\..\assets\images\image121.jpeg)
 
 So God caused swarms of locusts to come over Egypt. These locusts ate all the crops that the hail had not destroyed.
 
 ##### 10-11
 
-![](\assets\images\image122.jpeg)
+![](..\..\assets\images\image122.jpeg)
 
 Then God sent darkness that lasted for three days. It was so dark that the Egyptians could not leave their houses. But there was light where the Israelites lived.
 
 ##### 10-12
 
-![](\assets\images\image123.jpeg)
+![](..\..\assets\images\image123.jpeg)
 
 Even after these nine plagues, Pharaoh still refused to let the Israelites go free. Since Pharaoh would not listen, God planned to send one last plague. This would change Pharaoh’s mind.
 
