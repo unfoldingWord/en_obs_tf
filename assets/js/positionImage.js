@@ -1,8 +1,6 @@
 "use strict";
 
 var positionImage = function positionImage(imageEl) {
-    console.log("positioning image...")
-    console.log(imageEl);
     var imageDimensions = imageEl.dataset.imageDimensions.split('x');
     var originalWidth = imageDimensions[0];
     var originalHeight = imageDimensions[1];
@@ -22,7 +20,6 @@ var positionImage = function positionImage(imageEl) {
         if (imageRatio > parentRatio) {
             return parentClientSize.height / originalHeight;
         }
-        console.log(parentClientSize.width / originalWidth);
         return parentClientSize.width / originalWidth;
     }();
 
