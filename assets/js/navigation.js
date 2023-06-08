@@ -6,6 +6,7 @@ function addClass(nodeId, className) {
 }
 
 function selectActiveNavigationItem() {
+    console.log(window);
     switch (window.location.pathname) {
         case "/overview.html":
             addClass('introduction-header-nav-item', 'header-nav-item--active');
