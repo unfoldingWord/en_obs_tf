@@ -1,3 +1,37 @@
 ---
 ---
 @import "main";
+
+.container {
+    display: flex;
+  }
+  
+  .content {
+    flex-grow: 1;
+  }
+  
+  .section {
+    margin-top: 100px;
+    padding: 20px;
+  }
+  
+  .navigation-panel {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 200px;
+    background-color: #fbfbfb;
+    padding: 10px;
+  }
+  
+  .navigation-panel a {
+    display: block;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: #f48847;
+    font-family: Kepler Std;
+    font-size: 20px;
+    text-align: center;
+  }
+  
