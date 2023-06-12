@@ -17,12 +17,12 @@
 
 .navigation-panel {
   position: fixed;
-  top: 0;
+  top: 200px;
   right: 0;
-  bottom: 450px;
+  bottom: 260px;
   width: 200px;
-  background-color: #fbfbfb;
-  padding: 10px;
+  background-color: #E9CEB0;
+  padding: 20px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
@@ -30,7 +30,7 @@
   display: block;
   margin-bottom: 10px;
   text-decoration: none;
-  color: #f48847;
+  color: #000000;
   font-family: Kepler Std;
   font-size: 20px;
   text-align: center;
