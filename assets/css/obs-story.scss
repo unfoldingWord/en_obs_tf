@@ -17,20 +17,21 @@
 
 .navigation-panel {
   position: fixed;
-  top: 200px;
+  top: 50px;
   right: 0;
-  bottom: 260px;
+  bottom: 200px;
   width: 200px;
-  background-color: #E9CEB0;
+  background-color: #ffffff;
   padding: 20px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
 }
 
 .navigation-panel a {
   display: block;
   margin-bottom: 10px;
   text-decoration: none;
-  color: #000000;
+  color: #F48847;
   font-family: Kepler Std;
   font-size: 20px;
   text-align: center;
