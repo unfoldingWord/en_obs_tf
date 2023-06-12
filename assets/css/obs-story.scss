@@ -6,8 +6,9 @@
     display: flex;
   }
   
-.content {
-  flex-grow: 1;
+.fe-content-wrapper {
+    padding-left: 200px;
+    padding-right: 400px;
 }
 
 .section {
@@ -18,7 +19,7 @@
 .navigation-panel {
   position: fixed;
   top: 50px;
-  right: 0;
+  right: 100px;
   bottom: 300px;
   width: 200px;
   background-color: #ffffff;
