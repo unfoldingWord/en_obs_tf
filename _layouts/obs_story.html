@@ -1,27 +1,35 @@
+
 <!doctype html>
 <html>
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="../../assets/css/obs-story.css">
-    
-    <style>
-    
-    @media screen and (max-width: 767px ) {
-    .page-section:not(.full-bleed-section)>.content-wrapper {
-        padding-right:6vw;
-        padding-left: 6vw;
-        box-sizing: border-box;
-      }
 
-    </style>
+    <style>
+      header {
+      background-color: #f2f2f2;
+      background-size: cover;
+      background-position: center;
+      height: 400px;
+      text-align: center;
+      border-bottom: 5px solid #E9CEB0;
+    }
+
+    header img {
+      width: 100%;
+      height: 400px;
+    }
+
+  </style>
     
     <title>{{ page.subtitle }}</title>
+    
   </head>
   <body>
+    <header>
+      <img src="../../assets/images/obsheader.png" alt="Header Image">
+    </header>
     <div class="fe-content-wrapper">
-      <div>
-        <a href="../../obs.html">OBS Story Index</a>
-      </div>
       <h2><b>Downloads:</b></h2>
       <a href="../../exports/docx/obs_story_{{page.story_num}}.docx" download="obs_story_{{page.story_num}}.docx">obs_story_{{page.story_num}}.docx</a>
       <a href="../../exports/epub/obs_story_{{page.story_num}}.epub" download="obs_story_{{page.story_num}}.epub">obs_story_{{page.story_num}}.epub</a>
@@ -44,5 +52,6 @@
         <a href="#m5">Movement 5</a>
       </div>
     </div>
+
   </body>
 </html>
