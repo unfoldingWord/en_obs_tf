@@ -4,6 +4,7 @@
 
 .container {
     display: flex;
+    width: 960px;
   }
   
 .fe-content-wrapper {
@@ -38,4 +39,27 @@
   font-size: 20px;
   text-align: center;
 }
-  
+body {
+  font-size: 16px;
+}
+
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+
+  .container {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 12px;
+  }
+
+  .container {
+    width: 100%;
+
+  }
+}
