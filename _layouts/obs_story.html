@@ -3,32 +3,34 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="../../assets/css/obs-story.css">
-
-    <style>
-      header {
-      background-color: #f2f2f2;
-      background-size: cover;
-      background-position: center;
-      height: 400px;
-      text-align: center;
-      border-bottom: 5px solid #E9CEB0;
-    }
-
-    header img {
-      width: 100%;
-      height: 400px;
-    }
-
-  </style>
-    
     <title>{{ page.subtitle }}</title>
-    
   </head>
   <body>
+
     <header>
       <img src="../../assets/images/obsheader.png" alt="Header Image">
     </header>
+    
+    <input type="checkbox" id="hamburger-input" class="burger-shower" />
+
+    <label id="hamburger-menu" for="hamburger-input">
+      <nav id="sidebar-menu" class="mobile-navigation-panel">
+        <a href="../../overview.html">Introduction</a>
+        <a href="../../mission-translation-brief.html">Mission Translation Brief</a>
+        <a href="../../obs.html">OBS Story Index</a>
+        <a href="#m1">Movement 1</a>
+        <a href="#m2">Movement 2</a>
+        <a href="#m3">Movement 3</a>
+        <a href="#m4">Movement 4</a>
+        <a href="#m5">Movement 5</a>
+      </nav>
+    </label>
+    
+    <div class="overlay"></div>
+
     <div class="fe-content-wrapper">
       <h2><b>Downloads:</b></h2>
       <a href="../../exports/docx/obs_story_{{page.story_num}}.docx" download="obs_story_{{page.story_num}}.docx">obs_story_{{page.story_num}}.docx</a>
@@ -39,7 +41,8 @@
       {{ content }}
     
     </div> 
-    <div class="container">
+
+    <div id="main-sidebar" class="container">
       <div class="navigation-panel">
           <center><img src="../../assets/images/obssb.png" alt="Sidebar Image"></center>
         <a href="../../overview.html">Introduction</a>

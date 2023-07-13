@@ -3,15 +3,9 @@
 @import "main";
 
 .container {
-    display: flex;
-  }
-  
-.fe-content-wrapper {
-  padding-top: 20px;
-  padding-left: 200px;
-  padding-right: 400px;
+  display: flex;
 }
-
+  
 .section {
   margin-top: 100px;
   padding: 20px;
@@ -29,7 +23,8 @@
   border-radius: 10px;
 }
 
-.navigation-panel a {
+.navigation-panel a, 
+.mobile-navigation-panel a {
   display: block;
   margin-bottom: 10px;
   text-decoration: none;
@@ -38,7 +33,125 @@
   font-size: 20px;
   text-align: center;
 }
-.body {
-  font-size: 16px;
+
+.mobile-navigation-panel {
+  background-color: #ffffff;
+  padding: 20px;
+  /*
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  */
 }
 
+header {
+  background-color: #f2f2f2;
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  text-align: center;
+  border-bottom: 5px solid #E9CEB0;
+}
+
+header img {
+  object-fit: cover;
+  height: 400px;
+  width: 100%;
+}
+
+#obs-header-background {
+  object-fit: cover;
+  height: 400px;
+  width: 100%;
+}
+
+.fe-content-wrapper img {
+  width: 100%;
+}
+
+#hamburger-input{
+  display: none;
+}
+
+.overlay{
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity .35s, visibility .35s, height .35s;
+  overflow: hidden;
+  background: black;
+  z-index: -1;
+}
+
+@media screen and (min-width: 801px) {
+  .fe-content-wrapper {
+    padding-top: 20px;
+    padding-left: 200px;
+    padding-right: 400px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  #main-sidebar{
+    display: none;
+  }
+}
+
+#hamburger-menu {
+    position: fixed;
+    top: 30px;
+    right: 20px;
+    width: 50px;
+    height: 15px;
+    display: none;
+    border: none;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Cabin', Sans-serif;
+    background: linear-gradient(
+      to bottom, 
+      #7f7f7fe8, #7F7F7Fe8 15%, 
+      rgba(255, 255, 255, 0) 15%, rgba(255, 255, 255, 0) 85%, 
+      #7f7f7fe8 85%, #7f7f7fe8 100%
+    );
+}
+
+#hamburger-menu #sidebar-menu {
+    visibility: hidden;
+    position: fixed;
+    top: 0;
+    right: -250px;
+    width: 200px;
+    height: 100%;
+    background-color: #ffffff;
+    transition: 0.3s;
+    padding: 0px 10px;
+    box-sizing: border-box;
+}
+
+#hamburger-menu h3 {
+  color: #B9FAF8;
+  font-size: 2.2rem;
+}
+
+#hamburger-menu a:hover {
+  text-decoration: underline;
+}
+
+#hamburger-input:checked + #hamburger-menu #sidebar-menu {
+    visibility: visible;
+    right: 0;
+}
+#hamburger-input:checked ~ .overlay{
+  visibility: visible;
+  opacity: 0.4;
+}
+
+@media screen and (max-width: 800px) {
+  #hamburger-menu {
+    display: inline;
+  }
+}
